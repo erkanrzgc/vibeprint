@@ -1,0 +1,29 @@
+{
+  "hostname": "petcare-tracker.lovable.app",
+  "title": "PetCare Tracker",
+  "generatorMeta": null,
+  "faviconHref": "/favicon.ico",
+  "scriptSrcs": [
+    "https://cdn.gpteng.co/gptengineer.js",
+    "/assets/index-a1b2c3.js"
+  ],
+  "htmlDatasetKeys": [],
+  "bodyDatasetKeys": [],
+  "componentDatasetKeys": [
+    "slot",
+    "state"
+  ],
+  "builderMarkupHints": [],
+  "badgeLinks": [
+    {
+      "href": "https://lovable.dev",
+      "text": "Edit with Lovable"
+    }
+  ],
+  "imageSrcs": [
+    "/lovable-uploads/8f3c2b1a-4d5e-4f6a-9b8c-1234567890ab.png",
+    "/lovable-uploads/3a2b1c0d-5e6f-4a3b-8c9d-0987654321fe.png"
+  ],
+  "fontFamilySample": "Inter, sans-serif",
+  "bodyTextSample": "Track your pet's health, appointments, and medications all in one place. Get started for free today."
+}

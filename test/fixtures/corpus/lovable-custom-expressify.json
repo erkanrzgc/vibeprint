@@ -1,0 +1,130 @@
+{
+  "url": "https://www.expressify.ai",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Listed on madewithlovable.com showcase; custom domain.",
+  "capturedAt": "2026-07-21T17:27:27.781Z",
+  "snapshot": {
+    "hostname": "www.expressify.ai",
+    "title": "Expressify - AI Assistant for Small Business | 24/7 Customer Support",
+    "generatorMeta": null,
+    "faviconHref": "/fav.png",
+    "scriptSrcs": [
+      "/assets/index-C4z6JoYb.js",
+      "https://js.stripe.com/basil/stripe.js",
+      "https://api.expressify.ai/js/socket.io.js",
+      "https://replit.com/public/js/replit-dev-banner.js",
+      "https://api.expressify.ai/js/chatbot-widget.js?t=1784654845292"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://www.expressify.ai/",
+        "text": "expressify.ai"
+      },
+      {
+        "href": "https://www.expressify.ai/live-chat-with-ai",
+        "text": "Live Chat AI"
+      },
+      {
+        "href": "https://www.expressify.ai/voice-based-ai-assistant",
+        "text": "Voice AI"
+      },
+      {
+        "href": "https://www.expressify.ai/ai-email-organizer",
+        "text": "Email AI"
+      },
+      {
+        "href": "https://www.expressify.ai/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://www.expressify.ai/#pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://www.expressify.ai/website-traffic-check",
+        "text": "Free Audit"
+      },
+      {
+        "href": "https://www.expressify.ai/login",
+        "text": "Log in"
+      },
+      {
+        "href": "https://expressify.ai/registration",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://expressify.ai/registration",
+        "text": "Get Started Now"
+      },
+      {
+        "href": "https://www.expressify.ai/live-chat-with-ai",
+        "text": "Live Chat AI"
+      },
+      {
+        "href": "https://www.expressify.ai/voice-based-ai-assistant",
+        "text": "Voice AI Assistant"
+      },
+      {
+        "href": "https://www.expressify.ai/ai-email-organizer",
+        "text": "Email AI Assistant"
+      },
+      {
+        "href": "https://www.expressify.ai/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://www.expressify.ai/#pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://www.expressify.ai/website-traffic-check",
+        "text": "Free Website Audit"
+      },
+      {
+        "href": "https://www.expressify.ai/#testimonials",
+        "text": "Testimonials"
+      },
+      {
+        "href": "https://www.expressify.ai/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://www.expressify.ai/status",
+        "text": "System Status"
+      },
+      {
+        "href": "https://www.expressify.ai/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://www.expressify.ai/terms",
+        "text": "Terms of Service"
+      },
+      {
+        "href": "https://www.expressify.ai/cookie",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "https://www.expressify.ai/#",
+        "text": "null"
+      },
+      {
+        "href": "https://expressify.ai/",
+        "text": "expressify.ai"
+      }
+    ],
+    "imageSrcs": [
+      "/assets/abstract_dark_purple_futuristic_waves-DflmPl0c.png"
+    ],
+    "fontFamilySample": "Geist, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "(function () { var path = (location.pathname || \"/\").replace(/\\/$/, \"\") || \"/\"; var darkLanding = path === \"/ai-email-organizer\" || path === \"/ai-email-assistant\" || path === \"/live-chat-with-ai\" || path === \"/voice-based-ai-assistant\" || path === \"/voice-assistant\" || path === \"/website-traffic-check\" || path === \"/free-audit\"; if (path === \"/website-traffic-check\" || path === \"/free-audit\") { if (\"scrollRestoration\" in history) history.scrollRestoration = \"manual\"; window.scrollTo(0, 0); document.documentElement.scrollTop = 0; document.body.scrollTop = 0; } if (!darkLanding) return; var bg = path === \"/live-chat-with-ai\" ? \"#09090b\" : \"#050505\"; document.documentElement.classList.add(\"dark\", \"dark-landing-preload\"); document.documentElement.style.backgroundColor = bg; document.body.style.backgroundColor = bg; })(); expressify.aiLive Chat AIVoice AIEmail AIFeaturesPricingFree AuditLog inGet StartedStop Losing Customers to Slow Response TimesExpressify AI responds to every customer inquiry in under 10 seconds so you never lose another customer to a faster competitor.Get Started Now Setup in 10 minutesNo technical skills neededCancel anytimeEexpressify.aiTypically replies instantlyDo you offer emergency repairs?Type a message...Real Customer Questions. Handled Instantly.Scroll down to see how AI handles real customer questionsKeep scrollingBuilt to Handle Customer Questions InstantlyYour AI responds to customer inquiries 24/7 so you never miss a lead.10-Minute SetupNo technical skills required. Upload your business info, and your AI assistant is ready instantly.24/7 AvailabilityNever miss a customer again. Your AI works around the clock, handling inquiries while you sleep.Easy IntegrationWorks with your existing website and email. Get up and running in minutes with no technical setup required.Learn & ImproveGets smarter with every conversation. Learns your business language and improves responses.Human HandoffComplex questions? Your AI knows when to escalate to you w"
+  }
+}

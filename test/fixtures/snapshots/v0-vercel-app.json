@@ -1,0 +1,23 @@
+{
+  "hostname": "task-flow-app.vercel.app",
+  "title": "TaskFlow",
+  "generatorMeta": null,
+  "faviconHref": "/favicon.ico",
+  "scriptSrcs": [
+    "/_next/static/chunks/main-app.js"
+  ],
+  "htmlDatasetKeys": [],
+  "bodyDatasetKeys": [],
+  "componentDatasetKeys": [
+    "slot",
+    "state",
+    "orientation"
+  ],
+  "builderMarkupHints": [],
+  "badgeLinks": [],
+  "imageSrcs": [
+    "/_next/image?url=%2Favatar-placeholder.png"
+  ],
+  "fontFamilySample": "Geist, sans-serif",
+  "bodyTextSample": "Organize your tasks and supercharge your productivity with our seamless workflow."
+}

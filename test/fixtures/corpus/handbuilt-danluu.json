@@ -1,0 +1,225 @@
+{
+  "url": "https://danluu.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Famously minimal hand-authored personal blog.",
+  "capturedAt": "2026-07-21T17:27:37.245Z",
+  "snapshot": {
+    "hostname": "danluu.com",
+    "title": "",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "https://static.cloudflareinsights.com/beacon.min.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://danluu.com/#pt",
+        "text": "Patreon posts"
+      },
+      {
+        "href": "https://danluu.com/ballmer/",
+        "text": "Steve Ballmer was an underrated CEO"
+      },
+      {
+        "href": "https://danluu.com/codenames/",
+        "text": "How good can you be at Codenames without knowing any words?"
+      },
+      {
+        "href": "https://danluu.com/ai-bias/",
+        "text": "A discussion of discussions on AI bias"
+      },
+      {
+        "href": "https://danluu.com/ftc-google-antitrust/",
+        "text": "What the FTC got wrong in the Google antitrust investigation"
+      },
+      {
+        "href": "https://danluu.com/slow-device/",
+        "text": "How web bloat impacts users with slow devices"
+      },
+      {
+        "href": "https://danluu.com/impossible-agree/",
+        "text": "Why it's impossible to agree on what's allowed"
+      },
+      {
+        "href": "https://danluu.com/cruise-report/",
+        "text": "Notes on Cruise's pedestrian accident"
+      },
+      {
+        "href": "https://danluu.com/futurist-predictions/",
+        "text": "Futurist prediction methods and accuracy"
+      },
+      {
+        "href": "https://danluu.com/simple-architectures/",
+        "text": "In defense of simple architectures"
+      },
+      {
+        "href": "https://danluu.com/nothing-works/",
+        "text": "Why is it so hard to buy things that work well?"
+      },
+      {
+        "href": "https://danluu.com/talent/",
+        "text": "Misidentifying talent"
+      },
+      {
+        "href": "https://danluu.com/cache-incidents/",
+        "text": "A decade of major cache incidents at Twitter"
+      },
+      {
+        "href": "https://danluu.com/cocktail-ideas/",
+        "text": "Cocktail party ideas"
+      },
+      {
+        "href": "https://danluu.com/cgroup-throttling/",
+        "text": "The container throttling problem"
+      },
+      {
+        "href": "https://danluu.com/writing-non-advice/",
+        "text": "Some thoughts on writing"
+      },
+      {
+        "href": "https://danluu.com/latency-pitfalls/",
+        "text": "Some latency measurement pitfalls"
+      },
+      {
+        "href": "https://danluu.com/corrections/",
+        "text": "Major errors on this blog (and their corrections)"
+      },
+      {
+        "href": "https://danluu.com/people-matter/",
+        "text": "Individuals matter"
+      },
+      {
+        "href": "https://danluu.com/culture/",
+        "text": "Culture matters"
+      },
+      {
+        "href": "https://danluu.com/look-stupid/",
+        "text": "Willingness to look stupid"
+      },
+      {
+        "href": "https://danluu.com/learn-what/",
+        "text": "What to learn"
+      },
+      {
+        "href": "https://danluu.com/productivity-velocity/",
+        "text": "Some reasons to work on productivity and velocity"
+      },
+      {
+        "href": "https://danluu.com/in-house/",
+        "text": "The value of in-house expertise"
+      },
+      {
+        "href": "https://danluu.com/why-benchmark/",
+        "text": "Measurement, benchmarking, and data analysis are underrated"
+      },
+      {
+        "href": "https://danluu.com/essential-complexity/",
+        "text": "Against essential and accidental complexity"
+      },
+      {
+        "href": "https://danluu.com/car-safety/",
+        "text": "How do cars do in out-of-sample crash testing?"
+      },
+      {
+        "href": "https://danluu.com/tracing-analytics/",
+        "text": "A simple way to get more value from tracing"
+      },
+      {
+        "href": "https://danluu.com/metrics-analytics/",
+        "text": "A simple way to get more value from metrics"
+      },
+      {
+        "href": "https://danluu.com/corp-eng-blogs/",
+        "text": "How (some) good corporate engineering blogs are written"
+      },
+      {
+        "href": "https://danluu.com/cli-complexity/",
+        "text": "The growth of command line options, 1979-Present"
+      },
+      {
+        "href": "https://danluu.com/discontinuities/",
+        "text": "Suspicious discontinuities"
+      },
+      {
+        "href": "https://danluu.com/p95-skill/",
+        "text": "95%-ile isn't that good"
+      },
+      {
+        "href": "https://danluu.com/algorithms-interviews/",
+        "text": "Algorithms interviews: theory vs. practice"
+      },
+      {
+        "href": "https://danluu.com/deconstruct-files/",
+        "text": "Files are fraught with peril"
+      },
+      {
+        "href": "https://danluu.com/overwatch-gender/",
+        "text": "Randomized trial on gender in Overwatch"
+      },
+      {
+        "href": "https://danluu.com/input-lag/",
+        "text": "Computer latency: 1977-2017"
+      },
+      {
+        "href": "https://danluu.com/android-updates/",
+        "text": "How out of date are Android devices?"
+      },
+      {
+        "href": "https://danluu.com/ui-compatibility/",
+        "text": "UI backwards compatibility"
+      },
+      {
+        "href": "https://danluu.com/filesystem-errors/",
+        "text": "Filesystem error handling"
+      },
+      {
+        "href": "https://danluu.com/keyboard-latency/",
+        "text": "Keyboard latency"
+      },
+      {
+        "href": "https://danluu.com/branch-prediction/",
+        "text": "Branch prediction"
+      },
+      {
+        "href": "https://danluu.com/sattolo/",
+        "text": "Sattolo's algorithm"
+      },
+      {
+        "href": "https://danluu.com/term-latency/",
+        "text": "Terminal latency"
+      },
+      {
+        "href": "https://danluu.com/startup-options/",
+        "text": "Startup options v. cash"
+      },
+      {
+        "href": "https://danluu.com/web-bloat/",
+        "text": "How web bloat impacts users with slow connections"
+      },
+      {
+        "href": "https://danluu.com/hn-comments/",
+        "text": "HN: the good parts"
+      },
+      {
+        "href": "https://danluu.com/programming-books/",
+        "text": "Programming book recommendations and anti-recommendations"
+      },
+      {
+        "href": "https://danluu.com/hiring-lemons/",
+        "text": "Hiring and the market for lemons"
+      },
+      {
+        "href": "https://danluu.com/sounds-easy/",
+        "text": "I could do that in a weekend!"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "\"Times New Roman\"",
+    "bodyTextSample": "xx/xxPatreon posts07/26Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island10/24Steve Ballmer was an underrated CEO08/24How good can you be at Codenames without knowing any words?06/24A discussion of discussions on AI bias05/24What the FTC got wrong in the Google antitrust investigation03/24How web bloat impacts users with slow devices02/24Diseconomies of scale in fraud, spam, support, and moderation02/24Why it's impossible to agree on what's allowed01/24Notes on Cruise's pedestrian accident01/24Why do people post on [bad platform] instead of [good platform]?12/23How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT09/22Futurist prediction methods and accuracy04/22In defense of simple architectures03/22Why is it so hard to buy things that work well?02/22Misidentifying talent02/22A decade of major cache incidents at Twitter02/22Cocktail party ideas12/21The container throttling problem12/21Some thoughts on writing12/21Some latency measurement pitfalls11/21Major errors on this blog (and their corrections)11/21Individuals matter11/21Culture matters10/21Willingness to look stupid10/21What to learn10/21Some reasons to work on productivity and velocity09/21The value of in-house expertise08/21Measurement, benchmarking, and data analysis are underrated12/20Against essential and accidental complexity06/20How do cars do in out-of-sample crash testing?05/20A simple way to get more value from tracing05/20A simple way to get more value from metrics03/20How (some) good corporate engineering blogs are written03/20The growth of command line options, 1979-Present02/20Suspicious discontinuities02/2095%-ile isn't that good01/20Algorithms interviews: theory vs. practice07/19Files are fraught with peril02/19Randomized trial on gender in Overwatch12/17Computer latency: 1977-201711/17How good are decisions? Evaluating decision quality in domains where evaluation is easy11/17How out of date are Android devices"
+  }
+}

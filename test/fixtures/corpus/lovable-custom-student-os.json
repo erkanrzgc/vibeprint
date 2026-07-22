@@ -1,0 +1,97 @@
+{
+  "url": "https://student-os.net",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Listed on madewithlovable.com showcase; custom domain, client-rendered shell.",
+  "capturedAt": "2026-07-21T17:27:23.084Z",
+  "snapshot": {
+    "hostname": "student-os.net",
+    "title": "StudentOS — Study 3× Faster with AI",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.ico",
+    "scriptSrcs": [
+      "/assets/index-BhJQmg5F.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://student-os.net/",
+        "text": "StudentOS"
+      },
+      {
+        "href": "https://student-os.net/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://student-os.net/#how",
+        "text": "How it works"
+      },
+      {
+        "href": "https://student-os.net/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://student-os.net/auth",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://student-os.net/auth?mode=signup",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://student-os.net/auth?mode=signup",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://student-os.net/#features",
+        "text": "See how it works"
+      },
+      {
+        "href": "https://student-os.net/auth?mode=signup",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://student-os.net/refund",
+        "text": "7-day money-back guarantee"
+      },
+      {
+        "href": "https://student-os.net/auth?mode=signup",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://student-os.net/auth?mode=signup",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://student-os.net/",
+        "text": "StudentOS"
+      },
+      {
+        "href": "https://student-os.net/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://student-os.net/terms",
+        "text": "Terms"
+      },
+      {
+        "href": "https://student-os.net/privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "https://student-os.net/refund",
+        "text": "Refund policy"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "\"Space Grotesk\", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
+    "bodyTextSample": "StudentOSFeaturesHow it worksPricingSign inStart FreeAI study tools for studentsStudy smarter. Not harder.Turn your notes into summaries, quizzes, and full study plans in seconds with AI.Everything you need to understand faster and stay consistent.Start Free See how it worksStudying shouldn't feel this hard.You're doing the work. The system is just broken.Notes are messyScattered across apps, folders, and notebooks you never reopen.You don't know what to focus onEverything feels important, so nothing actually gets learned.Revising takes foreverRe-reading the same pages doesn't make anything stick.StudentOS organizes everything for you.From notes to quizzes to study plans — all in one place.Notes HubKeep every note in one clean, searchable workspace.📘 Biology🧪 Chemistry📐 Math📜 HistoryAI Study PackTurn any note into summaries, flashcards, and quizzes — instantly.FlashcardWhat is photosynthesis?Quick quizA. LightB. WaterC. BothSummaryAI TutorAsk anything. Get clear, simple answers in plain language.Explain mitosis simplyIt's how one cell splits into two identical copies — like a perfect clone.Study PlannerA daily plan tailored to your exams and free time.MTWTFSSBioMathHistChemRevTest YourselfReal exam practice with feedback on what to study next.Quiz · Biology7Cell structureMitosis stagesPhotosynthesisScore67%Built to help you actually learn.Five tools that work together. No more switching between apps.Notes HubKeep all your notes clean, organized, and easy to use.AI Study PackInstantly turn notes into summaries, flashcards, and quizzes.AI TutorUnderstand difficult topics in simple terms.Study PlannerKnow exactly what to study every day.Test YourselfPractice like a real exam and track your progress.Personalized to youPick your method — active recall, spaced repetition, Feynman. AI adapts.Simple. Fast. Effective.01Upload your notesDrop in PDFs, photos, recordings, or typed notes.02Generate study toolsGet summaries, flashcards, quizzes, and a plan in seconds.03Study "
+  }
+}

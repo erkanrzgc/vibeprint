@@ -1,0 +1,52 @@
+{
+  "url": "https://gradloom.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Listed on madewithlovable.com showcase; custom domain, client-rendered shell.",
+  "capturedAt": "2026-07-21T17:27:10.625Z",
+  "snapshot": {
+    "hostname": "gradloom.app",
+    "title": "GradLoom — AI Career Advisor for Graduates",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.ico",
+    "scriptSrcs": [
+      "/assets/index-BcX5Yp4b.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://gradloom.app/",
+        "text": "GradLoomCAREER ADVISOR"
+      },
+      {
+        "href": "https://gradloom.app/about",
+        "text": "About"
+      },
+      {
+        "href": "https://gradloom.app/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://gradloom.app/terms",
+        "text": "Terms"
+      },
+      {
+        "href": "https://gradloom.app/contact",
+        "text": "Contact"
+      }
+    ],
+    "imageSrcs": [
+      "/assets/gradloom-logo-CJxxy5oY.png",
+      "/assets/gradloom-logo-CJxxy5oY.png",
+      "/assets/gradloom-logo-CJxxy5oY.png"
+    ],
+    "fontFamilySample": "\"DM Sans\", system-ui, sans-serif",
+    "bodyTextSample": "GradLoomCAREER ADVISORSaved Career Roadmaps🇬🇧ENSign InAI-Powered Career IntelligenceYour Career Platform for students & graduatesGradLoom analyzes your degree, skills, interests, and country to generate personalized career paths — with salary insights, demand signals, and step-by-step roadmaps.Start Your Career JourneySee How It WorksBuilt for students & graduatesCountry-aware guidancePrivate & free to startBuild your career profileTell us about your background and we'll match you with the best career paths.DegreeSearch or select your degree...SkillsSelect your degree to receive personalized skill suggestions.InterestsSelect your degree to receive personalized interest suggestions.Country🌍 Select a CountryShow My Career PathCareer recommendations in secondsHow it worksThree steps to your roadmap01Choose your degreePick from our library or add a custom field of study.02Select your skills and interestsTell us what you're good at and what excites you.03Receive your AI roadmapGet matched careers, salary insights and next steps.Why GradLoomBuilt for confident career decisionsAI Career MatchingPersonalized paths ranked by fit, not by keywords.Skill Gap AnalysisSee exactly what to learn to land each role.Salary InsightsRealistic local salary ranges by experience level.Downloadable PDFTake your full roadmap anywhere as a clean PDF.Localized Career IntelligenceRecommendations tuned to your country's job market.Live Job OpportunitiesOne-click search on the top job boards in your region.GradLoomAboutPrivacy PolicyTermsContact© 2026 GradLoom · Europe 🇪🇺"
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "lovable-sub-archive-shop",
+    "url": "https://archive-shop-store.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: hosted on *.lovable.app, cannot exist without Lovable having built it."
+  },
+  {
+    "slug": "lovable-sub-liquid-log-glow",
+    "url": "https://liquid-log-glow.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: hosted on *.lovable.app."
+  },
+  {
+    "slug": "lovable-custom-checkon",
+    "url": "https://checkon.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain, badge presumably removed."
+  },
+  {
+    "slug": "lovable-custom-consile",
+    "url": "https://consile.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain."
+  },
+  {
+    "slug": "lovable-custom-gradloom",
+    "url": "https://gradloom.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain, client-rendered shell."
+  },
+  {
+    "slug": "lovable-custom-kraflio",
+    "url": "https://kraflio.com",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain."
+  },
+  {
+    "slug": "lovable-custom-pixelco",
+    "url": "https://pixelco.io",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain, client-rendered shell."
+  },
+  {
+    "slug": "lovable-custom-shepi",
+    "url": "https://shepi.ai",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain."
+  },
+  {
+    "slug": "lovable-custom-student-os",
+    "url": "https://student-os.net",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain, client-rendered shell."
+  },
+  {
+    "slug": "lovable-custom-expressify",
+    "url": "https://www.expressify.ai",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "Listed on madewithlovable.com showcase; custom domain."
+  },
+  {
+    "slug": "framer-own-site",
+    "url": "https://framer.com",
+    "label": "ai-built",
+    "builder": "framer",
+    "difficulty": "easy",
+    "note": "Confirmed via <meta name=generator content='Framer ...'> and 3000+ data-framer-* attributes."
+  },
+  {
+    "slug": "handbuilt-hacker-news",
+    "url": "https://news.ycombinator.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Predates all AI builders by ~18 years; hand-written Arc/table markup."
+  },
+  {
+    "slug": "handbuilt-danluu",
+    "url": "https://danluu.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Famously minimal hand-authored personal blog."
+  },
+  {
+    "slug": "handbuilt-gnu",
+    "url": "https://www.gnu.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Decades-old hand-maintained site."
+  },
+  {
+    "slug": "handbuilt-python-org",
+    "url": "https://www.python.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Long-standing hand-built Django site."
+  },
+  {
+    "slug": "handbuilt-mdn",
+    "url": "https://developer.mozilla.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Mozilla-maintained, open-source codebase with long git history."
+  },
+  {
+    "slug": "handbuilt-wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Main_Page",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "MediaWiki, hand-built, predates AI builders."
+  },
+  {
+    "slug": "handbuilt-shadcn-ui-docs",
+    "url": "https://ui.shadcn.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD NEGATIVE: the shadcn/ui docs themselves. Maximum data-slot/Radix density but hand-authored - must not be called likely-ai-built."
+  },
+  {
+    "slug": "handbuilt-tailwindcss",
+    "url": "https://tailwindcss.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD NEGATIVE: modern hand-built Next.js + Tailwind marketing site with heavy utility classes."
+  },
+  {
+    "slug": "handbuilt-nextjs",
+    "url": "https://nextjs.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD NEGATIVE: hand-built by Vercel, Next.js + likely Geist font + vercel infra."
+  },
+  {
+    "slug": "handbuilt-stripe",
+    "url": "https://stripe.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD NEGATIVE: polished SaaS marketing site with heavy buzzword-style copy - tests copy heuristics."
+  },
+  {
+    "slug": "handbuilt-linear",
+    "url": "https://linear.app",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD NEGATIVE: modern dark SaaS site, Inter-like typography, gradient hero aesthetic."
+  }
+]

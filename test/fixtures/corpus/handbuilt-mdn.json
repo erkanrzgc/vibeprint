@@ -1,0 +1,233 @@
+{
+  "url": "https://developer.mozilla.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Mozilla-maintained, open-source codebase with long git history.",
+  "capturedAt": "2026-07-21T17:28:04.499Z",
+  "snapshot": {
+    "hostname": "developer.mozilla.org",
+    "title": "MDN Web Docs",
+    "generatorMeta": null,
+    "faviconHref": "https://developer.mozilla.org/favicon.ico",
+    "scriptSrcs": [
+      "/static/client/runtime.d6fae061f2ed14d5.js",
+      "/static/client/5909.489e266d049aa182.js",
+      "/static/client/4585.458a2b03d77c78d5.js",
+      "/static/client/index.d0d64ce5320189f6.js"
+    ],
+    "htmlDatasetKeys": [
+      "theme",
+      "renderer"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://developer.mozilla.org/en-US/#content",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/#search",
+        "text": "Skip to search"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/",
+        "text": "MDN"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "text": "HTML: Markup language"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements",
+        "text": "Elements"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes",
+        "text": "Global attributes"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes",
+        "text": "Attributes"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images",
+        "text": "Responsive images"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet",
+        "text": "HTML cheatsheet"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Date_and_time_formats",
+        "text": "Date & time formats"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/SVG",
+        "text": "SVG"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/MathML",
+        "text": "MathML"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/XML",
+        "text": "XML"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "text": "CSS: Styling language"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties",
+        "text": "Properties"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors",
+        "text": "Selectors"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules",
+        "text": "At-rules"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values",
+        "text": "Values"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Box_model/Introduction",
+        "text": "Box model"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Animations/Using",
+        "text": "Animations"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts",
+        "text": "Flexbox"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Applying_color",
+        "text": "Colors"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/How_to/Layout_cookbook/Column_layouts",
+        "text": "Column layouts"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/How_to/Layout_cookbook/Center_an_element",
+        "text": "Centering an element"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/How_to/Layout_cookbook/Card",
+        "text": "Card component"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/How_to/Layout_cookbook",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "text": "JavaScript: Scripting language"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects",
+        "text": "Standard built-in objects"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators",
+        "text": "Expressions & operators"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements",
+        "text": "Statements & declarations"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions",
+        "text": "Functions"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling",
+        "text": "Control flow & error handing"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration",
+        "text": "Loops and iteration"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects",
+        "text": "Working with objects"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes",
+        "text": "Using classes"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API",
+        "text": "Web APIs: Programming interfaces"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/File_System_API",
+        "text": "File system API"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+        "text": "Fetch API"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API",
+        "text": "Geolocation API"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API",
+        "text": "HTML DOM API"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/Push_API",
+        "text": "Push API"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
+        "text": "Service worker API"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API",
+        "text": "See all…"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API",
+        "text": "Using the Web animation API"
+      }
+    ],
+    "imageSrcs": [
+      "/static/ssr/mdn_contributor.9e2a105f50828d5a.png"
+    ],
+    "fontFamilySample": "Inter, sans-serif",
+    "bodyTextSample": "Skip to main content Skip to search MDN HTML HTML: Markup language HTML reference Elements Global attributes Attributes See all… HTML guides Responsive images HTML cheatsheet Date & time formats See all… Markup languages SVG MathML XML CSS CSS: Styling language CSS reference Properties Selectors At-rules Values See all… CSS guides Box model Animations Flexbox Colors See all… Layout cookbook Column layouts Centering an element Card component See all… JavaScriptJS JavaScript: Scripting language JS reference Standard built-in objects Expressions & operators Statements & declarations Functions See all… JS guides Control flow & error handing Loops and iteration Working with objects Using classes See all… Web APIs Web APIs: Programming interfaces Web API reference File system API Fetch API Geolocation API HTML DOM API Push API Service worker API See all… Web API guides Using the Web animation API Using the Fetch API Working with the History API Using the Web speech API Using web workers All All web technology Technologies Accessibility HTTP URI Web extensions WebAssembly WebDriver See all… Topics Media Performance Privacy Security Progressive web apps Learn Learn web development Frontend developer course Getting started modules Core modules MDN Curriculum Check out the video course from Scrimba, our partner Learn HTML Structuring content with HTML module Learn CSS CSS styling basics module CSS layout module Learn JavaScript Dynamic scripting with JavaScript module Tools Discover our tools Playground HTTP Observatory Border-image generator Border-radius generator Box-shadow generator Color format converter Color mixer Shape generator About Get to know MDN better About MDN Advertise with us Community MDN on GitHub Blog MDN Resources for Developers, by Developers Documenting CSS, HTML, and JavaScript, since 2005. Mandala / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / "
+  }
+}

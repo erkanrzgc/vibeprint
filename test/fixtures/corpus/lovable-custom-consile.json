@@ -1,0 +1,282 @@
+{
+  "url": "https://consile.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Listed on madewithlovable.com showcase; custom domain.",
+  "capturedAt": "2026-07-21T17:27:07.199Z",
+  "snapshot": {
+    "hostname": "consile.app",
+    "title": "Consile – Team Operations, Leave, Attendance & HR",
+    "generatorMeta": null,
+    "faviconHref": "https://vsflzpxytrvyvoqxjdwx.supabase.co/storage/v1/object/public/public-assets/branding/favicon_1775674318099.svg",
+    "scriptSrcs": [
+      "/assets/index-CqeWLRcm.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [
+      "motion"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://consile.app/privacy",
+        "text": "Read our privacy policy"
+      },
+      {
+        "href": "https://consile.app/",
+        "text": "ConsileLive"
+      },
+      {
+        "href": "https://consile.app/",
+        "text": "Home"
+      },
+      {
+        "href": "https://consile.app/features",
+        "text": "Features"
+      },
+      {
+        "href": "https://consile.app/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://consile.app/about",
+        "text": "About"
+      },
+      {
+        "href": "https://consile.app/login",
+        "text": "Login"
+      },
+      {
+        "href": "https://calendar.app.google/THGP5Ff4kfXyRqAL6",
+        "text": "Book a Demo"
+      },
+      {
+        "href": "https://consile.app/register",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://consile.app/register",
+        "text": "Start free — no card required"
+      },
+      {
+        "href": "https://calendar.app.google/THGP5Ff4kfXyRqAL6",
+        "text": "Book a Demo"
+      },
+      {
+        "href": "https://consile.app/how-it-works",
+        "text": "See how it works"
+      },
+      {
+        "href": "https://www.g2.com/products/consile",
+        "text": "G2Peer reviews"
+      },
+      {
+        "href": "https://www.capterra.com/p/10049127/Consile/",
+        "text": "CapterraSoftware marketplace"
+      },
+      {
+        "href": "https://www.crunchbase.com/organization/consile",
+        "text": "CrunchbaseCompany profile"
+      },
+      {
+        "href": "https://alternativeto.net/software/consile/",
+        "text": "AlternativeToSoftware directory"
+      },
+      {
+        "href": "https://www.softwareadvice.com.au/software/556682/Consile",
+        "text": "Software AdviceSoftware marketplace"
+      },
+      {
+        "href": "https://krispitech.com/the-hidden-cost-of-fragmented-people-ops-and-how-consile-fixes-it-for-smbs/",
+        "text": "KrispiTechIn the news"
+      },
+      {
+        "href": "https://madewithlovable.com/projects/consile",
+        "text": "Made with LovableBuilt on Lovable"
+      },
+      {
+        "href": "https://www.g2.com/products/consile",
+        "text": "G2Peer reviews"
+      },
+      {
+        "href": "https://www.capterra.com/p/10049127/Consile/",
+        "text": "CapterraSoftware marketplace"
+      },
+      {
+        "href": "https://www.crunchbase.com/organization/consile",
+        "text": "CrunchbaseCompany profile"
+      },
+      {
+        "href": "https://alternativeto.net/software/consile/",
+        "text": "AlternativeToSoftware directory"
+      },
+      {
+        "href": "https://www.softwareadvice.com.au/software/556682/Consile",
+        "text": "Software AdviceSoftware marketplace"
+      },
+      {
+        "href": "https://krispitech.com/the-hidden-cost-of-fragmented-people-ops-and-how-consile-fixes-it-for-smbs/",
+        "text": "KrispiTechIn the news"
+      },
+      {
+        "href": "https://madewithlovable.com/projects/consile",
+        "text": "Made with LovableBuilt on Lovable"
+      },
+      {
+        "href": "https://www.g2.com/products/consile",
+        "text": "G2Peer reviews"
+      },
+      {
+        "href": "https://www.capterra.com/p/10049127/Consile/",
+        "text": "CapterraSoftware marketplace"
+      },
+      {
+        "href": "https://www.crunchbase.com/organization/consile",
+        "text": "CrunchbaseCompany profile"
+      },
+      {
+        "href": "https://alternativeto.net/software/consile/",
+        "text": "AlternativeToSoftware directory"
+      },
+      {
+        "href": "https://www.softwareadvice.com.au/software/556682/Consile",
+        "text": "Software AdviceSoftware marketplace"
+      },
+      {
+        "href": "https://krispitech.com/the-hidden-cost-of-fragmented-people-ops-and-how-consile-fixes-it-for-smbs/",
+        "text": "KrispiTechIn the news"
+      },
+      {
+        "href": "https://madewithlovable.com/projects/consile",
+        "text": "Made with LovableBuilt on Lovable"
+      },
+      {
+        "href": "https://www.g2.com/products/consile",
+        "text": "G2Peer reviews"
+      },
+      {
+        "href": "https://www.capterra.com/p/10049127/Consile/",
+        "text": "CapterraSoftware marketplace"
+      },
+      {
+        "href": "https://www.crunchbase.com/organization/consile",
+        "text": "CrunchbaseCompany profile"
+      },
+      {
+        "href": "https://alternativeto.net/software/consile/",
+        "text": "AlternativeToSoftware directory"
+      },
+      {
+        "href": "https://www.softwareadvice.com.au/software/556682/Consile",
+        "text": "Software AdviceSoftware marketplace"
+      },
+      {
+        "href": "https://krispitech.com/the-hidden-cost-of-fragmented-people-ops-and-how-consile-fixes-it-for-smbs/",
+        "text": "KrispiTechIn the news"
+      },
+      {
+        "href": "https://madewithlovable.com/projects/consile",
+        "text": "Made with LovableBuilt on Lovable"
+      },
+      {
+        "href": "https://consile.app/about",
+        "text": "Why we built ConsileMeet the team and read our story."
+      },
+      {
+        "href": "https://consile.app/trust",
+        "text": "GDPR compliantData handling & residency"
+      },
+      {
+        "href": "https://consile.app/security",
+        "text": "Enterprise-grade securitySSO, SCIM, audit logs"
+      },
+      {
+        "href": "https://consile.app/features",
+        "text": "View all 24 features"
+      },
+      {
+        "href": "https://consile.app/register",
+        "text": "Start free — no card required"
+      },
+      {
+        "href": "https://consile.app/pricing",
+        "text": "View pricing"
+      },
+      {
+        "href": "https://consile.app/features",
+        "text": "Features"
+      },
+      {
+        "href": "https://consile.app/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://consile.app/how-it-works",
+        "text": "How It Works"
+      },
+      {
+        "href": "https://consile.app/ai",
+        "text": "AI in Consile"
+      }
+    ],
+    "imageSrcs": [
+      "https://vsflzpxytrvyvoqxjdwx.supabase.co/storage/v1/object/public/public-assets/branding/logo_1775624848333.png",
+      "/assets/hero-desktop--IiFLG94.png",
+      "/assets/hero-mobile-DpOdViMl.png",
+      "/assets/hero-desktop--IiFLG94.png",
+      "/assets/hero-mobile-DpOdViMl.png",
+      "https://i.ytimg.com/vi/U_CL9LgSNgU/hqdefault.jpg",
+      "https://cdn-b.saashub.com/img/badges/approved-color.png?v=1",
+      "https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1181818&theme=light&t=1783252119381",
+      "https://www.google.com/s2/favicons?domain=g2.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=capterra.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=crunchbase.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=alternativeto.net&sz=128",
+      "https://www.google.com/s2/favicons?domain=softwareadvice.com.au&sz=128",
+      "https://www.google.com/s2/favicons?domain=krispitech.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=lovable.dev&sz=128",
+      "https://startupfa.me/badges/featured-badge.webp",
+      "https://saashunt.best/images/badges/top1-light.svg",
+      "https://saashunt.best/images/badges/top1-dark.svg",
+      "https://peerpush.com/p/consile/badge.png",
+      "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=light&name=Consile%20App",
+      "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=dark&name=Consile%20App",
+      "https://cdn-b.saashub.com/img/badges/approved-color.png?v=1",
+      "https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1181818&theme=light&t=1783252119381",
+      "https://www.google.com/s2/favicons?domain=g2.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=capterra.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=crunchbase.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=alternativeto.net&sz=128",
+      "https://www.google.com/s2/favicons?domain=softwareadvice.com.au&sz=128",
+      "https://www.google.com/s2/favicons?domain=krispitech.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=lovable.dev&sz=128",
+      "https://startupfa.me/badges/featured-badge.webp",
+      "https://saashunt.best/images/badges/top1-light.svg",
+      "https://saashunt.best/images/badges/top1-dark.svg",
+      "https://peerpush.com/p/consile/badge.png",
+      "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=light&name=Consile%20App",
+      "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=dark&name=Consile%20App",
+      "https://cdn-b.saashub.com/img/badges/approved-color.png?v=1",
+      "https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1181818&theme=light&t=1783252119381",
+      "https://www.google.com/s2/favicons?domain=g2.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=capterra.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=crunchbase.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=alternativeto.net&sz=128",
+      "https://www.google.com/s2/favicons?domain=softwareadvice.com.au&sz=128",
+      "https://www.google.com/s2/favicons?domain=krispitech.com&sz=128",
+      "https://www.google.com/s2/favicons?domain=lovable.dev&sz=128",
+      "https://startupfa.me/badges/featured-badge.webp",
+      "https://saashunt.best/images/badges/top1-light.svg",
+      "https://saashunt.best/images/badges/top1-dark.svg",
+      "https://peerpush.com/p/consile/badge.png",
+      "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=light&name=Consile%20App"
+    ],
+    "fontFamilySample": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+    "bodyTextSample": "(function(){ var t=localStorage.getItem(\"theme\"); var isDark=t===\"dark\"||((!t||t===\"auto\")&&window.matchMedia(\"(prefers-color-scheme:dark)\").matches); if(isDark)document.documentElement.classList.add(\"dark\"); })(); Cookie SettingsWe use cookies to keep you signed in, remember preferences, and improve Consile. Read our privacy policyReject AllAccept AllCustomise preferencesConsileLiveHomeFeaturesPricingAboutLoginBook a DemoGet Started One workspace for tasks, people ops, and performanceMost tools only manage projects or only manage people. Consile brings both together — so you can plan work, track attendance, run reviews, and grow your team from a single calm platform.\"Connecting Teams. Empowering Work.\"Start free — no card required Book a Demo See how it works Free forever plan No credit card Setup in 2 minutes Cancel anytimeFor individualsFor teamsFree starter planDesktop + mobileFor individualsFor teamsFree starter planDesktop + mobile Watch the demoSee Consile in two minutesA quick walkthrough of how teams run people, tasks, and reporting inside one workspace.Featured onG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableWhy we built ConsileMeet the team and read our story.GDPR compliantData handling & residencyEnterprise-grade securitySSO, SCIM, audit logs The problemWhy teams st"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "url": "https://stripe.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD NEGATIVE: polished SaaS marketing site with heavy buzzword-style copy - tests copy heuristics.",
+  "capturedAt": "2026-07-21T17:28:20.807Z",
+  "snapshot": {
+    "hostname": "stripe.com",
+    "title": "Online-Bezahldienst und Zahlungsdienstleister | Stripe",
+    "generatorMeta": null,
+    "faviconHref": "https://images.stripeassets.com/fzn2n1nzq965/1hgcBNd12BfT9VLgbId7By/01d91920114b124fb4cf6d448f9f06eb/favicon.svg",
+    "scriptSrcs": [
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/22074.bd02a94640605868.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/49450.ba8bdeacb2ae3f4e.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/11013.867199a8bae50b42.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/99791.a7f741b779b23047.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/58548.f7279c81698668f3.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/60864.f462ab64ab99a6d2.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/62252.4d75c174bc8d5517.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/7205.b1fa6a14487cf1a1.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/59677.1f8203f0ea9d644b.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/29658.230298d5fcee0081.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/29754.0e52ac814c0fc1c1.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/51092.558bf86d4d6d35cc.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/46664.1ff554a69553a4ad.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/8653.b1423805849013a7.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/86874.1bf81dcebedc84df.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/66084.2df5c58fcbb72480.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/93051.1cc9f5f6e52dff0a.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/70191.75cd9e3319850053.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/92661.79b136b3bed60df6.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/45348.1b0618e89613a79b.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/94931.1bdce0f8afabbfa0.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/45914.c8d4fd1c9d7fc56a.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/2509.dafba9f45d1e2743.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/89524.94321cb0d52b0c9e.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/23430.7f3e153d32cde4df.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/70335.fbb2b78b7f1044fc.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/42850.7b2dfe7d5393ba5f.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/71378.e0e51de4a3f51a2d.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/34507.daf674dc3c17483e.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/58519.e50ccbd804d6382f.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/28129.531b2b207b0f159f.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/67680.0040d0ab71e47b8e.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/44936.95aa756b9cc72a36.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/52787.eccb30ccde060ee1.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/32840.8a41675c05e3dee2.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/6532.4d32b412aee8ef5a.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/91200.aa7904454c6295aa.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/40089.7ed3dc90242ea285.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/47218.c3876a24c80868ca.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/89683.eaeff9e7abd26458.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/18798.42db0b9d22a017a7.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/60213.d435805feaffda49.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/webpack-a991daf8b5d658ad.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/framework-bfbcaa5a2903bc7d.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/main-64c21da41e256517.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/pages/_app-de7efc23463540b2.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/3dfade9e-4ca93d92ac876e62.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/c67c952e-7f65a464f661b1d2.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/55369f66-92e84f6aba0a73a8.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/74107-1c2d3128a7a843d6.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/12267-692ae55ed1c1ab04.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/96834-e2df5fdd71a44377.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/61049-7f8a8a50239529ba.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/92049-f0b53131cd66233e.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/63769-f667538a4c226011.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/8542-04671882bfe8d457.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/35034-f83d8449c18ee0f8.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/30365-78f863b9f8f98678.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/12142-a5c1e2ae95f0a4e8.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/1107-fd8421e8dc3ea178.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/38906-be0136a36c26695c.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/94653-66e4637ecb494b75.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/75351-4ab4a65a488bf0bc.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/64103-2820e560311e40f7.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/72661-b2949882bbb9f147.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/53700-60cd97d60a71b905.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/67426-7af12536433fc207.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/95058-dbc1e493a8b8ad39.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/68654-52c3a9f84d37ce99.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/38639-a5134cca6a3e6939.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/31639-28e94882ca6e52cf.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/12673-34cbeacaac5a200a.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/chunks/pages/index-3850cefe77f6f665.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/wajbCKqlqLClPUgSbTjmwtYJXSotP5FxRsQPJdX410s%3D/_buildManifest.js",
+      "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/wajbCKqlqLClPUgSbTjmwtYJXSotP5FxRsQPJdX410s%3D/_ssgManifest.js",
+      "/source-attribution/imt.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://stripe.com/de/pricing",
+        "text": "Preisgestaltung"
+      },
+      {
+        "href": "https://dashboard.stripe.com/login",
+        "text": "Anmelden"
+      },
+      {
+        "href": "https://dashboard.stripe.com/register",
+        "text": "Jetzt starten"
+      },
+      {
+        "href": "https://stripe.com/de/contact/sales",
+        "text": "Sales-Team kontaktieren"
+      },
+      {
+        "href": "https://dashboard.stripe.com/login",
+        "text": "AnmeldenAnmelden"
+      },
+      {
+        "href": "https://stripe.com/de/contact/sales",
+        "text": "Sales-Team kontaktieren"
+      },
+      {
+        "href": "https://dashboard.stripe.com/register",
+        "text": "Jetzt starten"
+      },
+      {
+        "href": "https://dashboard.stripe.com/login/oauth/google/init",
+        "text": "Bei Google anmelden"
+      },
+      {
+        "href": "https://stripe.com/sessions/2026?utm_medium=owned-surfaces&utm_source=9cb9&utm_campaign=GLOBAL_4301&utm_content=8a70&utm_term=5a728d3d167c",
+        "text": "Jetzt ansehen"
+      },
+      {
+        "href": "https://status.stripe.com/",
+        "text": "historische Verfügbarkeit"
+      },
+      {
+        "href": "https://stripe.com/de/enterprise",
+        "text": "Stripe für Unternehmen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/hertz",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/hertz",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/urbn",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/urbn",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/instacart",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/instacart",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/le-monde",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/le-monde",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/professional-services",
+        "text": "Services ansehen"
+      },
+      {
+        "href": "https://stripe.com/de/partners",
+        "text": "Partner anzeigen"
+      },
+      {
+        "href": "https://stripe.com/de/support-plans",
+        "text": "Pläne anzeigen"
+      },
+      {
+        "href": "https://stripe.com/de/startups",
+        "text": "Stripe für Start-ups"
+      },
+      {
+        "href": "https://stripe.com/de/use-cases/platforms",
+        "text": "Stripe für Plattformen"
+      },
+      {
+        "href": "https://stripe.com/de/guides/best-practices-for-launching-and-scaling-platform-payments",
+        "text": "Leitfaden lesen"
+      },
+      {
+        "href": "https://stripe.com/de/guides/introduction-to-monetizing-payments",
+        "text": "Leitfaden lesen"
+      },
+      {
+        "href": "https://stripe.com/de/guides/introduction-to-risk-management",
+        "text": "Leitfaden lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/allo",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/avocadostore",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/free-now",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/apcoa",
+        "text": "Kundenstory lesen"
+      },
+      {
+        "href": "https://docs.stripe.com/development",
+        "text": "Entwicklerdokumentationen ansehen"
+      },
+      {
+        "href": "https://github.com/stripe",
+        "text": "GitHub von Stripe anzeigen"
+      },
+      {
+        "href": "https://docs.stripe.com/no-code",
+        "text": "Entdecken Sie No-Code-Lösungen"
+      },
+      {
+        "href": "https://marketplace.stripe.com/",
+        "text": "Verzeichnis anzeigen"
+      },
+      {
+        "href": "https://docs.stripe.com/development",
+        "text": "Jetzt starten"
+      },
+      {
+        "href": "https://stripe.com/de/annual-updates/2025",
+        "text": "Brief lesen"
+      },
+      {
+        "href": "https://stripe.com/de/newsroom/news/bfcm2025",
+        "text": "Zahlen ansehen"
+      },
+      {
+        "href": "https://stripe.com/de/lp/vertical-saas-benchmark-2025?utm_medium=owned-surfaces&utm_source=33d6&utm_campaign=GLOBAL_4250&utm_content=819a&utm_term=a6a6d7b23e01",
+        "text": "Daten abrufen"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=eMSqlQMk480",
+        "text": "Video ansehen"
+      },
+      {
+        "href": "https://stripe.com/de/use-cases/in-app-payments",
+        "text": "Weitere Informationen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/crypto-com-spotlight",
+        "text": "Ankündigung anzeigen"
+      },
+      {
+        "href": "https://stripe.com/de/blog/introducing-our-agentic-commerce-solutions",
+        "text": "Mehr erfahren"
+      },
+      {
+        "href": "https://stripe.com/de/lp/how-retailers-drive-growth",
+        "text": "Bericht anfordern"
+      },
+      {
+        "href": "https://stripe.com/de/annual-updates/2025",
+        "text": "Brief lesen"
+      },
+      {
+        "href": "https://stripe.com/de/newsroom/news/bfcm2025",
+        "text": "Zahlen ansehen"
+      },
+      {
+        "href": "https://stripe.com/de/lp/vertical-saas-benchmark-2025?utm_medium=owned-surfaces&utm_source=33d6&utm_campaign=GLOBAL_4250&utm_content=819a&utm_term=a6a6d7b23e01",
+        "text": "Daten abrufen"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=eMSqlQMk480",
+        "text": "Video ansehen"
+      },
+      {
+        "href": "https://stripe.com/de/use-cases/in-app-payments",
+        "text": "Weitere Informationen"
+      },
+      {
+        "href": "https://stripe.com/de/customers/crypto-com-spotlight",
+        "text": "Ankündigung anzeigen"
+      }
+    ],
+    "imageSrcs": [
+      "https://images.stripeassets.com/fzn2n1nzq965/115d4Vd5LVAsqFGDR1ClAv/0ceb2c44a7a7182cd624262420af7544/wave-fallback-desktop.png",
+      "https://images.stripeassets.com/fzn2n1nzq965/1Vf8oT9Fm6dEwpnEx5PgK1/055956f38d7fd8b0cc7419692ef29778/bento-terminal.png?w=308&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/6BTjJGdjfGVA8brPwj7p3M/fcf084ff85142366e118fe85ee78b632/payments-electric-kettle.jpg?w=80&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/5Dr3Oc550drIrxyzzXgFbq/f6e4fb0b8b4b40d73e94fdf7c9bc7028/payments-hoodie.jpg?w=80&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1UE1lPgwbfQRH586XfTWKM/f90bfc79f87b3e60a4189cc0f5a03228/showflix-streaming.jpg?w=80&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/6BTjJGdjfGVA8brPwj7p3M/fcf084ff85142366e118fe85ee78b632/payments-electric-kettle.jpg?w=80&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/vYmk6v8n7oDAwbDpwhjV6/846f9b3e214549b8f14e2b8c8cfe9343/payment-bento-background.jpg?w=860&q=80",
+      "https://images.stripeassets.com/fzn2n1nzq965/m9HBEK464p46FeNIhs2PV/f5054a93c8a0a6aabdd1c47675d610ae/wave_crop.jpg?w=296&q=80",
+      "https://images.stripeassets.com/fzn2n1nzq965/78eaknFXeySTtfpQUh4lD2/e2a97240d78e6e239bcfe045d5b21239/particles.png?w=514&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1zneiFjZyS8cGQvki2cGqz/35294f1866720bec6d80fb2532270258/card-placeholder_2x.png?w=447&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/7dwxc06fkzWOmlwBs9GezW/667c1af2d03a023fc61ea4cec995204d/money-movement-fallback_2x.png?w=447&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1j4wM9h2bBsyRFvTv6Wsn0/07f4b9b1e1e17fdc509d9087454dd8bc/ConnectBentoBackground.jpg?w=1242&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/43eqkFV1GG5GqcbNNeEzVp/8f4705b1b80a4c835c2960ed8055d649/ConnectMobileBackground.jpg?w=296&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/2YFdgdFPeIiDpmQbhHPAx8/186752498bf713fea245f31bcec84f8a/sessions-2026-on-demand-bg.png?w=296&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/52qeQQDMQNJ3CmnFPjHbTi/1a3a3acd4f027175a863fafcc29a4d9a/sessions-2026-on-demand-bg-mobile.png?w=368&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/63zO5Z4CABvFl3pLLhnu3l/a9c12c883f820dc29d29fa0b9dcb0814/DatavizStatic3x.png?w=768&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/24BNV3GGtvCprFLrYovyaa/b2eac20a1d5ec75e4bff3888b998d163/enterprise-accordion-hertz.png?w=296&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/37wKFanVluouT2iEZUbD0H/f75e77141e1330ad81ea18c6aea65f0c/enterprise-accordion-urbn.png?w=296&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1v5hJ2NWvKpQfVbMqOzCpE/c900b9ed4c288f7cf0a0dced5f4983f2/enterprise-accordion-instacart.png?w=296&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/5AQ9A87KzwpPy4CD3uPz5C/4afd1a1e9d6e1d698c4c7c74a4868822/enterprise-accordion-lemonde.png?w=296&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1CBkJePR5Cwf2QNIVCia1I/c0a702cec7a3814c69f21f86b89ed718/lovable.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/2QjRFO1cRvocACDtyA7g9e/44245671788d6e086ab7d82b37937450/Gamma.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/6fpvaTP1TZWXKWVMewABjV/4412b9ca2940d89d3834ac65c1fc329d/Runway.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/7fM8bvEbivprOMM1zyow9N/3cad3cc826f96e4038b4ea88d81ebe3b/Supabase.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/4b8Ubw7N2kYwb7QZl3Ogri/422cc19f725aa68e647d90ce2833c8d0/linear.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/JK7aZoMzWA3uUbLb35kxx/dea1444a0aee29751c0c7098ffb33534/Eleven_Labs.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1NiQJZA0rKbwXZ7mD4BCrM/0abdaba77e564f858a33241a9aab0939/browserbase.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1hreJwxuVJ5ucPtuA7pRKH/3c5630387bca898d01ae17fc7ae2890a/decagon.png?w=432&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1DZkp4Ce0kiwj2F2Z0kJ16/fcb4904fd728f49521385059618245b9/card_startups.png?w=585&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/5dQAw5oJf3TOO1Jt6IKDRH/f391594c11f38d821259acdd3412a7a6/platform-graphic-background_2x.png?w=296&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1lk5Hfstc9dnE8xVFz1HeC/0dec8f2dde7f904eade36d8390d81c69/developer-wave-wide_2x.png",
+      "https://images.stripeassets.com/fzn2n1nzq965/yqIFyZRGU5zDwdUsWtUyM/25b9f23c748c4d54079a09016fde59d8/annual-letter-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/6yE6G454SGCJnJgEYsS2MB/70b405a1dce904bc0c6f2698223fb966/the-happenings-bfcm-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/33xcv8eCmXzMzWXicVQ4cF/83d91fa419ff8d1b9466739b4ecdcb1d/the-happenings-tidemark-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/t03tXrgvnHUPGwxYUgSxN/bd8da003434c9e9fb72c719b9edb429b/the-happenings-cheeky-pint-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/Pd2JQ7FZ1pYMIMGDwvMdV/13e7e021ca23d042da8ac07be829f7ef/the-happenings-payment-processing-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/4LaZVLqDqGf9091wqUAmFp/fbe9fc307e1336b69bcd9be4ec5c4752/the-happenings-crypto-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1k7ckFceNFlxqF47hWJUlM/eaa4d8b3f8e4b76ba3dd7df7da88e099/the-happenings-agentic-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/7EVLwfXmG3pl1vhBssMrFB/b6d8612b1f567922c1355d864c279678/the-happenings-payment-retailers-mobile.png?w=336&q=90",
+      "https://images.stripeassets.com/fzn2n1nzq965/1hmjWQj2Xwglop2rAW62zf/2899db472c5095e1a6b69bee0ead60c9/WorkInProgressIcon.png?w=32&q=90"
+    ],
+    "fontFamilySample": "sohne-var, \"SF Pro Display\", sans-serif",
+    "bodyTextSample": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"url\":\"https://stripe.com/\",\"name\":\"Stripe\"},{\"@type\":\"Organization\",\"@id\":\"https://stripe.com/#organization\",\"url\":\"https://stripe.com/\",\"name\":\"Stripe\",\"legalName\":\"Stripe, LLC\",\"founders\":[{\"@type\":\"Person\",\"name\":\"Patrick Collison\"},{\"@type\":\"Person\",\"name\":\"John Collison\"}],\"description\":\"Stripe powers online and in-person payment processing and financial solutions for businesses of all sizes.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://images.stripeassets.com/fzn2n1nzq965/1hgcBNd12BfT9VLgbId7By/01d91920114b124fb4cf6d448f9f06eb/favicon.svg\"},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer support\",\"url\":\"https://support.stripe.com/\",\"availableLanguage\":[\"en\",\"es\",\"fr\",\"ja\",\"de\"]},\"sameAs\":[\"https://twitter.com/stripe\",\"https://youtube.com/@stripe\",\"https://youtube.com/@StripeDev\",\"https://www.linkedin.com/company/stripe/\",\"https://www.facebook.com/StripeHQ\",\"https://en.wikipedia.org/wiki/Stripe,_Inc.\",\"https://www.crunchbase.com/organization/stripe\",\"https://github.com/stripe\",\"https://www.instagram.com/stripehq/\",\"https://www.bloomberg.com/profile/company/0170016D:US\",\"https://finance.yahoo.com/quote/STRI.PVT/\",\"https://www.wikidata.org/wiki/Q7624104\"],\"location\":[{\"@type\":\"Place\",\"name\":\"Stripe Singapore\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"60 Anson Road #05-01\",\"addressLocality\":\"Singapore\",\"postalCode\":\"079914\",\"addressCountry\":\"SG\"}},{\"@type\":\"Place\",\"name\":\"Stripe Seattle\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"920 5th Avenue, Suite 1900\",\"addressLocality\":\"Seattle\",\"addressRegion\":\"WA\",\"postalCode\":\"98104\",\"addressCountry\":\"US\"}},{\"@type\":\"Place\",\"name\":\"Stripe London\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"201 Bishopsgate, 5th Floor\",\"addressLocality\":\"London\",\"postalCode\":\"EC2M 3AB\",\"addressCountry\":\"GB\"}},{\"@type\":\"Place\",\"name\":\"Stripe Chicago\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"350 N. Orleans, Suite 5000S\",\"addres"
+  }
+}

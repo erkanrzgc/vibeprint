@@ -1,0 +1,222 @@
+{
+  "url": "https://www.python.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Long-standing hand-built Django site.",
+  "capturedAt": "2026-07-21T17:28:01.602Z",
+  "snapshot": {
+    "hostname": "www.python.org",
+    "title": "Welcome to Python.org",
+    "generatorMeta": null,
+    "faviconHref": "/static/favicon.ico",
+    "scriptSrcs": [
+      "https://analytics.python.org/js/script.file-downloads.outbound-links.js",
+      "https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js",
+      "/static/js/libs/modernizr.js",
+      "//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
+      "//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
+      "/static/js/libs/masonry.pkgd.min.js",
+      "/static/js/libs/html-includes.js",
+      "/static/js/main-min.e1f3949ae225.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://www.python.org/#content",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://www.python.org/#python-network",
+        "text": "▼ Close"
+      },
+      {
+        "href": "https://www.python.org/",
+        "text": "Python"
+      },
+      {
+        "href": "https://www.python.org/psf/",
+        "text": "PSF"
+      },
+      {
+        "href": "https://docs.python.org/",
+        "text": "Docs"
+      },
+      {
+        "href": "https://pypi.org/",
+        "text": "PyPI"
+      },
+      {
+        "href": "https://www.python.org/jobs/",
+        "text": "Jobs"
+      },
+      {
+        "href": "https://www.python.org/community/",
+        "text": "Community"
+      },
+      {
+        "href": "https://www.python.org/#top",
+        "text": "▲ The Python Network"
+      },
+      {
+        "href": "https://donate.python.org/",
+        "text": "Donate"
+      },
+      {
+        "href": "https://www.python.org/#site-map",
+        "text": "≡ Menu"
+      },
+      {
+        "href": "https://www.python.org/#",
+        "text": "A A"
+      },
+      {
+        "href": "https://www.python.org/#",
+        "text": "Socialize"
+      },
+      {
+        "href": "https://www.linkedin.com/company/python-software-foundation/",
+        "text": "LinkedIn"
+      },
+      {
+        "href": "https://fosstodon.org/@ThePSF",
+        "text": "Mastodon"
+      },
+      {
+        "href": "https://www.python.org/community/irc/",
+        "text": "Chat on IRC"
+      },
+      {
+        "href": "https://twitter.com/ThePSF",
+        "text": "Twitter"
+      },
+      {
+        "href": "https://www.python.org/accounts/login/",
+        "text": "Sign In"
+      },
+      {
+        "href": "https://www.python.org/accounts/signup/",
+        "text": "Sign Up / Register"
+      },
+      {
+        "href": "https://www.python.org/accounts/login/",
+        "text": "Sign In"
+      },
+      {
+        "href": "https://www.python.org/about/",
+        "text": "About"
+      },
+      {
+        "href": "https://www.python.org/about/apps/",
+        "text": "Applications"
+      },
+      {
+        "href": "https://www.python.org/about/quotes/",
+        "text": "Quotes"
+      },
+      {
+        "href": "https://www.python.org/about/gettingstarted/",
+        "text": "Getting Started"
+      },
+      {
+        "href": "https://www.python.org/about/help/",
+        "text": "Help"
+      },
+      {
+        "href": "http://brochure.getpython.info/",
+        "text": "Python Brochure"
+      },
+      {
+        "href": "https://www.python.org/about",
+        "text": "Learn more about Python"
+      },
+      {
+        "href": "https://www.python.org/downloads/",
+        "text": "Downloads"
+      },
+      {
+        "href": "https://www.python.org/downloads/",
+        "text": "All releases"
+      },
+      {
+        "href": "https://www.python.org/downloads/source/",
+        "text": "Source code"
+      },
+      {
+        "href": "https://www.python.org/downloads/windows/",
+        "text": "Windows"
+      },
+      {
+        "href": "https://www.python.org/downloads/macos/",
+        "text": "macOS"
+      },
+      {
+        "href": "https://www.python.org/downloads/android/",
+        "text": "Android"
+      },
+      {
+        "href": "https://www.python.org/downloads/ios/",
+        "text": "iOS"
+      },
+      {
+        "href": "https://www.python.org/download/other/",
+        "text": "Other Platforms"
+      },
+      {
+        "href": "https://docs.python.org/3/license.html",
+        "text": "License"
+      },
+      {
+        "href": "https://www.python.org/download/alternatives",
+        "text": "Alternative Implementations"
+      },
+      {
+        "href": "https://www.python.org/ftp/python/3.14.6/Python-3.14.6.tar.xz",
+        "text": "Python 3.14.6"
+      },
+      {
+        "href": "https://www.python.org/downloads/",
+        "text": "View the full list of downloads"
+      },
+      {
+        "href": "https://www.python.org/ftp/python/pymanager/python-manager-26.3.msix",
+        "text": "Python install manager"
+      },
+      {
+        "href": "https://www.python.org/ftp/python/3.14.6/python-3.14.6-amd64.exe",
+        "text": "Python 3.14.6"
+      },
+      {
+        "href": "https://www.python.org/downloads/",
+        "text": "View the full list of downloads"
+      },
+      {
+        "href": "https://www.python.org/ftp/python/3.14.6/python-3.14.6-macos11.pkg",
+        "text": "Python 3.14.6"
+      },
+      {
+        "href": "https://www.python.org/downloads/",
+        "text": "View the full list of downloads"
+      },
+      {
+        "href": "https://www.python.org/downloads/operating-systems/",
+        "text": "View the full list of downloads"
+      },
+      {
+        "href": "https://www.python.org/doc/",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://www.python.org/doc/",
+        "text": "Docs"
+      }
+    ],
+    "imageSrcs": [
+      "/static/img/python-logo.png"
+    ],
+    "fontFamilySample": "SourceSansProRegular, Arial, sans-serif",
+    "bodyTextSample": "Notice: This page displays a fallback because interactive scripts did not run. Possible causes include disabled JavaScript or failure to load scripts or stylesheets. Skip to content ▼ Close Python PSF Docs PyPI Jobs Community ▲ The Python Network Donate ≡ Menu Search This Site GO A A Smaller Larger Reset Socialize LinkedIn Mastodon Chat on IRC Twitter Sign In Sign Up / Register Sign In About Applications Quotes Getting Started Help Python Brochure Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs. Learn more about Python. Downloads All releases Source code Windows macOS Android iOS Other Platforms License Alternative Implementations Python Source Python 3.14.6 Not the OS you are looking for? Python can be used on many operating systems and environments. View the full list of downloads. Download for Windows Python install manager Or get the standalone installer for Python 3.14.6 Not the OS you are looking for? Python can be used on many operating systems and environments. View the full list of downloads. Download for macOS Python 3.14.6 Not the OS you are looking for? Python can be used on many operating systems and environments. View the full list of downloads. Download Python for Any OS Python can be used on many operating systems and environments. View the full list of downloads Documentation Docs Audio/Visual Talks Beginner's Guide FAQ Non-English Docs PEP Index Python Books Python Essays Python’s standard documentation: download, browse or watch a tutorial. Get started below, or visit the Documentation page to browse by version. Python Docs Community Diversity Mailing Lists IRC Forums PSF Annual Impact Report Python Conferences Special Interest Groups Python Logo Python Wiki Code of Conduct Community Awards Get Involved Shared Stories The Python Community Great software is supported by great people. Ou"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "url": "https://shepi.ai",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Listed on madewithlovable.com showcase; custom domain.",
+  "capturedAt": "2026-07-21T17:27:19.928Z",
+  "snapshot": {
+    "hostname": "shepi.ai",
+    "title": "",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.png",
+    "scriptSrcs": [
+      "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+      "https://app.usercentrics.eu/browser-ui/latest/loader.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-1K5JB4QZ9J",
+      "/assets/app-C_d2XIWz.js",
+      "/~flock.js",
+      "https://app.usercentrics.eu/browser-ui/3.104.0/index.module.js",
+      "https://cdn.feedbackbar.io/widget.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://shepi.ai/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://shepi.ai/#how-it-works",
+        "text": "How It Works"
+      },
+      {
+        "href": "https://shepi.ai/#our-story",
+        "text": "About"
+      },
+      {
+        "href": "https://shepi.ai/resources",
+        "text": "Resources"
+      },
+      {
+        "href": "https://shepi.ai/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://shepi.ai/#contact",
+        "text": "Contact"
+      },
+      {
+        "href": "https://shepi.ai/auth",
+        "text": "Log In"
+      },
+      {
+        "href": "https://shepi.ai/pricing",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://shepi.ai/auth?mode=signup",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://shepi.ai/dashboard/demo",
+        "text": "Try Live Demo"
+      },
+      {
+        "href": "https://shepi.ai/demo",
+        "text": "🎥 Watch Demo"
+      },
+      {
+        "href": "https://shepi.ai/proof-of-cash",
+        "text": "proof of cash"
+      },
+      {
+        "href": "https://shepi.ai/auth",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://shepi.ai/auth?mode=signup",
+        "text": "Start Self-Service →"
+      },
+      {
+        "href": "https://shepi.ai/pricing#done-for-you",
+        "text": "See Done-For-You pricing →"
+      },
+      {
+        "href": "https://shepi.ai/scope",
+        "text": "View full Statement of Work"
+      },
+      {
+        "href": "https://shepi.ai/pricing",
+        "text": "See pricing"
+      },
+      {
+        "href": "https://shepi.ai/accuracy",
+        "text": "How shepi prevents the errors humans make"
+      },
+      {
+        "href": "https://shepi.ai/auth?mode=signup",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://shepi.ai/#contact",
+        "text": "Request a Demo"
+      },
+      {
+        "href": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2qE2ZwYpCRi1MB-Ms9GnB1K7K3PpPCYankr9qdPiyVQYN8TqT9ZnkFuBz4mGlT4Lj0OukzYIrG?gv=true",
+        "text": "View available times →"
+      },
+      {
+        "href": "https://shepi.ai/for-cpas",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://shepi.ai/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://shepi.ai/#how-it-works",
+        "text": "How It Works"
+      },
+      {
+        "href": "https://shepi.ai/accuracy",
+        "text": "Accuracy"
+      },
+      {
+        "href": "https://shepi.ai/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://shepi.ai/quality-of-earnings-cost",
+        "text": "QoE Cost"
+      },
+      {
+        "href": "https://shepi.ai/quality-of-earnings-software",
+        "text": "QoE Software"
+      },
+      {
+        "href": "https://shepi.ai/quality-of-earnings-template",
+        "text": "QoE Template"
+      },
+      {
+        "href": "https://shepi.ai/quality-of-earnings-checklist",
+        "text": "QoE Checklist"
+      },
+      {
+        "href": "https://shepi.ai/resources",
+        "text": "All Resources"
+      },
+      {
+        "href": "https://shepi.ai/#our-story",
+        "text": "About"
+      },
+      {
+        "href": "https://shepi.ai/#contact",
+        "text": "Contact"
+      },
+      {
+        "href": "https://shepi.ai/for-cpas",
+        "text": "For CPAs"
+      },
+      {
+        "href": "https://shepi.ai/connect",
+        "text": "Connect AI assistant"
+      },
+      {
+        "href": "https://shepi.ai/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://shepi.ai/terms",
+        "text": "Terms of Service"
+      },
+      {
+        "href": "https://shepi.ai/cookies",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "https://shepi.ai/eula",
+        "text": "EULA"
+      },
+      {
+        "href": "https://shepi.ai/dpa",
+        "text": "DPA"
+      },
+      {
+        "href": "https://shepi.ai/subprocessors",
+        "text": "Subprocessors"
+      },
+      {
+        "href": "https://shepi.ai/security",
+        "text": "Security"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "\"Inter Tight\", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif",
+    "bodyTextSample": "shepiFeaturesHow It WorksAboutResourcesPricingContactLog InGet StartedYour Due Diligence ShepherdIntelligentQuality of Earnings PlatformFrom raw financials to lender-ready conclusions — in hours, not weeks.shepi lets you run a professional-grade Quality of Earnings analysis — identifying adjustments, risks, and normalized earnings through a structured, traceable workflow.Built for deal professionals who need speed without sacrificing credibility.Get Started Try Live Demo🎥 Watch DemoThe ProblemDue Diligence Shouldn't Slow Your DealFor most buyers and advisors, Quality of Earnings analysis remains out of reach — too expensive, too slow, and too complex.$20K+Traditional QoE costs are prohibitive for many buyers and smaller deals4+ WeeksDeals move fast — buyers can't wait months for proper due diligenceLimited AccessOnly large PE firms and institutions can afford proper QoE analysisThe SolutionToo Small for Big 4. Too Complex for Excel.Some deals under $10M may not get a proper Quality of Earnings analysis. shepi changes that.QoE Software, Not a Serviceshepi produces the same structured analysis — EBITDA adjustments, working capital, proof of cash — without the traditional engagement timeline or price tag. Starting at $2,000 per deal.Direct Accounting IntegrationConnect your accounting software, import trial balance, chart of accounts, and GL data in minutes. No manual exports or spreadsheet cleanup.Structured, Lender-Ready OutputEBITDA bridge, working capital, proof of cash, balance sheet — formatted for lender review and deal documentation.Built ForFrom Screening to CloseIndependent SearchersScreen deals in hours, not weeks. Get structured analysis before committing to a full engagement.Brokers & AdvisorsOffer sell-side QoE as a differentiator. Help your clients present clean financials to buyers.Accountants & CPAsExtend your capacity without adding headcount. Use shepi's workpapers as a head start on engagements.Due Diligence Shouldn't Take Weeks$2,000 per project, "
+  }
+}

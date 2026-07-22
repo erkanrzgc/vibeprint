@@ -1,0 +1,317 @@
+{
+  "url": "https://nextjs.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD NEGATIVE: hand-built by Vercel, Next.js + likely Geist font + vercel infra.",
+  "capturedAt": "2026-07-21T17:28:16.864Z",
+  "snapshot": {
+    "hostname": "nextjs.org",
+    "title": "Next.js by Vercel - The React Framework",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.ico?favicon.38folom4sz_yx.ico",
+    "scriptSrcs": [
+      "/_next/static/immutable/chunks/3c19-6ik9p94f.js",
+      "/_next/static/immutable/chunks/2bc2gmad3qzm9.js",
+      "/_next/static/immutable/chunks/1z1puvtj4na-h.js",
+      "/_next/static/immutable/chunks/1ern0hjvx_4dr.js",
+      "/_next/static/immutable/chunks/turbopack-0e-2j7ey6ptbw.js",
+      "/_next/static/immutable/chunks/1f2w7gx6melfe.js",
+      "/_next/static/immutable/chunks/3p2eg5ozylsp3.js",
+      "/_next/static/immutable/chunks/0u3gqs-y4km7l.js",
+      "/_next/static/immutable/chunks/42eib-rv08-_r.js",
+      "/_next/static/immutable/chunks/2mtge6ooxy6h5.js",
+      "/_next/static/immutable/chunks/1v-n2vis5bxrj.js",
+      "/_next/static/immutable/chunks/3swpdtg3fhshv.js",
+      "/_next/static/immutable/chunks/36wnellv-yn9q.js",
+      "/_next/static/immutable/chunks/01lebr95etu_f.js",
+      "/_next/static/immutable/chunks/09ym5wue5z1g6.js",
+      "/_next/static/immutable/chunks/2yk8o35byghgx.js",
+      "/_next/static/immutable/chunks/33v74syf_opx9.js",
+      "/_next/static/immutable/chunks/0p_ggxmv5qwj3.js",
+      "/_next/static/immutable/chunks/273pwoiey6kzn.js",
+      "/_next/static/immutable/chunks/0bt8_eg51z052.js",
+      "/_next/static/immutable/chunks/1fiuzgk731wxd.js",
+      "/_next/static/immutable/chunks/1dzpvfuo1j25h.js",
+      "/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+      "/_next/static/immutable/chunks/0w20wj_hmamsi.js",
+      "/e25c61660ad7a6b3/script.js",
+      "/71950797d2e37b8a/script.js",
+      "/_next/static/immutable/chunks/3lyynq91pe1gf.js",
+      "/_next/static/immutable/chunks/1x5-kwrjl6tt9.js",
+      "/_next/static/immutable/chunks/2slpiedz76uxr.js",
+      "/_next/static/immutable/chunks/3r2pduebea79n.js",
+      "/_next/static/immutable/chunks/0vbqjhpuq3dfk.js",
+      "/_next/static/immutable/chunks/0jd26tl2s-gc7.js",
+      "/_next/static/immutable/chunks/3z7fiwzxjdbt6.js",
+      "/_next/static/immutable/chunks/2utoa8icqb68d.js",
+      "/_next/static/immutable/chunks/1i_40nqsn9wvf.js",
+      "/_next/static/immutable/chunks/3tsxlfj3a0kc6.js",
+      "/_next/static/immutable/chunks/0gyhi5ob7klto.js",
+      "/_stream/external/vercel.fides-cdn.ethyca.com/fides.js?geolocation=EEA"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "slot",
+      "state",
+      "side"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://nextjs.org/#geist-skip-nav",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Showcase"
+      },
+      {
+        "href": "https://nextjs.org/docs",
+        "text": "Docs"
+      },
+      {
+        "href": "https://nextjs.org/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://vercel.com/templates/next.js?utm_source=next-site&utm_medium=navbar&utm_campaign=next_site_nav_templates",
+        "text": "Templates"
+      },
+      {
+        "href": "https://vercel.com/contact/sales?utm_source=next-site&utm_medium=navbar&utm_campaign=next_site_nav_enterprise",
+        "text": "Enterprise"
+      },
+      {
+        "href": "https://vercel.com/new/clone?utm_source=next-site&utm_medium=banner&b=main&s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fnextjs&template=nextjs&teamCreateStatus=hidden&utm_campaign=home_none",
+        "text": "Deploy"
+      },
+      {
+        "href": "https://nextjs.org/learn",
+        "text": "Learn"
+      },
+      {
+        "href": "https://nextjs.org/docs",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://nextjs.org/learn?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=home",
+        "text": "Learn Next.js"
+      },
+      {
+        "href": "https://vercel.com/templates/next.js?utm_source=next-site&utm_medium=deploy-template-on-vercel-cta&utm_campaign=homepage-new",
+        "text": "Deploy a Template on Vercel"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Audible"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Sonos"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Dice"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Notion"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Today"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "ProductHunt"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Nike"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Washington Post"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Sonos"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Audible"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Nike"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Notion"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "ProductHunt"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Washington Post"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "View the Next.js Showcase"
+      },
+      {
+        "href": "https://nextjs.org/docs",
+        "text": "Docs"
+      },
+      {
+        "href": "https://nextjs.org/support-policy",
+        "text": "Support Policy"
+      },
+      {
+        "href": "https://nextjs.org/learn",
+        "text": "Learn"
+      },
+      {
+        "href": "https://nextjs.org/showcase",
+        "text": "Showcase"
+      },
+      {
+        "href": "https://nextjs.org/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://nextjs.org/team",
+        "text": "Team"
+      },
+      {
+        "href": "https://vercel.com/analytics?utm_source=next-site&utm_medium=footer&utm_campaign=home_none",
+        "text": "Analytics"
+      },
+      {
+        "href": "https://nextjs.org/conf",
+        "text": "Next.js Conf"
+      },
+      {
+        "href": "https://vercel.com/products/previews?utm_source=next-site&utm_medium=footer&utm_campaign=home_none",
+        "text": "Previews"
+      },
+      {
+        "href": "https://nextjs.org/evals",
+        "text": "Evals"
+      },
+      {
+        "href": "https://vercel.com/templates/next.js/nextjs-commerce?utm_source=next-site&utm_medium=footer&utm_campaign=home_none",
+        "text": "Next.js Commerce"
+      },
+      {
+        "href": "https://vercel.com/contact/sales?utm_source=next-site&utm_medium=footer&utm_campaign=home_none",
+        "text": "Contact Sales"
+      },
+      {
+        "href": "https://community.vercel.com/",
+        "text": "Community"
+      },
+      {
+        "href": "https://github.com/vercel/next.js",
+        "text": "GitHub"
+      },
+      {
+        "href": "https://github.com/vercel/next.js/releases",
+        "text": "Releases"
+      },
+      {
+        "href": "https://nextjs.org/telemetry",
+        "text": "Telemetry"
+      },
+      {
+        "href": "https://nextjs.org/governance",
+        "text": "Governance"
+      },
+      {
+        "href": "https://nextjs.org/ecosystem-working-group",
+        "text": "Ecosystem Working Group"
+      },
+      {
+        "href": "https://vercel.com/solutions/nextjs?utm_source=next-site&utm_medium=footer&utm_campaign=home_none",
+        "text": "Next.js + Vercel"
+      },
+      {
+        "href": "https://vercel.com/oss?utm_source=next-site&utm_medium=footer&utm_campaign=home_none",
+        "text": "Open Source Software"
+      },
+      {
+        "href": "https://github.com/vercel",
+        "text": "GitHub"
+      },
+      {
+        "href": "https://bsky.app/profile/vercel.com",
+        "text": "Bluesky"
+      },
+      {
+        "href": "https://x.com/vercel",
+        "text": "X"
+      },
+      {
+        "href": "https://vercel.com/legal/privacy-policy",
+        "text": "Privacy Policy"
+      }
+    ],
+    "imageSrcs": [
+      "/_next/static/immutable/media/vercel-light.3_gxxexgi1nmy.svg",
+      "/_next/static/immutable/media/vercel-dark.1f3cgy23m5_jy.svg",
+      "/_next/static/immutable/media/nextjs-logotype-light.00-_80jv8_dct.svg",
+      "/_next/static/immutable/media/nextjs-logotype-dark.3h4a2z2v_dkod.svg",
+      "/_next/static/immutable/media/vercel-light.3_gxxexgi1nmy.svg",
+      "/_next/static/immutable/media/vercel-dark.1f3cgy23m5_jy.svg",
+      "/_next/static/immutable/media/nextjs-logotype-light.00-_80jv8_dct.svg",
+      "/_next/static/immutable/media/nextjs-logotype-dark.3h4a2z2v_dkod.svg",
+      "/_next/static/immutable/media/vercel-light.3_gxxexgi1nmy.svg",
+      "/_next/static/immutable/media/vercel-dark.1f3cgy23m5_jy.svg",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fspheres-light.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fspheres-dark.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fwindows-light.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fwindows-dark.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fspheres-light.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fspheres-dark.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fwindows-light.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fwindows-dark.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fspheres-light.png&w=640&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fspheres-dark.png&w=640&q=75",
+      "/icons/mobile-lines.svg?dpl=dpl_J3biLYKpzfBi6KE62yya2msNTiC3",
+      "/icons/swc.svg?dpl=dpl_J3biLYKpzfBi6KE62yya2msNTiC3",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnext-template.png&w=3840&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fnextjs%2Fshowcase%2Ftemplate-next-gallery.jpg&w=3840&q=75",
+      "/_next/image?url=https%3A%2F%2Fh8DxKfmAPhn8O0p3.public.blob.vercel-storage.com%2Fcommerce.png&w=3840&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-audible.3waa235cgg_27.png&w=828&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-sonos.3o1tnlyog5y6n.png&w=828&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-dice.08i49o1fp-1xa.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-notion.1skugvnuxzkvx.png&w=828&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-today.2jrmuzobw0w46.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-ph.1fv0demanomta.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-nike.1lqyc1sp09dub.png&w=828&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-wapo.2w35_4dsyn14a.png&w=828&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-sonos.3o1tnlyog5y6n.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-audible.3waa235cgg_27.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-nike.1lqyc1sp09dub.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-notion.1skugvnuxzkvx.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-ph.1fv0demanomta.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpreview-wapo.2w35_4dsyn14a.png&w=640&q=75",
+      "/_next/static/immutable/media/notion-light.2abb7al_gzax_.svg",
+      "/_next/static/immutable/media/notion-dark.1190x9on3p10t.svg",
+      "/_next/static/immutable/media/adobe-light.2mf2glj3ql_fe.svg",
+      "/_next/static/immutable/media/adobe-dark.3gd66o-2cl34y.svg",
+      "/_next/static/immutable/media/vercel-logotype-light.0k7echqflwha4.svg",
+      "/_next/static/immutable/media/vercel-logotype-dark.3m9ycmsc1ql8m.svg",
+      "/_next/static/immutable/media/logo-github-light.3dl3lqjq1azpp.svg",
+      "/_next/static/immutable/media/logo-github-dark.1k-70sin_m3qn.svg",
+      "/_next/static/immutable/media/logo-twitter-x-light.0dvkch_c5dvys.svg",
+      "/_next/static/immutable/media/logo-twitter-x-dark.1-i769nzu94hl.svg",
+      "/_next/static/immutable/media/logo-bluesky-light.2may7hm2y7g6v.svg"
+    ],
+    "fontFamilySample": "GeistSans, \"GeistSans Fallback\"",
+    "bodyTextSample": "Skip to contentSearch documentation...CtrlK{var s=document.currentScript,n=s&&s.previousElementSibling;if(n)n.textContent=/^Mac/.test(navigator.platform)?\"⌘K\":\"CtrlK\"}Search...CtrlK{var s=document.currentScript,n=s&&s.previousElementSibling;if(n)n.textContent=/^Mac/.test(navigator.platform)?\"⌘K\":\"CtrlK\"}ShowcaseDocsBlogTemplatesEnterpriseSearch documentation...CtrlK{var s=document.currentScript,n=s&&s.previousElementSibling;if(n)n.textContent=/^Mac/.test(navigator.platform)?\"⌘K\":\"CtrlK\"}Search...CtrlK{var s=document.currentScript,n=s&&s.previousElementSibling;if(n)n.textContent=/^Mac/.test(navigator.platform)?\"⌘K\":\"CtrlK\"}DeployLearnThe React Framework for the WebUsed by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components.Get StartedLearn Next.js▲ ~ npx create-next-app@latestWhat's in Next.js?Everything you need to build great products on the web.Original1440px375pxBuilt-in OptimizationsAutomatic Image, Font, and Script Optimizations for improved UX and Core Web Vitals.Data FetchingMake your React component async and await your data. Next.js supports both server and client data fetching.Server ActionsRun server code by calling a function. Skip the API. Then, easily revalidate cached data and update your UI in one network roundtrip.Advanced Routing & Nested LayoutsCreate routes using the file system, including support for more advanced routing patterns and UI layouts.Dynamic HTML StreamingInstantly stream UI from the server, integrated with the App Router and React Suspense.CSS SupportStyle your application with your favorite tools, including support for CSS Modules, Tailwind CSS, and popular community libraries.Route HandlersBuild API endpoints to securely connect with third-party services for handling auth or listening for webhooks.ProxyTake control of the incoming request. Use code to define routing and access rules for authentication, experimentation, and internationalization.React "
+  }
+}

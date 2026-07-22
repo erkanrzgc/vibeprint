@@ -1,0 +1,132 @@
+{
+  "url": "https://checkon.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Listed on madewithlovable.com showcase; custom domain, badge presumably removed.",
+  "capturedAt": "2026-07-21T17:27:03.255Z",
+  "snapshot": {
+    "hostname": "checkon.app",
+    "title": "Proof of Life — Daily safety check-ins for the people you love",
+    "generatorMeta": null,
+    "faviconHref": "/icon-192.png",
+    "scriptSrcs": [
+      "https://connect.facebook.net/signals/config/941435211640633?v=2.9.358&r=stable&domain=checkon.app&hme=1179b74563cacb97c6ebae600e40937237ab12824fb84996eee07eca65cabbd4&ex_m=107%2C208%2C158%2C22%2C73%2C74%2C149%2C69%2C68%2C11%2C167%2C93%2C16%2C141%2C130%2C39%2C76%2C81%2C137%2C163%2C169%2C26%2C27%2C28%2C30%2C48%2C150%2C78%2C115%2C18%2C20%2C44%2C40%2C42%2C41%2C86%2C95%2C99%2C113%2C148%2C151%2C46%2C114%2C24%2C21%2C122%2C70%2C36%2C153%2C152%2C154%2C145%2C143%2C25%2C35%2C59%2C112%2C165%2C71%2C17%2C156%2C117%2C84%2C67%2C19%2C88%2C89%2C119%2C87%2C139%2C138%2C142%2C164%2C34%2C49%2C116%2C47%2C8%2C4%2C5%2C7%2C6%2C3%2C94%2C104%2C170%2C175%2C222%2C75%2C235%2C234%2C233%2C23%2C33%2C55%2C106%2C61%2C10%2C64%2C100%2C101%2C102%2C108%2C133%2C31%2C29%2C135%2C136%2C132%2C131%2C159%2C77%2C162%2C160%2C161%2C50%2C60%2C126%2C15%2C166%2C45%2C280%2C281%2C279%2C294%2C310%2C215%2C204%2C62%2C205%2C203%2C313%2C304%2C52%2C216%2C110%2C134%2C83%2C124%2C54%2C123%2C129%2C128%2C58%2C65%2C63%2C155%2C79%2C80%2C118%2C37%2C32%2C53%2C56%2C103%2C168%2C1%2C127%2C14%2C125%2C12%2C2%2C57%2C96%2C66%2C121%2C92%2C91%2C171%2C172%2C97%2C98%2C9%2C105%2C51%2C146%2C90%2C82%2C72%2C120%2C109%2C43%2C147%2C0%2C85%2C140%2C144%2C157%2C38%2C111%2C13%2C173",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "/~flock.js",
+      "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.es6.js?v=160607"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://checkon.app/",
+        "text": "Proof of Life"
+      },
+      {
+        "href": "https://checkon.app/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://checkon.app/#how",
+        "text": "How it works"
+      },
+      {
+        "href": "https://checkon.app/#pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://checkon.app/#faq",
+        "text": "FAQ"
+      },
+      {
+        "href": "https://checkon.app/login",
+        "text": "Log in"
+      },
+      {
+        "href": "https://checkon.app/signup",
+        "text": "Get the app"
+      },
+      {
+        "href": "https://checkon.app/signup",
+        "text": "Start your first check-in"
+      },
+      {
+        "href": "https://checkon.app/#how",
+        "text": "See how it works"
+      },
+      {
+        "href": "https://checkon.app/signup",
+        "text": "Get started"
+      },
+      {
+        "href": "https://checkon.app/signup",
+        "text": "Get Premium"
+      },
+      {
+        "href": "https://checkon.app/signup",
+        "text": "Choose Family"
+      },
+      {
+        "href": "https://checkon.app/signup",
+        "text": "Get Proof of Life — it's free"
+      },
+      {
+        "href": "https://checkon.app/",
+        "text": "Proof of Life"
+      },
+      {
+        "href": "https://checkon.app/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://checkon.app/#pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://checkon.app/download",
+        "text": "Download"
+      },
+      {
+        "href": "https://checkon.app/roadmap",
+        "text": "Roadmap"
+      },
+      {
+        "href": "https://checkon.app/about",
+        "text": "About"
+      },
+      {
+        "href": "https://checkon.app/press",
+        "text": "Press"
+      },
+      {
+        "href": "https://checkon.app/careers",
+        "text": "Careers"
+      },
+      {
+        "href": "https://checkon.app/contact",
+        "text": "Contact"
+      },
+      {
+        "href": "https://checkon.app/privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "https://checkon.app/terms",
+        "text": "Terms"
+      },
+      {
+        "href": "https://checkon.app/security",
+        "text": "Security"
+      },
+      {
+        "href": "https://checkon.app/cookies",
+        "text": "Cookies"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "Inter, ui-sans-serif, system-ui, sans-serif",
+    "bodyTextSample": "<img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=941435211640633&amp;ev=PageView&amp;noscript=1\" alt=\"\"/>Proof of LifeFeaturesHow it worksPricingFAQLog inGet the appLoved by 240,000+ people in 84 countriesOne tap a day.Peace of mind for everyone who loves you.Proof of Life is a calm daily ritual. Check in once — your circle sees you're safe. Miss a check-in, and the people who matter most are alerted automatically.Start your first check-in See how it worksFree forever for up to 3 contacts. No credit card.I'm safeHold to check inAs featured inTechCrunchWiredThe VergeProduct Hunt #1Fast CompanyBuilt for the quiet moments that matter most.Not another tracker. A gentle thread between you and the people you love.A ritual, not a choreA 2-second daily tap that becomes the most reassuring habit you've ever built.Silent alertsMiss a check-in and your trusted circle is notified. No drama. No false alarms.Your circle, your rulesRoommates, parents, partners, hiking friends — choose who knows what, and when.Private by designEnd-to-end encrypted location pings. Shared only when you miss a check-in.Instant SOSOne long-press triggers an emergency alert with live location to everyone in your circle.Works anywhereFrom your daily commute to a solo hike in Patagonia — works on any network, any device.How it worksCalmer than a text. Smarter than a tracker.01Build your circleInvite the 3–10 people who'd want to know you got home safe.02Pick your ritualOnce a day, twice a day, or after late shifts. You set the rhythm.03Tap. Breathe. Done.A two-second hold. Your circle sees a soft green heart appear next to your name.04If you go silent…We wait, we nudge, we follow up. Then your circle is alerted with your last known location.A pocket-sized promise.Designed for one-thumb use. Optimized for the 4 a.m. moments. Built so your grandmother can use it as easily as your teenager.Native-feeling iOS & Android experienceWorks offline — syncs the moment you reconnectC"
+  }
+}

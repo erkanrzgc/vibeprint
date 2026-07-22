@@ -1,0 +1,290 @@
+{
+  "url": "https://framer.com",
+  "label": "ai-built",
+  "builder": "framer",
+  "note": "Confirmed via <meta name=generator content='Framer ...'> and 3000+ data-framer-* attributes.",
+  "capturedAt": "2026-07-21T17:27:31.041Z",
+  "snapshot": {
+    "hostname": "www.framer.com",
+    "title": "Framer: AI website builder for professional sites",
+    "generatorMeta": "Framer 92482b8",
+    "faviconHref": "https://framerusercontent.com/images/Io89FonxEaWg4nxvQQllVLwPUUI.png",
+    "scriptSrcs": [
+      "https://js-eu1.hs-banner.com/v2/144411337/banner.js",
+      "https://js-eu1.hs-analytics.net/analytics/1784649000000/144411337.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-QZ2MPXED80&cx=c&gtm=4e67k0",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-KQFN6BX",
+      "https://cdn.debugbear.com/9uWCuyolIuHX.js",
+      "https://www.dubcdn.com/analytics/script.js",
+      "https://ingest.promptwatch.com/js/client.min.js",
+      "https://events.framer.com/script?v=2",
+      "https://framerusercontent.com/sites/3BJ9zINIeWtEEVRMAcoTL8/script_main.CX4tn0c0.mjs",
+      "https://accounts.google.com/gsi/client",
+      "//js-eu1.hs-scripts.com/144411337.js"
+    ],
+    "htmlDatasetKeys": [
+      "redirectTimezone"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [
+      "framer"
+    ],
+    "badgeLinks": [
+      {
+        "href": "https://www.framer.com/",
+        "text": "Framer"
+      },
+      {
+        "href": "https://www.framer.com/enterprise/",
+        "text": "Enterprise"
+      },
+      {
+        "href": "https://www.framer.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://framer.com/r/login",
+        "text": "Log in"
+      },
+      {
+        "href": "https://www.framer.com/r/signup/",
+        "text": "Sign up"
+      },
+      {
+        "href": "https://www.framer.com/brand",
+        "text": "Brand guidelines"
+      },
+      {
+        "href": "https://framer.com/r/signup/",
+        "text": "Get started for free"
+      },
+      {
+        "href": "https://updates.framer.com/electron/darwin/arm64/Framer.zip?_ga=2.113395847.1447313862.1646043056-273660571.1642151053",
+        "text": "Download app"
+      },
+      {
+        "href": "https://www.framer.com/events/",
+        "text": "Framer 3.0Everything we shipped"
+      },
+      {
+        "href": "https://www.framer.com/#agents",
+        "text": "Learn how our AI agents work"
+      },
+      {
+        "href": "https://www.framer.com/community/gallery/",
+        "text": "See Framer sites"
+      },
+      {
+        "href": "https://www.framer.com/stories/",
+        "text": "Meet our customers"
+      },
+      {
+        "href": "https://www.framer.com/agents/",
+        "text": "Start with agents"
+      },
+      {
+        "href": "https://www.framer.com/signup/",
+        "text": "Start with Agents"
+      },
+      {
+        "href": "https://www.framer.com/signup/",
+        "text": "Start with Agents"
+      },
+      {
+        "href": "https://www.framer.com/signup/",
+        "text": "Start with Agents"
+      },
+      {
+        "href": "https://www.framer.com/agents/external/#connect",
+        "text": "Install"
+      },
+      {
+        "href": "https://www.framer.com/performance/",
+        "text": "Performance"
+      },
+      {
+        "href": "https://www.framer.com/cms/",
+        "text": "CMS"
+      },
+      {
+        "href": "https://www.framer.com/seo/",
+        "text": "SEO"
+      },
+      {
+        "href": "https://www.framer.com/collaborate/",
+        "text": "Collaboration"
+      },
+      {
+        "href": "https://www.framer.com/academy/lessons/localization",
+        "text": "Localization"
+      },
+      {
+        "href": "https://www.framer.com/hosting/",
+        "text": "Hosting"
+      },
+      {
+        "href": "https://www.framer.com/hosting/",
+        "text": "Security"
+      },
+      {
+        "href": "https://www.framer.com/analytics",
+        "text": "Analytics"
+      },
+      {
+        "href": "https://www.framer.com/analytics",
+        "text": "A/B Testing"
+      },
+      {
+        "href": "https://www.framer.com/community/feed/",
+        "text": "Browse the community"
+      },
+      {
+        "href": "https://www.framer.com/stories/",
+        "text": "Read stories"
+      },
+      {
+        "href": "https://www.framer.com/stories/miro/",
+        "text": "Read story"
+      },
+      {
+        "href": "https://www.framer.com/stories/perplexity/",
+        "text": "Read story"
+      },
+      {
+        "href": "https://www.framer.com/stories/mixpanel/",
+        "text": "Read story"
+      },
+      {
+        "href": "https://www.framer.com/stories/legora/",
+        "text": "Read story"
+      },
+      {
+        "href": "https://www.framer.com/stories/flora/",
+        "text": "Read story"
+      },
+      {
+        "href": "https://www.framer.com/stories/mutiny/",
+        "text": "Read story"
+      },
+      {
+        "href": "https://www.framer.com/stories/stackai/",
+        "text": "Read story"
+      },
+      {
+        "href": "https://framer.com/signup",
+        "text": "Start without AI"
+      },
+      {
+        "href": "https://www.framer.com/",
+        "text": "Framer"
+      },
+      {
+        "href": "https://www.framer.com/ai/",
+        "text": "AINew"
+      },
+      {
+        "href": "https://www.framer.com/agents/",
+        "text": "AgentsNew"
+      },
+      {
+        "href": "https://www.framer.com/agents/external/",
+        "text": "External AgentsNew"
+      },
+      {
+        "href": "https://www.framer.com/design/",
+        "text": "Design"
+      },
+      {
+        "href": "https://www.framer.com/collaborate/",
+        "text": "CollaborateNew"
+      },
+      {
+        "href": "https://www.framer.com/cms/",
+        "text": "CMS"
+      },
+      {
+        "href": "https://www.framer.com/hosting/",
+        "text": "Hosting"
+      },
+      {
+        "href": "https://www.framer.com/performance/",
+        "text": "Performance"
+      },
+      {
+        "href": "https://www.framer.com/seo/",
+        "text": "SEO"
+      },
+      {
+        "href": "https://www.framer.com/convert/",
+        "text": "Convert"
+      },
+      {
+        "href": "https://www.framer.com/publish/",
+        "text": "Publish"
+      },
+      {
+        "href": "https://www.framer.com/updates",
+        "text": "UpdatesNew"
+      },
+      {
+        "href": "https://www.framer.com/community/marketplace/",
+        "text": "Marketplace"
+      }
+    ],
+    "imageSrcs": [
+      "https://framerusercontent.com/images/UnfUTFiycUvyLiWVaZSTQX3S7kA.png?width=335&height=335",
+      "https://framerusercontent.com/images/23W7URwXzeyNBGr6KAR1Ovou6V4.png?width=475&height=475",
+      "https://framerusercontent.com/images/HpuIynUBjhAJSaXjaIesR9XZ7fM.png?scale-down-to=512&width=2160&height=2160",
+      "https://framerusercontent.com/images/5ZfkuP2QaCdixzPwBfcEEiNWd4.jpg?width=2240&height=140",
+      "https://framerusercontent.com/images/GJXf5pPDzDGzXV1VJUl0dhbJ2w.jpg?width=2240&height=740",
+      "https://framerusercontent.com/images/78pYwUblbtsiv1hOwCZzxzAPrL0.jpg?width=2240&height=1200",
+      "https://framerusercontent.com/images/ZFCF3yK98ckn0QgDMmKrJXXURVQ.jpg?width=2240&height=900",
+      "https://framerusercontent.com/images/NSyL5fO3XPhUYlHmNfv0May8LM.jpg?width=2240&height=140",
+      "https://framerusercontent.com/images/ICi2m2zyPai1LKwz9XZEkgSzQ.jpg?width=1620&height=140",
+      "https://framerusercontent.com/images/HMvEeofMOWYzHDwChgXFgpYcs.jpg?width=1620&height=370",
+      "https://framerusercontent.com/images/VDou7Mwa4dcffjzYvoa80Cmi74.jpg?width=1620&height=960",
+      "https://framerusercontent.com/images/MvPPd7I4xJxeNO5ievRfaoAE.jpg?width=1620&height=1180",
+      "https://framerusercontent.com/images/I4HWeSzUbC3vy22QykEaieasPY.jpg?width=1620&height=140",
+      "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/GjvoTAZBS3bbZCkT9BvgvSP3Tio.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/QSALLMZz20lUztB4mySTDLq6mE.png?width=2800&height=1804",
+      "https://framerusercontent.com/images/ordt7SZDaUEWKA368UbAGtdIno.png?width=884&height=1894",
+      "https://framerusercontent.com/images/a1daVaOmbl26jqNCw1Q0P3vhWZQ.png?width=2796&height=1808",
+      "https://framerusercontent.com/images/qgcb6nXCOIxXxk9CLxf9WOoOk.png?width=880&height=1806",
+      "https://framerusercontent.com/images/wVxwU0qi5YsLHBFbDaX8c3jTcU.png?width=3222&height=2078",
+      "https://framerusercontent.com/images/AfVrJxeJkkgPpnO71Nw1tpmiiyI.jpg?width=928&height=1846",
+      "https://framerusercontent.com/images/RtheNIazFJm6EqfeKh66Bi7wyGI.png?width=880&height=1808",
+      "https://framerusercontent.com/images/CC3vnYoPhqbdIEFTrhc9At8bgWo.png?width=2874&height=1834",
+      "https://framerusercontent.com/images/YCWnviU2EZwsP64iysymO773I.png?width=880&height=1782",
+      "https://framerusercontent.com/images/wbyAS4r6FWaI1G1ena314OJs.png?width=2800&height=1804",
+      "https://framerusercontent.com/images/Y6F5zkargty3ahKr9VGtA83ujXU.png?width=880&height=1806",
+      "https://framerusercontent.com/images/WDlxZ5aairNkZSH0cyHqAzB2w.png?width=3200&height=2072",
+      "https://framerusercontent.com/images/EX9NZExSFA4eodl7ZJOzgSOmf0.jpg?lossless=1&width=1200&height=1549",
+      "https://framerusercontent.com/images/4dSrVgS0I0XvJg2hlhEERFeaI4.jpg?lossless=1&width=1200&height=1454",
+      "https://framerusercontent.com/images/MY18WE0x641B3s93Ntxb9EyNDg.jpg?lossless=1&width=1200&height=1632",
+      "https://framerusercontent.com/images/LPkXlDTlZn3Gg3nOt0vzCxLJXU.png?width=512&height=512",
+      "https://framerusercontent.com/images/MpLFDC67YQNhZn2xoUIeyQAZK0.jpg?width=120&height=120",
+      "https://framerusercontent.com/images/Yrl5iQeyEEzLD8pNITy1dJET2RM.jpg?width=120&height=120",
+      "https://framerusercontent.com/images/vXcO4WGVMInagNXNjSGxl3jl0U.jpg?width=120&height=120",
+      "https://framerusercontent.com/images/YY5IEBQkB2R1f6V5zwAeWX6sl2M.jpg?width=120&height=120",
+      "https://framerusercontent.com/images/Hmpf3NeQjpUx0q8s2c8riF2jpQ.jpg?width=120&height=120",
+      "https://framerusercontent.com/images/GjvoTAZBS3bbZCkT9BvgvSP3Tio.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/jsKLc6lXoHjCysrAHeG3ghcriI.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/noTZrAnaWnle2PIeZvXS66nzXG4.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/7hSz2Jc01Ilj9LZpJlZ7RcYh0Q.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/uDdBqfuYdrKTwMfwVUNHXY3FtJk.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/hlpxQq1a2zZi2B0UH9nlvggCYZY.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+      "https://framerusercontent.com/images/izmhOCZ9AE4RHH29q34wCc5W3Mo.jpg?width=2240&height=140",
+      "https://framerusercontent.com/images/RUCQXTdC1P3kOSgwlXiUYL7zXc.jpg?width=2240&height=880",
+      "https://framerusercontent.com/images/FZ7lxiXg058Q5WkLuIXqolcRD8.jpg?width=750&height=1080",
+      "https://framerusercontent.com/images/usaoXNWRLeM7U9Xt0Tx5xMMbc.jpg?width=750&height=1080",
+      "https://framerusercontent.com/images/CRKaWbZDqmciaZB3o8TLxfNfg.jpg?width=750&height=1080"
+    ],
+    "fontFamilySample": "sans-serif",
+    "bodyTextSample": ":root body { background: var(--token-958e2cd1-b113-4aa3-9235-7a2b959c8feb, rgb(0, 0, 0)); }FramerProductCommunityResourcesEnterprisePricingLog inSign up(()=>{(()=>{let e=document.currentScript.previousElementSibling;function t(){globalThis.__f_auth=0,e.style.display=`flex`}function n(){globalThis.__f_auth=1,e.style.display=`none`,mt();let t=document.createElement(`script`);t.type=`speculationrules`,t.textContent=`{\"prerender\":[{\"source\":\"list\",\"urls\":[\"https://framer.com/projects/\"]}]}`,document.head.append(t)}try{localStorage.__auth?n():t()}catch{t()}gt(n,t)})();async function gt(e,t){let n;try{n=await(globalThis.__framerLoginFetch??fetch(`https://api.framer.com/site/users/me`,{credentials:`include`}).then(e=>{if(e.ok)return e.json()}))}catch{return t()}if(!n?.name){try{localStorage.__auth=`0`}catch{}return t()}try{localStorage.__auth=`1`}catch{}e()};function mt(){function e(e){let t=document.activeElement?.nodeName;t===`TEXTAREA`||t===`INPUT`||e.key.toUpperCase()===`D`&&(globalThis.location.href=`https://framer.com/projects/`,e.stopPropagation())}globalThis.addEventListener(`keydown`,e)}})()Copy logo SVGBrand guidelineshtml body { background: var(--token-958e2cd1-b113-4aa3-9235-7a2b959c8feb, rgb(0, 0, 0)); }Framer is the AI website builder for standout sitesGet started for freeDownload appFramer 3.0Everything we shippedCanvasSite·main12InvitePublishPagesLayersAssetsSearch…PagesHome/workWork Pages/services/about/contact/news/legal/privacy/terms100% @keyframes ghostFlow { 0%, 18% { opacity: 1; } 35% { opacity: 0.6; } 50%, 100% { opacity: 0.3; } } @keyframes doubleSlow { 0%, 100% { opacity: 0.3; } 8% { opacity: 0.72; } 16%, 24% { opacity: 1; } 34%, 50% { opacity: 0.3; } 58% { opacity: 0.58; } 66%, 74% { opacity: 0.96; } 84% { opacity: 0.48; } } @keyframes danceSpark { 0%, 6% { opacity: 1; } 18% { opacity: 0.45; } 24%, 100% { opacity: 0.3; } } Desktop1200Tablet810AgentStyleNew Hero TickerAdd a 3D image ticker to the hero section and write a short introduction about Ha"
+  }
+}

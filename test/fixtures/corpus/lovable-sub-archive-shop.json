@@ -1,0 +1,88 @@
+{
+  "url": "https://archive-shop-store.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: hosted on *.lovable.app, cannot exist without Lovable having built it.",
+  "capturedAt": "2026-07-21T17:26:56.554Z",
+  "snapshot": {
+    "hostname": "archive-shop-store.lovable.app",
+    "title": "ARCHIVE SHOP - শিক্ষামূলক বই",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-BShp1Zv0.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://wa.me/8801590022984",
+        "text": "WhatsApp০১৫৯০০২২৯৮৪"
+      },
+      {
+        "href": "https://www.facebook.com/search/top?q=archive%20academy",
+        "text": "ARCHIVE ACADEMY"
+      },
+      {
+        "href": "https://lovable.dev/projects/beb35a8b-f0f0-4d89-8201-a725c7f72ddd?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [
+      "/assets/logo-D0pxXhOc.jpg",
+      "https://books.google.com/books/content?id=F7vdDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://qztestbd-backend-django-s3-bucket.s3.amazonaws.com/media/course/thumbnails/176a2912-d732-459e-894b-71198204c076.png",
+      "https://www.shutterstock.com/image-vector/exam-icon-symbol-classic-flat-600nw-2732934637.jpg",
+      "https://qztestbd-backend-django-s3-bucket.s3.amazonaws.com/media/course/thumbnails/3516973d-dbc5-44ea-95f3-96cd21ba4077.png",
+      "https://scontent.fdac207-1.fna.fbcdn.net/v/t39.30808-6/657984564_122199509210513727_6024570878352170283_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeG_Y2VytA8NXuMFc5fcmx79MoLzqNJ-4MYygvOo0n7gxvevUd5IZ6xGPdih-kqnIr_-v122dFQ27qtDzClnd64e&_nc_ohc=LBqi27BcGDUQ7kNvwFXbL5F&_nc_oc=AdpxfmDNoNKwoGHLbCs3wSaLJ-Fyb-mHH4MeXveybBPJOEtPyigaqohny3fML7O-N_0&_nc_zt=23&_nc_ht=scontent.fdac207-1.fna&_nc_gid=MJRdORKcRE7xyLfIVL6OtQ&_nc_ss=7a3a8&oh=00_Af0rdniqHyOVsG7shDQd5mAFydZPym3exy4-l8G91gQFTA&oe=69EA4C30",
+      "https://books.google.com/books/content?id=4_vkEAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=8qsnEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=vlVoDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=4_vkEAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=aO4IEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=aO4IEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=AbvdDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://ukemkuyrmsvvdegxsoam.supabase.co/storage/v1/object/public/book-covers/1773099654976.jpg",
+      "https://books.google.com/books/content?id=4_vkEAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=xJ7cDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=4NpFYNMQu94C&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=PGgdDgAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=vlVoDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=hmgdDgAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=IqIZCAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=ZbuMEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=AbvdDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=aO4IEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=4NpFYNMQu94C&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=AbvdDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=aO4IEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=-faPGvCfu_EC&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=AbvdDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=4NpFYNMQu94C&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=aO4IEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=4_vkEAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://covers.openlibrary.org/b/id/10846020-L.jpg",
+      "https://books.google.com/books/content?id=xJ7cDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=aY-pDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=AbvdDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=4_vkEAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://covers.openlibrary.org/b/id/11297759-L.jpg",
+      "https://books.google.com/books/content?id=4NpFYNMQu94C&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=qkD2DwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://ukemkuyrmsvvdegxsoam.supabase.co/storage/v1/object/public/book-covers/1774604097604.jpg",
+      "https://ukemkuyrmsvvdegxsoam.supabase.co/storage/v1/object/public/book-covers/1773127032199.jpg",
+      "https://ukemkuyrmsvvdegxsoam.supabase.co/storage/v1/object/public/book-covers/1773099654976.jpg",
+      "https://books.google.com/books/content?id=4_vkEAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=xJ7cDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=F7vdDwAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=8qsnEQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "https://books.google.com/books/content?id=RYbcDQAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
+      "/assets/logo-D0pxXhOc.jpg"
+    ],
+    "fontFamilySample": "\"Noto Sans Bengali\", sans-serif",
+    "bodyTextSample": "ARCHIVE SHOP হোম সার্চ কোর্স সাহায্য ARCHIVE SHOP - AI লগইনআপনার পড়াশোনার সঙ্গীARCHIVE SHOPডিজিটাল লাইব্রেরিসকল শ্রেণীর বই এখন হাতের মুঠোয় এখনই দেখুন →33+ বই উপলব্ধ📘HSC📗SSC📕ভর্তি🎓কোর্স⚡ ফ্ল্যাশ সেল চলছে!সকল বইয়ে ৩০% পর্যন্ত ছাড়শেষ হতে বাকি00:00:00:00এখনই কিনুনআজকের বইSSC গণিত সমাধান৳120৳200 দেখুন🎓 জনপ্রিয় কোর্সসব দেখুন অনলাইন ক্লাস-60%⭐ ফিচার্ডMathMath 1st & 2nd Paper৳60৳150 ভর্তি হন পরীক্ষা⭐ ফিচার্ডHSC Question Bank 2025৳0 ভর্তি হন পরীক্ষা-100%⭐ ফিচার্ডAdmission Free Exam Bangladesh one of the best online platform.৳0৳50 ভর্তি হন পরীক্ষা-100%⭐ ফিচার্ডHSC FREE MOCK TEST৳0৳100 ভর্তি হন পরীক্ষা-38%⭐ ফিচার্ডHSC Exam BatchBangladesh one of the best Educational platform.৳50৳80 ভর্তি হন পরীক্ষা⭐ ফিচার্ডOnline National Exam Online National Exam ৳0 ভর্তি হন🔥 জনপ্রিয় বই-27%রসায়ন৳380HSC পদার্থবিজ্ঞান গাইড-40%HSC পদার্থবিজ্ঞান গাইড৳150-44%ICT Complete Guide৳100-34%ICT৳250-27%রসায়ন৳400-29%বিজ্ঞান৳250-31%বিজ্ঞান৳220-29%গণিত৳250📘 HSC সম্পূর্ণ প্রস্তুতিHSC Compact Seriesসম্পূর্ণ HSC সিরিজ4 বইবিস্তারিত HSC Cycle 1প্রথম পর্যায় প্রস্তুতি3 বইবিস্তারিত HSC Cycle 2দ্বিতীয় পর্যায় প্রস্তুতি3 বইবিস্তারিত 📗 ষষ্ঠ থেকে দশম শ্রেণীSSC AcademicSSC সম্পূর্ণ সিরিজ3 বইবিস্তারিত অষ্টম শ্রেণীClass 8 সিরিজ3 বইবিস্তারিত সপ্তম শ্রেণীClass 7 সিরিজ3 বইবিস্তারিত 📕 ভর্তি পরীক্ষার প্রস্তুতিমেডিকেল ভর্তিMedical Admission3 বইবিস্তারিত ইঞ্জিনিয়ারিং ভর্তিEngineering Admission3 বইবিস্তারিত বিশ্ববিদ্যালয় ভর্তিUniversity Admission4 বইবিস্তারিত 🆕 নতুন আসা বইনতুন-25%জেনন GST গুচ্ছ প্রশ্নব্যাংক৳300নতুন-8%Physics Equation ৳370HSC পদার্থবিজ্ঞান গাইডনতুন-40%HSC পদার্থবিজ্ঞান গাইড৳150নতুন-30%পদার্থবিজ্ঞান৳350নতুন-30%রসায়ন৳350নতুন-30%জীববিজ্ঞান৳350📱 ই-বুকসব দেখুন HSC পদার্থবিজ্ঞান গাইড-40%HSC পদার্থবিজ্ঞান গাইড৳150৳250 কিনুন-40%SSC গণিত সমাধান৳120৳200 কিনুন-44%ICT Complete Guide৳100৳180 কিনুন-40%ভর্তি পরীক্ষার বাইবেল৳180৳300 কিনুনকেন ARCHIVE SHOP?আমাদের প্রতিশ্রুতি আপনার কাছে0+বই সংগ্রহে0+সন্তুষ্ট পাঠক0+সফল অর্ডার100%গ্যারান্টেড📞 যোগাযোগ করুনফোন০১৫৯০০২২৯৮৪WhatsApp০১৫৯০০২২৯৮৪ইমেইলarchiveacademy7720@"
+  }
+}

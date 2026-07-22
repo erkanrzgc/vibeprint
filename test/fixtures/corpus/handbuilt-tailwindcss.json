@@ -1,0 +1,288 @@
+{
+  "url": "https://tailwindcss.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD NEGATIVE: modern hand-built Next.js + Tailwind marketing site with heavy utility classes.",
+  "capturedAt": "2026-07-21T17:28:13.748Z",
+  "snapshot": {
+    "hostname": "tailwindcss.com",
+    "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+    "generatorMeta": null,
+    "faviconHref": "/favicons/favicon-32x32.png?v=4",
+    "scriptSrcs": [
+      "/_next/static/chunks/0srs2cqqpk188.js",
+      "/_next/static/chunks/0aqjr575~-kiw.js",
+      "/_next/static/chunks/0z_50l.zjgt03.js",
+      "/_next/static/chunks/turbopack-00669_q1z8o3u.js",
+      "/_next/static/chunks/0y97be86sc~2s.js",
+      "/_next/static/chunks/16alt.sanbkcc.js",
+      "/_next/static/chunks/14npz~h5j0o4o.js",
+      "/_next/static/chunks/06m1agfycav10.js",
+      "/_next/static/chunks/116el_05_g136.js",
+      "/_next/static/chunks/0h_5ui0kugf6a.js",
+      "/_next/static/chunks/0n_1r1_dkg~0t.js",
+      "/_next/static/chunks/04cp_e8wdtt7r.js",
+      "/_next/static/chunks/0duze-kaytr60.js",
+      "/_next/static/chunks/122cqq07nrvzt.js",
+      "/_next/static/chunks/03~yq9q893hmn.js",
+      "/_next/static/chunks/08gyl.us_fmj7.js",
+      "data:text/javascript;base64,CiAgaWYgKCEoJ191cGRhdGVUaGVtZScgaW4gd2luZG93KSkgewogICAgd2luZG93Ll91cGRhdGVUaGVtZSA9IGZ1bmN0aW9uIHVwZGF0ZVRoZW1lKHRoZW1lKSB7CiAgICAgIGxldCBjbGFzc0xpc3QgPSBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuY2xhc3NMaXN0OwoKICAgICAgY2xhc3NMaXN0LnJlbW92ZSgibGlnaHQiLCAiZGFyayIsICJzeXN0ZW0iKTsKICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnbWV0YVtuYW1lPSJ0aGVtZS1jb2xvciJdJykuZm9yRWFjaChlbCA9PiBlbC5yZW1vdmUoKSkKICAgICAgaWYgKHRoZW1lID09PSAnZGFyaycpIHsKICAgICAgICBjbGFzc0xpc3QuYWRkKCdkYXJrJykKCiAgICAgICAgbGV0IG1ldGEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdtZXRhJykKICAgICAgICBtZXRhLm5hbWUgPSAndGhlbWUtY29sb3InCiAgICAgICAgbWV0YS5jb250ZW50ID0gJ29rbGNoKC4xMyAuMDI4IDI2MS42OTIpJwogICAgICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQobWV0YSkKICAgICAgfSBlbHNlIGlmICh0aGVtZSA9PT0gJ2xpZ2h0JykgewogICAgICAgIGNsYXNzTGlzdC5hZGQoJ2xpZ2h0JykKCiAgICAgICAgbGV0IG1ldGEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdtZXRhJykKICAgICAgICBtZXRhLm5hbWUgPSAndGhlbWUtY29sb3InCiAgICAgICAgbWV0YS5jb250ZW50ID0gJ3doaXRlJwogICAgICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQobWV0YSkKICAgICAgfSBlbHNlIHsKICAgICAgICBjbGFzc0xpc3QuYWRkKCdzeXN0ZW0nKQoKICAgICAgICBsZXQgbWV0YTEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdtZXRhJykKICAgICAgICBtZXRhMS5uYW1lID0gJ3RoZW1lLWNvbG9yJwogICAgICAgIG1ldGExLmNvbnRlbnQgPSAnb2tsY2goLjEzIC4wMjggMjYxLjY5MiknCiAgICAgICAgbWV0YTEubWVkaWEgPSAnKHByZWZlcnMtY29sb3Itc2NoZW1lOiBkYXJrKScKICAgICAgICBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKG1ldGExKQoKICAgICAgICBsZXQgbWV0YTIgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdtZXRhJykKICAgICAgICBtZXRhMi5uYW1lID0gJ3RoZW1lLWNvbG9yJwogICAgICAgIG1ldGEyLmNvbnRlbnQgPSAnd2hpdGUnCiAgICAgICAgbWV0YTIubWVkaWEgPSAnKHByZWZlcnMtY29sb3Itc2NoZW1lOiBsaWdodCknCiAgICAgICAgZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChtZXRhMikKICAgICAgfQogICAgfQoKICAgIHRyeSB7CiAgICAgIF91cGRhdGVUaGVtZShsb2NhbFN0b3JhZ2UuY3VycmVudFRoZW1lKQogICAgfSBjYXRjaCAoXykge30KCiAgICB0cnkgewogICAgICBpZiAoLyhNYWN8aVBob25lfGlQb2R8aVBhZCkvaS50ZXN0KG5hdmlnYXRvci5wbGF0Zm9ybSkpIHsKICAgICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuY2xhc3NMaXN0LmFkZCgnb3MtbWFjb3MnKQogICAgICB9CiAgICB9IGNhdGNoIChfKSB7fQogIH0K",
+      "https://www.googletagmanager.com/gtag/js?id=G-TMR96VNVMT"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "slot"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://tailwindcss.com/docs",
+        "text": "Docs"
+      },
+      {
+        "href": "https://tailwindcss.com/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://tailwindcss.com/showcase",
+        "text": "Showcase"
+      },
+      {
+        "href": "https://tailwindcss.com/partners",
+        "text": "Partners"
+      },
+      {
+        "href": "https://tailwindcss.com/plus?ref=top",
+        "text": "Plus"
+      },
+      {
+        "href": "https://tailwindcss.com/docs/installation",
+        "text": "Get started"
+      },
+      {
+        "href": "https://tailwindcss.com/docs/installation",
+        "text": "Get started"
+      },
+      {
+        "href": "https://tailwindcss.com/partners",
+        "text": "Become a sponsor"
+      },
+      {
+        "href": "https://openai.com/",
+        "text": "openai.com"
+      },
+      {
+        "href": "https://opalcamera.com/",
+        "text": "opalcamera.com"
+      },
+      {
+        "href": "https://feastables.com/",
+        "text": "feastables.com"
+      },
+      {
+        "href": "https://gumroad.com/",
+        "text": "gumroad.com"
+      },
+      {
+        "href": "https://skims.com/",
+        "text": "skims.com"
+      },
+      {
+        "href": "https://reddit.com/",
+        "text": "reddit.com"
+      },
+      {
+        "href": "https://rivian.com/",
+        "text": "rivian.com"
+      },
+      {
+        "href": "https://shopify.com/",
+        "text": "shopify.com"
+      },
+      {
+        "href": "https://clerk.dev/",
+        "text": "clerk.dev"
+      },
+      {
+        "href": "https://www.theverge.com/",
+        "text": "theverge.com"
+      },
+      {
+        "href": "https://io.google/",
+        "text": "io.google"
+      },
+      {
+        "href": "https://ted.com/",
+        "text": "ted.com"
+      },
+      {
+        "href": "https://poolside.ai/",
+        "text": "poolside.ai"
+      },
+      {
+        "href": "https://midjourney.com/",
+        "text": "midjourney.com"
+      },
+      {
+        "href": "https://www.jpl.nasa.gov/",
+        "text": "jpl.nasa.gov"
+      },
+      {
+        "href": "https://tailwindcss.com/plus?ref=home",
+        "text": "Explore Tailwind Plus"
+      },
+      {
+        "href": "https://tailwindcss.com/docs",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://play.tailwindcss.com/",
+        "text": "Playground"
+      },
+      {
+        "href": "https://tailwindcss.com/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://tailwindcss.com/showcase",
+        "text": "Showcase"
+      },
+      {
+        "href": "https://tailwindcss.com/partners",
+        "text": "Sponsor"
+      },
+      {
+        "href": "https://www.refactoringui.com/",
+        "text": "Refactoring UI"
+      },
+      {
+        "href": "https://headlessui.com/",
+        "text": "Headless UI"
+      },
+      {
+        "href": "https://heroicons.com/",
+        "text": "Heroicons"
+      },
+      {
+        "href": "https://heropatterns.com/",
+        "text": "Hero Patterns"
+      },
+      {
+        "href": "https://tailwindcss.com/plus?ref=footer",
+        "text": "Tailwind Plus"
+      },
+      {
+        "href": "https://tailwindcss.com/plus/ui-blocks?ref=footer",
+        "text": "UI Blocks"
+      },
+      {
+        "href": "https://tailwindcss.com/plus/templates?ref=footer",
+        "text": "Templates"
+      },
+      {
+        "href": "https://tailwindcss.com/plus/ui-kit?ref=footer",
+        "text": "UI Kit"
+      },
+      {
+        "href": "https://github.com/tailwindlabs/tailwindcss",
+        "text": "GitHub"
+      },
+      {
+        "href": "https://tailwindcss.com/partners#insiders",
+        "text": "Discord"
+      },
+      {
+        "href": "https://x.com/tailwindcss",
+        "text": "X"
+      },
+      {
+        "href": "https://tailwindcss.com/docs",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://play.tailwindcss.com/",
+        "text": "Playground"
+      },
+      {
+        "href": "https://tailwindcss.com/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://tailwindcss.com/showcase",
+        "text": "Showcase"
+      },
+      {
+        "href": "https://tailwindcss.com/partners",
+        "text": "Sponsor"
+      },
+      {
+        "href": "https://tailwindcss.com/plus?ref=footer",
+        "text": "Tailwind Plus"
+      },
+      {
+        "href": "https://tailwindcss.com/plus/ui-blocks?ref=footer",
+        "text": "UI Blocks"
+      },
+      {
+        "href": "https://tailwindcss.com/plus/templates?ref=footer",
+        "text": "Templates"
+      },
+      {
+        "href": "https://tailwindcss.com/plus/ui-kit?ref=footer",
+        "text": "UI Kit"
+      },
+      {
+        "href": "https://www.refactoringui.com/",
+        "text": "Refactoring UI"
+      }
+    ],
+    "imageSrcs": [
+      "/_next/static/media/cover.0g8-x6e87bh6a.png",
+      "/_next/static/media/responsive-1.10chodfonif1e.png",
+      "/_next/static/media/responsive-2.0cdenvbjn04n3.png",
+      "/_next/static/media/responsive-3.00654hu_8u-c4.png",
+      "/_next/static/media/responsive-1.10chodfonif1e.png",
+      "/_next/static/media/responsive-2.0cdenvbjn04n3.png",
+      "/_next/static/media/responsive-3.00654hu_8u-c4.png",
+      "/_next/static/media/responsive-4.0tgrujz.2n-61.png",
+      "/_next/static/media/responsive-5.0o6kz.kakewtv.png",
+      "/_next/static/media/filters.17z4w2mm8xht2.png",
+      "/_next/static/media/dark-mode.light.0tx34lu8jwt_1.png",
+      "/_next/static/media/dark-mode.dark.11szx9d7s4zjz.png",
+      "/_next/static/media/css-grid-1.0c8bc8q87-upx.png",
+      "/_next/static/media/css-grid-1.mobile.0oommaznlmjjx.png",
+      "/_next/static/media/css-grid-2.15b-x2ty8.g~z.png",
+      "/_next/static/media/css-grid-3.08b3dk7gkiatg.png",
+      "/_next/static/media/css-grid-4.0iikpmqc8shsg.png",
+      "/_next/static/media/avatar-4.147155nkju-ki.png",
+      "/_next/static/media/avatar-5.0hg2xy51~_xab.png",
+      "/_next/static/media/avatar-6.03.hh~61qqypr.png",
+      "/_next/static/media/avatar-7.0og44ub0nz8ek.png",
+      "/_next/static/media/avatar-1.15~cxxh-ptz0r.png",
+      "/_next/static/media/avatar-2.12imlx8.m5il..png",
+      "/_next/static/media/avatar-3.0co4yvnojd00m.png",
+      "/_next/static/media/3d-transforms.02bsrv~jiqeb9.jpeg",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopenai.0e5et8v5h.soe.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopal.17bsj~5nn-bhl.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeastables.0t-7e0p.xdo0z.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgumroad.02mqjvoidm9od.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fskims.17-pjntproup-.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freddit.0j_xuv2uowcvq.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frivian.0dac8q_85hv7i.png&w=1080&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fshopify.0--7_f_9g4gy7.png&w=1080&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fclerk.0c3y~b1gec0dx.png&w=1080&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fverge.07-a9z7tfaczw.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogleio.0vxfs_7d-fn74.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fted.0ikpe7d7m~~3n.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpoolside.13~g4ne7r787g.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmidjourney.0-hew7ka2ltkt.png&w=640&q=75",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnasa.0rhlq.ak47fm..png&w=640&q=75",
+      "/_next/static/media/templates-col-1.11i0onn5v96dx.png",
+      "/_next/static/media/templates-col-2.0sxzwnoskv8wr.png",
+      "/_next/static/media/templates-col-3.04x.tyuun91h0.png"
+    ],
+    "fontFamilySample": "inter, \"inter Fallback\", system-ui",
+    "bodyTextSample": "v4.3⌘KCtrl KDocsBlogShowcasePartnersPlustext-4xl text-5xl text-6xl text-8xl text-gray-950 text-white tracking-tighter text-balanceRapidly build modern websites without ever leaving your HTML.text-lg text-gray-950text-white font-mediumA utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.Get startedGet startedQuick search⌘KCtrl K<div class=\"flex flex-col items-center rounded-2xl\"> <div> <img class=\"size-48 shadow-xl\" alt=\"\" src=\"/img/cover.png\" /> </div> <div class=\"flex\"> <span>Class Warfare</span> <span>The Anti-Patterns</span> <span class=\"flex\"> <span>No. 4</span> <span>·</span> <span>2025</span> </span> </div></div>Class WarfareThe Anti-PatternsNo. 4·2025text-4xl text-gray-950text-white tracking-tighter text-balanceSponsorsSupported by the best.text-base text-gray-950text-whiteTailwind is supported by incredible partners and sponsors who make it possible for a team of talented designers and engineers to maintain the framework full-time.Become a sponsortext-4xl text-gray-950text-white tracking-tighter text-balanceWhy Tailwind CSS?Built for the modern web.text-base text-gray-950text-whiteTailwind is unapologetically modern, and takes advantage of all the latest and greatest CSS features to make the developer experience as enjoyable as possible.Responsive designOkay, it’s not exactly cutting edge, but just throw a screen size in front of literally any utility to apply it at a specific breakpoint.MobilesmmdlgxlEntire houseBeach House on Lake HuronEntire houseBeach House on Lake Huron2.66(128 reviews)·Bayfield, ONCheck availabilityThis sunny and spacious room is for those traveling light and looking for a comfy and cozy place to lay their head for a night... Show moreShow moreCheck availabilityFiltersWhat’s a website these days without a few backdrop blurs? Keep stacking filters until your designer asks you to please, please stop.blur-smbrightness-150grayscalecont"
+  }
+}

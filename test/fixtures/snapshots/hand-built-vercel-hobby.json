@@ -1,0 +1,19 @@
+{
+  "hostname": "weekend-project-xyz.vercel.app",
+  "title": "My Weekend Project",
+  "generatorMeta": null,
+  "faviconHref": "/favicon.ico",
+  "scriptSrcs": [
+    "/static/js/main.b4c5d6.js"
+  ],
+  "htmlDatasetKeys": [],
+  "bodyDatasetKeys": [],
+  "componentDatasetKeys": [],
+  "builderMarkupHints": [],
+  "badgeLinks": [],
+  "imageSrcs": [
+    "/static/media/photo.jpg"
+  ],
+  "fontFamilySample": "Merriweather, serif",
+  "bodyTextSample": "A small tool I built over the weekend to track my running mileage."
+}

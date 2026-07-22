@@ -1,0 +1,24 @@
+{
+  "hostname": "recipe-finder.someuser.replit.app",
+  "title": "Recipe Finder",
+  "generatorMeta": null,
+  "faviconHref": "/favicon.png",
+  "scriptSrcs": [
+    "/static/bundle.js"
+  ],
+  "htmlDatasetKeys": [],
+  "bodyDatasetKeys": [],
+  "componentDatasetKeys": [],
+  "builderMarkupHints": [],
+  "badgeLinks": [
+    {
+      "href": "https://replit.com",
+      "text": "Made in Replit"
+    }
+  ],
+  "imageSrcs": [
+    "/static/hero.png"
+  ],
+  "fontFamilySample": "system-ui, sans-serif",
+  "bodyTextSample": "Find recipes based on ingredients you already have at home."
+}

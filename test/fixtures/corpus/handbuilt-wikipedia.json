@@ -1,0 +1,249 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Main_Page",
+  "label": "hand-built",
+  "builder": null,
+  "note": "MediaWiki, hand-built, predates AI builders.",
+  "capturedAt": "2026-07-21T17:28:07.426Z",
+  "snapshot": {
+    "hostname": "en.wikipedia.org",
+    "title": "Wikipedia, the free encyclopedia",
+    "generatorMeta": "MediaWiki 1.47.0-wmf.11",
+    "faviconHref": "/static/favicon/wikipedia.ico",
+    "scriptSrcs": [
+      "/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Main_Page#bodyContent",
+        "text": "Jump to content"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Main_Page",
+        "text": "Main page"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+        "text": "Contents"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Current_events",
+        "text": "Current events"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:Random",
+        "text": "Random article"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:About",
+        "text": "About Wikipedia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+        "text": "Contact us"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Contents",
+        "text": "Help"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Introduction",
+        "text": "Learn to edit"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+        "text": "Community portal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+        "text": "Recent changes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+        "text": "Upload file"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+        "text": "Special pages"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:Search",
+        "text": "Search"
+      },
+      {
+        "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+        "text": "Donate"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "text": "Create account"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "text": "Log in"
+      },
+      {
+        "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+        "text": "Donate"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "text": "Create account"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "text": "Log in"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Main_Page",
+        "text": "Main Page"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Talk:Main_Page",
+        "text": "Talk"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Main_Page",
+        "text": "Read"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&action=edit",
+        "text": "View source"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&action=history",
+        "text": "View history"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Main_Page",
+        "text": "Read"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&action=edit",
+        "text": "View source"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&action=history",
+        "text": "View history"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Main_Page",
+        "text": "What links here"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page",
+        "text": "Related changes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+        "text": "Upload file"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1358980925",
+        "text": "Permanent link"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&action=info",
+        "text": "Page information"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Main_Page&id=1358980925&wpFormIdentifier=titleform",
+        "text": "Cite this page"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMain_Page",
+        "text": "Get shortened URL"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&useparsoid=0",
+        "text": "Switch to legacy parser"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q5296#sitelinks-wikipedia",
+        "text": "Edit interlanguage links"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Main_Page&action=show-download-screen",
+        "text": "Download as PDF"
+      },
+      {
+        "href": "https://en.wikipedia.org/w/index.php?title=Main_Page&printable=yes",
+        "text": "Printable version"
+      },
+      {
+        "href": "https://abstract.wikipedia.org/wiki/Abstract_Wikipedia:Main_page",
+        "text": "Abstract Wikipedia"
+      },
+      {
+        "href": "https://commons.wikimedia.org/wiki/Main_Page",
+        "text": "Wikimedia Commons"
+      },
+      {
+        "href": "https://foundation.wikimedia.org/wiki/Home",
+        "text": "Wikimedia Foundation"
+      },
+      {
+        "href": "https://www.mediawiki.org/wiki/MediaWiki",
+        "text": "MediaWiki"
+      },
+      {
+        "href": "https://meta.wikimedia.org/wiki/Main_Page",
+        "text": "Meta-Wiki"
+      },
+      {
+        "href": "https://outreach.wikimedia.org/wiki/Main_Page",
+        "text": "Wikimedia Outreach"
+      },
+      {
+        "href": "https://wikisource.org/wiki/Wikisource:Main_Page",
+        "text": "Multilingual Wikisource"
+      },
+      {
+        "href": "https://species.wikimedia.org/wiki/Main_Page",
+        "text": "Wikispecies"
+      },
+      {
+        "href": "https://en.wikibooks.org/wiki/Main_Page",
+        "text": "Wikibooks"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+        "text": "Wikidata"
+      },
+      {
+        "href": "https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page",
+        "text": "Wikifunctions"
+      }
+    ],
+    "imageSrcs": [
+      "/static/images/icons/enwiki-25.svg",
+      "/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+      "/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ujelan.jpg/250px-Ujelan.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Niu_Yu_%282024%29_03.jpg/120px-Niu_Yu_%282024%29_03.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg/250px-Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yuen_Long_Station_White_Tee_people_attack_citizen_in_platform_20190721.png/250px-Yuen_Long_Station_White_Tee_people_attack_citizen_in_platform_20190721.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-20%2C_DD_29.jpg/960px-Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-20%2C_DD_29.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-29%2C_DD_32.jpg/960px-Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-29%2C_DD_32.jpg",
+      "//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/40px-MediaWiki-2020-icon.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wikifunctions-logo.svg/40px-Wikifunctions-logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/60px-Wikiversity_logo_2017.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png",
+      "/static/images/footer/wikimedia.svg",
+      "/w/resources/assets/mediawiki_compact.svg"
+    ],
+    "fontFamilySample": "sans-serif",
+    "bodyTextSample": "Jump to content Main menu Main menu move to sidebar hide Navigation Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us Contribute HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Main Page Main Page Talk English Read View source View history Tools Tools move to sidebar hide Actions Read View source View history General What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLSwitch to legacy parser Edit interlanguage links Print/export Download as PDFPrintable version In other projects Abstract WikipediaWikimedia CommonsWikimedia FoundationMediaWikiMeta-WikiWikimedia OutreachMultilingual WikisourceWikispeciesWikibooksWikidataWikifunctionsWikimaniaWikinewsWikiquoteWikisourceWikiversityWikivoyageWiktionaryWikidata item Appearance move to sidebar hide TextSmallStandardLargeThis page always uses small font sizeWidthStandardWideThe content is as wide as possible for your browser window.Color AutomaticLightDarkThis page is always in light mode. From Wikipedia, the free encyclopedia .mw-parser-output .mp-box{border:1px solid #aaa;padding:0 0.5em 0.5em;margin-top:4px}.mw-parser-output .mp-h2,body.skin-timeless .mw-parser-output .mp-h2{border:1px solid #aaa;margin:0.5em 0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;font-family:inherit}.mw-parser-output .mp-later{font-size:85%;font-weight:normal}.mw-parser-output #mp-welcomecount{text-align:center;margin:0.4em}.mw-parser-output #mp-welcome{font-size:162%;padding:0.1em}.mw-parser-output #mp-welcome h1,.mw-parser-output #mp-welcome .mw-heading1{font-size:inherit;font-family:inherit;display:inline;border:none}.mw-parser-output #mp-free{font-size:95%}.mw-parser-output #articlecount{font-size:85%}.mw-parser-output #articlecount>ul{margin:0;padding:0}.mw-parser-output #articlecount>ul>li{margin:0;display:inline}.mw-parser-output #articlecoun"
+  }
+}

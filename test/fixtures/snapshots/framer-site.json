@@ -1,0 +1,33 @@
+{
+  "hostname": "studio-nine.framer.app",
+  "title": "Studio Nine — Interior Design",
+  "generatorMeta": "Framer",
+  "faviconHref": "https://framerusercontent.com/images/favicon.png",
+  "scriptSrcs": [
+    "https://events.framer.com/script",
+    "/chunks/framer-runtime.js"
+  ],
+  "htmlDatasetKeys": [
+    "framerHydrateV2",
+    "framerAppearId"
+  ],
+  "bodyDatasetKeys": [
+    "framerRootWidth"
+  ],
+  "componentDatasetKeys": [],
+  "builderMarkupHints": [
+    "framer"
+  ],
+  "badgeLinks": [
+    {
+      "href": "https://www.framer.com",
+      "text": "Made in Framer"
+    }
+  ],
+  "imageSrcs": [
+    "https://framerusercontent.com/images/abc123.jpg",
+    "https://framerusercontent.com/images/def456.jpg"
+  ],
+  "fontFamilySample": "GT Walsheim, sans-serif",
+  "bodyTextSample": "We craft interiors that feel like home. Book a consultation with our design team."
+}

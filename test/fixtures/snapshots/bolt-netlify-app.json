@@ -1,0 +1,19 @@
+{
+  "hostname": "cheerful-narwhal-42a1b9.netlify.app",
+  "title": "Vite + React + TS",
+  "generatorMeta": null,
+  "faviconHref": "/vite.svg",
+  "scriptSrcs": [
+    "/assets/index-9f8e7d.js"
+  ],
+  "htmlDatasetKeys": [],
+  "bodyDatasetKeys": [],
+  "componentDatasetKeys": [],
+  "builderMarkupHints": [],
+  "badgeLinks": [],
+  "imageSrcs": [
+    "/assets/hero-illustration.svg"
+  ],
+  "fontFamilySample": "Inter, sans-serif",
+  "bodyTextSample": "Welcome to your new app. Sign up now to unlock the full experience."
+}

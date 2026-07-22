@@ -1,0 +1,21 @@
+{
+  "hostname": "growthstack-demo.vercel.app",
+  "title": "GrowthStack — Revolutionize Your Workflow",
+  "generatorMeta": null,
+  "faviconHref": "/favicon.ico",
+  "scriptSrcs": [
+    "/static/js/main.a1b2c3.js"
+  ],
+  "htmlDatasetKeys": [],
+  "bodyDatasetKeys": [],
+  "componentDatasetKeys": [],
+  "builderMarkupHints": [],
+  "badgeLinks": [],
+  "imageSrcs": [
+    "https://i.pravatar.cc/150?u=jane",
+    "https://i.pravatar.cc/150?u=mark",
+    "https://i.pravatar.cc/150?u=priya"
+  ],
+  "fontFamilySample": "Poppins, sans-serif",
+  "bodyTextSample": "Revolutionize your workflow with our cutting-edge platform. Supercharge productivity and unlock the power of seamless collaboration. Elevate your team to the next level."
+}

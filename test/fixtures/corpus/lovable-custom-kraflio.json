@@ -1,0 +1,222 @@
+{
+  "url": "https://kraflio.com",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Listed on madewithlovable.com showcase; custom domain.",
+  "capturedAt": "2026-07-21T17:27:13.845Z",
+  "snapshot": {
+    "hostname": "kraflio.com",
+    "title": "AI Content Generator for LinkedIn, YouTube, Instagram, TikTok, X & Bluesky | Kraflio",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.png?v=3",
+    "scriptSrcs": [
+      "/assets/index-BfUTGQ7N.js",
+      "https://script.supademo.com/supademo.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://kraflio.com/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://kraflio.com/#pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://kraflio.com/affiliates",
+        "text": "Affiliates"
+      },
+      {
+        "href": "https://kraflio.com/#faq",
+        "text": "FAQ"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Sign In"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://www.producthunt.com/posts/krafl-io",
+        "text": "Featured on Product Hunt"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://kraflio.com/#pricing",
+        "text": "See Plans"
+      },
+      {
+        "href": "https://kraflio.com/privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "https://kraflio.com/terms",
+        "text": "Terms"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Use now →"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Use now →"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Use now →"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Use now →"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Use now →"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Use now →"
+      },
+      {
+        "href": "https://t.me/KraflioBot",
+        "text": "Open the Telegram bot"
+      },
+      {
+        "href": "https://t.me/KraflioBot",
+        "text": "Try on Telegram"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://kraflio.com/contact",
+        "text": "30% off →"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Start Free"
+      },
+      {
+        "href": "https://kraflio.com/#pricing",
+        "text": "See Plans"
+      },
+      {
+        "href": "https://kraflio.com/affiliates",
+        "text": "Become an affiliate"
+      },
+      {
+        "href": "https://kraflio.com/#features",
+        "text": "Features"
+      },
+      {
+        "href": "https://kraflio.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://kraflio.com/affiliates",
+        "text": "Affiliates"
+      },
+      {
+        "href": "https://kraflio.com/#faq",
+        "text": "FAQ"
+      },
+      {
+        "href": "https://kraflio.com/how-to-auto-publish-linkedin-posts-with-ai",
+        "text": "Auto-publish guide"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.kraflio.app&utm_source=website&utm_medium=footer_link&utm_campaign=android_launch",
+        "text": "Android App"
+      },
+      {
+        "href": "https://t.me/KraflioBot",
+        "text": "Telegram Bot"
+      },
+      {
+        "href": "https://kraflio.com/auth",
+        "text": "Web App"
+      },
+      {
+        "href": "https://kraflio.com/vs-taplio",
+        "text": "vs Taplio"
+      },
+      {
+        "href": "https://kraflio.com/vs-buffer",
+        "text": "vs Buffer"
+      },
+      {
+        "href": "https://kraflio.com/vs-hootsuite",
+        "text": "vs Hootsuite"
+      },
+      {
+        "href": "https://kraflio.com/vs-jasper",
+        "text": "vs Jasper"
+      },
+      {
+        "href": "https://kraflio.com/vs-easygen",
+        "text": "vs EasyGen"
+      },
+      {
+        "href": "https://kraflio.com/best-ai-tools-for-linkedin-content",
+        "text": "Buyer's guide"
+      },
+      {
+        "href": "https://kraflio.com/how-to-make-ai-write-in-your-voice",
+        "text": "Write in your voice"
+      },
+      {
+        "href": "https://kraflio.com/will-people-know-you-used-ai",
+        "text": "Will people know you used AI?"
+      },
+      {
+        "href": "https://kraflio.com/alternatives",
+        "text": "All alternatives →"
+      },
+      {
+        "href": "https://kraflio.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://kraflio.com/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://kraflio.com/terms",
+        "text": "Terms of Service"
+      },
+      {
+        "href": "https://kraflio.com/contact",
+        "text": "Contact"
+      }
+    ],
+    "imageSrcs": [
+      "/logo-blue.png?v=4",
+      "/landing/google-play-badge.png",
+      "/landing/multiplatform-result.png",
+      "/landing/google-play-badge.png",
+      "/logo-blue.png?v=4",
+      "/landing/google-play-badge.png",
+      "/assets/Avatar_MissKraft-BrhftlH6.png"
+    ],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "FeaturesPricingAffiliatesFAQSign InStart FreeFeatured on Product HuntWrite once. Be omnipresent.Content That Sounds Like YOUAcross Every PlatformYour Distribution EngineWrite once in your voice, then AutoPost to LinkedIn, X, Bluesky & Instagram at once — be omnipresent. Create AI images in your voice, add Instagram carousels, or paste a YouTube/TikTok link for a voice-matched description + thumbnail.Start FreeSee PlansFree 7-day trial at signup — no card needed. · Privacy · TermsPlatformsOne Voice, Every PlatformGenerate in your voice on all six. AutoPost directly to LinkedIn, X, Bluesky & Instagram.LinkedInAutoPostUse now →YouTubeGenerateUse now →InstagramAutoPostUse now →TikTokGenerateUse now →XAutoPostUse now →BlueskyAutoPostUse now →Also on TelegramGenerate for any platform from chat — send a topic, voice note, image, or link.You can start right in Telegram — onboarding on the web unlocks the most (voice profiles, Brand Kit). Telegram helps you connect your accounts and works best once set up.Open the Telegram botKraflio is an AI-powered multi-platform content engine that learns your writing voice and generates publication-ready posts for LinkedIn, YouTube, Instagram, TikTok, X, and Bluesky.Find Your Voice HereYour Voice, LearnedSTEP 1Import or paste your samplesLinkedIn posts, YouTube scripts, Instagram captions, blog articles, anything you've written.STEP 2We learn your voiceTone, hooks, sentence rhythm, signature phrases, emoji style — everything that makes your writing yours.STEP 3We write like youAcross every platform, every time. Not generic AI. You.Drop in samples of how you write — LinkedIn posts, YouTube scripts, Instagram captions, blog articles. Kraflio learns your voice and creates content that sounds like you, not generic AI.app.kraflio.comSee it in action — Create & PublishInteractive walkthrough · no signupSee the DifferenceGeneric AI vs. Your VoiceSame topic. Same AI. The only difference? Kraflio learned how you write.Generic AIAIGeneric UserProf"
+  }
+}
