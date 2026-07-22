@@ -1,0 +1,265 @@
+{
+  "url": "https://github.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Elle yazılmış, AI builder öncesi.",
+  "capturedAt": "2026-07-22T12:32:34.610Z",
+  "snapshot": {
+    "hostname": "github.com",
+    "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+    "generatorMeta": null,
+    "faviconHref": "https://github.githubassets.com/favicons/favicon.png",
+    "scriptSrcs": [
+      "https://github.githubassets.com/assets/high-contrast-cookie-9d73b8ae1abef9dc.js",
+      "https://github.githubassets.com/assets/environment-4d15d1c58ac3e8eb.js",
+      "https://github.githubassets.com/assets/github-elements-c9bba4832f1d1dca.js",
+      "https://github.githubassets.com/assets/element-registry-f92d8fb6635176fb.js",
+      "https://github.githubassets.com/assets/behaviors-0c9e3a93d40f4852.js",
+      "https://github.githubassets.com/assets/marketing-essentials-07e6a3b07eb1c9a6.js",
+      "https://github.githubassets.com/assets/landing-pages-b67d30cee3d5f6c1.js",
+      "https://github.githubassets.com/assets/global-banner-disable-746737b0f4a6c543.js",
+      "https://github.githubassets.com/assets/sessions-1a43e1c76eca25d1.js"
+    ],
+    "htmlDatasetKeys": [
+      "colorMode",
+      "darkTheme",
+      "lightTheme",
+      "a11yAnimatedImages",
+      "a11yLinkUnderlines",
+      "turboLoaded"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://github.com/#start-of-content",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://github.com/login",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://github.com/features/copilot",
+        "text": "GitHub CopilotWrite better code with AI"
+      },
+      {
+        "href": "https://github.com/features/ai/github-app",
+        "text": "GitHub Copilot appDirect agents from issue to merge"
+      },
+      {
+        "href": "https://github.com/mcp",
+        "text": "MCP RegistryNewIntegrate external tools"
+      },
+      {
+        "href": "https://github.com/features/actions",
+        "text": "ActionsAutomate any workflow"
+      },
+      {
+        "href": "https://github.com/features/codespaces",
+        "text": "CodespacesInstant dev environments"
+      },
+      {
+        "href": "https://github.com/features/issues",
+        "text": "IssuesPlan and track work"
+      },
+      {
+        "href": "https://github.com/features/code-review",
+        "text": "Code ReviewManage code changes"
+      },
+      {
+        "href": "https://github.com/features/code-quality",
+        "text": "Code QualityEnforce quality at merge"
+      },
+      {
+        "href": "https://github.com/security/advanced-security",
+        "text": "GitHub Advanced SecurityFind and fix vulnerabilities"
+      },
+      {
+        "href": "https://github.com/security/advanced-security/code-security",
+        "text": "Code securitySecure your code as you build"
+      },
+      {
+        "href": "https://github.com/security/advanced-security/secret-protection",
+        "text": "Secret protectionStop leaks before they start"
+      },
+      {
+        "href": "https://github.com/why-github",
+        "text": "Why GitHub"
+      },
+      {
+        "href": "https://docs.github.com/",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://github.blog/",
+        "text": "Blog"
+      },
+      {
+        "href": "https://github.blog/changelog",
+        "text": "Changelog"
+      },
+      {
+        "href": "https://github.com/marketplace",
+        "text": "Marketplace"
+      },
+      {
+        "href": "https://github.com/features",
+        "text": "View all features"
+      },
+      {
+        "href": "https://github.com/enterprise",
+        "text": "Enterprises"
+      },
+      {
+        "href": "https://github.com/team",
+        "text": "Small and medium teams"
+      },
+      {
+        "href": "https://github.com/enterprise/startups",
+        "text": "Startups"
+      },
+      {
+        "href": "https://github.com/solutions/industry/nonprofits",
+        "text": "Nonprofits"
+      },
+      {
+        "href": "https://github.com/solutions/use-case/app-modernization",
+        "text": "App Modernization"
+      },
+      {
+        "href": "https://github.com/solutions/use-case/devsecops",
+        "text": "DevSecOps"
+      },
+      {
+        "href": "https://github.com/solutions/use-case/devops",
+        "text": "DevOps"
+      },
+      {
+        "href": "https://github.com/solutions/use-case/ci-cd",
+        "text": "CI/CD"
+      },
+      {
+        "href": "https://github.com/solutions/use-case",
+        "text": "View all use cases"
+      },
+      {
+        "href": "https://github.com/solutions/industry/healthcare",
+        "text": "Healthcare"
+      },
+      {
+        "href": "https://github.com/solutions/industry/financial-services",
+        "text": "Financial services"
+      },
+      {
+        "href": "https://github.com/solutions/industry/manufacturing",
+        "text": "Manufacturing"
+      },
+      {
+        "href": "https://github.com/solutions/industry/government",
+        "text": "Government"
+      },
+      {
+        "href": "https://github.com/solutions/industry",
+        "text": "View all industries"
+      },
+      {
+        "href": "https://github.com/solutions",
+        "text": "View all solutions"
+      },
+      {
+        "href": "https://github.com/resources/articles?topic=ai",
+        "text": "AI"
+      },
+      {
+        "href": "https://github.com/resources/articles?topic=software-development",
+        "text": "Software Development"
+      },
+      {
+        "href": "https://github.com/resources/articles?topic=devops",
+        "text": "DevOps"
+      },
+      {
+        "href": "https://github.com/resources/articles?topic=security",
+        "text": "Security"
+      },
+      {
+        "href": "https://github.com/resources/articles",
+        "text": "View all topics"
+      },
+      {
+        "href": "https://github.com/customer-stories",
+        "text": "Customer stories"
+      },
+      {
+        "href": "https://github.com/resources/events",
+        "text": "Events & webinars"
+      },
+      {
+        "href": "https://github.com/resources/whitepapers",
+        "text": "Ebooks & reports"
+      },
+      {
+        "href": "https://github.com/solutions/executive-insights",
+        "text": "Business insights"
+      },
+      {
+        "href": "https://skills.github.com/",
+        "text": "GitHub Skills"
+      },
+      {
+        "href": "https://docs.github.com/",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://support.github.com/",
+        "text": "Customer support"
+      },
+      {
+        "href": "https://github.com/orgs/community/discussions",
+        "text": "Community forum"
+      },
+      {
+        "href": "https://github.com/trust-center",
+        "text": "Trust center"
+      },
+      {
+        "href": "https://github.com/partners",
+        "text": "Partners"
+      },
+      {
+        "href": "https://github.com/resources",
+        "text": "View all resources"
+      }
+    ],
+    "imageSrcs": [
+      "https://github.githubassets.com/assets/particles-170bd1fd231f4669.png",
+      "//images.ctfassets.net/8aevphvgewt8/g1XhuDG7foMyNWIEIpGJj/b40a790b854d0803704deb7905b1bd82/logo-duolingo-14477f9e54a6.svg",
+      "//images.ctfassets.net/8aevphvgewt8/6Qr8Snm4JceoMFRJhapgFa/802ded1d2c486a9d0a4c073d9f8f38f4/logo-gartner-aa8c2e452b64.svg",
+      "//images.ctfassets.net/8aevphvgewt8/1Dt1ncaR6ZM4dQvknFzfBI/e5c2092be5bd53881622eced4fd37564/accordion-1-ce487d44c0bf.webp",
+      "//images.ctfassets.net/8aevphvgewt8/1uXZYDy7dMcH9QwxuAU06F/1cb167cc60d725b8cf7089faf9a4ed06/accordion-2-730955545f07.webp",
+      "//images.ctfassets.net/8aevphvgewt8/3xzVZaJhqo3B62R8NeHjX2/e37c81e4f26e9dac2aff1f23a0243087/accordion-3-52ca331d22ea.webp",
+      "//images.ctfassets.net/8aevphvgewt8/3cgNgdKFqflI27vyDh4Gpa/c459dc8690133e7663b8db2626cf2045/accordion-4-a26744b70ff7.webp",
+      "https://github.githubassets.com/assets/particles-170bd1fd231f4669.png",
+      "//images.ctfassets.net/8aevphvgewt8/5mzhSO4avmXBwkFsMzgXkW/91991e6258f14f54d23840b6c13c3013/hero-64ecd484397f.webp",
+      "//images.ctfassets.net/8aevphvgewt8/6WnLu9nlnemjCltZkd8lCi/b18034be25552e118a36f6617e1f84df/pillar-1-dd667a921f55.webp",
+      "//images.ctfassets.net/8aevphvgewt8/1o2Eid4RQteCr6iZ7wVauW/3c04a760442c81036d98e70c0c986a8b/pillar-2-ff69e872920a.webp",
+      "//images.ctfassets.net/8aevphvgewt8/3WaMDk5JuZzhaKfpRgibKz/c179c5841373ec1fd37c839bdb24a7b4/pillar-3-0a063e2daae2.webp",
+      "https://github.githubassets.com/assets/particles-170bd1fd231f4669.png",
+      "//images.ctfassets.net/8aevphvgewt8/3ip0mnsbUMonRTsbnnIkOh/a940b7a975a801c8829c113d9799873d/hero-961322485af6.webp",
+      "//images.ctfassets.net/8aevphvgewt8/5suLHnkyPm3laA8qENQmMZ/6b267a9e449ae94968dd85c8f96fb64e/accordion-1-38ad6b6d1b20.webp",
+      "//images.ctfassets.net/8aevphvgewt8/20DkYnWbPsbb8mdDnIs32f/a43850b7e0e8e45ec87761d1ba91e19b/accordion-2-c0a62cfc31a1.webp",
+      "//images.ctfassets.net/8aevphvgewt8/39mo3IRGhK995HzuwZANhY/cabfd393551e0d2aae92bc105121ca9c/accordion-3-5d5d222f1830.webp",
+      "//images.ctfassets.net/8aevphvgewt8/7GOAeyecyEQqY12hHwvwXg/69877012458c9d42916b2a18e0e36a37/accordion-4-7abff9233556.webp",
+      "//images.ctfassets.net/8aevphvgewt8/5m9WKL1QJeiDrnxuL9pBux/f7336610c32283d86c71235c0d54ee16/figma.webp",
+      "//images.ctfassets.net/8aevphvgewt8/2xNJHobFMxrvAwj534sNMo/753fcd3beb5fd223d1d2ed918b868a5f/figma.svg",
+      "//images.ctfassets.net/8aevphvgewt8/2so1SgbMPgAN2M091ep1YR/3c268f706e7a53fb79276b863e0c9436/mercedes-benz.webp",
+      "//images.ctfassets.net/8aevphvgewt8/55wg5e2VhUvAbJBG0coTRy/9ced78d7b1f86bc72f214401ad57e69e/mercedes-benz.svg",
+      "//images.ctfassets.net/8aevphvgewt8/6qeISSuZ9JWsaytftY1gqk/bd5f4532732d5cf163c8e1a2557f42ba/mercado-libre.webp",
+      "//images.ctfassets.net/8aevphvgewt8/1kTDnd4nwOET5gPSpPk5z9/dc7d84e7c31e4ece4a9db441728c8e97/mercado-libre.svg"
+    ],
+    "fontFamilySample": "\"Mona Sans VF\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+    "bodyTextSample": "Skip to content {\"props\":{\"docsUrl\":\"https://docs.github.com/get-started/accessibility/keyboard-shortcuts\"}} {\"props\":{\"logged_in\":false,\"current_path\":\"/\",\"locale\":\"en\",\"is_staff\":false}} /* Override primer focus outline color for marketing header dropdown links for better contrast */ [data-color-mode=\"light\"] .HeaderMenu-dropdown-link:focus-visible, [data-color-mode=\"light\"] .HeaderMenu-trailing-link a:focus-visible { outline-color: var(--color-accent-fg); } Navigation Menu Toggle navigation Sign in {\"props\":{\"should_use_dotcom_links\":true}} PlatformAI CODE CREATIONGitHub CopilotWrite better code with AIGitHub Copilot appDirect agents from issue to mergeMCP RegistryNewIntegrate external toolsDEVELOPER WORKFLOWSActionsAutomate any workflowCodespacesInstant dev environmentsIssuesPlan and track workCode ReviewManage code changesCode QualityEnforce quality at mergeAPPLICATION SECURITYGitHub Advanced SecurityFind and fix vulnerabilitiesCode securitySecure your code as you buildSecret protectionStop leaks before they startEXPLOREWhy GitHubDocumentationBlogChangelogMarketplaceView all featuresSolutionsBY COMPANY SIZEEnterprisesSmall and medium teamsStartupsNonprofitsBY USE CASEApp ModernizationDevSecOpsDevOpsCI/CDView all use casesBY INDUSTRYHealthcareFinancial servicesManufacturingGovernmentView all industriesView all solutionsResourcesEXPLORE BY TOPICAISoftware DevelopmentDevOpsSecurityView all topicsEXPLORE BY TYPECustomer storiesEvents & webinarsEbooks & reportsBusiness insightsGitHub SkillsSUPPORT & SERVICESDocumentationCustomer supportCommunity forumTrust centerPartnersView all resourcesOpen SourceCOMMUNITYGitHub SponsorsFund open source developersPROGRAMSSecurity LabMaintainer CommunityAcceleratorGitHub StarsArchive ProgramREPOSITORIESTopicsTrendingCollectionsEnterpriseENTERPRISE SOLUTIONSEnterprise platformAI-powered developer platformAVAILABLE ADD-ONSGitHub Advanced SecurityEnterprise-grade security featuresCopilot for BusinessEnterprise-grade AI featuresPremium"
+  }
+}

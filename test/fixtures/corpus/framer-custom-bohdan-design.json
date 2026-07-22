@@ -1,0 +1,104 @@
+{
+  "url": "https://bohdan.design",
+  "label": "ai-built",
+  "builder": "framer",
+  "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak.",
+  "capturedAt": "2026-07-22T12:31:52.659Z",
+  "snapshot": {
+    "hostname": "bohdan.design",
+    "title": "Bogdan Skripka",
+    "generatorMeta": "Framer a9436a1",
+    "faviconHref": "https://framerusercontent.com/images/12XQ48P74AR5pwn1pghHVqq8UU.png",
+    "scriptSrcs": [
+      "https://www.googletagmanager.com/gtag/js?id=G-56LCLHXPKW",
+      "https://events.framer.com/script?v=2",
+      "https://framerusercontent.com/sites/2dSXdpn3S4Jjy3VTRLiuwb/script_main.DA8ihZCu.mjs"
+    ],
+    "htmlDatasetKeys": [
+      "redirectTimezone"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [
+      "framer"
+    ],
+    "badgeLinks": [
+      {
+        "href": "https://bohdan.design/work/finance#start",
+        "text": "↳ Case study↳ Case study"
+      },
+      {
+        "href": "https://bohdan.design/work/filiatix",
+        "text": "↳ Case study↳ Case study"
+      },
+      {
+        "href": "https://bohdan.design/work/finance#start",
+        "text": "↳ Case study↳ Case study"
+      },
+      {
+        "href": "https://bohdan.design/",
+        "text": "BohdanBohdanSkrypkaSkrypka"
+      },
+      {
+        "href": "https://www.linkedin.com/in/bhdnskrpk/",
+        "text": "Linkedin"
+      },
+      {
+        "href": "https://bohdan.design/cv",
+        "text": "CV"
+      },
+      {
+        "href": "https://www.linkedin.com/in/bhdnskrpk/",
+        "text": "Linkedin"
+      },
+      {
+        "href": "https://bohdan.design/cv",
+        "text": "CV"
+      }
+    ],
+    "imageSrcs": [
+      "https://framerusercontent.com/images/rTxVOP8mPaw03FmuMqkIg1aUc.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/cSrRsoQh0p2gHt1UHymwnTqHVt4.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/iutANSWoqZVIqVONE5ciPRkXE.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/6GffK2wrxr1kwajpDsCQSEeBqKo.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/LLrpGCQvmNGoIjhM9dreIJLiBw.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/wKNWW6LZszFJvgAmeITIQzLjPqE.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/2VwKA9ixz9G8ciT8qDB6CsvP4.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/LrktD6XCSXfrmZd20yz1O8uNds.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/NZ6b64MegPRUpep0UJP6O6W06OM.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/KhxTqqliiMezzQtc41gcoJ65CBY.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/U9OMJ4IREiSzOPdRrxEsVkj7Fwo.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/U2RBbXa6gfHpijPIpl1py0YOkE.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/Flpfc3jH1rlNuP9khTv7WUnwG8.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/BdbPhYLAseCrXpfBoFjtgrtsZwA.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/ocSp2wPMJ52y7EJb77LnbI1LnA4.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/4Tn4ZlGBhXq5y7TrVY5kcZxu500.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/tR3nIBWXjXJOfgFPLMXi3JcS1M.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/vsLq27UjjMhQaiA2Eq9jtOMxNPc.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/iPEvmNiPvC3ZqZNtogp2ucfTdJM.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/VMG39nI44ac7vj9apzjK9rGVyE.png?width=2048&height=1536",
+      "https://framerusercontent.com/images/4Tn4ZlGBhXq5y7TrVY5kcZxu500.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/tR3nIBWXjXJOfgFPLMXi3JcS1M.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/vsLq27UjjMhQaiA2Eq9jtOMxNPc.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/iPEvmNiPvC3ZqZNtogp2ucfTdJM.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/AdhywAi36yniRFfGByd3UPhPo.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/U9OMJ4IREiSzOPdRrxEsVkj7Fwo.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/U2RBbXa6gfHpijPIpl1py0YOkE.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/Flpfc3jH1rlNuP9khTv7WUnwG8.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/BdbPhYLAseCrXpfBoFjtgrtsZwA.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/ocSp2wPMJ52y7EJb77LnbI1LnA4.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/wKNWW6LZszFJvgAmeITIQzLjPqE.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/2VwKA9ixz9G8ciT8qDB6CsvP4.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/LrktD6XCSXfrmZd20yz1O8uNds.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/NZ6b64MegPRUpep0UJP6O6W06OM.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/KhxTqqliiMezzQtc41gcoJ65CBY.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/rTxVOP8mPaw03FmuMqkIg1aUc.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/cSrRsoQh0p2gHt1UHymwnTqHVt4.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/iutANSWoqZVIqVONE5ciPRkXE.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/6GffK2wrxr1kwajpDsCQSEeBqKo.jpg?width=1524&height=1524",
+      "https://framerusercontent.com/images/LLrpGCQvmNGoIjhM9dreIJLiBw.jpg?width=1524&height=1524"
+    ],
+    "fontFamilySample": "sans-serif",
+    "bodyTextSample": ":root body { background: var(--token-37e16dc8-ae3e-4abd-b42e-04c31f6ec955, rgb(255, 255, 255)); }html body { background: var(--token-3e9ea0cd-a8ca-49ea-a41e-da4a7563399e, rgb(18, 17, 17)); }I maketechmoreBUILT TO PERFORMA product designer shaping experiences users choose and competitors chase.humanbytyingdigitalproducts BUILT TO PERFORMI create data-driven designs that deliver measurable results and meaningful connections.andHUMAN FIRSTI design with empathy to make user experience feel natural and frictionless.peoplewithfoolproofSMOOTH EXPERIENCEI make digital products effortless to use, so people focus on what truly matters.interfacesSelected workHuman-centered design for measurable growth.Where clarity, empathy, and business sense come together.Because when experiences feel right, results follow._Finance.ua_012345_Filiatix_012345_Multi_012345_Minfin_012345SECURE DASHBOARD FOR TRAFFIC MANAGEMENT A showcase of my Figma skills and product-driven design approach for a traffic management platform↳ Case study↳ Case studyIMPACT+60%UPSELL REVENUE+40%CHECKOUT CONVERSION-30%ORDER FILLING TIMECONVERTING FREE USERS TO PAID Currency exchange service redesign that led to a 70% increase in paid plan sales, even with a 50% price increase.Coming soonIMPACT+70%MONTHLY REVENUE+30%CTA ENGAGEMENT+10%MAULOWERING THE BARRIER TO INVEST Designed an in-app tutorial and simplified the buy/sell flow to help novice investors understand basic trading concepts and feel confident placing their first trades.Coming soonIMPACT+24%TRADE COMPLETION RATE−31%DROP-OFF IN BUY/SELL FLOW+18%AVERAGE TRANSACTIONS PER USERSECURE DASHBOARD FOR TRAFFIC MANAGEMENT A showcase of my Figma skills and product-driven design approach for a traffic management platform↳ Case study↳ Case studyGROWING REVENUE IN AN INSURANCE MARKETPLACE How my design increased upsell revenue by 60% and checkout conversion by 40% with the simplest and most straightforward insurance-buying process available.↳ Case study↳ Case studyIMPACT+60"
+  }
+}

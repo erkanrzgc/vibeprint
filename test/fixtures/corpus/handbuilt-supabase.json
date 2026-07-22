@@ -1,0 +1,302 @@
+{
+  "url": "https://supabase.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD: modern SaaS, shadcn/Radix + koyu tema.",
+  "capturedAt": "2026-07-22T12:32:41.343Z",
+  "snapshot": {
+    "hostname": "supabase.com",
+    "title": "Supabase | The Postgres Development Platform",
+    "generatorMeta": null,
+    "faviconHref": "/favicon/favicon.ico",
+    "scriptSrcs": [
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/455b9f97-1a150e8bfd7a7b15.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/2722-d4d76ef08f3f14af.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/main-app-79e213aaf0951f8a.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/72c6b85c-92bc651b08518d06.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/d0d393d5-7826557590c7095c.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/9360-c4f75e793e043d0e.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/8572-faf33030777a2bfc.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/5065-0bd4ae228e481833.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/1017-668dc6546b86a7bf.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/4627-371a379335f0ee46.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/2719-4eeb03aaf7d53f85.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/3338-90bfedcbaae8b912.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/4018-dedd0309621cefa0.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/1762-8eb68a43db1356a4.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/6434-56b064d309218547.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/2163-d0590267b9e5dbdb.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/1811-f15782ea096b6817.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/409-1b8c6ab3f3be68d0.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/app/layout-74faac4c45d1216b.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/9136-76fb12d5e2fd1a03.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7",
+      "https://frontend-assets.supabase.com/www/d847c4846455/_next/static/chunks/webpack-d75b7298215791d1.js?dpl=dpl_9gTjcuzobWRsLiG4H71HHfW8vVZ7"
+    ],
+    "htmlDatasetKeys": [
+      "theme"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://supabase.com/privacy#8-cookies-and-similar-technologies-used-on-our-european-services",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://supabase.com/privacy#8-cookies-and-similar-technologies-used-on-our-european-services",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://supabase.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://supabase.com/docs",
+        "text": "Docs"
+      },
+      {
+        "href": "https://supabase.com/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://github.com/supabase/supabase",
+        "text": "106.7K"
+      },
+      {
+        "href": "https://supabase.com/dashboard",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://supabase.com/dashboard/sign-up",
+        "text": "Start your project"
+      },
+      {
+        "href": "https://supabase.com/dashboard",
+        "text": "Start your project"
+      },
+      {
+        "href": "https://supabase.com/contact/sales",
+        "text": "Request a demo"
+      },
+      {
+        "href": "https://supabase.com/docs/guides/api",
+        "text": "Data APIsInstant ready-to-use REST APIs."
+      },
+      {
+        "href": "https://supabase.com/docs/guides/getting-started/quickstarts/reactjs",
+        "text": "Read docs for React"
+      },
+      {
+        "href": "https://supabase.com/docs/guides/examples",
+        "text": "View all examples"
+      },
+      {
+        "href": "https://supabase.com/customers",
+        "text": "More customer stories"
+      },
+      {
+        "href": "https://supabase.com/customers/firecrawl",
+        "text": "Read the story →"
+      },
+      {
+        "href": "https://supabase.com/customers/firecrawl",
+        "text": "Read the story →"
+      },
+      {
+        "href": "https://supabase.com/customers/rally",
+        "text": "Read the story →"
+      },
+      {
+        "href": "https://supabase.com/customers/hyper",
+        "text": "Read the story →"
+      },
+      {
+        "href": "https://supabase.com/customers/e2b",
+        "text": "Read the story →"
+      },
+      {
+        "href": "https://supabase.com/customers/mobbin",
+        "text": "Read the story →"
+      },
+      {
+        "href": "https://discord.supabase.com/",
+        "text": "Join us on Discord"
+      },
+      {
+        "href": "https://github.com/supabase",
+        "text": "View on GitHub"
+      },
+      {
+        "href": "https://supabase.com/dashboard",
+        "text": "Start your project"
+      },
+      {
+        "href": "https://supabase.com/contact/sales",
+        "text": "Request a demo"
+      },
+      {
+        "href": "https://supabase.com/security",
+        "text": "More on Security"
+      },
+      {
+        "href": "https://twitter.com/supabase",
+        "text": "Twitter"
+      },
+      {
+        "href": "https://github.com/supabase",
+        "text": "GitHub"
+      },
+      {
+        "href": "https://discord.supabase.com/",
+        "text": "Discord"
+      },
+      {
+        "href": "https://youtube.com/c/supabase",
+        "text": "Youtube"
+      },
+      {
+        "href": "https://www.tiktok.com/@supabase.com",
+        "text": "TikTok"
+      },
+      {
+        "href": "https://www.instagram.com/supabasecom",
+        "text": "Instagram"
+      },
+      {
+        "href": "https://supabase.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://supabase.com/database",
+        "text": "Database"
+      },
+      {
+        "href": "https://supabase.com/auth",
+        "text": "Auth"
+      },
+      {
+        "href": "https://supabase.com/edge-functions",
+        "text": "Functions"
+      },
+      {
+        "href": "https://supabase.com/realtime",
+        "text": "Realtime"
+      },
+      {
+        "href": "https://supabase.com/storage",
+        "text": "Storage"
+      },
+      {
+        "href": "https://supabase.com/modules/vector",
+        "text": "Vector"
+      },
+      {
+        "href": "https://supabase.com/modules/cron",
+        "text": "Cron"
+      },
+      {
+        "href": "https://supabase.com/features",
+        "text": "Feature Catalog"
+      },
+      {
+        "href": "https://supabase.com/launch-week",
+        "text": "Launch Week"
+      },
+      {
+        "href": "https://supabase.com/solutions/ai-builders",
+        "text": "AI Builders"
+      },
+      {
+        "href": "https://supabase.com/solutions/no-code",
+        "text": "No Code"
+      },
+      {
+        "href": "https://supabase.com/solutions/beginners",
+        "text": "Beginners"
+      },
+      {
+        "href": "https://supabase.com/solutions/developers",
+        "text": "Developers"
+      },
+      {
+        "href": "https://supabase.com/solutions/postgres-developers",
+        "text": "Postgres Devs"
+      },
+      {
+        "href": "https://supabase.com/solutions/vibe-coders",
+        "text": "Vibe Coders"
+      },
+      {
+        "href": "https://supabase.com/solutions/hackathon",
+        "text": "Hackathon Contestants"
+      },
+      {
+        "href": "https://supabase.com/solutions/startups",
+        "text": "Startups"
+      },
+      {
+        "href": "https://supabase.com/solutions/agencies",
+        "text": "Agencies"
+      }
+    ],
+    "imageSrcs": [
+      "/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-dark.png&w=3840&q=100",
+      "/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-light.png&w=3840&q=100",
+      "/images/index/products/auth.svg",
+      "/images/index/products/auth-active.svg",
+      "/images/index/products/auth-light.svg",
+      "/images/index/products/auth-active-light.svg",
+      "/images/index/products/edge-functions-dark.svg",
+      "/images/index/products/edge-functions-light.svg",
+      "/images/index/products/realtime-dark.svg",
+      "/images/index/products/realtime-light.svg",
+      "/images/index/products/vector-dark.svg",
+      "/images/index/products/vector-light.svg",
+      "/images/index/products/data-apis-lines-dark.svg",
+      "/images/index/products/data-apis-lines-light.svg",
+      "/images/index/products/data-apis-lines-dark.svg",
+      "/images/index/products/data-apis-lines-light.svg",
+      "/images/index/products/data-apis-lines-dark.svg",
+      "/images/index/products/data-apis-lines-light.svg",
+      "/images/index/products/data-apis-dark.svg",
+      "/images/index/products/data-apis-light.svg",
+      "/images/logos/frameworks/stripe.svg",
+      "/images/logos/frameworks/nextjs.svg",
+      "/images/logos/frameworks/openai.svg",
+      "/images/logos/frameworks/langchain.svg",
+      "/images/logos/frameworks/flutter.svg",
+      "/images/logos/frameworks/expo.svg",
+      "/images/customers/logos/firecrawl-icon.svg",
+      "/images/blog/avatars/caleb-peffer.jpg",
+      "/images/customers/logos/rally-icon.svg",
+      "/images/customers/logos/hyper-icon.svg",
+      "/images/customers/logos/e2b-icon.svg",
+      "/images/customers/logos/mobbin-icon.svg",
+      "/images/customers/logos/firecrawl-icon.svg",
+      "/images/blog/avatars/caleb-peffer.jpg",
+      "/images/customers/logos/rally-icon.svg",
+      "/images/blog/avatars/thiago-peres-rally.jpeg",
+      "/images/customers/logos/hyper-icon.svg",
+      "/images/blog/avatars/elliot-fleck-hyper.jpeg",
+      "/images/customers/logos/e2b-icon.svg",
+      "/images/blog/avatars/vasek-mlejnsky.jpg",
+      "/images/customers/logos/mobbin-icon.svg",
+      "/images/blog/avatars/jian-mobbin.jpg",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2F66VSV9Mm_400x400.png&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2F89h9ROOs_400x400.jpg&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2FZmOmQeTl_400x400.jpg&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2F_iAaSUQf_400x400.jpg&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2F5KvPPRZz_400x400.jpg&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2FI5pY1PAA_400x400.jpg&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2F2SQwtv8c_400x400.jpg&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Ftwitter-profiles%2FJwLEqyeo_400x400.jpg&w=128&q=75"
+    ],
+    "fontFamilySample": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+    "bodyTextSample": "{\"adminStudioLink\":false,\"aikidoDashboardIntegrationEnabled\":false,\"allowDataBranching\":false,\"analyticsBucketsTableCreation\":false,\"auditLogsLogDrain\":true,\"authOverviewPage\":false,\"clockSkewBanner\":false,\"customDomainsDisabledDueToQuota\":false,\"dashboardPreferences\":false,\"databaseLogsConfiguration\":true,\"DatabaseReportMetrics\":false,\"defaultRegionRestrictedPool\":\"[\\\"EAST_US_2\\\",\\\"NORTH_EU\\\",\\\"SOUTHEAST_ASIA\\\"]\",\"defaultToReadReplicaConnectionString\":false,\"devToolbarDefaultOn\":false,\"disableAssistantPrompts\":false,\"disableLegacyJwtSecretRotation\":true,\"disableOrioleProjectCreation\":false,\"DisablePrettyExplainOnSqlEditor\":true,\"disableProjectCreationAndUpdate\":false,\"disableProjectRestarts\":false,\"disableProjectTransfer\":false,\"disableProjectUpgrade\":false,\"dopplerDashboardIntegrationEnabled\":false,\"edgeFunctionsOverview\":true,\"edgeFunctionsRequestMetrics\":false,\"enableEnterpriseMcpAuth\":\"wxknqaxmxizmztfhavkc,tdfrzujnlnqrgoymcaui,ovqdhwkzidsnizdcwbef\",\"enablePasskeyAuth\":true,\"etlEnableBigQueryPrivateAlpha\":\"all\",\"etlEnableClickHousePrivateAlpha\":\"lbnonxhdnanfdxgafprl\",\"etlEnableDucklakePrivateAlpha\":\"lfakhuasjnbviwnbswil\",\"etlEnableIcebergPrivateAlpha\":\"tdnckwwkrmuyvemyixcy,nesogwpljjwwcgsqkhtg,lqvlzpfqqpvkdvspkjgs,scivptaoxfrnvkuuippg,rzfcmmpoyghjwqamwjkv,qttbrsdoqldljzscxtcl\",\"etlEnableSnowflakePrivateAlpha\":\"lbnonxhdnanfdxgafprl\",\"grafanaDashboardIntegrationEnabled\":false,\"HideApiKeyLastUsed\":true,\"improvedUserSearch\":false,\"JITAdvancedOptions\":false,\"jitDbAccess\":true,\"marketplaceIntegrations\":false,\"multigresLogs\":false,\"newHomepageUsageDeltas\":true,\"newProjectInternalOnlyConfiguration\":false,\"observabilityOverview\":false,\"ongoingIncident\":false,\"otelLegacyLogs\":true,\"otelReports\":false,\"otelUnifiedLogs\":true,\"pgMetaScopedIntrospection\":false,\"platformWebhooks\":false,\"previewMarketplaceListings\":\"_\",\"previewMarketplaceListingsEnabled\":false,\"privateApps\":false,\"projectNeedsSecuring\":false,\"reportsDatabaseV2\":false,\"resendDashboardIntegrationEnabled\":false,\"r"
+  }
+}

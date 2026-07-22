@@ -1,0 +1,276 @@
+{
+  "url": "https://astro.build",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Modern hand-built framework sitesi.",
+  "capturedAt": "2026-07-22T12:32:11.560Z",
+  "snapshot": {
+    "hostname": "astro.build",
+    "title": "Astro",
+    "generatorMeta": "Astro v7.1.1",
+    "faviconHref": "/favicon.svg",
+    "scriptSrcs": [
+      "https://cdn.usefathom.com/script.js",
+      "/_astro/page.CtKdkQn0.js",
+      "/_astro/HeaderNav.astro_astro_type_script_index_0_lang.yswXo7wO.js",
+      "/_astro/Header.astro_astro_type_script_index_0_lang.DzqrMxS3.js",
+      "/_astro/CodeBlock.astro_astro_type_script_index_0_lang.Cunj9zFc.js",
+      "/_astro/ec.0vx5m.js"
+    ],
+    "htmlDatasetKeys": [
+      "astroCidMjbmmst2"
+    ],
+    "bodyDatasetKeys": [
+      "astroCidMjbmmst2"
+    ],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://astro.build/#main",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://astro.build/",
+        "text": "Astro Logo"
+      },
+      {
+        "href": "https://docs.astro.build/",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://astro.build/blog/",
+        "text": "Blog"
+      },
+      {
+        "href": "https://astro.build/themes/",
+        "text": "Themes"
+      },
+      {
+        "href": "https://astro.build/integrations/",
+        "text": "Integrations"
+      },
+      {
+        "href": "https://astro.build/showcase/",
+        "text": "Site showcase"
+      },
+      {
+        "href": "https://docs.astro.build/en/tutorial/0-introduction/",
+        "text": "Tutorials"
+      },
+      {
+        "href": "https://astro.build/chat/",
+        "text": "Discord"
+      },
+      {
+        "href": "https://opencollective.com/astrodotbuild",
+        "text": "Sponsors"
+      },
+      {
+        "href": "https://shop.astro.build/",
+        "text": "Merch"
+      },
+      {
+        "href": "https://astro.build/agencies/",
+        "text": "AgenciesNew"
+      },
+      {
+        "href": "https://astro.build/case-studies/",
+        "text": "Case studies"
+      },
+      {
+        "href": "https://github.com/withastro/astro",
+        "text": "Go to Astro's GitHub repo"
+      },
+      {
+        "href": "https://astro.build/blog/",
+        "text": "Blog"
+      },
+      {
+        "href": "https://astro.build/themes/",
+        "text": "Themes"
+      },
+      {
+        "href": "https://astro.build/integrations/",
+        "text": "Integrations"
+      },
+      {
+        "href": "https://astro.build/showcase/",
+        "text": "Site showcase"
+      },
+      {
+        "href": "https://docs.astro.build/en/tutorial/0-introduction/",
+        "text": "Tutorials"
+      },
+      {
+        "href": "https://astro.build/chat/",
+        "text": "Discord"
+      },
+      {
+        "href": "https://opencollective.com/astrodotbuild",
+        "text": "Sponsors"
+      },
+      {
+        "href": "https://shop.astro.build/",
+        "text": "Merch"
+      },
+      {
+        "href": "https://astro.build/agencies/",
+        "text": "Agencies New"
+      },
+      {
+        "href": "https://astro.build/case-studies/",
+        "text": "Case studies"
+      },
+      {
+        "href": "https://bsky.app/profile/astro.build",
+        "text": "Follow Astro on Bluesky"
+      },
+      {
+        "href": "https://astro.build/chat",
+        "text": "Join the Astro community on Discord"
+      },
+      {
+        "href": "https://github.com/withastro/astro",
+        "text": "Go to Astro's GitHub repo"
+      },
+      {
+        "href": "https://www.linkedin.com/company/withastro",
+        "text": "Follow Astro on LinkedIn"
+      },
+      {
+        "href": "https://m.webtoo.ls/@astro",
+        "text": "Follow Astro on Mastodon"
+      },
+      {
+        "href": "https://www.reddit.com/r/withastro/",
+        "text": "Join the official Astro community on Reddit"
+      },
+      {
+        "href": "https://x.com/astrodotbuild",
+        "text": "Follow Astro on x.com (formerly Twitter)"
+      },
+      {
+        "href": "https://www.youtube.com/@astrodotbuild",
+        "text": "Follow Astro on YouTube"
+      },
+      {
+        "href": "https://docs.astro.build/",
+        "text": "Read the docs"
+      },
+      {
+        "href": "https://astro.build/blog/astro-710/",
+        "text": "Astro 7.1Available now!"
+      },
+      {
+        "href": "https://docs.astro.build/",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://httparchive.org/reports/techreport/tech?client=mobile&tech=Astro,WordPress,Gatsby,Next.js,Nuxt.js&geo=ALL&rank=ALL&page=1",
+        "text": "View the full dataset"
+      },
+      {
+        "href": "https://httparchive.org/",
+        "text": "HTTP Archive"
+      },
+      {
+        "href": "https://developer.chrome.com/docs/crux",
+        "text": "Chrome UX Report"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/integrations-guide/#official-integrations",
+        "text": "Integrate your favorite framework"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/content-collections/",
+        "text": "Content Collections"
+      },
+      {
+        "href": "https://docs.astro.build/en/basics/astro-components/",
+        "text": "Zero JavaScript, By Default"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/view-transitions/",
+        "text": "View Transitions"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/images/#astro-components-for-images",
+        "text": "Optimized Images"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/framework-components/",
+        "text": "UI Integrations"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/routing/",
+        "text": "File-Based Routing"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/middleware/",
+        "text": "Middleware"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/actions/",
+        "text": "Actions"
+      },
+      {
+        "href": "https://astro.build/integrations/?search=&categories%5B%5D=adapters",
+        "text": "Deployment Adapters"
+      },
+      {
+        "href": "https://docs.astro.build/en/basics/astro-components/",
+        "text": "Simple Templating"
+      },
+      {
+        "href": "https://docs.astro.build/en/guides/prefetch/",
+        "text": "Instant Page Loads"
+      }
+    ],
+    "imageSrcs": [
+      "/_image?href=%2F_astro%2FHeroBackground.B0iWl89K.png&w=256&h=214&q=10&f=webp",
+      "/assets/integrations/react.svg",
+      "/assets/integrations/vue.svg",
+      "/assets/integrations/preact.svg",
+      "/assets/integrations/svelte.svg",
+      "/assets/integrations/solid.svg",
+      "/_image?href=%2F_astro%2Fastro-cap.jt5HlOg8.png&w=300&h=300&f=webp",
+      "/_image?href=%2F_astro%2Fstarlight-lp.Cy5G1hqN.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fastroship.knBTcZAP.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fupstart.CcUaE69t.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fprima-persona.Dzc-txkT.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fdarkrise.ClSscrKv.webp&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fmore-themes.BRI40hdA.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fastro-shopify.B2cAlq31.png&w=800&h=1022&f=webp",
+      "/_image?href=%2F_astro%2Fquick-store.Dy67a8cK.png&w=800&h=1022&f=webp",
+      "/_image?href=%2F_astro%2FSKNCRE.R_heZtGw.png&w=800&h=1022&f=webp",
+      "/_image?href=%2F_astro%2Fastro-nano.DpaKlVSa.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fstablo.20_iaSBy.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fmicroblog.Cd8W9ATs.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fdante.eaFko76u.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fbrutal.Dj5i2_cI.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fopenblog.N-z7mp58.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fstarlight.CUYv-tJR.png&w=800&h=1022&f=webp",
+      "/_image?href=%2F_astro%2Fastro-design-system.B26E2C8I.png&w=800&h=1022&f=webp",
+      "/_image?href=%2F_astro%2Fion.VBQu18If.png&w=800&h=1022&f=webp",
+      "/_image?href=%2F_astro%2Fastrofy.x0ny8wy6.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fswissfolio.kHDsdhvO.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fgurido.C74fIMwD.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fshare-your-links.D4SkifyL.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fesquelete-cv.CFllQl57.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fmore-portfolio-themes.CEQpWrzr.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fsendit.Mx3kHD-6.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fstone.DAxs2jJD.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fpositivus.BjNv8JwM.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fatom.YzcaRLyp.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fastroplate.DWGGgLDV.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fmore-lp-themes.D8wLTVEK.png&w=800&h=507&f=webp",
+      "/_image?href=%2F_astro%2Fseibert.DcbdgIId.webp&w=400&h=210&f=webp",
+      "/_image?href=%2F_astro%2Fbejamas.rFjqlsuX.webp&w=400&h=210&f=webp",
+      "/_image?href=%2F_astro%2Flucky-media.CosPN2Hl.webp&w=400&h=211&f=webp",
+      "/_image?href=%2F_astro%2Ffinal-cta.-VPcghul.png&w=1280&h=634&f=webp"
+    ],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "Skip to contentAstro LogoDocumentationBlogResources Themes Integrations Site showcase TutorialsglobalThis.process??={},globalThis.process.env??={},customElements.define(`header-drop-down`,class extends HTMLElement{connectedCallback(){let e=this.querySelector(`details`);e&&e.addEventListener(`focusout`,()=>{e.matches(`:focus-within`)||setTimeout(()=>{e.open=!1},200)})}});Community Discord Sponsors MerchEnterprise AgenciesNew Case studiesGo to Astro's GitHub repoShow MenuBlogResources Themes Integrations Site showcase Tutorials Community Discord Sponsors Merch Enterprise Agencies New Case studies Follow Astro on BlueskyJoin the Astro community on DiscordGo to Astro's GitHub repoFollow Astro on LinkedInFollow Astro on MastodonJoin the official Astro community on RedditFollow Astro on x.com (formerly Twitter)Follow Astro on YouTubeRead the docsAstro 7.1Available now!The web framework for content-driven websitesAstro powers the world's fastest marketing sites, blogs, e-commerce websites, and more.Get Startednpm create astro@latestCopied!Used by the largest companies around the world:What is Astro?Astro is a JavaScript web framework optimized for building fast, content-driven websites.Server-FirstAstro improves website performance by rendering components on the server, sending lightweight HTML to the browser with zero unnecessary JavaScript overhead.Content-DrivenAstro was designed to work with your content, no matter where it lives. Load data from your file system, external API, or your favorite CMS.CustomizableExtend Astro with your favorite tools. Bring your own JavaScript UI components, CSS libraries, themes, integrations, and more.Best-In-Class PerformanceAstro IslandsIslands optimize your website like no other web framework can. Leverage Astro's unique page load performance to improve conversion rates, Core Web Vitals, and SEO.% of real-world sites with good Core Web VitalsAstroAstro Core Web Vitals Passing66%WordPressWordPress Core Web Vitals Passing48%GatsbyGatsby"
+  }
+}

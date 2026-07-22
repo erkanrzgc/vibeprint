@@ -1,0 +1,291 @@
+{
+  "url": "https://go.dev",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Google, uzun geçmiş.",
+  "capturedAt": "2026-07-22T12:32:21.164Z",
+  "snapshot": {
+    "hostname": "go.dev",
+    "title": "The Go Programming Language",
+    "generatorMeta": null,
+    "faviconHref": "/images/favicon-gopher.png",
+    "scriptSrcs": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-HL38R6X1Q3&cx=c&gtm=4e67k1",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-W8MVQXG",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-W8MVQXG",
+      "/js/site.js",
+      "/js/index.js",
+      "/js/jquery.js",
+      "/js/carousels.js",
+      "/js/searchBox.js",
+      "/js/misc.js",
+      "/js/hats.js",
+      "/js/playground.js",
+      "/js/godocs.js",
+      "/js/copypaste.js"
+    ],
+    "htmlDatasetKeys": [
+      "theme"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://go.dev/#main-content",
+        "text": "Skip to Main Content"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "Why Go arrow_drop_down"
+      },
+      {
+        "href": "https://go.dev/solutions/case-studies",
+        "text": "Case Studies"
+      },
+      {
+        "href": "https://go.dev/solutions/use-cases",
+        "text": "Use Cases"
+      },
+      {
+        "href": "https://go.dev/security/",
+        "text": "Security"
+      },
+      {
+        "href": "https://go.dev/learn/",
+        "text": "Learn"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "Docs arrow_drop_down"
+      },
+      {
+        "href": "https://go.dev/ref/spec",
+        "text": "Go Spec"
+      },
+      {
+        "href": "https://go.dev/doc",
+        "text": "Go User Manual"
+      },
+      {
+        "href": "https://pkg.go.dev/std",
+        "text": "Standard library"
+      },
+      {
+        "href": "https://go.dev/doc/devel/release",
+        "text": "Release Notes"
+      },
+      {
+        "href": "https://go.dev/doc/effective_go",
+        "text": "Effective Go"
+      },
+      {
+        "href": "https://pkg.go.dev/",
+        "text": "Packages"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "Community arrow_drop_down"
+      },
+      {
+        "href": "https://go.dev/talks/",
+        "text": "Recorded Talks"
+      },
+      {
+        "href": "https://www.meetup.com/pro/go",
+        "text": "Meetups\n                           open_in_new"
+      },
+      {
+        "href": "https://go.dev/wiki/Conferences",
+        "text": "Conferences\n                           open_in_new"
+      },
+      {
+        "href": "https://go.dev/blog",
+        "text": "Go blog"
+      },
+      {
+        "href": "https://go.dev/help",
+        "text": "Go project"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "Why Go navigate_next"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "navigate_beforeWhy Go"
+      },
+      {
+        "href": "https://go.dev/solutions/case-studies",
+        "text": "Case Studies"
+      },
+      {
+        "href": "https://go.dev/solutions/use-cases",
+        "text": "Use Cases"
+      },
+      {
+        "href": "https://go.dev/security/",
+        "text": "Security"
+      },
+      {
+        "href": "https://go.dev/learn/",
+        "text": "Learn"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "Docs navigate_next"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "navigate_beforeDocs"
+      },
+      {
+        "href": "https://go.dev/ref/spec",
+        "text": "Go Spec"
+      },
+      {
+        "href": "https://go.dev/doc",
+        "text": "Go User Manual"
+      },
+      {
+        "href": "https://pkg.go.dev/std",
+        "text": "Standard library"
+      },
+      {
+        "href": "https://go.dev/doc/devel/release",
+        "text": "Release Notes"
+      },
+      {
+        "href": "https://go.dev/doc/effective_go",
+        "text": "Effective Go"
+      },
+      {
+        "href": "https://pkg.go.dev/",
+        "text": "Packages"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "Community navigate_next"
+      },
+      {
+        "href": "https://go.dev/#",
+        "text": "navigate_beforeCommunity"
+      },
+      {
+        "href": "https://go.dev/talks/",
+        "text": "Recorded Talks"
+      },
+      {
+        "href": "https://www.meetup.com/pro/go",
+        "text": "Meetups\n                           open_in_new"
+      },
+      {
+        "href": "https://go.dev/wiki/Conferences",
+        "text": "Conferences\n                           open_in_new"
+      },
+      {
+        "href": "https://go.dev/blog",
+        "text": "Go blog"
+      },
+      {
+        "href": "https://go.dev/help",
+        "text": "Go project"
+      },
+      {
+        "href": "https://go.dev/learn/",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://go.dev/dl",
+        "text": "Download"
+      },
+      {
+        "href": "https://go.dev/dl/go1.26.5.windows-amd64.msi",
+        "text": "Windows 64-bit"
+      },
+      {
+        "href": "https://go.dev/dl/go1.26.5.darwin-amd64.pkg",
+        "text": "macOS"
+      },
+      {
+        "href": "https://go.dev/dl/go1.26.5.linux-amd64.tar.gz",
+        "text": "Linux"
+      },
+      {
+        "href": "https://go.dev/dl/",
+        "text": "more"
+      },
+      {
+        "href": "https://go.dev/dl",
+        "text": "Learn more."
+      },
+      {
+        "href": "https://go.dev/solutions/",
+        "text": "View all stories"
+      },
+      {
+        "href": "https://go.dev/solutions/google/",
+        "text": "View case study"
+      },
+      {
+        "href": "https://go.dev/solutions/paypal",
+        "text": "View case study"
+      }
+    ],
+    "imageSrcs": [
+      "/images/go-logo-white.svg",
+      "/images/logos/social/google-groups.svg",
+      "/images/logos/social/github.svg",
+      "/images/logos/social/bluesky.svg",
+      "/images/logos/social/mastodon.svg",
+      "/images/logos/social/twitter.svg",
+      "/images/logos/social/reddit.svg",
+      "/images/logos/social/slack.svg",
+      "/images/logos/social/stack-overflow.svg",
+      "/images/go-logo-blue.svg",
+      "/images/logos/social/google-groups.svg",
+      "/images/logos/social/github.svg",
+      "/images/logos/social/bluesky.svg",
+      "/images/logos/social/mastodon.svg",
+      "/images/logos/social/twitter.svg",
+      "/images/logos/social/reddit.svg",
+      "/images/logos/social/slack.svg",
+      "/images/logos/social/stack-overflow.svg",
+      "/images/gophers/ladder.svg",
+      "/images/logos/google.svg",
+      "/images/logos/paypal.svg",
+      "/images/logos/american-express.svg",
+      "/images/logos/mercadolibre_light.svg",
+      "/images/logos/bitly.svg",
+      "/images/logos/capitalone_light.svg",
+      "/images/logos/cockroach.svg",
+      "/images/logos/dropbox.png",
+      "/images/logos/cloudflare_light.svg",
+      "/images/logos/meta_light.svg",
+      "/images/logos/microsoft_light.svg",
+      "/images/logos/wildlife_light.svg",
+      "/images/logos/bytedance_light.svg",
+      "/images/logos/netflix.svg",
+      "/images/logos/riot_light.svg",
+      "/images/logos/salesforce.svg",
+      "/images/logos/twitch.svg",
+      "/images/logos/uber_light.svg",
+      "/images/logos/x.png",
+      "/images/icons/sphere-dark.svg",
+      "/images/icons/sphere.svg",
+      "/images/icons/package.svg",
+      "/images/icons/command-folder-dark.svg",
+      "/images/icons/command-folder.svg",
+      "/images/icons/package.svg",
+      "/images/icons/code-dark.svg",
+      "/images/icons/code.svg",
+      "/images/icons/package.svg",
+      "/images/icons/gear-dark.svg",
+      "/images/icons/gear.svg",
+      "/images/icons/package.svg"
+    ],
+    "fontFamilySample": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+    "bodyTextSample": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-W8MVQXG\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Skip to Main Content Why Go arrow_drop_down Press Enter to activate/deactivate dropdown Case Studies Common problems companies solve with Go Use Cases Stories about how and why companies use Go Security How Go can help keep you secure by default Learn Press Enter to activate/deactivate dropdown Docs arrow_drop_down Press Enter to activate/deactivate dropdown Go Spec The official Go language specification Go User Manual A complete introduction to building software with Go Standard library Reference documentation for Go's standard library Release Notes Learn what's new in each Go release Effective Go Tips for writing clear, performant, and idiomatic Go code Packages Press Enter to activate/deactivate dropdown Community arrow_drop_down Press Enter to activate/deactivate dropdown Recorded Talks Videos from prior events Meetups open_in_new Meet other local Go developers Conferences open_in_new Learn and network with Go developers from around the world Go blog The Go project's official blog. Go project Get help and stay informed from Go Get connected Why Go navigate_next navigate_beforeWhy Go Case Studies Use Cases Security Learn Docs navigate_next navigate_beforeDocs Go Spec Go User Manual Standard library Release Notes Effective Go Packages Community navigate_next navigate_beforeCommunity Recorded Talks Meetups open_in_new Conferences open_in_new Go blog Go project Get connected Build simple, secure, scalable systems with Go An open-source programming language supported by Google Easy to learn and great for teams Built-in concurrency and a robust standard library Large ecosystem of partners, communities, and tools Get Started Download Opens a new window with the Get Started guide. Opens a new window to download Go. Download packages for Windows 64-bit, macOS, Linux, and more The go command by default downloads and authenticates modu"
+  }
+}

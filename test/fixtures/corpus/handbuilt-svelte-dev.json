@@ -1,0 +1,239 @@
+{
+  "url": "https://svelte.dev",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Modern hand-built framework sitesi.",
+  "capturedAt": "2026-07-22T12:32:14.569Z",
+  "snapshot": {
+    "hostname": "svelte.dev",
+    "title": "Svelte • Web development for the rest of us",
+    "generatorMeta": null,
+    "faviconHref": "https://svelte.dev/favicon.png",
+    "scriptSrcs": [
+      "/51a6d87104faba1d/script.js",
+      "/_vercel/insights/script.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [
+      "sveltekitPreloadData"
+    ],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://svelte.dev/#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "https://svelte.dev/docs",
+        "text": "Docs"
+      },
+      {
+        "href": "https://svelte.dev/docs/svelte",
+        "text": "Svelte"
+      },
+      {
+        "href": "https://svelte.dev/docs/kit",
+        "text": "SvelteKit"
+      },
+      {
+        "href": "https://svelte.dev/docs/cli",
+        "text": "CLI"
+      },
+      {
+        "href": "https://svelte.dev/docs/ai",
+        "text": "AI"
+      },
+      {
+        "href": "https://svelte.dev/tutorial",
+        "text": "Tutorial"
+      },
+      {
+        "href": "https://svelte.dev/packages",
+        "text": "Packages"
+      },
+      {
+        "href": "https://svelte.dev/playground",
+        "text": "Playground"
+      },
+      {
+        "href": "https://svelte.dev/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://svelte.dev/docs",
+        "text": "get started"
+      },
+      {
+        "href": "https://www.offerzen.com/community/svelte-origins-documentary",
+        "text": "Watch the full Svelte Origins documentary"
+      },
+      {
+        "href": "https://www.sveltesociety.dev/",
+        "text": "Svelte Society"
+      },
+      {
+        "href": "https://svelte.dev/chat",
+        "text": "our Discord server"
+      },
+      {
+        "href": "https://marcel.gg/",
+        "text": "Marcel Cutts"
+      },
+      {
+        "href": "https://vercel.com/",
+        "text": "Vercel"
+      },
+      {
+        "href": "https://github.com/Rich-Harris",
+        "text": "Rich-Harris"
+      },
+      {
+        "href": "https://github.com/Conduitry",
+        "text": "Conduitry"
+      },
+      {
+        "href": "https://github.com/dummdidumm",
+        "text": "dummdidumm"
+      },
+      {
+        "href": "https://github.com/trueadm",
+        "text": "trueadm"
+      },
+      {
+        "href": "https://github.com/tanhauhau",
+        "text": "tanhauhau"
+      },
+      {
+        "href": "https://github.com/paoloricciuti",
+        "text": "paoloricciuti"
+      },
+      {
+        "href": "https://github.com/benmccann",
+        "text": "benmccann"
+      },
+      {
+        "href": "https://github.com/PuruVJ",
+        "text": "PuruVJ"
+      },
+      {
+        "href": "https://github.com/baseballyama",
+        "text": "baseballyama"
+      },
+      {
+        "href": "https://github.com/gtm-nayan",
+        "text": "gtm-nayan"
+      },
+      {
+        "href": "https://github.com/Ocean-OS",
+        "text": "Ocean-OS"
+      },
+      {
+        "href": "https://github.com/7nik",
+        "text": "7nik"
+      },
+      {
+        "href": "https://github.com/elliott-with-the-longest-name-on-github",
+        "text": "elliott-with-the-longest-name-on-github"
+      },
+      {
+        "href": "https://github.com/Swatinem",
+        "text": "Swatinem"
+      },
+      {
+        "href": "https://github.com/jacwright",
+        "text": "jacwright"
+      },
+      {
+        "href": "https://github.com/lukeed",
+        "text": "lukeed"
+      },
+      {
+        "href": "https://github.com/mrkishi",
+        "text": "mrkishi"
+      },
+      {
+        "href": "https://github.com/DreaminDani",
+        "text": "DreaminDani"
+      },
+      {
+        "href": "https://github.com/adiguba",
+        "text": "adiguba"
+      },
+      {
+        "href": "https://github.com/mindrones",
+        "text": "mindrones"
+      },
+      {
+        "href": "https://github.com/pngwn",
+        "text": "pngwn"
+      },
+      {
+        "href": "https://github.com/ngtr6788",
+        "text": "ngtr6788"
+      },
+      {
+        "href": "https://github.com/navorite",
+        "text": "navorite"
+      },
+      {
+        "href": "https://github.com/geoffrich",
+        "text": "geoffrich"
+      },
+      {
+        "href": "https://github.com/ekhaled",
+        "text": "ekhaled"
+      },
+      {
+        "href": "https://github.com/ignatiusmb",
+        "text": "ignatiusmb"
+      },
+      {
+        "href": "https://github.com/EmilTholin",
+        "text": "EmilTholin"
+      },
+      {
+        "href": "https://github.com/antony",
+        "text": "antony"
+      },
+      {
+        "href": "https://github.com/dominikg",
+        "text": "dominikg"
+      },
+      {
+        "href": "https://github.com/MathiasWP",
+        "text": "MathiasWP"
+      },
+      {
+        "href": "https://github.com/tivac",
+        "text": "tivac"
+      },
+      {
+        "href": "https://github.com/jches",
+        "text": "jches"
+      },
+      {
+        "href": "https://github.com/zxbodya",
+        "text": "zxbodya"
+      },
+      {
+        "href": "https://github.com/btk5h",
+        "text": "btk5h"
+      }
+    ],
+    "imageSrcs": [
+      "/_app/immutable/assets/svelte-machine-mobile.DtvNEgov.png",
+      "/_app/immutable/assets/svelte-pronunciation.DFRMnECz.svg",
+      "/_app/immutable/assets/stack-overflow.D6fScimS.png",
+      "/_app/immutable/assets/state-of-js-chart.VWzbG9sl.png",
+      "/_app/immutable/assets/mullvad.BoCDoRBI.svg",
+      "/_app/immutable/assets/yelp.BCIQykSN.svg",
+      "/_app/immutable/assets/nyt.WSBgWcyP.svg",
+      "/_app/immutable/assets/decathlon.CsAZfh9C.svg",
+      "/_app/immutable/assets/1password.EAEOcf-b.svg",
+      "/_app/immutable/assets/summit.z7u3Vevw.png"
+    ],
+    "fontFamilySample": "Georgia, serif",
+    "bodyTextSample": "{ const div = document.createElement('div'); Object.assign(div.style, { width: '100px', height: '100px', overflow: 'scroll', position: 'absolute', top: '-9999px' }); document.body.append(div); document.documentElement.classList.add( div.offsetWidth - div.clientWidth > 0 ? 'scrollbars-visible' : 'scrollbars-invisible' ); div.remove(); } Skip to main content Docs SvelteSvelteKitCLIAITutorialPackagesPlaygroundBlog Ctrl K Svelte web development for the rest of us get started attractively thin, graceful and stylish Svelte is a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work in the browser, using languages you already know — HTML, CSS and JavaScript. It’s a love letter to web development. But don’t take our word for it. Developers consistently rank Svelte as the framework they’re most excited about using. used by companies you’ve heard of Watch the full Svelte Origins documentary join our friendly community Our sister organisation, Svelte Society, organises events around the globe. Find your chapter and join us in our Discord server. Photos by Marcel Cutts Backed by Vercel and countless donors, developed by full-time and part-time maintainers, Svelte is here to stay. Rich-HarrisConduitrydummdidummtrueadmtanhauhaupaoloricciutibenmccannPuruVJbaseballyamagtm-nayanOcean-OS7nikelliott-with-the-longest-name-on-githubSwatinemjacwrightlukeedmrkishiDreaminDaniadigubamindronespngwnngtr6788navoritegeoffrichekhaledignatiusmbEmilTholinantonydominikgMathiasWPtivacjcheszxbodyabtk5hPaulBGDhalfnelsonpushkineGarrettGeorgebtakitabrunnerhFWeinbTehShrikeevs-chriscolincaseyjamesbirtlesbluwyjacobmischkafcrozatier DripsDatawrapperVercelGitHub SponsorsCohereDabbleMonogramFrontend MastersHugging FaceThreema Open Source Fundxyflow - React Flow | Svelte FlowPinturaCodesmithRasterAvastJeff MoeWonderTax LabsINVISRMattSanityMetafyChangelogKohei YoshinoClancy DigitalKenoxa GmbHLevel Up TutorialsThe PuddingJason Hetheringtonn8n.io - n8n GmbHZev Av"
+  }
+}

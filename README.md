@@ -46,10 +46,20 @@ construction (`src/detection/score.ts`).
 Measured against snapshots captured from **real live sites** (`test/fixtures/corpus`):
 
 ```
-Corpus: 22 sites (11 ai-built, 11 hand-built)
-TP=10  FP=0  FN=1  TN=11
-Precision=1.000   Recall=0.909   F1=0.952
+Corpus: 57 sites (29 ai-built, 28 hand-built)
+TP=28  FP=0  FN=1  TN=28
+Precision=1.000   Recall=0.966   F1=0.982
 ```
+
+The hand-built half deliberately includes the highest-risk false positives — `vercel.com`,
+`ui.shadcn.com`, `resend.com`, `supabase.com`, `clerk.com`, `railway.com` — sites with Geist
+fonts, shadcn/Radix markup and dark gradient heroes that look exactly like AI-template output.
+None are accused.
+
+`ai-built` labels are evidence-backed, not assumed: builder-owned subdomains, or a confirmed
+`generator` meta tag. Candidates that appeared in a builder's public gallery but carried no
+detectable trace were **dropped from the corpus rather than labelled on faith** — a wrong label
+makes the metric lie.
 
 Run it yourself:
 

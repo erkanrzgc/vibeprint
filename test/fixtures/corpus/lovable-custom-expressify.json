@@ -3,7 +3,7 @@
   "label": "ai-built",
   "builder": "lovable",
   "note": "Listed on madewithlovable.com showcase; custom domain.",
-  "capturedAt": "2026-07-21T17:27:27.781Z",
+  "capturedAt": "2026-07-22T12:30:02.166Z",
   "snapshot": {
     "hostname": "www.expressify.ai",
     "title": "Expressify - AI Assistant for Small Business | 24/7 Customer Support",
@@ -14,7 +14,7 @@
       "https://js.stripe.com/basil/stripe.js",
       "https://api.expressify.ai/js/socket.io.js",
       "https://replit.com/public/js/replit-dev-banner.js",
-      "https://api.expressify.ai/js/chatbot-widget.js?t=1784654845292"
+      "https://api.expressify.ai/js/chatbot-widget.js?t=1784723399662"
     ],
     "htmlDatasetKeys": [],
     "bodyDatasetKeys": [],

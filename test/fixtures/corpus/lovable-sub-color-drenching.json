@@ -1,0 +1,61 @@
+{
+  "url": "https://color-drenching.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:05.023Z",
+  "snapshot": {
+    "hostname": "color-drenching.lovable.app",
+    "title": "Lovable App",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-C_cVqLbZ.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://color-drenching.lovable.app/#what-is",
+        "text": "Discover the Technique"
+      },
+      {
+        "href": "https://www.farrow-ball.com/",
+        "text": "Farrow & Ball"
+      },
+      {
+        "href": "https://www.littlegreene.com/",
+        "text": "Little Greene"
+      },
+      {
+        "href": "https://www.architecturaldigest.com/",
+        "text": "AD"
+      },
+      {
+        "href": "https://madewithlovable.com/",
+        "text": "Made with Lovable"
+      },
+      {
+        "href": "https://lovable.dev/projects/751cf9da-01f6-4c8f-8909-e3530857d794?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [
+      "/assets/hero-terracotta-room-C1C6V2Tl.jpg",
+      "/assets/forest-reading-nook-dkpygtxe.jpg",
+      "/assets/navy-office-D9UUYv41.jpg",
+      "/assets/blush-bedroom-Bv9Ptx1e.jpg",
+      "/assets/sage-dining-DEd3A7FF.jpg",
+      "/assets/ochre-entryway-Cr9sy81d.jpg",
+      "/assets/hero-terracotta-room-C1C6V2Tl.jpg",
+      "/assets/forest-reading-nook-dkpygtxe.jpg",
+      "/assets/navy-office-D9UUYv41.jpg",
+      "/assets/sage-dining-DEd3A7FF.jpg"
+    ],
+    "fontFamilySample": "Inter, system-ui, sans-serif",
+    "bodyTextSample": "The Art of Interior DesignColorDrenchingAn immersive design technique that transforms spaces by enveloping every surface in a single, cohesive hue—creating bold, seamless interiors that blur boundaries and captivate the senses.Discover the TechniqueUnderstanding the ConceptWhat is ColorDrenching?Color drenching is a transformative interior design technique where an entire room—walls, ceiling, trim, doors, and even radiators—is painted in a single color or closely related tones.Unlike traditional approaches that contrast white ceilings against colored walls, drenching creates a fluid, immersive backdrop that blurs architectural boundaries and eliminates visual noise.The result is a bold, cohesive statement that can make spaces feel either expansively large or intimately cocooned—depending on the color and lighting you choose.Walls & CeilingTrim & MoldingsDoors & FramesRadiatorsThe Psychology of DesignWhy Color DrenchingWorksVisual CohesionEliminates harsh lines between surfaces, creating a unified, calming atmosphere that feels intentional and sophisticated.Illusion of SpaceBy blurring the perimeter, color drenching can make narrow or awkward rooms feel larger and more expansive.Bold StatementMakes a strong visual impact while reducing visual clutter—the room becomes a canvas that highlights your furniture and art.Architectural InterestRather than hiding moldings and trim, drenching celebrates them as sculptural elements unified by color.\"When every surface shares the same hue, the architecture recedes and the space becomes pure atmosphere.\"— Design PhilosophyEmotional PalettesMoods &AtmospheresDifferent colors create distinct emotional experiences. Here's how various palettes transform the feeling of a drenched space.Navy BlueDramatic & CocooningDeep navy, charcoal, or forest greens create intimate, womb-like spaces perfect for libraries, bedrooms, or home offices.Mood: Sophisticated, focused, introspectiveDusty RoseSoft & RomanticBlush pinks, soft lavenders, and wa"
+  }
+}

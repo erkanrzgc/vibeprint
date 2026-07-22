@@ -1,0 +1,281 @@
+{
+  "url": "https://react.dev",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Meta/Vercel ekibi elle yazdı; modern React docs sitesi.",
+  "capturedAt": "2026-07-22T12:32:08.626Z",
+  "snapshot": {
+    "hostname": "react.dev",
+    "title": "React",
+    "generatorMeta": null,
+    "faviconHref": "/favicon-32x32.png",
+    "scriptSrcs": [
+      "https://www.googletagmanager.com/gtag/js?id=G-B1E83PJ3RT",
+      "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "/_next/static/chunks/webpack-91bd96bdd021d578.js",
+      "/_next/static/chunks/framework-76ad44d61c11f057.js",
+      "/_next/static/chunks/main-8bc660a98b463b2d.js",
+      "/_next/static/chunks/pages/_app-6d7b64b3b21a9551.js",
+      "/_next/static/chunks/668-9be9de6fa7660277.js",
+      "/_next/static/chunks/928-f8fcd93b9c496fa5.js",
+      "/_next/static/chunks/pages/%5B%5B...markdownPath%5D%5D-ef91ae665155f68d.js",
+      "/_next/static/WQ7qjXrq2XtGI7r5ZjD6d/_buildManifest.js",
+      "/_next/static/WQ7qjXrq2XtGI7r5ZjD6d/_ssgManifest.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://react.dev/",
+        "text": "React"
+      },
+      {
+        "href": "https://react.dev/versions",
+        "text": "v19.2"
+      },
+      {
+        "href": "https://react.dev/learn",
+        "text": "Learn"
+      },
+      {
+        "href": "https://react.dev/reference/react",
+        "text": "Reference"
+      },
+      {
+        "href": "https://react.dev/community",
+        "text": "Community"
+      },
+      {
+        "href": "https://react.dev/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://react.dev/learn",
+        "text": "Learn React"
+      },
+      {
+        "href": "https://react.dev/reference/react",
+        "text": "API Reference"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=8pDqJVdNa44",
+        "text": "React: The DocumentaryThe origin story of React"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=x7cQ3mrcKaY",
+        "text": "Rethinking Best PracticesPete Hunt (2013)"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=KVZ-P-ZI6W4",
+        "text": "Introducing React NativeTom Occhino (2015)"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=V-QO-KO90iQ",
+        "text": "Introducing React HooksSophie Alpert and Dan Abramov (2018)"
+      },
+      {
+        "href": "https://react.dev/learn/add-react-to-an-existing-project",
+        "text": "Add React to your page"
+      },
+      {
+        "href": "https://nextjs.org/",
+        "text": "Next.js"
+      },
+      {
+        "href": "https://reactrouter.com/",
+        "text": "React Router"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=FZ0cG47msEk&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=1",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=FZ0cG47msEk&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=1",
+        "text": "React 18 KeynoteThe React Team"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=ytudH8je5ko&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=2",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=ytudH8je5ko&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=2",
+        "text": "React 18 for App DevelopersShruti Kapoor"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=pj5N-Khihgc&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=3",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=pj5N-Khihgc&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=3",
+        "text": "Streaming Server Rendering with SuspenseShaundai Person"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=qn7gRClrC9U&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=4",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=qn7gRClrC9U&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=4",
+        "text": "The First React Working GroupAakansha Doshi"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=oxDfrke8rZg&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=5",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=oxDfrke8rZg&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=5",
+        "text": "React Developer ToolingBrian Vaughn"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=lGEMwh32soc&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=6",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=lGEMwh32soc&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=6",
+        "text": "React without memoXuan Huang (黄玄)"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=mneDaMYOKP8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=7",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=mneDaMYOKP8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=7",
+        "text": "React Docs KeynoteRachel Nabors"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=-7odLW_hG7s&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=8",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=-7odLW_hG7s&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=8",
+        "text": "Things I Learnt from the New React DocsDebbie O'Brien"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=5X-WEQflCL0&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=9",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=5X-WEQflCL0&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=9",
+        "text": "Learning in the BrowserSarah Rainsberger"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=7cPWmID5XAk&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=10",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=7cPWmID5XAk&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=10",
+        "text": "The ROI of Designing with ReactLinton Ye"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=zL8cz2W0z34&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=11",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=zL8cz2W0z34&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=11",
+        "text": "Interactive Playgrounds with ReactDelba de Oliveira"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=lhVGdErZuN4&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=12",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=lhVGdErZuN4&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=12",
+        "text": "Re-introducing RelayRobert Balicki"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=9L4FFrvwJwY&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=13",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=9L4FFrvwJwY&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=13",
+        "text": "React Native DesktopEric Rozell and Steven Moyes"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=NLj73vrc2I8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=14",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=NLj73vrc2I8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=14",
+        "text": "On-device Machine Learning for React NativeRoman Rädle"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=oPfSC5bQPR8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=15",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=oPfSC5bQPR8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=15",
+        "text": "React 18 for External Store LibrariesDaishi Kato"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=dcm8fjBfro8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=16",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=dcm8fjBfro8&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=16",
+        "text": "Building Accessible Components with React 18Diego Haz"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=S4a0QlsH0pU&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=17",
+        "text": "React Conf"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=S4a0QlsH0pU&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=17",
+        "text": "Accessible Japanese Form Components with ReactTafu Nakazaki"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=b3l4WxipFsE&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=18",
+        "text": "React Conf"
+      }
+    ],
+    "imageSrcs": [
+      "/_next/image?url=%2Fimages%2Fuwu.png&w=128&q=75",
+      "/_next/image?url=%2Fimages%2Fuwu.png&w=640&q=75",
+      "/images/home/conf2021/cover.svg",
+      "/images/home/conf2021/andrew.jpg",
+      "/images/home/conf2021/lauren.jpg",
+      "/images/home/conf2021/juan.jpg",
+      "/images/home/conf2021/rick.jpg",
+      "/images/home/conf2021/shruti.jpg",
+      "/images/home/conf2021/shaundai.jpg",
+      "/images/home/conf2021/aakansha.jpg",
+      "/images/home/conf2021/brian.jpg",
+      "/images/home/conf2021/xuan.jpg",
+      "/images/home/conf2021/rachel.jpg",
+      "/images/home/conf2021/debbie.jpg",
+      "/images/home/conf2021/sarah.jpg",
+      "/images/home/conf2021/linton.jpg",
+      "/images/home/conf2021/delba.jpg",
+      "/images/home/conf2021/robert.jpg",
+      "/images/home/conf2021/eric.jpg",
+      "/images/home/conf2021/steven.jpg",
+      "/images/home/conf2021/roman.jpg",
+      "/images/home/conf2021/daishi.jpg",
+      "/images/home/conf2021/diego.jpg",
+      "/images/home/conf2021/tafu.jpg",
+      "/images/home/conf2021/lyle.jpg",
+      "/images/home/conf2021/helen.jpg",
+      "/images/home/community/react_conf_fun.webp",
+      "/images/home/community/react_india_sunil.webp",
+      "/images/home/community/react_conf_hallway.webp",
+      "/images/home/community/react_india_hallway.webp",
+      "/images/home/community/react_conf_elizabet.webp",
+      "/images/home/community/react_india_selfie.webp",
+      "/images/home/community/react_conf_nat.webp",
+      "/images/home/community/react_india_team.webp",
+      "/images/home/community/react_conf_fun.webp",
+      "/images/home/community/react_india_sunil.webp",
+      "/images/home/community/react_conf_hallway.webp",
+      "/images/home/community/react_india_hallway.webp",
+      "/images/home/community/react_conf_elizabet.webp",
+      "/images/home/community/react_india_selfie.webp",
+      "/images/home/community/react_conf_nat.webp",
+      "/images/home/community/react_india_team.webp",
+      "/images/uwu.png"
+    ],
+    "fontFamilySample": "\"Optimistic Text\", -apple-system, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "(function () { try { let logShown = false; function setUwu(isUwu) { try { if (isUwu) { localStorage.setItem('uwu', true); document.documentElement.classList.add('uwu'); if (!logShown) { console.log('uwu mode! turn off with ?uwu=0'); console.log('logo credit to @sawaratsuki1004 via https://github.com/SAWARATSUKI/KawaiiLogos'); logShown = true; } } else { localStorage.removeItem('uwu'); document.documentElement.classList.remove('uwu'); console.log('uwu mode off. turn on with ?uwu'); } } catch (err) { } } window.__setUwu = setUwu; function checkQueryParam() { const params = new URLSearchParams(window.location.search); const value = params.get('uwu'); switch(value) { case '': case 'true': case '1': return true; case 'false': case '0': return false; default: return null; } } function checkLocalStorage() { try { return localStorage.getItem('uwu') === 'true'; } catch (err) { return false; } } const uwuQueryParam = checkQueryParam(); if (uwuQueryParam != null) { setUwu(uwuQueryParam); } else if (checkLocalStorage()) { document.documentElement.classList.add('uwu'); } } catch (err) { } })(); (function () { function setTheme(newTheme) { window.__theme = newTheme; if (newTheme === 'dark') { document.documentElement.classList.add('dark'); } else if (newTheme === 'light') { document.documentElement.classList.remove('dark'); } } var preferredTheme; try { preferredTheme = localStorage.getItem('theme'); } catch (err) { } window.__setPreferredTheme = function(newTheme) { preferredTheme = newTheme; setTheme(newTheme); try { localStorage.setItem('theme', newTheme); } catch (err) { } }; var initialTheme = preferredTheme; var darkQuery = window.matchMedia('(prefers-color-scheme: dark)'); if (!initialTheme) { initialTheme = darkQuery.matches ? 'dark' : 'light'; } setTheme(initialTheme); darkQuery.addEventListener('change', function (e) { if (!preferredTheme) { setTheme(e.matches ? 'dark' : 'light'); } }); // Detect whether the browser is Mac to display platform specific content // An exam"
+  }
+}

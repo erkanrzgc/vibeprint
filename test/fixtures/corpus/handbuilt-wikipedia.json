@@ -3,7 +3,7 @@
   "label": "hand-built",
   "builder": null,
   "note": "MediaWiki, hand-built, predates AI builders.",
-  "capturedAt": "2026-07-21T17:28:07.426Z",
+  "capturedAt": "2026-07-22T12:30:41.622Z",
   "snapshot": {
     "hostname": "en.wikipedia.org",
     "title": "Wikipedia, the free encyclopedia",
@@ -78,11 +78,11 @@
         "text": "Donate"
       },
       {
-        "href": "https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Atreatment",
         "text": "Create account"
       },
       {
-        "href": "https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Atreatment",
         "text": "Log in"
       },
       {
@@ -90,11 +90,11 @@
         "text": "Donate"
       },
       {
-        "href": "https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Atreatment",
         "text": "Create account"
       },
       {
-        "href": "https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Acontrol",
+        "href": "https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Main+Page&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Atreatment",
         "text": "Log in"
       },
       {
@@ -222,12 +222,12 @@
       "/static/images/icons/enwiki-25.svg",
       "/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
       "/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
-      "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ujelan.jpg/250px-Ujelan.jpg",
-      "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Niu_Yu_%282024%29_03.jpg/120px-Niu_Yu_%282024%29_03.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ludwig_Ross_by_Nicolas-Eustache_Maurin.jpg/120px-Ludwig_Ross_by_Nicolas-Eustache_Maurin.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Borglum_studio_in_Stamford.jpg/250px-Borglum_studio_in_Stamford.jpg",
       "//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg/250px-Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg",
-      "//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yuen_Long_Station_White_Tee_people_attack_citizen_in_platform_20190721.png/250px-Yuen_Long_Station_White_Tee_people_attack_citizen_in_platform_20190721.png",
-      "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-20%2C_DD_29.jpg/960px-Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-20%2C_DD_29.jpg",
-      "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-29%2C_DD_32.jpg/960px-Moma_amarilla_%28Tripterygion_delaisi%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2022-07-29%2C_DD_32.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Sarawak_%281870%E2%80%931946%2C_1963%E2%80%931973%29.svg/250px-Flag_of_Sarawak_%281870%E2%80%931946%2C_1963%E2%80%931973%29.svg.png",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pit_stop_competition_%2847966306662%29.jpg/250px-Pit_stop_competition_%2847966306662%29.jpg",
+      "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leighton-God_Speed%21.jpg/330px-Leighton-God_Speed%21.jpg",
       "//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
       "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/40px-MediaWiki-2020-icon.svg.png",
       "//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png",

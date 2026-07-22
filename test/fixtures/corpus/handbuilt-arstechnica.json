@@ -1,0 +1,295 @@
+{
+  "url": "https://arstechnica.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Haber sitesi, uzun geçmiş.",
+  "capturedAt": "2026-07-22T12:32:58.807Z",
+  "snapshot": {
+    "hostname": "arstechnica.com",
+    "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+    "generatorMeta": null,
+    "faviconHref": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
+    "scriptSrcs": [
+      "https://globalservices.conde.digital/p77xzrbz9z.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-PVBXQMCR&gtm=4e67k1",
+      "https://planebasin.com/dist/25dd01b14_8715a062a12be6f05714ee41f1a252e6e86d0.index.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-NLXNPCQ",
+      "https://privacy.condenastdigital.com/fides.js?property_id=FDS-MIKT8M&",
+      "https://cdn.arstechnica.net/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://ads-static.conde.digital/production/cns/builds/ars-technica/v6.js",
+      "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202607200101/pubads_impl.js?cb=31099834",
+      "//static.adsafeprotected.com/iasPET.1.js",
+      "https://bd1cec50-00d1-4ce9-9572-785857419a1e.edge.permutive.app/1dfc40bb-d155-4f15-970e-99450dbfa0e2-web.js",
+      "https://c.amazon-adsystem.com/aax2/apstag.js",
+      "https://ads-static.conde.digital/production/cns/builds/ars-technica/prebid.min.js",
+      "https://config.aps.amazon-adsystem.com/configs/3035",
+      "https://globalservices.conde.digital/cwv-attribution.4.2.4.js",
+      "https://cdn.arstechnica.net/wp-content/plugins/article-forum-connect/public/js/iframe-resizer.parent.js?ver=5.3.1",
+      "https://cdn.arstechnica.net/wp-content/plugins/article-forum-connect/public/js/iframe.js?ver=1.2.4",
+      "https://cdn.arstechnica.net/wp-content/themes/ars-v9/public/js/app.95e7cc.js",
+      "https://cdn.arstechnica.net/wp-content/themes/ars-v9/public/js/ads.ae0b0b.js",
+      "https://cdn.arstechnica.net/wp-content/themes/ars-v9/public/js/stats.01cffe.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://6sense.com/privacy-policy/",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://6sense.com/privacy-policy/",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://veepee-ad.com/politique-confidentialit%C3%A9-activit%C3%A9-publicitaire",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://veepee-ad.com/politique-confidentialit%C3%A9-activit%C3%A9-publicitaire",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://www.abcsinsights.com/privacy/ad-measurement",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://www.adyoulike.com/pages/privacy",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://www.adyoulike.com/pages/privacy",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://www.adventori.com/fr/rgpd/",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://www.adventori.com/fr/rgpd/",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://www.amillionads.com/privacy-policy",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://www.amillionads.com/privacy-policy/",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://virtualminds.com/platform-privacy-policy/",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://virtualminds.com/platform-privacy-policy/",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://privacy.acuityads.com/corporate-privacy-policy.html",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://privacy.acuityads.com/corporate-privacy-policy.html",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "http://adelement.com/privacy-policy.html",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://adelement.com/privacy-policy.html#legal-basis-processing",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://adara.com/privacy-promise/",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://adara.com/privacy-promise/",
+        "text": "Legitimate interest disclosure"
+      },
+      {
+        "href": "https://www.condenast.com/privacy-policy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://www.ethyca.com/janus?utm_source=fides_consent&utm_medium=referral&utm_campaign=cmp_backlinks&utm_term=janus",
+        "text": "Consent powered by Ethyca"
+      },
+      {
+        "href": "https://www.condenast.com/privacy-policy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://www.ethyca.com/janus?utm_source=fides_consent&utm_medium=referral&utm_campaign=cmp_backlinks&utm_term=janus",
+        "text": "Consent powered by Ethyca"
+      },
+      {
+        "href": "https://arstechnica.com/#main",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://arstechnica.com/",
+        "text": "Ars Technica home"
+      },
+      {
+        "href": "https://arstechnica.com/civis/",
+        "text": "Forum"
+      },
+      {
+        "href": "https://arstechnica.com/subscribe/",
+        "text": "Subscribe"
+      },
+      {
+        "href": "https://arstechnica.com/search/",
+        "text": "Search"
+      },
+      {
+        "href": "https://arstechnica.com/ai/",
+        "text": "AI"
+      },
+      {
+        "href": "https://arstechnica.com/information-technology/",
+        "text": "Biz & IT"
+      },
+      {
+        "href": "https://arstechnica.com/cars/",
+        "text": "Cars"
+      },
+      {
+        "href": "https://arstechnica.com/culture/",
+        "text": "Culture"
+      },
+      {
+        "href": "https://arstechnica.com/gaming/",
+        "text": "Gaming"
+      },
+      {
+        "href": "https://arstechnica.com/health/",
+        "text": "Health"
+      },
+      {
+        "href": "https://arstechnica.com/tech-policy/",
+        "text": "Policy"
+      },
+      {
+        "href": "https://arstechnica.com/science/",
+        "text": "Science"
+      },
+      {
+        "href": "https://arstechnica.com/security/",
+        "text": "Security"
+      },
+      {
+        "href": "https://arstechnica.com/space/",
+        "text": "Space"
+      },
+      {
+        "href": "https://arstechnica.com/gadgets/",
+        "text": "Tech"
+      },
+      {
+        "href": "https://arstechnica.com/features/",
+        "text": "Feature"
+      },
+      {
+        "href": "https://arstechnica.com/reviews/",
+        "text": "Reviews"
+      },
+      {
+        "href": "https://arstechnica.com/ai/",
+        "text": "AI"
+      },
+      {
+        "href": "https://arstechnica.com/information-technology/",
+        "text": "Biz & IT"
+      },
+      {
+        "href": "https://arstechnica.com/cars/",
+        "text": "Cars"
+      },
+      {
+        "href": "https://arstechnica.com/culture/",
+        "text": "Culture"
+      },
+      {
+        "href": "https://arstechnica.com/gaming/",
+        "text": "Gaming"
+      },
+      {
+        "href": "https://arstechnica.com/health/",
+        "text": "Health"
+      },
+      {
+        "href": "https://arstechnica.com/tech-policy/",
+        "text": "Policy"
+      },
+      {
+        "href": "https://arstechnica.com/science/",
+        "text": "Science"
+      },
+      {
+        "href": "https://arstechnica.com/security/",
+        "text": "Security"
+      }
+    ],
+    "imageSrcs": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-768x432.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ukrainian-military-robot-test-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ukrainian-military-robot-test-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-384x216-1784661223.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-384x216-1776887601.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276125539-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-768x432.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-500x500-1776887612.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-384x216.png",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/china-russia-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-384x216.png",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-300x300.png",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-300x300-1783966817.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-384x216-1784578134.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-384x216-1745953049.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-300x300-1745953031.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/disccrack-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/disccrack-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2021/07/ransomware-screen-384x216.jpeg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2021/07/ransomware-screen-150x150.jpeg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-300x300-1784313872.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-384x216.jpeg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-150x150.jpeg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-384x216.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-300x300.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-384x216.png",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-300x300.png",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/tranche1_york_launch3-384x216.jpg"
+    ],
+    "fontFamilySample": "\"Source Sans 3\", \"Source Sans 3-fallback\"",
+    "bodyTextSample": "About Your PrivacyWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework and saved in a cookie on your device called “fides_consent” for a maximum duration of 12 months.PurposesFeaturesVendorsBelow, you will find a list of the purposes and special features for which your data is being processed. You may exercise your rights for specific purposes, based on consent or legitimate interest, using the toggles below.ConsentLegitimate interestPurposesEssentialOnThis website uses essential cookies and services to enable core website functionality and provide a seamless user experience. These cookies and services are used to facilitate features such as navigation, remembering user references, and ensuring website security.Functional CookiesOffThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.Audience MeasurementOnWe use audience measurement cookies in order to carry out aggregated traffic measurement and generate performance statistics essential for the proper functioning of the site and the provision of its content (for example to measure performance, to detect navigation problems, to optimization technical performance or ergonomics, to estimate server power needed and to analyse content performance). The use of these cookies is strictly limited to measuring the site's audience. These cookies do not al"
+  }
+}

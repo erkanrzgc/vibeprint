@@ -39,9 +39,9 @@ const fn = predictions.filter((p) => p.label === 'ai-built' && p.bucket !== 'lik
  */
 describe('real-site corpus', () => {
   it('has a balanced, non-trivial corpus', () => {
-    expect(corpus.length).toBeGreaterThanOrEqual(20);
-    expect(corpus.filter((r) => r.label === 'ai-built').length).toBeGreaterThanOrEqual(8);
-    expect(corpus.filter((r) => r.label === 'hand-built').length).toBeGreaterThanOrEqual(8);
+    expect(corpus.length).toBeGreaterThanOrEqual(50);
+    expect(corpus.filter((r) => r.label === 'ai-built').length).toBeGreaterThanOrEqual(25);
+    expect(corpus.filter((r) => r.label === 'hand-built').length).toBeGreaterThanOrEqual(25);
   });
 
   it('never calls a known hand-built site "likely-ai-built"', () => {
@@ -50,9 +50,29 @@ describe('real-site corpus', () => {
     expect(fp.map((p) => new URL(p.url).hostname)).toEqual([]);
   });
 
-  it('catches at least 80% of known AI-built sites', () => {
+  it('catches at least 90% of known AI-built sites', () => {
     const recall = tp / (tp + fn);
-    expect(recall).toBeGreaterThanOrEqual(0.8);
+    expect(recall).toBeGreaterThanOrEqual(0.9);
+  });
+
+  it('detects Framer sites via generator meta / builder markup, not just badges', () => {
+    // Framer labels in the corpus are evidence-backed: every one was confirmed by a
+    // <meta name="generator" content="Framer ..."> tag at capture time. Sites that merely
+    // appeared in Framer's gallery without any such trace were dropped rather than guessed at.
+    const framerSites = predictions.filter((p) => p.builder === 'framer');
+
+    expect(framerSites.length).toBeGreaterThanOrEqual(5);
+    framerSites.forEach((site) => expect(site.bucket).toBe('likely-ai-built'));
+  });
+
+  it('does not accuse modern hand-built SaaS/framework sites that share the AI-template aesthetic', () => {
+    // The highest-risk false positives: Geist/Inter fonts, shadcn+Radix markup, dark gradient
+    // heroes, Vercel hosting - all present here, all hand-built.
+    const riskyHosts = ['vercel.com', 'ui.shadcn.com', 'resend.com', 'supabase.com', 'clerk.com'];
+    const risky = predictions.filter((p) => riskyHosts.includes(p.snapshot.hostname));
+
+    expect(risky.length).toBeGreaterThanOrEqual(4);
+    risky.forEach((site) => expect(site.bucket).not.toBe('likely-ai-built'));
   });
 
   it('detects Lovable sites that kept the platform subdomain', () => {

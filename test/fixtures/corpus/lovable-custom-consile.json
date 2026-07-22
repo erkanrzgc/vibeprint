@@ -3,14 +3,14 @@
   "label": "ai-built",
   "builder": "lovable",
   "note": "Listed on madewithlovable.com showcase; custom domain.",
-  "capturedAt": "2026-07-21T17:27:07.199Z",
+  "capturedAt": "2026-07-22T12:29:40.958Z",
   "snapshot": {
     "hostname": "consile.app",
     "title": "Consile – Team Operations, Leave, Attendance & HR",
     "generatorMeta": null,
     "faviconHref": "https://vsflzpxytrvyvoqxjdwx.supabase.co/storage/v1/object/public/public-assets/branding/favicon_1775674318099.svg",
     "scriptSrcs": [
-      "/assets/index-CqeWLRcm.js",
+      "/assets/index-CRFgHErU.js",
       "/~flock.js"
     ],
     "htmlDatasetKeys": [
@@ -246,6 +246,10 @@
       "https://peerpush.com/p/consile/badge.png",
       "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=light&name=Consile%20App",
       "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=dark&name=Consile%20App",
+      "https://launchstag.com/badge-light.svg",
+      "https://launchstag.com/badge-dark.svg",
+      "https://launchbuff.com/badge-featured-light.svg",
+      "https://launchbuff.com/badge-featured-dark.svg",
       "https://cdn-b.saashub.com/img/badges/approved-color.png?v=1",
       "https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1181818&theme=light&t=1783252119381",
       "https://www.google.com/s2/favicons?domain=g2.com&sz=128",
@@ -261,20 +265,16 @@
       "https://peerpush.com/p/consile/badge.png",
       "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=light&name=Consile%20App",
       "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=dark&name=Consile%20App",
+      "https://launchstag.com/badge-light.svg",
+      "https://launchstag.com/badge-dark.svg",
+      "https://launchbuff.com/badge-featured-light.svg",
+      "https://launchbuff.com/badge-featured-dark.svg",
       "https://cdn-b.saashub.com/img/badges/approved-color.png?v=1",
       "https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1181818&theme=light&t=1783252119381",
       "https://www.google.com/s2/favicons?domain=g2.com&sz=128",
       "https://www.google.com/s2/favicons?domain=capterra.com&sz=128",
       "https://www.google.com/s2/favicons?domain=crunchbase.com&sz=128",
-      "https://www.google.com/s2/favicons?domain=alternativeto.net&sz=128",
-      "https://www.google.com/s2/favicons?domain=softwareadvice.com.au&sz=128",
-      "https://www.google.com/s2/favicons?domain=krispitech.com&sz=128",
-      "https://www.google.com/s2/favicons?domain=lovable.dev&sz=128",
-      "https://startupfa.me/badges/featured-badge.webp",
-      "https://saashunt.best/images/badges/top1-light.svg",
-      "https://saashunt.best/images/badges/top1-dark.svg",
-      "https://peerpush.com/p/consile/badge.png",
-      "https://kittylaunch.com/api/public/badges/launch_badge.svg?theme=light&name=Consile%20App"
+      "https://www.google.com/s2/favicons?domain=alternativeto.net&sz=128"
     ],
     "fontFamilySample": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
     "bodyTextSample": "(function(){ var t=localStorage.getItem(\"theme\"); var isDark=t===\"dark\"||((!t||t===\"auto\")&&window.matchMedia(\"(prefers-color-scheme:dark)\").matches); if(isDark)document.documentElement.classList.add(\"dark\"); })(); Cookie SettingsWe use cookies to keep you signed in, remember preferences, and improve Consile. Read our privacy policyReject AllAccept AllCustomise preferencesConsileLiveHomeFeaturesPricingAboutLoginBook a DemoGet Started One workspace for tasks, people ops, and performanceMost tools only manage projects or only manage people. Consile brings both together — so you can plan work, track attendance, run reviews, and grow your team from a single calm platform.\"Connecting Teams. Empowering Work.\"Start free — no card required Book a Demo See how it works Free forever plan No credit card Setup in 2 minutes Cancel anytimeFor individualsFor teamsFree starter planDesktop + mobileFor individualsFor teamsFree starter planDesktop + mobile Watch the demoSee Consile in two minutesA quick walkthrough of how teams run people, tasks, and reporting inside one workspace.Featured onG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableG2Peer reviewsCapterraSoftware marketplaceCrunchbaseCompany profileAlternativeToSoftware directorySoftware AdviceSoftware marketplaceKrispiTechIn the newsMade with LovableBuilt on LovableWhy we built ConsileMeet the team and read our story.GDPR compliantData handling & residencyEnterprise-grade securitySSO, SCIM, audit logs The problemWhy teams st"

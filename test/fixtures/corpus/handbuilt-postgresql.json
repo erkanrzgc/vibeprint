@@ -1,0 +1,242 @@
+{
+  "url": "https://www.postgresql.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Onlarca yıllık.",
+  "capturedAt": "2026-07-22T12:32:30.636Z",
+  "snapshot": {
+    "hostname": "www.postgresql.org",
+    "title": "PostgreSQL: The world's most advanced open source database",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.ico",
+    "scriptSrcs": [
+      "https://www.googletagmanager.com/gtag/js?id=G-FGJ68XB9NC&cx=c&_slc=1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WC97NKC",
+      "/media/js/theme.js?94481f7f",
+      "/media/js/main.js?94481f7f"
+    ],
+    "htmlDatasetKeys": [
+      "theme"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://www.postgresql.org/",
+        "text": "Home"
+      },
+      {
+        "href": "https://www.postgresql.org/about/",
+        "text": "About"
+      },
+      {
+        "href": "https://www.postgresql.org/download/",
+        "text": "Download"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://www.postgresql.org/community/",
+        "text": "Community"
+      },
+      {
+        "href": "https://www.postgresql.org/developer/",
+        "text": "Developers"
+      },
+      {
+        "href": "https://www.postgresql.org/support/",
+        "text": "Support"
+      },
+      {
+        "href": "https://www.postgresql.org/about/donate/",
+        "text": "Donate"
+      },
+      {
+        "href": "https://www.postgresql.org/account/",
+        "text": "Your account"
+      },
+      {
+        "href": "https://www.postgresql.org/about/news/postgresql-19-beta-2-released-3350/",
+        "text": "PostgreSQL 19 Beta 2 Released!"
+      },
+      {
+        "href": "https://www.postgresql.org/download/",
+        "text": "Download"
+      },
+      {
+        "href": "https://www.postgresql.org/about/",
+        "text": "New to PostgreSQL?"
+      },
+      {
+        "href": "https://www.postgresql.org/download/",
+        "text": "install"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/",
+        "text": "use"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/",
+        "text": "official documentation"
+      },
+      {
+        "href": "https://www.postgresql.org/community/",
+        "text": "open source community"
+      },
+      {
+        "href": "https://www.postgresql.org/community/",
+        "text": "engage with the community"
+      },
+      {
+        "href": "https://www.postgresql.org/about/",
+        "text": "Learn More"
+      },
+      {
+        "href": "https://www.postgresql.org/about/featurematrix/",
+        "text": "Feature Matrix"
+      },
+      {
+        "href": "https://www.postgresql.org/about/governance/",
+        "text": "Governance"
+      },
+      {
+        "href": "https://www.postgresql.org/about/news/postgresql-19-beta-2-released-3350/",
+        "text": "PostgreSQL 19 Beta 2 Released!"
+      },
+      {
+        "href": "https://www.postgresql.org/download/",
+        "text": "available for download"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/19/release-19.html",
+        "text": "release notes"
+      },
+      {
+        "href": "https://www.postgresql.org/developer/beta/",
+        "text": "testing process"
+      },
+      {
+        "href": "https://www.postgresql.org/support/versioning/",
+        "text": "versioning policy"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/18/release-18-4.html",
+        "text": "Notes"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/17/release-17-10.html",
+        "text": "Notes"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/16/release-16-14.html",
+        "text": "Notes"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/15/release-15-18.html",
+        "text": "Notes"
+      },
+      {
+        "href": "https://www.postgresql.org/docs/14/release-14-23.html",
+        "text": "Notes"
+      },
+      {
+        "href": "https://www.postgresql.org/download/",
+        "text": "Download"
+      },
+      {
+        "href": "https://www.postgresql.org/support/versioning/",
+        "text": "Why Upgrade?"
+      },
+      {
+        "href": "https://www.postgresql.org/support/security/",
+        "text": "Security"
+      },
+      {
+        "href": "https://www.postgresql.org/about/event/postgres-adelaide-meetup-2597/",
+        "text": "Postgres Adelaide Meetup"
+      },
+      {
+        "href": "https://www.postgresql.org/about/event/hyderabad-postgres-days-2026-2592/",
+        "text": "Hyderabad Postgres Days 2026"
+      },
+      {
+        "href": "https://www.postgresql.org/about/event/pgday-uk-2026-2584/",
+        "text": "PGDay UK 2026"
+      },
+      {
+        "href": "https://www.postgresql.org/about/event/pgconfeu-2026-2587/",
+        "text": "PGConf.EU 2026"
+      },
+      {
+        "href": "https://www.postgresql.org/about/event/pgday-israel-2026-2588/",
+        "text": "PGDay Israel 2026"
+      },
+      {
+        "href": "https://www.postgresql.org/about/event/pg-down-under-2026-2585/",
+        "text": "PG Down Under 2026"
+      },
+      {
+        "href": "https://www.postgresql.org/about/event/pgconfasia-2026-2596/",
+        "text": "PGCONF.ASIA 2026"
+      },
+      {
+        "href": "https://www.postgresql.org/about/policies/conferences/",
+        "text": "community event guidelines"
+      },
+      {
+        "href": "https://www.postgresql.org/about/events/",
+        "text": "Check Schedule"
+      },
+      {
+        "href": "https://www.postgresql.org/account/events/new/",
+        "text": "Add Your Event"
+      },
+      {
+        "href": "https://lists.postgresql.org/",
+        "text": "mailing lists"
+      },
+      {
+        "href": "https://www.postgresql.org/account/",
+        "text": "PostgreSQL community account"
+      },
+      {
+        "href": "https://www.postgresql.org/account/",
+        "text": "Signing up"
+      },
+      {
+        "href": "https://www.postgresql.org/community/",
+        "text": "global PostgreSQL community"
+      },
+      {
+        "href": "https://lists.postgresql.org/",
+        "text": "Subscribe"
+      },
+      {
+        "href": "https://www.postgresql.org/list/",
+        "text": "View Archives"
+      },
+      {
+        "href": "https://www.postgresql.org/about/events/",
+        "text": "Browse Events"
+      }
+    ],
+    "imageSrcs": [
+      "/media/img/about/press/elephant.png",
+      "/media/img/about/press/elephant.png",
+      "/media/img/PostgreSQL_Badge1.svg",
+      "/media/img/PostgreSQL_Badge1.svg",
+      "/media/img/PostgreSQL_Badge1.svg",
+      "/media/img/PostgreSQL_Badge1.svg",
+      "/media/img/PostgreSQL_Badge1.svg",
+      "/media/img/PostgreSQL_Badge1.svg",
+      "/media/img/PostgreSQL_Badge1.svg",
+      "/media/img/PostgreSQL_Badge1.svg"
+    ],
+    "fontFamilySample": "\"Open Sans\", sans-serif",
+    "bodyTextSample": "Home About Download Documentation Community Developers Support Donate Your account July 16, 2026: PostgreSQL 19 Beta 2 Released! PostgreSQL: The World's Most Advanced Open Source Relational Database Download New to PostgreSQL? New to PostgreSQL? PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. There is a wealth of information to be found describing how to install and use PostgreSQL through the official documentation. The open source community provides many helpful places to become familiar with PostgreSQL, discover how it works, and find career opportunities. Learn more on how to engage with the community. Learn More Feature Matrix Governance Latest Releases 2026-07-16 - PostgreSQL 19 Beta 2 Released! The PostgreSQL Global Development Group announces that the 2nd beta release of PostgreSQL 19 is now available for download. This release contains PostgreSQL 19 feature previews ahead of general availability, though some details of the release can change during the testing period. You can find information about all of the PostgreSQL 19 features and changes in the release notes. In the spirit of the open source PostgreSQL community, we strongly encourage you to test the new features of PostgreSQL 19 on your systems to help us eliminate bugs and other issues. While we do not advise you to run beta versions in production environments, we encourage you to find ways to run your typical application workloads against this beta release. Your testing and feedback help the community ensure that PostgreSQL 19 upholds our standards of delivering a stable, reliable release of the world's most advanced open source relational database. Please read more about our testing process and how you can contribute. PostgreSQL 14 will stop receiving fixes on November 12, 2026. If you are running PostgreSQL 14 in a production environment, we "
+  }
+}

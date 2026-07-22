@@ -1,0 +1,32 @@
+{
+  "url": "https://kinovibe.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:18.852Z",
+  "snapshot": {
+    "hostname": "kinovibe.lovable.app",
+    "title": "vibe-movie-matcher",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-D117Mo45.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://lovable.dev/projects/59c43c15-7672-49f5-b3e5-2baae404bff2?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [
+      "/lovable-uploads/23b7aa9e-13b2-4444-9e73-272af845d015.png"
+    ],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "KINOVIBEMovies that match your mood0vibes checkedTry something like:\"I want something uplifting like The Secret Life of Walter Mitty\"\"Looking for a cozy movie for a quiet evening\"\"Need a movie that makes me think like Inception\"\"Something nostalgic from the 80s\"\"A heartwarming story about friendship\"\"An epic adventure like Lord of the Rings\"\"A mind-bending sci-fi experience\"\"Something with beautiful cinematography\"Find MoviesYour movie recommendations will appear hereNerdOcto Edit with // Don't show the lovable-badge if the page is in an iframe or if it's being rendered by puppeteer (screenshot service) if (window.self !== window.top || navigator.userAgent.includes('puppeteer')) { var badge = document.getElementById('lovable-badge'); if (badge) { badge.style.display = 'none'; } } // Add click event listener to close button with animation var closeButton = document.getElementById('lovable-badge-close'); if (closeButton) { closeButton.addEventListener('click', function(event) { event.preventDefault(); event.stopPropagation(); var badge = document.getElementById('lovable-badge'); if (badge) { badge.classList.add('closing'); setTimeout(function() { if (badge) { badge.style.display = 'none'; } }, 240); } }); }"
+  }
+}

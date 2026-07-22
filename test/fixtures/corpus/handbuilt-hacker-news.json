@@ -3,7 +3,7 @@
   "label": "hand-built",
   "builder": null,
   "note": "Predates all AI builders by ~18 years; hand-written Arc/table markup.",
-  "capturedAt": "2026-07-21T17:27:34.379Z",
+  "capturedAt": "2026-07-22T12:30:08.791Z",
   "snapshot": {
     "hostname": "news.ycombinator.com",
     "title": "Hacker News",
@@ -54,176 +54,175 @@
         "text": "login"
       },
       {
-        "href": "https://news.ycombinator.com/from?site=yale.edu",
-        "text": "yale.edu"
+        "href": "https://overpaid.lol/",
+        "text": "OverpAId – Fire your CEO. Hire the future"
       },
       {
-        "href": "https://news.ycombinator.com/user?id=speckx",
-        "text": "speckx"
+        "href": "https://news.ycombinator.com/from?site=overpaid.lol",
+        "text": "overpaid.lol"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48993816",
+        "href": "https://news.ycombinator.com/user?id=ignaloidas",
+        "text": "ignaloidas"
+      },
+      {
+        "href": "https://news.ycombinator.com/item?id=49004663",
         "text": "1 hour ago"
       },
       {
-        "href": "https://news.ycombinator.com/hide?id=48993816&goto=news",
+        "href": "https://news.ycombinator.com/hide?id=49004663&goto=news",
         "text": "hide"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48993816",
-        "text": "2 comments"
+        "href": "https://news.ycombinator.com/item?id=49004663",
+        "text": "41 comments"
       },
       {
-        "href": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-        "text": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+        "href": "https://news.ycombinator.com/from?site=openai.com",
+        "text": "openai.com"
       },
       {
-        "href": "https://news.ycombinator.com/from?site=blog.google",
-        "text": "blog.google"
+        "href": "https://news.ycombinator.com/user?id=mfiguiere",
+        "text": "mfiguiere"
       },
       {
-        "href": "https://news.ycombinator.com/user?id=logickkk1",
-        "text": "logickkk1"
+        "href": "https://news.ycombinator.com/item?id=48997548",
+        "text": "16 hours ago"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48993414",
-        "text": "2 hours ago"
-      },
-      {
-        "href": "https://news.ycombinator.com/hide?id=48993414&goto=news",
+        "href": "https://news.ycombinator.com/hide?id=48997548&goto=news",
         "text": "hide"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48993414",
-        "text": "238 comments"
+        "href": "https://news.ycombinator.com/item?id=48997548",
+        "text": "877 comments"
       },
       {
-        "href": "https://thecastlemap.com/",
-        "text": "The World's 2,400 Castles"
+        "href": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+        "text": "Introduction to Formal Verification with Lean Part 1"
       },
       {
-        "href": "https://news.ycombinator.com/from?site=thecastlemap.com",
-        "text": "thecastlemap.com"
+        "href": "https://news.ycombinator.com/from?site=hashcloak.com",
+        "text": "hashcloak.com"
       },
       {
-        "href": "https://news.ycombinator.com/user?id=marklit",
-        "text": "marklit"
+        "href": "https://news.ycombinator.com/user?id=badcryptobitch",
+        "text": "badcryptobitch"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48994178",
-        "text": "1 hour ago"
-      },
-      {
-        "href": "https://news.ycombinator.com/hide?id=48994178&goto=news",
-        "text": "hide"
-      },
-      {
-        "href": "https://news.ycombinator.com/item?id=48994178",
-        "text": "48 comments"
-      },
-      {
-        "href": "https://www.pcjs.org/",
-        "text": "PCjs Machines"
-      },
-      {
-        "href": "https://news.ycombinator.com/from?site=pcjs.org",
-        "text": "pcjs.org"
-      },
-      {
-        "href": "https://news.ycombinator.com/user?id=naves",
-        "text": "naves"
-      },
-      {
-        "href": "https://news.ycombinator.com/item?id=48992323",
+        "href": "https://news.ycombinator.com/item?id=48969200",
         "text": "3 hours ago"
       },
       {
-        "href": "https://news.ycombinator.com/hide?id=48992323&goto=news",
+        "href": "https://news.ycombinator.com/hide?id=48969200&goto=news",
         "text": "hide"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48992323",
-        "text": "8 comments"
-      },
-      {
-        "href": "https://news.ycombinator.com/from?site=qwen.ai",
-        "text": "qwen.ai"
-      },
-      {
-        "href": "https://news.ycombinator.com/user?id=ilreb",
-        "text": "ilreb"
-      },
-      {
-        "href": "https://news.ycombinator.com/item?id=48989701",
-        "text": "8 hours ago"
-      },
-      {
-        "href": "https://news.ycombinator.com/hide?id=48989701&goto=news",
-        "text": "hide"
-      },
-      {
-        "href": "https://news.ycombinator.com/item?id=48989701",
-        "text": "188 comments"
-      },
-      {
-        "href": "https://news.ycombinator.com/from?site=postquantum.com",
-        "text": "postquantum.com"
-      },
-      {
-        "href": "https://news.ycombinator.com/user?id=Sami_Lehtinen",
-        "text": "Sami_Lehtinen"
-      },
-      {
-        "href": "https://news.ycombinator.com/item?id=48994116",
-        "text": "1 hour ago"
-      },
-      {
-        "href": "https://news.ycombinator.com/hide?id=48994116&goto=news",
-        "text": "hide"
-      },
-      {
-        "href": "https://news.ycombinator.com/item?id=48994116",
+        "href": "https://news.ycombinator.com/item?id=48969200",
         "text": "7 comments"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48995037",
-        "text": "Bloomy (YC S26) is hiring a founding engineer"
+        "href": "https://fireworks.ai/blog/kimik3-fable",
+        "text": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48995037",
-        "text": "26 minutes ago"
+        "href": "https://news.ycombinator.com/from?site=fireworks.ai",
+        "text": "fireworks.ai"
       },
       {
-        "href": "https://news.ycombinator.com/hide?id=48995037&goto=news",
+        "href": "https://news.ycombinator.com/user?id=piotrgrabowski",
+        "text": "piotrgrabowski"
+      },
+      {
+        "href": "https://news.ycombinator.com/item?id=48999291",
+        "text": "13 hours ago"
+      },
+      {
+        "href": "https://news.ycombinator.com/hide?id=48999291&goto=news",
         "text": "hide"
       },
       {
-        "href": "https://news.ycombinator.com/from?site=meta.com",
-        "text": "meta.com"
+        "href": "https://news.ycombinator.com/item?id=48999291",
+        "text": "383 comments"
       },
       {
-        "href": "https://news.ycombinator.com/user?id=surprisetalk",
-        "text": "surprisetalk"
+        "href": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+        "text": "Intel Starts Shipping High-NA EUV Silicon"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48995074",
-        "text": "23 minutes ago"
+        "href": "https://news.ycombinator.com/from?site=morethanmoore.substack.com",
+        "text": "morethanmoore.substack.com"
       },
       {
-        "href": "https://news.ycombinator.com/hide?id=48995074&goto=news",
+        "href": "https://news.ycombinator.com/user?id=zdw",
+        "text": "zdw"
+      },
+      {
+        "href": "https://news.ycombinator.com/item?id=48961698",
+        "text": "7 hours ago"
+      },
+      {
+        "href": "https://news.ycombinator.com/hide?id=48961698&goto=news",
         "text": "hide"
       },
       {
-        "href": "https://news.ycombinator.com/item?id=48995074",
-        "text": "discuss"
+        "href": "https://news.ycombinator.com/item?id=48961698",
+        "text": "45 comments"
+      },
+      {
+        "href": "https://news.ycombinator.com/from?site=github.com/chrislgarry",
+        "text": "github.com/chrislgarry"
+      },
+      {
+        "href": "https://news.ycombinator.com/user?id=noteness",
+        "text": "noteness"
+      },
+      {
+        "href": "https://news.ycombinator.com/item?id=49002166",
+        "text": "7 hours ago"
+      },
+      {
+        "href": "https://news.ycombinator.com/hide?id=49002166&goto=news",
+        "text": "hide"
+      },
+      {
+        "href": "https://news.ycombinator.com/item?id=49002166",
+        "text": "29 comments"
+      },
+      {
+        "href": "https://ads.openai.com/",
+        "text": "Advertise in ChatGPT"
+      },
+      {
+        "href": "https://news.ycombinator.com/from?site=ads.openai.com",
+        "text": "ads.openai.com"
+      },
+      {
+        "href": "https://news.ycombinator.com/user?id=montecarl",
+        "text": "montecarl"
+      },
+      {
+        "href": "https://news.ycombinator.com/item?id=48996571",
+        "text": "17 hours ago"
+      },
+      {
+        "href": "https://news.ycombinator.com/hide?id=48996571&goto=news",
+        "text": "hide"
+      },
+      {
+        "href": "https://news.ycombinator.com/item?id=48996571",
+        "text": "674 comments"
+      },
+      {
+        "href": "https://news.ycombinator.com/from?site=bbc.com",
+        "text": "bbc.com"
       }
     ],
     "imageSrcs": [
       "y18.svg",
-      "s.gif",
       "s.gif"
     ],
     "fontFamilySample": "Verdana, Geneva, sans-serif",
-    "bodyTextSample": "Hacker Newsnew | past | comments | ask | show | jobs | submitlogin1.Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa (yale.edu)93 points by speckx 1 hour ago | hide | 2 comments2.Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber (blog.google)310 points by logickkk1 2 hours ago | hide | 238 comments3.The World's 2,400 Castles (thecastlemap.com)64 points by marklit 1 hour ago | hide | 48 comments4.PCjs Machines (pcjs.org)102 points by naves 3 hours ago | hide | 8 comments5.Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge (qwen.ai)461 points by ilreb 8 hours ago | hide | 188 comments6.France's Anssi Will Block PQC-Free Products from Certification Starting 2027 (postquantum.com)32 points by Sami_Lehtinen 1 hour ago | hide | 7 comments7.Bloomy (YC S26) is hiring a founding engineer26 minutes ago | hide8.Meta's AI Models Are Powering the First Wave of Genesis Mission Projects (meta.com)10 points by surprisetalk 23 minutes ago | hide | discuss9.Apple Defeats Liability for Not Scanning iCloud for CSAM (ericgoldman.org)176 points by speckx 2 hours ago | hide | 132 comments10.The unreasonable difficulty of time series forecasting (suzyahyah.github.io)23 points by suzyahyah 2 hours ago | hide | 7 comments11.Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog (fidget-spinner.github.io)117 points by rbanffy 7 hours ago | hide | 5 comments12.Who's afraid of Chinese models? (stratechery.com)907 points by mfiguiere 20 hours ago | hide | 731 comments13.My USB Drive Has a Hidden Encrypted Vault (rootkitlabs.com)11 points by machinehum 1 hour ago | hide | discuss14.Incremental – A library for incremental computations (github.com/janestreet)317 points by handfuloflight 13 hours ago | hide | 60 comments15.Why Are There No Empires in Age of Empires? (2019) (acoup.blog)24 points by jkly 3 hours ago | hide | 8 comments16.Oracle could face $7B collateral bill for Wisconsin data centre (ft.com)89 points by 1vuio0pswjnm7 2 hour"
+    "bodyTextSample": "Hacker Newsnew | past | comments | ask | show | jobs | submitlogin1.OverpAId – Fire your CEO. Hire the future (overpaid.lol)91 points by ignaloidas 1 hour ago | hide | 41 comments2.OpenAI and Hugging Face address security incident during model evaluation (openai.com)1287 points by mfiguiere 16 hours ago | hide | 877 comments3.Introduction to Formal Verification with Lean Part 1 (hashcloak.com)77 points by badcryptobitch 3 hours ago | hide | 7 comments4.Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA (fireworks.ai)715 points by piotrgrabowski 13 hours ago | hide | 383 comments5.Intel Starts Shipping High-NA EUV Silicon (morethanmoore.substack.com)125 points by zdw 7 hours ago | hide | 45 comments6.Original Apollo 11 Guidance Computer source code for command and lunar modules (github.com/chrislgarry)95 points by noteness 7 hours ago | hide | 29 comments7.Advertise in ChatGPT (ads.openai.com)867 points by montecarl 17 hours ago | hide | 674 comments8.OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack (bbc.com)3 points by vinni2 25 minutes ago | hide | 1 comment9.FreeInk: Open ecosystem for e-readers (freeink.org)611 points by FriedPickles 17 hours ago | hide | 126 comments10.Judge approves $1.5B Anthropic settlement for pirated books used to train Claude (apnews.com)418 points by BeetleB 17 hours ago | hide | 376 comments11.Late.sh – a command-line Clubhouse for computer people (late.sh)221 points by itherseed 9 hours ago | hide | 75 comments12.Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber (blog.google)714 points by logickkk1 21 hours ago | hide | 539 comments13.AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance for Less – HotHardware (hothardware.com)16 points by rbanffy 2 hours ago | hide | 15 comments14.A digestion of the Jacobian conjecture counterexample (terrytao.wordpress.com)274 points by jeremyscanvic 15 hours ago | hide | 112 comments15.Ten Steps Towards Happiness (2015) (hintjens.com)162 points by emerongi 11 "
   }
 }

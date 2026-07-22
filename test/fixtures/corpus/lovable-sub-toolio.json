@@ -1,0 +1,247 @@
+{
+  "url": "https://toolio.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:33.993Z",
+  "snapshot": {
+    "hostname": "toolio.lovable.app",
+    "title": "Toolio - Discover the Best Tools Across the Internet",
+    "generatorMeta": null,
+    "faviconHref": "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/toolio//tooliologo.png",
+    "scriptSrcs": [
+      "https://cdn.seline.com/seline.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-6J93Q8G1JQ",
+      "/assets/index-C1jp_gge.js",
+      "/~flock.js",
+      "https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation",
+      "side"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://toolio.lovable.app/category/ai%20tools",
+        "text": "🤖AI Tools"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/business",
+        "text": "💼Business"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/collaboration",
+        "text": "🤝Collaboration"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/content%20creation",
+        "text": "🎥Content Creation"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/design",
+        "text": "🎨Design"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/design%20tools",
+        "text": "🖌️Design Tools"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/development",
+        "text": "🖥️Development"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/e-commerce",
+        "text": "🛒E-commerce"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/finance",
+        "text": "💵Finance"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/health%20&%20wellness",
+        "text": "💪Health & Wellness"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/learning",
+        "text": "📚Learning"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/marketing",
+        "text": "📈Marketing"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/productivity",
+        "text": "⏱️Productivity"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/seo",
+        "text": "🔍SEO"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/social%20media",
+        "text": "📱Social Media"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/technology",
+        "text": "💻Technology"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/writing",
+        "text": "✍️Writing"
+      },
+      {
+        "href": "https://whitepaper.toolio.app/",
+        "text": "Whitepaper"
+      },
+      {
+        "href": "https://toolio.lovable.app/about",
+        "text": "About"
+      },
+      {
+        "href": "https://toolio.lovable.app/login",
+        "text": "Login"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/d86756b8-e3df-459b-b0dd-80f2322f0537",
+        "text": "Uiverse.IoDesign ToolsOpen source UI components"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/ai%20tools",
+        "text": "View all"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/b4052515-5c0a-4055-bd77-21911a952752",
+        "text": "10Web.IoAI ToolsCreate a website with zero coding"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/a85fd378-fec8-49a4-9107-a0173de1e5e1",
+        "text": "Ai.Blaze.TodayAI ToolsAnswer questions any where"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/6f7d0414-d42b-4e8a-93f0-3e302f8991f9",
+        "text": "Apob.AiAI ToolsCreate avatar"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/78692e31-ce8f-43f4-91a6-4dcf59c7d54d",
+        "text": "Cassidyai.comAI ToolsAI automations for anything."
+      },
+      {
+        "href": "https://toolio.lovable.app/website/ed666228-f10e-46d8-b1b2-bccd7a95e251",
+        "text": "Co.DevAI ToolsText to app in minutes"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/22201e9e-870f-48c5-8f3d-28e76a5a3e04",
+        "text": "Dora.runAI ToolsAI-powered 3D animated sites with zero code."
+      },
+      {
+        "href": "https://toolio.lovable.app/website/fa73646b-f484-4a16-9080-4b08417bb1b0",
+        "text": "edraw.aiAI ToolsAI generated diagrams and flowcharts"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/6d165477-9541-4428-9455-47cb3b540d4f",
+        "text": "Formulabot.ComAI ToolsExcel formula generator"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/8758bd5a-9341-48ab-bb99-94de4b11aa47",
+        "text": "grokAI Toolsdfgfjfjf  utftfuf fuygiuku fygiyo"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/473f06be-d704-4812-b3f7-debb47d025d3",
+        "text": "Lumalabs.AiAI ToolsTurn any images into professional videos"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/b7dd1161-a58f-4dcc-ae74-311231913f99",
+        "text": "Media.IoAI ToolsDozens of AI tools for images and videos"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/44a1f6ee-cf55-411e-bc61-2c6ddae81861",
+        "text": "midomi.comAI Toolswhen you need to find the name of a song."
+      },
+      {
+        "href": "https://toolio.lovable.app/website/e1795bd5-0375-4f20-b957-48eb9a9b73a9",
+        "text": "Pacdora.comAI ToolsAI generated mock-ups"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/195bad20-93f2-4ad0-9575-69740e87b522",
+        "text": "Plusai.ComAI ToolsTurn text and documents into slides"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/4017c75c-dd10-4c9f-b0aa-d31beb1d0770",
+        "text": "Replit.comAI ToolsTurn your ideas into apps with AI."
+      },
+      {
+        "href": "https://toolio.lovable.app/website/293d588b-e27c-4fc6-a22f-b3591c133386",
+        "text": "TheB.aiAI ToolsAccess to all AI tools in one portal."
+      },
+      {
+        "href": "https://toolio.lovable.app/website/954f3b6c-0b36-47bd-ba6c-1dcd18828fdc",
+        "text": "V0.devAI ToolsCode any app or site using AI"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/4dcc0168-b03e-410a-b5ea-95b99de9da29",
+        "text": "Vidalgo.TechAI ToolsTurn prompts into videos in seconds"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/3ed2a8c1-7d5a-401b-8356-57c0b3f5cee9",
+        "text": "Vozo.AiAI ToolsTranslate a video into any language"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/9f158969-ccb8-4444-9697-904cda67aa7e",
+        "text": "Wegic.AiAI ToolsCreate a website with zero coding"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/business",
+        "text": "View all"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/66e205ca-8ef4-4115-a007-e517e8551c98",
+        "text": "Decktopus.comBusinessAI-Powered Presentation Generator"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/9e7b3408-5437-4e09-a43d-e31f4afc7a7a",
+        "text": "Flowcv.ComBusinessFree Resume Builder"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/collaboration",
+        "text": "View all"
+      },
+      {
+        "href": "https://toolio.lovable.app/category/content%20creation",
+        "text": "View all"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/1be90371-8bc3-4232-9a5e-9b45fd9867bb",
+        "text": "Akool.ComContent CreationCustomize your content in seconds"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/677d2568-ead2-48f4-9d86-d741af63c233",
+        "text": "Filmora.Wondershare.ComContent Creationvideo editing"
+      },
+      {
+        "href": "https://toolio.lovable.app/website/02e254ed-16c1-4e76-b626-801c394a22ab",
+        "text": "Klingai.comContent CreationAI creative studio"
+      }
+    ],
+    "imageSrcs": [
+      "https://betalist.com/badges/featured?id=127175&theme=color",
+      "https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=983185&theme=neutral&t=1750767292691",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/toolio//toolio-logo-dark.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/59d0d9be-fe42-4b54-84f1-2d049f773ce8.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/96761923-8092-4893-ad2b-3b5c7b2a9317.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/d86756b8-e3df-459b-b0dd-80f2322f0537.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/b4052515-5c0a-4055-bd77-21911a952752.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/a85fd378-fec8-49a4-9107-a0173de1e5e1.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/6f7d0414-d42b-4e8a-93f0-3e302f8991f9.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/ed666228-f10e-46d8-b1b2-bccd7a95e251.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/b7dd1161-a58f-4dcc-ae74-311231913f99.png",
+      "https://zhvzjlegyduzseslatdx.supabase.co/storage/v1/object/public/thumbnails/6df14015-cc59-4388-be02-0c79089a3755.png",
+      "https://cdn.buymeacoffee.com/widget/assets/coffee%20cup.svg"
+    ],
+    "fontFamilySample": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if('system'===e||(!e&&true)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}if(e==='light'||e==='dark')d.style.colorScheme=e}catch(e){}}()Categories🤖AI Tools💼Business🤝Collaboration🎥Content Creation🎨Design🖌️Design Tools🖥️Development🛒E-commerce💵Finance💪Health & Wellness📚Learning📈Marketing⏱️Productivity🔍SEO📱Social Media💻Technology✍️WritingWhitepaperToggle SidebarAboutSubmit WebsiteLoginToggle themeFeatured ToolsSubmit WebsiteFeature Your SiteLoop.ceoProductivityLightweight product management tool that makes tasks and tickets feel effortless. Ditch the complexity for a clean, intuitive way to plan, track and succeed.Morgen.soProductivityA daily planner that prioritizes your most important to-dos, events, and projects.Uiverse.IoDesign ToolsOpen source UI components🤖AI ToolsView all10Web.IoAI ToolsCreate a website with zero codingAi.Blaze.TodayAI ToolsAnswer questions any whereAivideo.ComAI ToolsGenerate a professional quality video in minutesApob.AiAI ToolsCreate avatarbard.google.comAI ToolsGoogles answer to OpenAI ChatGPT for creative AI based answers.Bigteam.AiAI ToolsCreate a beautiful website with persuasive textBlueMint AIAI ToolsBlueMint AI turns product ideas into clear, developer-ready blueprints for SaaS, apps, websites, and games — built for the next generation of Vibe Coders. Cassidyai.comAI ToolsAI automations for anything.Chatllm.Abacus.AiAI ToolsUse ChatGPT, Gemini, Claude at the same timeChatllm.Abacus.AiAI ToolsUse the best AI models at the same timeCo.DevAI ToolsText to app in minutesCrypto Launch AI AI ToolsCryptoInsider was founded in 2020 by a team of blockchain enthusiasts and experts who saw the need for reliable, accessible information in the rapidly evolv"
+  }
+}

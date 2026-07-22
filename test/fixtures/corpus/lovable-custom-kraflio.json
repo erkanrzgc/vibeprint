@@ -3,14 +3,14 @@
   "label": "ai-built",
   "builder": "lovable",
   "note": "Listed on madewithlovable.com showcase; custom domain.",
-  "capturedAt": "2026-07-21T17:27:13.845Z",
+  "capturedAt": "2026-07-22T12:29:47.675Z",
   "snapshot": {
     "hostname": "kraflio.com",
     "title": "AI Content Generator for LinkedIn, YouTube, Instagram, TikTok, X & Bluesky | Kraflio",
     "generatorMeta": null,
     "faviconHref": "/favicon.png?v=3",
     "scriptSrcs": [
-      "/assets/index-BfUTGQ7N.js",
+      "/assets/index-ClkfDlo8.js",
       "https://script.supademo.com/supademo.js"
     ],
     "htmlDatasetKeys": [],

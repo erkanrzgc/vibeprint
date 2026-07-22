@@ -1,0 +1,277 @@
+{
+  "url": "https://stackoverflow.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "AI builder öncesi.",
+  "capturedAt": "2026-07-22T12:32:37.976Z",
+  "snapshot": {
+    "hostname": "stackoverflow.com",
+    "title": "Newest Questions - Stack Overflow",
+    "generatorMeta": null,
+    "faviconHref": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/favicon.ico?v=562fb39d93c8",
+    "scriptSrcs": [
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://stackoverflow.com/Content/Js/google-analytics.en.js?v=48615a9a9bc4",
+      "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+      "https://stackoverflow.com/Content/Js/third-party/npm/@stackoverflow/stacks/dist/js/stacks.min.js?v=79a2fd33ef4b",
+      "https://stackoverflow.com/Content/Js/stub.en.js?v=4fc880400eb0",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/5102.en.js?v=1e6c2976e394",
+      "https://stackoverflow.com/Content/Js/questions/list.en.js?v=0705ffe0e9c8",
+      "https://stackoverflow.com/Content/Js/sprinkles/cookie-consent.en.js?v=7ee6963139c5",
+      "/px.js?ch=1",
+      "/px.js?ch=2",
+      "https://accounts.google.com/gsi/client",
+      "https://stackoverflow.com/Content/Js/full-anon.en.js?v=bb3fa0604740",
+      "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202607210101/pubads_impl.js?cb=31099865",
+      "https://dn0qt3r0xannq.cloudfront.net/stackoverflow-M6HzSe6yue/mapping.base/prebid-load.js",
+      "https://cdn.cookielaw.org/scripttemplates/202604.2.0/otBannerSdk.js",
+      "https://cdn.cookielaw.org/scripttemplates/202604.2.0/otTCF.js",
+      "https://raven-edge.aditude.io/raven/stackoverflow-main-I67Hg/library.js",
+      "https://raven-static.aditude.io/prod/1.20.1-68jalx/raven.js",
+      "https://edge.aditude.io/prebid/9.53.5.js?fork=1&v=6167788a58e716d678c6d136265c856c&modules=WyIzM2Fjcm9zc0lkU3lzdGVtIiwiYWRpdHVkZSIsImFsbG93QWN0aXZpdGllcyIsImFwcG5leHVzQmlkQWRhcHRlciIsImNvbnNlbnRNYW5hZ2VtZW50IiwiY29uc2VudE1hbmFnZW1lbnRHcHAiLCJjb25zZW50TWFuYWdlbWVudFVzcCIsImNvbnZlcnNhbnRCaWRBZGFwdGVyIiwiY3JpdGVvSWRTeXN0ZW0iLCJlcXVhdGl2QmlkQWRhcHRlciIsImZhYnJpY2tJZFN5c3RlbSIsImdkcHJFbmZvcmNlbWVudCIsImdwdFByZUF1Y3Rpb24iLCJpZDVJZFN5c3RlbSIsIml4QmlkQWRhcHRlciIsImthcmdvQmlkQWRhcHRlciIsIm1lZGlhbmV0QmlkQWRhcHRlciIsIm9wZW54QmlkQWRhcHRlciIsInByZWJpZFNlcnZlckJpZEFkYXB0ZXIiLCJwcmljZUZsb29ycyIsInB1YlByb3ZpZGVkSWRTeXN0ZW0iLCJwdWJtYXRpY0JpZEFkYXB0ZXIiLCJydWJpY29uQmlkQWRhcHRlciIsInNoYXJlZElkU3lzdGVtIiwic2hhcmV0aHJvdWdoQmlkQWRhcHRlciIsInRyaXBsZWxpZnRCaWRBZGFwdGVyIiwidHRkQmlkQWRhcHRlciIsInVuaWZpZWRJZFN5c3RlbSJd",
+      "https://dn0qt3r0xannq.cloudfront.net/stackoverflow-M6HzSe6yue/mapping.base/prebid-wrapper.js",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/svelte.en.js?v=eff83677c5b1",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/stacks-svelte.en.js?v=b405cfd99446",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/9366.en.js?v=c8d4e4e64bf3",
+      "https://stackoverflow.com/Content/Js/islands/signup-modal.en.js?v=4fbf48fd95d6",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/svelte.en.js?v=eff83677c5b1",
+      "https://stackoverflow.com/Content/Js/islands/one-tap.en.js?v=85d7fce4ff2d",
+      "https://stackoverflow.com/Content/Js/sprinkles/left-nav-events.en.js?v=2ac13fd60bf6",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/svelte.en.js?v=eff83677c5b1",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/stacks-svelte.en.js?v=b405cfd99446",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/stacks-svelte-labs.en.js?v=8621fb512926",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/8339.en.js?v=9f34435513c3",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/7663.en.js?v=c67f16729ba4",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/3696.en.js?v=7ef09fb6562b",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/2458.en.js?v=33cc3da05f78",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/620.en.js?v=a432091814d8",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/9366.en.js?v=c8d4e4e64bf3",
+      "https://stackoverflow.com/Content/Js/webpack-chunks/9001.en.js?v=af0414737357",
+      "https://stackoverflow.com/Content/Js/islands/homepage-wizard.en.js?v=587dfce9113b",
+      "https://stackoverflow.com/Content/Js/questions/userQuestionList.en.js?v=a8172ac62da4",
+      "https://stackoverflow.com/Content/Js/sidebar/stackoverflow-for-agents-sidebar-promo.en.js?v=9d765d6401f5",
+      "https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://htlbid.com/v3/mapping.base/htlbid.js?v=1.4"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://stackoverflow.com/legal/terms-of-service/public",
+        "text": "terms of service"
+      },
+      {
+        "href": "https://stackoverflow.com/legal/privacy-policy",
+        "text": "privacy policy"
+      },
+      {
+        "href": "https://stackoverflow.com/users/login",
+        "text": "Log in"
+      },
+      {
+        "href": "https://stackoverflow.com/questions#content",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "https://stackoverflow.co/",
+        "text": "About"
+      },
+      {
+        "href": "https://stackoverflow.co/internal/",
+        "text": "Stack Internal"
+      },
+      {
+        "href": "https://stackoverflow.co/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=about-the-company",
+        "text": "About the company"
+      },
+      {
+        "href": "https://stackoverflow.blog/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=blog",
+        "text": "Visit the blog"
+      },
+      {
+        "href": "https://stackoverflow.com/",
+        "text": "current community"
+      },
+      {
+        "href": "https://stackoverflow.com/",
+        "text": "Stack Overflow\n        \n            Stack Overflow"
+      },
+      {
+        "href": "https://stackoverflow.com/help",
+        "text": "help"
+      },
+      {
+        "href": "https://chat.stackoverflow.com/?tab=explore",
+        "text": "chat"
+      },
+      {
+        "href": "https://meta.stackoverflow.com/",
+        "text": "Meta Stack Overflow\n        \n            Meta Stack Overflow"
+      },
+      {
+        "href": "https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions",
+        "text": "Sign up"
+      },
+      {
+        "href": "https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions",
+        "text": "log in"
+      },
+      {
+        "href": "https://stackexchange.com/sites",
+        "text": "more stack exchange communities"
+      },
+      {
+        "href": "https://stackoverflow.blog/",
+        "text": "company blog"
+      },
+      {
+        "href": "https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions",
+        "text": "Log in"
+      },
+      {
+        "href": "https://stackoverflow.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions",
+        "text": "Sign up"
+      },
+      {
+        "href": "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=dev-survey-2026&utm_content=announcement-banner",
+        "text": "take the Survey today!"
+      },
+      {
+        "href": "https://stackoverflow.com/",
+        "text": "Home"
+      },
+      {
+        "href": "https://stackoverflow.com/questions",
+        "text": "Questions"
+      },
+      {
+        "href": "https://stackoverflow.com/ai-assist",
+        "text": "AI Assist"
+      },
+      {
+        "href": "https://stackoverflow.com/tags",
+        "text": "Tags"
+      },
+      {
+        "href": "http://agents.stackoverflow.com/",
+        "text": "Stack Overflow for Agents"
+      },
+      {
+        "href": "https://stackoverflow.com/beta/challenges",
+        "text": "Challenges"
+      },
+      {
+        "href": "https://chat.stackoverflow.com/?tab=explore",
+        "text": "Chat"
+      },
+      {
+        "href": "https://stackoverflow.blog/contributed?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=so-blog&utm_content=experiment-articles",
+        "text": "Articles"
+      },
+      {
+        "href": "https://stackoverflow.com/users",
+        "text": "Users"
+      },
+      {
+        "href": "https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav",
+        "text": "Companies"
+      },
+      {
+        "href": "https://stackoverflow.com/collectives-all",
+        "text": "Explore all Collectives"
+      },
+      {
+        "href": "https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams",
+        "text": "Try for free"
+      },
+      {
+        "href": "https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams-compact",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://stackoverflow.com/collectives",
+        "text": "Learn more about Collectives"
+      },
+      {
+        "href": "https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams-compact-popover",
+        "text": "Explore Stack Internal"
+      },
+      {
+        "href": "https://stackoverflow.com/questions/ask",
+        "text": "Ask Question"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Newest",
+        "text": "Newest"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Active",
+        "text": "Active"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Unanswered",
+        "text": "Unanswered"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Bounties",
+        "text": "Bountied\n                                                4"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Unanswered",
+        "text": "Unanswered"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Frequent",
+        "text": "Frequent"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Votes",
+        "text": "Score"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Trending",
+        "text": "Trending"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Week",
+        "text": "Week"
+      },
+      {
+        "href": "https://stackoverflow.com/questions?tab=Month",
+        "text": "Month"
+      },
+      {
+        "href": "https://stackoverflow.com/questions/tagged/advice",
+        "text": "advice"
+      }
+    ],
+    "imageSrcs": [
+      "https://stackoverflow.com/Content/Sites/stackoverflow/Img/icon-48.png?v=6452e6a98212",
+      "https://lh5.googleusercontent.com/-M7ij6ohj4nA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwkDdgPVYFyjT1K4S7c6OyRjceIw/s32-rj/photo.jpg",
+      "https://www.gravatar.com/avatar/c76bf930aa71d1eb22c5a29f51f1285e?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://www.gravatar.com/avatar/6756295d2b5d03b76399c07a00abedc5?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://www.gravatar.com/avatar/d4f2a5b29715b87d644df110e0f1350d?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://i.sstatic.net/ixcZN.png?s=32",
+      "https://www.gravatar.com/avatar/6234420d6cc53b8f05db53bd0e11ed61?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://lh5.googleusercontent.com/-39y5xPHEQMc/AAAAAAAAAAI/AAAAAAAAAnw/tEWAuvmnANY/s32-rj/photo.jpg",
+      "https://www.gravatar.com/avatar/f5c750bb1328a1c339bd5b8b0bf16e16?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://www.gravatar.com/avatar/d229afa1c9d7fe5141da71dabe7c21b6?s=32&d=identicon&r=PG",
+      "https://www.gravatar.com/avatar/2782b92e468c33fdb66d27fea685e0c2?s=32&d=identicon&r=PG",
+      "https://www.gravatar.com/avatar/8bd7ff011dabc210db940ae72eba5560?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://www.gravatar.com/avatar/f304c8d1426bb73f4a0f87558c9a827d?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://www.gravatar.com/avatar/85da72bbad8ef611966ecd2c0e3a6f96?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://www.gravatar.com/avatar/2994f903689863d304fea27bb2b81500?s=32&d=identicon&r=PG&f=y&so-version=2",
+      "https://www.gravatar.com/avatar/65e6ebcc3a1f0249a7e2de4c5f50a265?s=32&d=identicon&r=PG",
+      "//ams-pageview-public.s3.amazonaws.com/1x1-pixel.png?id=b1ffe3826ebc"
+    ],
+    "fontFamilySample": "-apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif",
+    "bodyTextSample": "By clicking “Sign up”, you agree to our terms of service and acknowledge you have read our privacy policy. Sign up with Google Sign up with GitHub OR Email Password Sign up Already have an account? Log in {\"ContainerElementId\":\"signup-modal-container\",\"FKey\":\"b3e8f68c1deb32f59540113c48080cc096090d7be388674c1d42c67bc94cebaf\",\"TriggerEvent\":\"signupModalShow\",\"OauthInPopup\":true,\"ReturnUrl\":\"https://stackoverflow.com/questions\",\"ReturnUrlForPopup\":\"https://stackoverflow.com/users/after-signup/oauth-only\",\"SiteName\":\"Stack Overflow\",\"SiteLogoPath\":\"https://stackoverflow.com/Content/Sites/stackoverflow/Img/icon-48.png?v=6452e6a98212\",\"AuthProviders\":[\"Google\",\"GitHub\"],\"ParentSiteUrl\":\"\",\"IsInitiallyVisible\":false,\"IsSignupProductEventsEnabled\":false} dispatchEvent(new CustomEvent(\"openSignupModal\")); {\"ContainerElementId\":\"one-tap-container\",\"FKey\":\"b3e8f68c1deb32f59540113c48080cc096090d7be388674c1d42c67bc94cebaf\",\"GoogleClientId\":\"717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com\",\"Autoselect\":false,\"ReturnUrl\":\"https%253a%252f%252fstackoverflow.com%252fquestions\"} Skip to main content Stack Overflow About Products Stack Internal Stack Internal Implement a knowledge platform layer to power your enterprise and AI tools. Stack Data Licensing Get access to top-class technical expertise with trusted & attributed content. Stack Ads Connect your brand to the world’s most trusted technologist communities. Releases Keep up-to-date on features we add to Stack Overflow and Stack Internal. About the company Visit the blog Loading… Help Center and other resources Tour Start here for a quick overview of the site Help Center Detailed answers to any questions you might have Meta Discuss the workings and policies of this site About Us Learn more about Stack Overflow the company, and our products A list of all 184 Stack Exchange sites current community Stack Overflow Stack Overflow help chat Meta Stack Overflow Meta Stack Overflow your communities Sign up or log "
+  }
+}

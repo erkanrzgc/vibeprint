@@ -1,0 +1,283 @@
+{
+  "url": "https://www.theguardian.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Haber sitesi, kendi ekibi.",
+  "capturedAt": "2026-07-22T12:33:01.830Z",
+  "snapshot": {
+    "hostname": "www.theguardian.com",
+    "title": "Latest news, sport and opinion from the Guardian",
+    "generatorMeta": null,
+    "faviconHref": "https://static.guim.co.uk/images/favicon-32x32.ico",
+    "scriptSrcs": [
+      "https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js?rum=0&features=es6%2Ces7%2Ces2017%2Ces2018%2Ces2019%2Cdefault-3.6%2CHTMLPictureElement%2CIntersectionObserver%2CIntersectionObserverEntry%2CURLSearchParams%2Cfetch%2CNodeList.prototype.forEach%2Cnavigator.sendBeacon%2Cperformance.now%2CPromise.allSettled&flags=gated&callback=guardianPolyfilled&unknown=polyfill&cacheClear=1",
+      "https://assets.guim.co.uk/assets/frameworks.client.web.6b19980dfdb962b2f0d0.js",
+      "https://assets.guim.co.uk/assets/index.client.web.d2fcc8f8c23943ce30f3.js",
+      "https://assets.guim.co.uk/commercial/635739fea01fe76b35cd/graun.standalone.commercial.js",
+      "https://sourcepoint.theguardian.com/unified/4.40.1/gdpr-tcf.27718c8cb9d29947d2c1.bundle.js",
+      "https://sourcepoint.theguardian.com/unified/wrapperMessagingWithoutDetection.js"
+    ],
+    "htmlDatasetKeys": [
+      "previousScrollY"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://www.theguardian.com/europe#maincontent",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "https://www.theguardian.com/europe#navigation",
+        "text": "Skip to navigation"
+      },
+      {
+        "href": "https://support.theguardian.com/subscribe/weekly?REFPVID=mrw2c7212p001k525suc&INTCMP=undefined&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentId%22%3A%22PrintSubscriptionsHeaderLink%22%2C%22componentType%22%3A%22ACQUISITIONS_HEADER%22%2C%22referrerPageviewId%22%3A%22mrw2c7212p001k525suc%22%2C%22referrerUrl%22%3A%22https%3A%2F%2Fwww.theguardian.com%2Feurope%22%7D",
+        "text": "Print subscriptions"
+      },
+      {
+        "href": "https://jobs.theguardian.com/",
+        "text": "Search jobs"
+      },
+      {
+        "href": "https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType%3Didentityauthentication%26componentId%3Dguardian_signin_header",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://www.theguardian.com/preference/edition/eur",
+        "text": "Europe edition"
+      },
+      {
+        "href": "https://www.theguardian.com/preference/edition/uk",
+        "text": "UK edition"
+      },
+      {
+        "href": "https://www.theguardian.com/preference/edition/us",
+        "text": "US edition"
+      },
+      {
+        "href": "https://www.theguardian.com/preference/edition/au",
+        "text": "Australia edition"
+      },
+      {
+        "href": "https://www.theguardian.com/preference/edition/int",
+        "text": "International edition"
+      },
+      {
+        "href": "https://www.theguardian.com/",
+        "text": "The Guardian - Back to homeThe Guardian"
+      },
+      {
+        "href": "https://www.theguardian.com/",
+        "text": "News"
+      },
+      {
+        "href": "https://www.theguardian.com/commentisfree",
+        "text": "Opinion"
+      },
+      {
+        "href": "https://www.theguardian.com/sport",
+        "text": "Sport"
+      },
+      {
+        "href": "https://www.theguardian.com/culture",
+        "text": "Culture"
+      },
+      {
+        "href": "https://www.theguardian.com/lifeandstyle",
+        "text": "Lifestyle"
+      },
+      {
+        "href": "https://www.theguardian.com/",
+        "text": "View all News"
+      },
+      {
+        "href": "https://www.theguardian.com/world",
+        "text": "World news"
+      },
+      {
+        "href": "https://www.theguardian.com/football/world-cup-2026",
+        "text": "World Cup 2026"
+      },
+      {
+        "href": "https://www.theguardian.com/uk-news",
+        "text": "UK news"
+      },
+      {
+        "href": "https://www.theguardian.com/environment/climate-crisis",
+        "text": "Climate crisis"
+      },
+      {
+        "href": "https://www.theguardian.com/world/ukraine",
+        "text": "Ukraine"
+      },
+      {
+        "href": "https://www.theguardian.com/environment",
+        "text": "Environment"
+      },
+      {
+        "href": "https://www.theguardian.com/science",
+        "text": "Science"
+      },
+      {
+        "href": "https://www.theguardian.com/global-development",
+        "text": "Global development"
+      },
+      {
+        "href": "https://www.theguardian.com/football",
+        "text": "Football"
+      },
+      {
+        "href": "https://www.theguardian.com/technology",
+        "text": "Tech"
+      },
+      {
+        "href": "https://www.theguardian.com/business",
+        "text": "Business"
+      },
+      {
+        "href": "https://www.theguardian.com/obituaries",
+        "text": "Obituaries"
+      },
+      {
+        "href": "https://www.theguardian.com/commentisfree",
+        "text": "View all Opinion"
+      },
+      {
+        "href": "https://www.theguardian.com/profile/editorial",
+        "text": "The Guardian view"
+      },
+      {
+        "href": "https://www.theguardian.com/uk/columnists",
+        "text": "Columnists"
+      },
+      {
+        "href": "https://www.theguardian.com/tone/cartoons",
+        "text": "Cartoons"
+      },
+      {
+        "href": "https://www.theguardian.com/type/video+tone/comment",
+        "text": "Opinion videos"
+      },
+      {
+        "href": "https://www.theguardian.com/tone/letters",
+        "text": "Letters"
+      },
+      {
+        "href": "https://www.theguardian.com/sport",
+        "text": "View all Sport"
+      },
+      {
+        "href": "https://www.theguardian.com/football/world-cup-2026",
+        "text": "World Cup 2026"
+      },
+      {
+        "href": "https://www.theguardian.com/football",
+        "text": "Football"
+      },
+      {
+        "href": "https://www.theguardian.com/sport/cricket",
+        "text": "Cricket"
+      },
+      {
+        "href": "https://www.theguardian.com/sport/rugby-union",
+        "text": "Rugby union"
+      },
+      {
+        "href": "https://www.theguardian.com/sport/tennis",
+        "text": "Tennis"
+      },
+      {
+        "href": "https://www.theguardian.com/sport/cycling",
+        "text": "Cycling"
+      },
+      {
+        "href": "https://www.theguardian.com/sport/formulaone",
+        "text": "F1"
+      },
+      {
+        "href": "https://www.theguardian.com/sport/golf",
+        "text": "Golf"
+      },
+      {
+        "href": "https://www.theguardian.com/sport/us-sport",
+        "text": "US sports"
+      },
+      {
+        "href": "https://www.theguardian.com/culture",
+        "text": "View all Culture"
+      },
+      {
+        "href": "https://www.theguardian.com/books",
+        "text": "Books"
+      },
+      {
+        "href": "https://www.theguardian.com/music",
+        "text": "Music"
+      },
+      {
+        "href": "https://www.theguardian.com/tv-and-radio",
+        "text": "TV & radio"
+      },
+      {
+        "href": "https://www.theguardian.com/artanddesign",
+        "text": "Art & design"
+      }
+    ],
+    "imageSrcs": [
+      "https://i.guim.co.uk/img/media/752985974337d25a31d90678d9b89188825fa0e9/2672_82_4743_4743/master/4743.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/fafe46297ecd782d8436163e951b6eb23699ab16/1177_20_4784_4784/master/4784.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/fd0e06a6551d9c413d5fc34f0cca7b16ccb7178e/500_0_5000_4000/master/5000.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/45efa217f723acdaa00923f2f9e4cf4b33abe8ea/3896_1889_3501_3501/master/3501.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/c3657e2a4bc157fbd272ee27fc17059b93c20c1f/57_284_1128_1128/master/1128.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/85dadb34f3f37d066cf41702f15cea6f780f366f/0_2484_4997_4993/master/4997.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/d44838ef381f0f0439f85e888575c5ac42e59c10/277_0_2501_2001/master/2501.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/1fdbe9a3526a0434d6f48dac7216cc055118578b/41_0_7078_5660/master/7078.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/f85c0dc6f0670d3870727a7f73fd2fb6929a0fd6/1048_0_6318_5057/master/6318.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/7a806cac4aa1d1ef9a210d1c2e31ac8995b10d9a/125_0_3750_3000/master/3750.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/uploads/2026/07/22/US_targets_aircraft_hangars_and_drone_storage_sites_in_Iran--2bdc11f8-857e-4d48-84da-c50c54ea2c1b-2.0.0000000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/8831179a23d1e3ca8bc2179b0c1216dd0b777e24/709_281_3674_2939/master/3674.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/a2fb454022def2c6f9dfd2c0e7d4c88a528c9939/0_0_5200_4160/master/5200.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/1211e708187fd7e2b928a0e9e7536ac437f5ac22/960_0_6880_5504/master/6880.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/4382e325f5451ab4b08c43a7a9f80a1ef3a23494/268_0_2561_2049/master/2561.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/6ca2f5a791b64519645d36761ee11f9119e3fd1b/0_199_3223_2578/master/3223.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/cfff5f5baea6e69890421dad7a1bd407b689ca98/463_0_3750_3000/master/3750.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/5bbf6b181b63db35f987e482673bf5f9d4b7808d/339_0_1350_1080/master/1350.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/fe9e1b0ce9d63afae1b6be6169cda897cd8d87bb/631_387_1290_1613/master/1290.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+      "https://i.guim.co.uk/img/media/6a53dad9004e1d2a9bf0198e42b99f35d936fb8e/1954_0_2881_3601/master/2881.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+      "https://i.guim.co.uk/img/media/fafe46297ecd782d8436163e951b6eb23699ab16/603_0_6002_4804/master/6002.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/45efa217f723acdaa00923f2f9e4cf4b33abe8ea/3409_1675_5280_4224/master/5280.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/752985974337d25a31d90678d9b89188825fa0e9/1979_773_6413_5129/master/6413.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/9885751f9b2f3033d2f9a1889dd311eb4b388bc3/704_0_2697_2160/master/2697.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/85dadb34f3f37d066cf41702f15cea6f780f366f/403_4068_4229_3381/master/4229.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/6410bd8c7c4437be3adbe8581b881d80a0843b1e/11_9_2489_1991/master/2489.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/dffdeeeafa3ebdb5662cb2905ebd3579eedfa77a/562_133_4070_3257/master/4070.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/768e90233132f59ae8c6e23870a509c92c7f7e92/351_0_5141_4113/master/5141.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/a5187d731eb44a5a006d345def6e95ec9273360c/1165_0_5840_4672/master/5840.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/ad91f610e7878ad69080db83b184b28810825758/1168_0_5840_4672/master/5840.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/b298390da9eed417557d90cf347509fd11ccedd7/769_0_5840_4672/master/5840.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/uploads/2026/07/15/Diana_Berg.png?width=150&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/uploads/2017/10/09/Rafael-Behr,-L.png?width=150&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/uploads/2017/10/06/Arwa_Mahdawi,_L.png?width=80&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/6a1f18be18928eea4e49d2b3ae6adbcbc48934cb/540_0_5380_4307/master/5380.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/uploads/2026/06/22/Alice_Lassman.png?width=80&dpr=1&s=none&crop=1%3A1",
+      "https://i.guim.co.uk/img/media/8b98691d9eba221f92a450df1a814d6f9cf1ed03/0_0_849_679/master/849.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/de7d58b829d463efa84be0515b83830dd0bfff2d/0_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/2260544f9bb477e3a6dcd92148434ae78f9da1ac/168_0_3617_2893/master/3617.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/3a565a88701b465fbd5066d72f7b93420b2d5b82/394_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/b941531e1ba3592a73666be700c254d183d9077c/186_41_4833_3866/master/4833.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/5d4661e6b5426145e0b011bbd9f3a3b1aba00ebf/1409_123_3998_3199/master/3998.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/9a9a644ccdbc3d8dbe405d7726ca119dcfa7cd33/153_130_6074_4858/master/6074.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/d53f09741db175c91c6dd683fd835db1f442832d/291_0_6138_4911/master/6138.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/5b7a4cc25777e7c17bc50f259167a92be8a76665/887_401_3200_2560/master/3200.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/74f7cc0511459f9696db9d41df7e33cad0f7b4cc/870_0_6815_5452/master/6815.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/c4591102f999f5401cfd3bc6a322dbcfaecd9c86/46_0_656_525/master/656.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/ca434043b9f61d71fbaf4670b85060891b08e7ad/800_416_4277_3424/master/4277.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/e51a86cc375e69a00f0b0f08fb1d463572f095bb/413_0_4174_3340/master/4174.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "https://i.guim.co.uk/img/media/f2a93315f7673c9ca5d01f55854d5cf15864545e/490_521_2057_1645/master/2057.jpg?width=200&dpr=1&s=none&crop=5%3A4"
+    ],
+    "fontFamilySample": "\"Times New Roman\"",
+    "bodyTextSample": "Skip to main contentSkip to navigationPrint subscriptionsSearch jobs Sign inDrug-facilitated rape‘The bed you thought was safe, isn’t safe’Go woke, get richWhy rightwing hate campaigns don’t affect the box officeMohamad Bazzidouble quotation markHas Trump dragged the US into a forever war in Iran?Pass the pit diapers!Why are fans wetting themselves to stand front row at gigs?'My jaw dropped'The astonishing sculptures only ever seen by 20 peopleMoment that changed medouble quotation markI painted a man’s portrait – and he hated itdocument.addEventListener('DOMContentLoaded', function () { /** The checkbox input element used to toggle the navigation menu. */ const navInputCheckbox = document.getElementById('header-nav-input-checkbox'); /** The veggie burger button element used to open/close the menu. */ const veggieBurger = document.getElementById('header-veggie-burger'); /** List of menu items that should be selectable when the menu is open. */ const expandedMenuClickableTags = document.querySelectorAll( '.selectableMenuItem', ); /** The root element of the expanded menu. */ const expandedMenu = document.getElementById('header-expanded-menu-root'); /** The label for the first column in the menu, assumed to be \"News\".*/ const firstColLabel = document.getElementById('News-button'); /** The link element in the second list item under news links. */ const firstColLink = document.querySelector( '#newsLinks > li:nth-of-type(2) > a', ); /** * Focuses on the first navigation element depending on whether the first column label is visible. * * If the first column label is not visible, the function focuses on the first link element. * Otherwise, it focuses on the first column label. */ const focusOnFirstNavElement = () => { if (window.getComputedStyle(firstColLabel).display === 'none') { firstColLink.focus(); } else { firstColLabel.focus(); } }; /** * Updates ARIA attributes and tabindex values based on whether the menu is open or closed. */ const updateAttributesForMenu = (isOp"
+  }
+}

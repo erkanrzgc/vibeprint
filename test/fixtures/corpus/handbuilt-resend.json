@@ -1,0 +1,290 @@
+{
+  "url": "https://resend.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD: modern SaaS, Geist font, Vercel altyapı.",
+  "capturedAt": "2026-07-22T12:32:45.311Z",
+  "snapshot": {
+    "hostname": "resend.com",
+    "title": "Resend · Email for developers",
+    "generatorMeta": null,
+    "faviconHref": "/static/favicons/favicon-marketing.ico?v=1",
+    "scriptSrcs": [
+      "/_next/static/chunks/07oijt72m7~5_.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0zapea309s560.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0.o_-i.kfhzr-.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/12unoytngeo2o.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0612w2onty5ec.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/12rvy2ab6y-dm.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/turbopack-0ex2.bhds5_x2.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0gud95zqovcxv.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0i~j9i-pp4sfc.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0._zj20bxte0c.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/05p~5pf~2f1yi.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0f6rzyzy3b7dd.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/14r5ge7ocep1t.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/14uk2alpbvhas.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0bqa9c~4edh0..js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/00ud~79njkxop.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0dbfckmyx4k8u.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/184n1atbqezcw.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0cdig_ykxbi25.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/14sijzs-f_2_~.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/08yhqij94nare.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0~em5zw2j28g6.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0aum6mizjatgq.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/04kkb70lq.o86.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/148-gxsc-cs8h.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0ybc9_iiyum_1.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0uk5.0icxk6e-.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0s.xiyye9grpz.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/12bb.44dtw39x.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/00rkph8dni3xl.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0.t427gi~0hs8.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/09r~d4rqovnxy.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/08vk2sarob7z4.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0vq4u65eg60-..js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0flll-~obj-hk.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/1296v949gagd-.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0qv0oz-4.hvkk.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/12fiwh5mvn3qp.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0ds67x.-36h_k.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/13gpq1txf0_27.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/16md~97c5hzup.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0nrv_xgeoi~ub.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0x47u9gq-j3xt.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/09csbmg6~va.6.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0vk8bfki-o1xr.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0gv1~juybizf1.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0xnb5zx7g~e7_.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0mmikgobtanjn.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/17xs1_bzx2ar3.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/03~yq9q893hmn.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/static/chunks/0u5p~1ouc4tp_.js?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP"
+    ],
+    "htmlDatasetKeys": [
+      "dplId"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://resend.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://resend.com/login",
+        "text": "Log in"
+      },
+      {
+        "href": "https://resend.com/signup",
+        "text": "Get started"
+      },
+      {
+        "href": "https://resend.com/forward",
+        "text": "Join us at Resend Forward"
+      },
+      {
+        "href": "https://resend.com/signup",
+        "text": "Get started"
+      },
+      {
+        "href": "https://resend.com/docs",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://github.com/resend/resend-node-example",
+        "text": "View on GitHub"
+      },
+      {
+        "href": "https://github.com/resend/resend-node-example/archive/refs/heads/main.zip",
+        "text": "Download ZIP"
+      },
+      {
+        "href": "https://resend.com/docs/dashboard/emails/send-test-emails",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://resend.com/docs/dashboard/webhooks/introduction",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://resend.com/features/audiences",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://resend.com/features/broadcasts",
+        "text": "Learn more"
+      },
+      {
+        "href": "https://resend.com/signup",
+        "text": "Get started"
+      },
+      {
+        "href": "https://react.email/docs",
+        "text": "Check the docs"
+      },
+      {
+        "href": "https://resend.com/get-started",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://resend.com/docs/send-with-nextjs",
+        "text": "Send with Next.js"
+      },
+      {
+        "href": "https://resend.com/signup",
+        "text": "Get started"
+      },
+      {
+        "href": "https://resend.com/contact",
+        "text": "Contact us"
+      },
+      {
+        "href": "https://resend.com/status",
+        "text": "Status unknown"
+      },
+      {
+        "href": "https://resend.com/features/automations",
+        "text": "Automations"
+      },
+      {
+        "href": "https://resend.com/features/audiences",
+        "text": "Audiences"
+      },
+      {
+        "href": "https://resend.com/features/broadcasts",
+        "text": "Broadcasts"
+      },
+      {
+        "href": "https://resend.com/features/inbound",
+        "text": "Inbound"
+      },
+      {
+        "href": "https://resend.com/features/templates",
+        "text": "Templates"
+      },
+      {
+        "href": "https://resend.com/features/webhooks",
+        "text": "Webhooks"
+      },
+      {
+        "href": "https://resend.com/features/dedicated-ips",
+        "text": "Dedicated IPs"
+      },
+      {
+        "href": "https://resend.com/changelog",
+        "text": "Changelog"
+      },
+      {
+        "href": "https://resend.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://resend.com/security",
+        "text": "Security"
+      },
+      {
+        "href": "https://resend.com/security/soc-2",
+        "text": "SOC 2"
+      },
+      {
+        "href": "https://resend.com/security/gdpr",
+        "text": "GDPR"
+      },
+      {
+        "href": "https://resend.com/brand",
+        "text": "Brand"
+      },
+      {
+        "href": "https://resend.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://resend.com/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://resend.com/careers",
+        "text": "Careers"
+      },
+      {
+        "href": "https://resend.com/clubs",
+        "text": "Clubs"
+      },
+      {
+        "href": "https://resend.com/customers",
+        "text": "Customers"
+      },
+      {
+        "href": "https://resend.com/humans",
+        "text": "Humans"
+      },
+      {
+        "href": "https://resend.com/philosophy",
+        "text": "Philosophy"
+      },
+      {
+        "href": "https://resend.com/contact",
+        "text": "Contact"
+      },
+      {
+        "href": "https://resend.com/support",
+        "text": "Support"
+      },
+      {
+        "href": "https://resend.com/status",
+        "text": "Status"
+      },
+      {
+        "href": "https://resend.com/migrate",
+        "text": "Migrate"
+      },
+      {
+        "href": "https://resend.com/docs/knowledge-base/introduction",
+        "text": "Knowledge base"
+      },
+      {
+        "href": "https://resend.com/legal",
+        "text": "Legal policies"
+      },
+      {
+        "href": "https://resend.com/events",
+        "text": "Events"
+      },
+      {
+        "href": "https://resend.com/insiders",
+        "text": "Insiders"
+      },
+      {
+        "href": "https://resend.com/open-source",
+        "text": "Open source"
+      },
+      {
+        "href": "https://resend.com/wallpapers",
+        "text": "Wallpapers"
+      }
+    ],
+    "imageSrcs": [
+      "/_next/image?url=%2Fstatic%2Flanding-page%2Fbg-hero-1.jpg&w=3840&q=100&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/image?url=%2Fstatic%2Flanding-page%2Fbg-light.png&w=3840&q=100&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/image?url=%2Fstatic%2Fproduct-pages%2Fbroadcast-email-header.jpg&w=1200&q=100&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-zoom-audience.png&w=1920&q=100&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-zoom-analytics.png&w=1920&q=100&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/image?url=%2Fstatic%2Fexample-logo.png&w=256&q=75&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/static/landing-page/vercel.svg?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-metrics.png&w=3840&q=100&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/_next/image?url=%2Fstatic%2Flanding-page%2Fresend-logo-footer.png&w=3840&q=75&dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/static/footer-x.svg?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/static/footer-github.svg?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/static/footer-linkedin.svg?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP",
+      "/static/footer-youtube.svg?dpl=dpl_6VAZhZtgAAHfeFnXR7zH33E4LJyP"
+    ],
+    "fontFamilySample": "inter, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "((a,b,c,d,e,f,g,h)=>{let i=document.documentElement,j=[\"light\",\"dark\"];function k(b){var c;(Array.isArray(a)?a:[a]).forEach(a=>{let c=\"class\"===a,d=c&&f?e.map(a=>f[a]||a):e;c?(i.classList.remove(...d),i.classList.add(f&&f[b]?f[b]:b)):i.setAttribute(a,b)}),c=b,h&&j.includes(c)&&(i.style.colorScheme=c)}if(d)k(d);else try{let a=localStorage.getItem(b)||c,d=g&&\"system\"===a?window.matchMedia(\"(prefers-color-scheme: dark)\").matches?\"dark\":\"light\":a;k(d)}catch(a){}})(\"class\",\"theme\",\"dark\",\"dark\",[\"light\",\"dark\"],null,false,true){\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://resend.com/#organization\",\"name\":\"Resend\",\"url\":\"https://resend.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://resend.com/static/logo-black-square.png\",\"width\":\"600\",\"height\":\"600\"},\"description\":\"Email API for developers\",\"foundingDate\":\"2023\",\"sameAs\":[\"https://www.wikidata.org/wiki/Q123921042\",\"https://www.youtube.com/@resendlabs\",\"https://www.linkedin.com/company/resend\",\"https://x.com/resend\",\"https://twitter.com/resend\",\"https://www.crunchbase.com/organization/resend\",\"https://github.com/resend\",\"https://www.ycombinator.com/companies/resend\"],\"founder\":[{\"@type\":\"Person\",\"name\":\"Bu Kinoshita\",\"url\":\"https://bukinoshita.com\"},{\"@type\":\"Person\",\"name\":\"Zeno Rocha\",\"url\":\"https://zenorocha.com\"}],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer support\",\"url\":\"https://resend.com/support\"}},{\"@type\":\"WebSite\",\"@id\":\"https://resend.com/#website\",\"name\":\"Resend\",\"url\":\"https://resend.com/\",\"publisher\":{\"@id\":\"https://resend.com/#organization\"}},{\"@type\":\"SoftwareApplication\",\"@id\":\"https://resend.com/#application\",\"name\":\"Resend\",\"description\":\"The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale.\",\"applicationCategory\":\"DeveloperTools\",\"operatingSystem\":\"Web\",\"url\":\"https://resend.com/\",\"provider\":{\"@id\":\"https://resend.com/#organization\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD"
+  }
+}

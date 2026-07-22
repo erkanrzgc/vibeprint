@@ -1,0 +1,340 @@
+{
+  "url": "https://clerk.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD: modern SaaS marketing sitesi.",
+  "capturedAt": "2026-07-22T12:32:49.198Z",
+  "snapshot": {
+    "hostname": "clerk.com",
+    "title": "Clerk | Authentication and User Management",
+    "generatorMeta": null,
+    "faviconHref": "/v2/favicon.ico",
+    "scriptSrcs": [
+      "/_next/static/chunks/0~ipf2sykbyr6.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0u3g7xuy-vna0.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/06kq5qawp-3mu.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0ledsk~94-0as.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0se0yhlu3ontg.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0gv0irg6~_gxx.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/turbopack-0~y8z9~sj3o1m.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/15z18liegkqof.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/133f9fssgzb1n.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0kvntanawzxye.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0f-3fbo.11z6p.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0xo4~uhyax33v.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0x.3tn9vitzp8.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/16rn_alkzs5-~.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0ajn-ayptz~0..js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0dvm-pts-xwzn.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/172b0b~qwdckw.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0i-f9p50_6z-h.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0dxg0am131o4z.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0v65jnzbo.dsu.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0raxo54w_14zr.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0_fyluhxym~me.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0lvo5ea1jfl78.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/15xoyu.d~awvz.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0ky4aolo6tx.s.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/06-niw8c~8oz9.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/11wf_e3m0v4vj.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/09fuoo08ir_x-.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0kezntido9.55.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0l8jcgb2_j8wf.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0swx3slnmijl..js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0dczermdcdkhm.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0ep2~43_d~i64.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0b_xpk2ay44ks.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0p8g0c777e28~.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "https://clerk.clerk.com/npm/@clerk/clerk-js@6/dist/clerk.browser.js",
+      "/_next/static/chunks/03~yq9q893hmn.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_vercel/speed-insights/script.js",
+      "/_next/static/chunks/0l9k.e5az9c93.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0sommiwqugxup.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/03ifgu~rhkw4h.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/09vzp0igj6kzt.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0oo2uobghrk6s.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0y-98fkqaadq2.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/05itoe7u23m2x.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/12bf~n16o~9yv.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/15-c6qqw3u0to.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/165gm413qvx4g.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/103kr_h8ph9v4.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0qsk225f8ytdh.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0zawucehic1kb.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0h909z30t6b1d.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0nr67uv56y25a.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0fbnd13q7.aby.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0dqwo9xjv-2r3.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/04htiq-_qqlt4.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0lb9y73my4786.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/0a-a1aqb8rl3q.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "https://cdn.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/bootstrap.js",
+      "/_next/static/chunks/0omb4yemq4d-_.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/chunks/04p30lelwtick.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/relay-G4fq/static/dead-clicks-autocapture.js?v=1.374.0",
+      "/relay-G4fq/static/dead-clicks-autocapture.js?v=1.374.0",
+      "/relay-G4fq/array/phc_q5TPT5kitT5x2OFKOo7yB3bLWm1ChE24asf8wJGM8cq/config.js",
+      "/_next/static/chunks/0th7998ox.0sm.js?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation",
+      "disabled"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://clerk.com/#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "https://clerk.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://dashboard.clerk.com/sign-up",
+        "text": "Start building"
+      },
+      {
+        "href": "https://clerk.com/docs/quickstart",
+        "text": "Start building"
+      },
+      {
+        "href": "https://clerk.com/blog/series-c",
+        "text": "Clerk raises $50m Series CLearn more"
+      },
+      {
+        "href": "https://dashboard.clerk.com/sign-up",
+        "text": "Start building for free"
+      },
+      {
+        "href": "https://clerk.com/docs/quickstart",
+        "text": "Start building for free"
+      },
+      {
+        "href": "https://clerk.com/components/theme-editor",
+        "text": "Explore all components"
+      },
+      {
+        "href": "https://clerk.com/user-authentication",
+        "text": "Explore user authentication"
+      },
+      {
+        "href": "https://clerk.com/organizations",
+        "text": "Explore B2B features"
+      },
+      {
+        "href": "https://clerk.com/billing",
+        "text": "Explore Billing features"
+      },
+      {
+        "href": "https://clerk.com/docs#frontend-frameworks",
+        "text": "All frameworks"
+      },
+      {
+        "href": "https://clerk.com/docs/nextjs/getting-started/quickstart",
+        "text": "Next.js"
+      },
+      {
+        "href": "https://clerk.com/docs/react/getting-started/quickstart",
+        "text": "React"
+      },
+      {
+        "href": "https://clerk.com/docs/expo/getting-started/quickstart",
+        "text": "Expo"
+      },
+      {
+        "href": "https://clerk.com/docs/react-router/getting-started/quickstart",
+        "text": "React Router"
+      },
+      {
+        "href": "https://clerk.com/docs/tanstack-react-start/getting-started/quickstart",
+        "text": "TanStack React Start"
+      },
+      {
+        "href": "https://clerk.com/docs/astro/getting-started/quickstart",
+        "text": "Astro"
+      },
+      {
+        "href": "https://clerk.com/docs/guides/development/integrations/overview",
+        "text": "All integrations"
+      },
+      {
+        "href": "https://clerk.com/docs/guides/development/integrations/databases/supabase",
+        "text": "Supabase"
+      },
+      {
+        "href": "https://clerk.com/docs/guides/development/integrations/databases/convex",
+        "text": "Convex"
+      },
+      {
+        "href": "https://clerk.com/docs/guides/development/integrations/platforms/vercel-marketplace",
+        "text": "Vercel"
+      },
+      {
+        "href": "https://dashboard.clerk.com/sign-up",
+        "text": "Start building for free"
+      },
+      {
+        "href": "https://x.com/web3naman/status/2022369528517398620",
+        "text": "clerk is best auth, btwNaman🦞@web3naman"
+      },
+      {
+        "href": "https://clerk.com/user-authentication",
+        "text": "Authentication"
+      },
+      {
+        "href": "https://clerk.com/organizations",
+        "text": "B2B Authentication"
+      },
+      {
+        "href": "https://clerk.com/billing",
+        "text": "Billing"
+      },
+      {
+        "href": "https://clerk.com/cli",
+        "text": "CLI"
+      },
+      {
+        "href": "https://clerk.com/react-authentication",
+        "text": "React"
+      },
+      {
+        "href": "https://clerk.com/nextjs-authentication",
+        "text": "Next.js"
+      },
+      {
+        "href": "https://clerk.com/expo-authentication",
+        "text": "Expo"
+      },
+      {
+        "href": "https://clerk.com/docs#explore-by-frontend-framework",
+        "text": "View all"
+      },
+      {
+        "href": "https://clerk.com/docs",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://clerk.com/changelog",
+        "text": "Changelog"
+      },
+      {
+        "href": "https://clerk.com/glossary",
+        "text": "Glossary"
+      },
+      {
+        "href": "https://feedback.clerk.com/roadmap",
+        "text": "Feature requests"
+      },
+      {
+        "href": "https://clerk.com/startups",
+        "text": "Startups"
+      },
+      {
+        "href": "https://clerk.com/github-student-developer-pack",
+        "text": "Students"
+      },
+      {
+        "href": "https://clerk.com/llm-leaderboard",
+        "text": "LLM Leaderboard"
+      },
+      {
+        "href": "https://clerk.com/company",
+        "text": "About"
+      },
+      {
+        "href": "https://clerk.com/careers",
+        "text": "Careers"
+      },
+      {
+        "href": "https://clerk.com/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://clerk.com/contact",
+        "text": "Contact"
+      },
+      {
+        "href": "https://clerk.com/brand-assets",
+        "text": "Brand assets"
+      },
+      {
+        "href": "https://clerk.com/legal/standard-terms",
+        "text": "Terms and conditions"
+      },
+      {
+        "href": "https://clerk.com/legal/privacy",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://clerk.com/legal/website-terms",
+        "text": "Website terms of use"
+      },
+      {
+        "href": "https://clerk.com/legal",
+        "text": "Legal Resources"
+      },
+      {
+        "href": "https://clerk.com/legal/privacy",
+        "text": "cookie policy"
+      }
+    ],
+    "imageSrcs": [
+      "/_next/static/media/circuit-lines@2xl.0~0tt7bohu08~.webp?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/circuit-components@2xl.062j.easiiyfv.webp?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/circuit-lines@2xl.0~0tt7bohu08~.webp?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/circuit-components@2xl.062j.easiiyfv.webp?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/browserbase.0v8b1o5jdc7sm.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/inngest.0mw7b~338be3o.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/david-ai.0-hh~k_hu9wmq.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/browserbase.0v8b1o5jdc7sm.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/braintrust.02ujcrvooqdco.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/durable.0w7~poeid1h0t.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/open-router.06pp1l5rd35e2.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/braintrust.02ujcrvooqdco.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/higgsfield.14~imhcom1iyt.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/upstash.0w73.n2ukhx9v.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/samaya.0ix-_032y054n.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/higgsfield.14~imhcom1iyt.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/consensus.18ce1lni7pgg~.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/cartesia.0nhycuz7d9ifn.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/static/media/consensus.18ce1lni7pgg~.svg?dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsign-in_2x.0~373x773xo.8.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsign-up_2x.0ybotvw9je8.d.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forganization-list_2x.0e0svc-sg_57..webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-button-trigger%403x.0xf2e5e4-907y.png&w=256&q=75&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-button-popover_2x.0cudox8mjv0vp.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-profile-mobile_2x.06f4l0oz7_xqr.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-profile_2x.0uz~viv8irvbs.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-button-popover_2x.0cudox8mjv0vp.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forganization-switcher_2x.0-hd334ntp6_h.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcreate-organization_2x.11n6ypmjt-6q6.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpricing-table_2x.0vblxsytuwfu3.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsign-up_2x.0ybotvw9je8.d.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpricing-table_2x.0vblxsytuwfu3.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaitlist_2x.0hq_.cp0kt47a.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsign-up_2x.0ybotvw9je8.d.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsign-in_2x.0~373x773xo.8.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcreate-organization_2x.11n6ypmjt-6q6.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaitlist_2x.0hq_.cp0kt47a.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcreate-organization_2x.11n6ypmjt-6q6.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forganization-switcher_2x.0-hd334ntp6_h.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsign-in_2x.0~373x773xo.8.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-button-popover_2x.0cudox8mjv0vp.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forg-profile-mobile%403x.0rd3luo0iwnh1.png&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forganization-profile_2x.09h1ea_rj-c~y.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forganization-list_2x.0e0svc-sg_57..webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsign-up_2x.0ybotvw9je8.d.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpricing-table_2x.0vblxsytuwfu3.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-avatar.03cv98lf4s~_9.png&w=256&q=75&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-avatar.03cv98lf4s~_9.png&w=256&q=75&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-avatar.03cv98lf4s~_9.png&w=256&q=75&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw",
+      "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuser-profile-mobile_2x.06f4l0oz7_xqr.webp&w=3840&q=90&dpl=dpl_Htmw8oBkC8EuvKKeAF1ePaQeHzZw"
+    ],
+    "fontFamilySample": "geistNumbers, suisse, \"suisse Fallback\"",
+    "bodyTextSample": "Skip to main contentProductsDocsChangelogCompanyPricingSign inStart buildingStart building((a,b,c,d,e,f,g,h)=>{let i=document.documentElement,j=[\"light\",\"dark\"];function k(b){var c;(Array.isArray(a)?a:[a]).forEach(a=>{let c=\"class\"===a,d=c&&f?e.map(a=>f[a]||a):e;c?(i.classList.remove(...d),i.classList.add(f&&f[b]?f[b]:b)):i.setAttribute(a,b)}),c=b,h&&j.includes(c)&&(i.style.colorScheme=c)}if(d)k(d);else try{let a=localStorage.getItem(b)||c,d=g&&\"system\"===a?window.matchMedia(\"(prefers-color-scheme: dark)\").matches?\"dark\":\"light\":a;k(d)}catch(a){}})(\"class\",\"clerk:theme\",\"system\",\"neutral\",[\"neutral\",\"light\",\"dark\"],null,true,true):root { --header-mt: 3rem }Clerk raises $50m Series CLearn moreMore than authentication, Complete User ManagementNeed more than sign-in? Clerk gives you full stack auth and user management — so you can launch faster, scale easier, and stay focused on building your business.Start building for freeStart building for freeBuild with agentsTrusted by fast-growing companies around the world.Clerk ComponentsPixel-perfect UIs, embedded in minutesDrop-in UI components for authentication, profile management, organization management, and billing. Match to your brand with any CSS library, then deploy to your own domain.Explore all componentsUser AuthenticationAdd user <SignUp/> and <SignIn/>, provide account access through a dropdown menu, and manage profile and security settings.<SignUp /><SignIn /><UserButton /><UserProfile /><Waitlist />B2B AuthenticationAllow your users to create new organizations, switch between accounts, manage settings and billing, and view memberships and invitations.<CreateOrganization /><OrganizationSwitcher /><OrganizationProfile /><OrganizationList />BillingDisplay pricing plans with feature comparisons and subscription options to help your users choose the right plan for their needs.<PricingTable /><UserProfile />Billing<OrganizationProfile />BillingCameron [email] AccountSign outCameron Walker"
+  }
+}

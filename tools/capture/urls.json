@@ -104,14 +104,6 @@
     "note": "Famously minimal hand-authored personal blog."
   },
   {
-    "slug": "handbuilt-gnu",
-    "url": "https://www.gnu.org",
-    "label": "hand-built",
-    "builder": null,
-    "difficulty": "easy",
-    "note": "Decades-old hand-maintained site."
-  },
-  {
     "slug": "handbuilt-python-org",
     "url": "https://www.python.org",
     "label": "hand-built",
@@ -174,5 +166,293 @@
     "builder": null,
     "difficulty": "hard",
     "note": "HARD NEGATIVE: modern dark SaaS site, Inter-like typography, gradient hero aesthetic."
+  },
+  {
+    "slug": "lovable-sub-ancientindianscripts",
+    "url": "https://ancientindianscripts.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-color-drenching",
+    "url": "https://color-drenching.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-crystalminer",
+    "url": "https://crystalminer.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-featureiq",
+    "url": "https://featureiq.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-flux-pdf-studio",
+    "url": "https://flux-pdf-studio.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-kinovibe",
+    "url": "https://kinovibe.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-moneybuddy",
+    "url": "https://moneybuddy.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-opaline",
+    "url": "https://opaline.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "hard",
+    "note": "*.lovable.app subdomaininden opalinedental.org custom domainine redirect ediyor."
+  },
+  {
+    "slug": "lovable-sub-planoraa",
+    "url": "https://planoraa.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-toolio",
+    "url": "https://toolio.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-scrollaction",
+    "url": "https://scrollaction.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "lovable-sub-worstgift",
+    "url": "https://worstgift.lovable.app",
+    "label": "ai-built",
+    "builder": "lovable",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.lovable.app subdomain."
+  },
+  {
+    "slug": "framer-custom-jaimec-co",
+    "url": "https://jaimec.co",
+    "label": "ai-built",
+    "builder": "framer",
+    "difficulty": "hard",
+    "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak."
+  },
+  {
+    "slug": "framer-custom-been-design",
+    "url": "https://been.design",
+    "label": "ai-built",
+    "builder": "framer",
+    "difficulty": "hard",
+    "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak."
+  },
+  {
+    "slug": "framer-custom-bohdan-design",
+    "url": "https://bohdan.design",
+    "label": "ai-built",
+    "builder": "framer",
+    "difficulty": "hard",
+    "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak."
+  },
+  {
+    "slug": "framer-custom-cirqle-studio",
+    "url": "https://cirqle.studio",
+    "label": "ai-built",
+    "builder": "framer",
+    "difficulty": "hard",
+    "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak."
+  },
+  {
+    "slug": "framer-custom-huehaus-design",
+    "url": "https://huehaus.design",
+    "label": "ai-built",
+    "builder": "framer",
+    "difficulty": "hard",
+    "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak."
+  },
+  {
+    "slug": "framer-custom-atta-app",
+    "url": "https://atta.app",
+    "label": "ai-built",
+    "builder": "framer",
+    "difficulty": "hard",
+    "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak."
+  },
+  {
+    "slug": "handbuilt-react-dev",
+    "url": "https://react.dev",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "Meta/Vercel ekibi elle yazdı; modern React docs sitesi."
+  },
+  {
+    "slug": "handbuilt-astro-build",
+    "url": "https://astro.build",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "Modern hand-built framework sitesi."
+  },
+  {
+    "slug": "handbuilt-svelte-dev",
+    "url": "https://svelte.dev",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "Modern hand-built framework sitesi."
+  },
+  {
+    "slug": "handbuilt-vuejs-org",
+    "url": "https://vuejs.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Uzun git geçmişi olan framework sitesi."
+  },
+  {
+    "slug": "handbuilt-go-dev",
+    "url": "https://go.dev",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Google, uzun geçmiş."
+  },
+  {
+    "slug": "handbuilt-rust-lang",
+    "url": "https://www.rust-lang.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Uzun git geçmişi."
+  },
+  {
+    "slug": "handbuilt-sqlite",
+    "url": "https://sqlite.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Onlarca yıllık elle yazılmış site."
+  },
+  {
+    "slug": "handbuilt-postgresql",
+    "url": "https://www.postgresql.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Onlarca yıllık."
+  },
+  {
+    "slug": "handbuilt-github",
+    "url": "https://github.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Elle yazılmış, AI builder öncesi."
+  },
+  {
+    "slug": "handbuilt-stackoverflow",
+    "url": "https://stackoverflow.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "AI builder öncesi."
+  },
+  {
+    "slug": "handbuilt-supabase",
+    "url": "https://supabase.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD: modern SaaS, shadcn/Radix + koyu tema."
+  },
+  {
+    "slug": "handbuilt-resend",
+    "url": "https://resend.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD: modern SaaS, Geist font, Vercel altyapı."
+  },
+  {
+    "slug": "handbuilt-clerk",
+    "url": "https://clerk.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD: modern SaaS marketing sitesi."
+  },
+  {
+    "slug": "handbuilt-railway",
+    "url": "https://railway.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD: modern SaaS, koyu tema gradient."
+  },
+  {
+    "slug": "handbuilt-vercel",
+    "url": "https://vercel.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "hard",
+    "note": "HARD: Geist font + Next.js + vercel hosting - zayıf sinyallerin hepsi burada."
+  },
+  {
+    "slug": "handbuilt-arstechnica",
+    "url": "https://arstechnica.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Haber sitesi, uzun geçmiş."
+  },
+  {
+    "slug": "handbuilt-theguardian",
+    "url": "https://www.theguardian.com",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Haber sitesi, kendi ekibi."
+  },
+  {
+    "slug": "handbuilt-mozilla-org",
+    "url": "https://www.mozilla.org",
+    "label": "hand-built",
+    "builder": null,
+    "difficulty": "easy",
+    "note": "Uzun git geçmişi."
   }
 ]

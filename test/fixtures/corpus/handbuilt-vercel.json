@@ -1,0 +1,317 @@
+{
+  "url": "https://vercel.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD: Geist font + Next.js + vercel hosting - zayıf sinyallerin hepsi burada.",
+  "capturedAt": "2026-07-22T12:32:55.311Z",
+  "snapshot": {
+    "hostname": "vercel.com",
+    "title": "Agentic Infrastructure - Vercel",
+    "generatorMeta": null,
+    "faviconHref": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+    "scriptSrcs": [
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/08vm39yy9labw.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1wzqbief3lz1o.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1n-5e7buz30rx.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2cea-loojf33n.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/14g-rwhjnh0ot.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/turbopack-2cieqs_lfx07g.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2992hwa6wej37.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3gdpid18wepjy.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1762534f5buhd.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0ngb1w8aahf-s.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/08ocf92yut6_e.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3dotg5x7oepx5.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3xafaz0wqzhxz.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/03eglhq9iwamy.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0uf-fe3t8mcki.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3sei1yz-1te1f.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0vhknvh4dvpv-.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0-f7lvpzolr_f.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2ir1vcxjgkem-.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/37ptqtp-g8c9m.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/00ok2hhef-uwk.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/108alv0v3w2n1.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0yemg9hpcuj4y.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0-99h-rwd7mwh.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/19zgs1y2nbils.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0cjoh2yb0u2_7.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1zlz4ju6pww8n.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2y_p8zq8ymsia.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3z_cvlex6gmik.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/35s1864cag2kb.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0ifwlffg-inoj.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2zl0wdqcr7f81.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/19a79d9yp3kjv.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2yvdjjle2zfo6.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/29grbkqf3ddwy.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3rfwk_sb7w0n7.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/29nr6q8bntd-u.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2xyejuoihv15s.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/09u6bf1amx92g.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3dbklx9dqpslz.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/08pwovp_uh7al.js",
+      "/3628f7ea4ecd82e3/script.js",
+      "/e62b3a9e28ed8bca/script.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3i50wloljgc66.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2ccdc-iyqzhgx.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1gri62p6jlggh.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3okwdid5k02_s.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1w9nq5qwr1ypi.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2y7uvh4qjfzo9.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/35_qpcwmtfs27.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2g3_binzmpnsl.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3z97cwffjqlb_.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3lfhez1n60mhd.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0j7f26bwb5io1.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/14k8nhyi586bp.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0x2_q4eovbx8z.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1sid2od5th3hv.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0olda66l13k63.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/20mm39ces-gpf.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3e05nldn8ca76.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/10ybhpm9qw-k4.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/20weplbm15_v-.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/0a4j4qflr2d8s.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/29qanwrvw7spy.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/1t-o0sv60197a.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3nxo94gqc7aa2.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/2z3i5z168qp-q.js",
+      "/vc-ap-vercel-marketing/_next/static/immutable/chunks/3j7f_0oiem99a.js"
+    ],
+    "htmlDatasetKeys": [
+      "userDisplay"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "slot",
+      "side"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://vercel.com/#geist-skip-nav",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://vercel.com/ai-sdk",
+        "text": "AI SDK"
+      },
+      {
+        "href": "https://vercel.com/ai-gateway",
+        "text": "AI Gateway"
+      },
+      {
+        "href": "https://vercel.com/sandbox",
+        "text": "Sandbox"
+      },
+      {
+        "href": "https://vercel.com/workflows",
+        "text": "Workflows"
+      },
+      {
+        "href": "https://vercel.com/passport",
+        "text": "Passport"
+      },
+      {
+        "href": "https://vercel.com/eve",
+        "text": "eve"
+      },
+      {
+        "href": "https://vercel.com/security",
+        "text": "Security"
+      },
+      {
+        "href": "https://vercel.com/cdn",
+        "text": "Content Delivery"
+      },
+      {
+        "href": "https://vercel.com/fluid",
+        "text": "Fluid Compute"
+      },
+      {
+        "href": "https://vercel.com/products/observability",
+        "text": "Observability"
+      },
+      {
+        "href": "https://vercel.com/products/previews",
+        "text": "CI/CD"
+      },
+      {
+        "href": "https://vercel.com/frameworks/nextjs",
+        "text": "Next.js"
+      },
+      {
+        "href": "https://vercel.com/agent",
+        "text": "Vercel Agent"
+      },
+      {
+        "href": "https://vercel.com/plugin",
+        "text": "Vercel Plugin"
+      },
+      {
+        "href": "https://vercel.com/domains",
+        "text": "Domains↗"
+      },
+      {
+        "href": "https://v0.app/",
+        "text": "v0↗"
+      },
+      {
+        "href": "https://vercel.com/docs",
+        "text": "Docs"
+      },
+      {
+        "href": "https://vercel.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://vercel.com/blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://vercel.com/changelog",
+        "text": "Changelog"
+      },
+      {
+        "href": "https://vercel.com/kb",
+        "text": "Knowledge Base"
+      },
+      {
+        "href": "https://vercel.com/ai",
+        "text": "AI Apps"
+      },
+      {
+        "href": "https://vercel.com/solutions/web-apps",
+        "text": "Web Apps"
+      },
+      {
+        "href": "https://vercel.com/solutions/marketing-sites",
+        "text": "Marketing Sites"
+      },
+      {
+        "href": "https://vercel.com/solutions/multi-tenant-saas",
+        "text": "Platforms"
+      },
+      {
+        "href": "https://vercel.com/solutions/composable-commerce",
+        "text": "Commerce"
+      },
+      {
+        "href": "https://vercel.com/customers",
+        "text": "Customers"
+      },
+      {
+        "href": "https://vercel.com/marketplace",
+        "text": "Marketplace"
+      },
+      {
+        "href": "https://vercel.com/partners/solution-partners",
+        "text": "Partner Finder"
+      },
+      {
+        "href": "https://vercel.com/partners/aws",
+        "text": "AWS"
+      },
+      {
+        "href": "https://community.vercel.com/",
+        "text": "Community↗"
+      },
+      {
+        "href": "https://vercel.com/enterprise",
+        "text": "Enterprise"
+      },
+      {
+        "href": "https://vercel.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://vercel.com/contact/sales",
+        "text": "Get a Demo"
+      },
+      {
+        "href": "https://vercel.com/login",
+        "text": "Log In"
+      },
+      {
+        "href": "https://vercel.com/signup",
+        "text": "Sign Up"
+      },
+      {
+        "href": "https://vercel.com/dashboard",
+        "text": "Dashboard"
+      },
+      {
+        "href": "https://vercel.com/ai-sdk",
+        "text": "AI SDK"
+      },
+      {
+        "href": "https://vercel.com/ai-gateway",
+        "text": "AI Gateway"
+      },
+      {
+        "href": "https://vercel.com/sandbox",
+        "text": "Sandbox"
+      },
+      {
+        "href": "https://vercel.com/workflows",
+        "text": "Workflows"
+      },
+      {
+        "href": "https://vercel.com/passport",
+        "text": "Passport"
+      },
+      {
+        "href": "https://vercel.com/eve",
+        "text": "eve"
+      },
+      {
+        "href": "https://vercel.com/security",
+        "text": "Security"
+      },
+      {
+        "href": "https://vercel.com/cdn",
+        "text": "Content Delivery"
+      },
+      {
+        "href": "https://vercel.com/fluid",
+        "text": "Fluid Compute"
+      },
+      {
+        "href": "https://vercel.com/products/observability",
+        "text": "Observability"
+      },
+      {
+        "href": "https://vercel.com/products/previews",
+        "text": "CI/CD"
+      },
+      {
+        "href": "https://vercel.com/frameworks/nextjs",
+        "text": "Next.js"
+      }
+    ],
+    "imageSrcs": [
+      "/vc-ap-vercel-marketing/_next/image?url=%2Fvc-ap-vercel-marketing%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffallback-dark-glow-mobile.3b4fyu5pe7opg.webp&w=3840&q=95",
+      "/vc-ap-vercel-marketing/_next/image?url=%2Fvc-ap-vercel-marketing%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffallback-dark-glow-desktop.25ylksegigbc-.webp&w=3840&q=95",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-mobile-dark.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-mobile-light.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-desktop-dark.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-desktop-light.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-mobile-dark.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-mobile-light.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-desktop-dark.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-desktop-light.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-mobile-dark.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-mobile-light.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-desktop-dark.webp",
+      "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-desktop-light.webp",
+      "/vc-ap-vercel-marketing/_next/static/immutable/media/eve-light.1e3bxs4ejw62x.svg",
+      "/vc-ap-vercel-marketing/_next/static/immutable/media/eve-dark.2l_s1mlvozam3.svg",
+      "/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-light.3_gxxexgi1nmy.svg",
+      "/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-dark.1f3cgy23m5_jy.svg"
+    ],
+    "fontFamilySample": "GeistSans, \"GeistSans Fallback\"",
+    "bodyTextSample": "Skip to contentCopy Logo as SVGCopy Wordmark as SVGBrand GuidelinesProductsAgent StackAI SDKAI GatewaySandboxWorkflowsPassporteveCore PlatformSecurityContent DeliveryFluid ComputeObservabilityCI/CDToolsNext.jsVercel AgentVercel PluginDomains↗v0↗ResourcesLearnDocsAboutBlogChangelogKnowledge BaseBuildAI AppsWeb AppsMarketing SitesPlatformsCommerceExploreCustomersMarketplacePartner FinderAWSCommunity↗EnterprisePricingGet a DemoLog InSign UpAsk AIDashboard(function f(a){let b=document.cookie.split(\"; \").find(b=>b.startsWith(`${a}=`))?.slice(a.length+1);if(!b)return;let c=null;try{c=JSON.parse(decodeURIComponent(b))}catch{}if(!c?.username)return;let d=c.avatar&&/^[0-9a-f]{40}$/.test(c.avatar)?`/api/www/avatar/${c.avatar}?s=64`:`/api/www/avatar/?u=${encodeURIComponent(c.username)}&s=64`,e=`Avatar for ${c.username}`;document.querySelectorAll(\"img[data-user-display-cache-avatar]\").forEach(a=>{a.src=d,a.alt=e,a.title=e})})(\"userDisplayCache\");ProductsAgent StackAI SDKAI GatewaySandboxWorkflowsPassporteveCore PlatformSecurityContent DeliveryFluid ComputeObservabilityCI/CDToolsNext.jsVercel AgentVercel PluginDomains↗v0↗ResourcesLearnDocsAboutBlogChangelogKnowledge BaseBuildAI AppsWeb AppsMarketing SitesPlatformsCommerceExploreCustomersMarketplacePartner FinderAWSCommunity↗EnterprisePricingGet a DemoLog InSign Up(function g(){let a=document.getElementById(\"marketing-header\");function b(){window.scrollY>0?a.dataset.scrolled=\"true\":delete a.dataset.scrolled}a&&(b(),requestAnimationFrame(b),window.addEventListener(\"scroll\",function a(){b(),window.removeEventListener(\"scroll\",a)},{passive:!0,once:!0}))})()(function j(a){if(\"u\"<typeof location)return;let b=location.pathname;for(let[c,d]of Object.entries(a))for(let a of d)if(a.startsWith(\"/\")&&(b===a||b.startsWith(`${a}/`))){let a=document.querySelector(`[data-nav-id=\"${CSS.escape(c)}\"]`);a&&a.setAttribute(\"data-highlighted\",\"\");return}})({\"products\":[\"/ai-sdk\",\"/ai-gateway\",\"/sandbox\",\"/workflows\",\"/passport\",\"/eve\",\"/security\",\"/cd"
+  }
+}

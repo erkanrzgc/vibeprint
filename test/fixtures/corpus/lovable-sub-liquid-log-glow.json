@@ -3,7 +3,7 @@
   "label": "ai-built",
   "builder": "lovable",
   "note": "Self-labeling: hosted on *.lovable.app.",
-  "capturedAt": "2026-07-21T17:26:59.472Z",
+  "capturedAt": "2026-07-22T12:29:33.273Z",
   "snapshot": {
     "hostname": "liquid-log-glow.lovable.app",
     "title": "Lovable App",
@@ -25,6 +25,6 @@
     ],
     "imageSrcs": [],
     "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
-    "bodyTextSample": "Hydra Lock — Water Intake Lock Screen Widget21 Temmuz Salı19:26HydrationDaily Water0mlof 2000 ml goal0%2000 ml leftGlass250 ml+ Drunk 250 mlTap Drunk to fill the orange line Edit with // Don't show the lovable-badge if the page is in an iframe or if it's being rendered by puppeteer (screenshot service) if (window.self !== window.top || navigator.userAgent.includes('puppeteer')) { var badge = document.getElementById('lovable-badge'); if (badge) { badge.style.display = 'none'; } } // Add click event listener to close button with animation var closeButton = document.getElementById('lovable-badge-close'); if (closeButton) { closeButton.addEventListener('click', function(event) { event.preventDefault(); event.stopPropagation(); var badge = document.getElementById('lovable-badge'); if (badge) { badge.classList.add('closing'); setTimeout(function() { if (badge) { badge.style.display = 'none'; } }, 240); } }); }"
+    "bodyTextSample": "Hydra Lock — Water Intake Lock Screen Widget22 Temmuz Çarşamba14:29HydrationDaily Water0mlof 2000 ml goal0%2000 ml leftGlass250 ml+ Drunk 250 mlTap Drunk to fill the orange line Edit with // Don't show the lovable-badge if the page is in an iframe or if it's being rendered by puppeteer (screenshot service) if (window.self !== window.top || navigator.userAgent.includes('puppeteer')) { var badge = document.getElementById('lovable-badge'); if (badge) { badge.style.display = 'none'; } } // Add click event listener to close button with animation var closeButton = document.getElementById('lovable-badge-close'); if (closeButton) { closeButton.addEventListener('click', function(event) { event.preventDefault(); event.stopPropagation(); var badge = document.getElementById('lovable-badge'); if (badge) { badge.classList.add('closing'); setTimeout(function() { if (badge) { badge.style.display = 'none'; } }, 240); } }); }"
   }
 }

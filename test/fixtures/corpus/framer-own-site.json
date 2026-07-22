@@ -3,22 +3,22 @@
   "label": "ai-built",
   "builder": "framer",
   "note": "Confirmed via <meta name=generator content='Framer ...'> and 3000+ data-framer-* attributes.",
-  "capturedAt": "2026-07-21T17:27:31.041Z",
+  "capturedAt": "2026-07-22T12:30:05.390Z",
   "snapshot": {
     "hostname": "www.framer.com",
     "title": "Framer: AI website builder for professional sites",
-    "generatorMeta": "Framer 92482b8",
+    "generatorMeta": "Framer 7f1a949",
     "faviconHref": "https://framerusercontent.com/images/Io89FonxEaWg4nxvQQllVLwPUUI.png",
     "scriptSrcs": [
       "https://js-eu1.hs-banner.com/v2/144411337/banner.js",
-      "https://js-eu1.hs-analytics.net/analytics/1784649000000/144411337.js",
-      "https://www.googletagmanager.com/gtag/js?id=G-QZ2MPXED80&cx=c&gtm=4e67k0",
+      "https://js-eu1.hs-analytics.net/analytics/1784721000000/144411337.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-QZ2MPXED80&cx=c&gtm=4e67k1",
       "https://www.googletagmanager.com/gtm.js?id=GTM-KQFN6BX",
       "https://cdn.debugbear.com/9uWCuyolIuHX.js",
       "https://www.dubcdn.com/analytics/script.js",
       "https://ingest.promptwatch.com/js/client.min.js",
       "https://events.framer.com/script?v=2",
-      "https://framerusercontent.com/sites/3BJ9zINIeWtEEVRMAcoTL8/script_main.CX4tn0c0.mjs",
+      "https://framerusercontent.com/sites/3BJ9zINIeWtEEVRMAcoTL8/script_main.DV1wtXBZ.mjs",
       "https://accounts.google.com/gsi/client",
       "//js-eu1.hs-scripts.com/144411337.js"
     ],
@@ -60,7 +60,7 @@
         "text": "Get started for free"
       },
       {
-        "href": "https://updates.framer.com/electron/darwin/arm64/Framer.zip?_ga=2.113395847.1447313862.1646043056-273660571.1642151053",
+        "href": "https://updates.framer.com/electron/win32/x64/Framer.exe?_ga=2.113395847.1447313862.1646043056-273660571.1642151053",
         "text": "Download app"
       },
       {
@@ -265,6 +265,7 @@
       "https://framerusercontent.com/images/4dSrVgS0I0XvJg2hlhEERFeaI4.jpg?lossless=1&width=1200&height=1454",
       "https://framerusercontent.com/images/MY18WE0x641B3s93Ntxb9EyNDg.jpg?lossless=1&width=1200&height=1632",
       "https://framerusercontent.com/images/LPkXlDTlZn3Gg3nOt0vzCxLJXU.png?width=512&height=512",
+      "https://framerusercontent.com/images/4lqMHnXQfYqTAzY33snof8y0Es.png?width=764&height=480",
       "https://framerusercontent.com/images/MpLFDC67YQNhZn2xoUIeyQAZK0.jpg?width=120&height=120",
       "https://framerusercontent.com/images/Yrl5iQeyEEzLD8pNITy1dJET2RM.jpg?width=120&height=120",
       "https://framerusercontent.com/images/vXcO4WGVMInagNXNjSGxl3jl0U.jpg?width=120&height=120",
@@ -281,8 +282,7 @@
       "https://framerusercontent.com/images/izmhOCZ9AE4RHH29q34wCc5W3Mo.jpg?width=2240&height=140",
       "https://framerusercontent.com/images/RUCQXTdC1P3kOSgwlXiUYL7zXc.jpg?width=2240&height=880",
       "https://framerusercontent.com/images/FZ7lxiXg058Q5WkLuIXqolcRD8.jpg?width=750&height=1080",
-      "https://framerusercontent.com/images/usaoXNWRLeM7U9Xt0Tx5xMMbc.jpg?width=750&height=1080",
-      "https://framerusercontent.com/images/CRKaWbZDqmciaZB3o8TLxfNfg.jpg?width=750&height=1080"
+      "https://framerusercontent.com/images/usaoXNWRLeM7U9Xt0Tx5xMMbc.jpg?width=750&height=1080"
     ],
     "fontFamilySample": "sans-serif",
     "bodyTextSample": ":root body { background: var(--token-958e2cd1-b113-4aa3-9235-7a2b959c8feb, rgb(0, 0, 0)); }FramerProductCommunityResourcesEnterprisePricingLog inSign up(()=>{(()=>{let e=document.currentScript.previousElementSibling;function t(){globalThis.__f_auth=0,e.style.display=`flex`}function n(){globalThis.__f_auth=1,e.style.display=`none`,mt();let t=document.createElement(`script`);t.type=`speculationrules`,t.textContent=`{\"prerender\":[{\"source\":\"list\",\"urls\":[\"https://framer.com/projects/\"]}]}`,document.head.append(t)}try{localStorage.__auth?n():t()}catch{t()}gt(n,t)})();async function gt(e,t){let n;try{n=await(globalThis.__framerLoginFetch??fetch(`https://api.framer.com/site/users/me`,{credentials:`include`}).then(e=>{if(e.ok)return e.json()}))}catch{return t()}if(!n?.name){try{localStorage.__auth=`0`}catch{}return t()}try{localStorage.__auth=`1`}catch{}e()};function mt(){function e(e){let t=document.activeElement?.nodeName;t===`TEXTAREA`||t===`INPUT`||e.key.toUpperCase()===`D`&&(globalThis.location.href=`https://framer.com/projects/`,e.stopPropagation())}globalThis.addEventListener(`keydown`,e)}})()Copy logo SVGBrand guidelineshtml body { background: var(--token-958e2cd1-b113-4aa3-9235-7a2b959c8feb, rgb(0, 0, 0)); }Framer is the AI website builder for standout sitesGet started for freeDownload appFramer 3.0Everything we shippedCanvasSite·main12InvitePublishPagesLayersAssetsSearch…PagesHome/workWork Pages/services/about/contact/news/legal/privacy/terms100% @keyframes ghostFlow { 0%, 18% { opacity: 1; } 35% { opacity: 0.6; } 50%, 100% { opacity: 0.3; } } @keyframes doubleSlow { 0%, 100% { opacity: 0.3; } 8% { opacity: 0.72; } 16%, 24% { opacity: 1; } 34%, 50% { opacity: 0.3; } 58% { opacity: 0.58; } 66%, 74% { opacity: 0.96; } 84% { opacity: 0.48; } } @keyframes danceSpark { 0%, 6% { opacity: 1; } 18% { opacity: 0.45; } 24%, 100% { opacity: 0.3; } } Desktop1200Tablet810AgentStyleNew Hero TickerAdd a 3D image ticker to the hero section and write a short introduction about Ha"

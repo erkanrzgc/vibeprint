@@ -1,0 +1,238 @@
+{
+  "url": "https://vuejs.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Uzun git geçmişi olan framework sitesi.",
+  "capturedAt": "2026-07-22T12:32:17.626Z",
+  "snapshot": {
+    "hostname": "vuejs.org",
+    "title": "Vue.js - The Progressive JavaScript Framework | Vue.js",
+    "generatorMeta": "VitePress v2.0.0-alpha.17",
+    "faviconHref": "/logo.svg",
+    "scriptSrcs": [
+      "/assets/app.-ijJFKIJ.js",
+      "https://cdn.usefathom.com/script.js",
+      "https://media.bitterbrains.com/main.js?from=vuejs&type=top"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://vuejs.org/#VPContent",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://vuejs.org/",
+        "text": "Vue.js"
+      },
+      {
+        "href": "https://vuejs.org/guide/quick-start.html",
+        "text": "Quick Start"
+      },
+      {
+        "href": "https://vuejs.org/guide/introduction.html",
+        "text": "Guide"
+      },
+      {
+        "href": "https://vuejs.org/tutorial/",
+        "text": "Tutorial"
+      },
+      {
+        "href": "https://vuejs.org/examples/",
+        "text": "Examples"
+      },
+      {
+        "href": "https://vuejs.org/api/",
+        "text": "API"
+      },
+      {
+        "href": "https://vuejs.org/glossary/",
+        "text": "Glossary"
+      },
+      {
+        "href": "https://vuejs.org/error-reference/",
+        "text": "Error Reference"
+      },
+      {
+        "href": "https://v2.vuejs.org/",
+        "text": "Vue 2 Docs"
+      },
+      {
+        "href": "https://v3-migration.vuejs.org/",
+        "text": "Migration from Vue 2"
+      },
+      {
+        "href": "https://play.vuejs.org/",
+        "text": "Playground"
+      },
+      {
+        "href": "https://vuejs.org/ecosystem/themes.html",
+        "text": "Themes"
+      },
+      {
+        "href": "https://ui-libs.vercel.app/",
+        "text": "UI Components"
+      },
+      {
+        "href": "https://www.vue-plugins.org/",
+        "text": "Plugins Collection"
+      },
+      {
+        "href": "https://certificates.dev/vuejs/?ref=vuejs-nav",
+        "text": "Certification"
+      },
+      {
+        "href": "https://vuejobs.com/?ref=vuejs",
+        "text": "Jobs"
+      },
+      {
+        "href": "https://vue.threadless.com/",
+        "text": "T-Shirt Shop"
+      },
+      {
+        "href": "https://router.vuejs.org/",
+        "text": "Vue Router"
+      },
+      {
+        "href": "https://pinia.vuejs.org/",
+        "text": "Pinia"
+      },
+      {
+        "href": "https://vuejs.org/guide/scaling-up/tooling.html",
+        "text": "Tooling Guide"
+      },
+      {
+        "href": "https://www.vuemastery.com/courses/",
+        "text": "Vue Mastery"
+      },
+      {
+        "href": "https://vueschool.io/?friend=vuejs&utm_source=Vuejs.org&utm_medium=Link&utm_content=Navbar%20Dropdown",
+        "text": "Vue School"
+      },
+      {
+        "href": "https://discord.com/invite/HBherRA",
+        "text": "Discord Chat"
+      },
+      {
+        "href": "https://github.com/vuejs/core/discussions",
+        "text": "GitHub Discussions"
+      },
+      {
+        "href": "https://dev.to/t/vue",
+        "text": "DEV Community"
+      },
+      {
+        "href": "https://blog.vuejs.org/",
+        "text": "Blog"
+      },
+      {
+        "href": "https://x.com/vuejs",
+        "text": "Twitter"
+      },
+      {
+        "href": "https://events.vuejs.org/",
+        "text": "Events"
+      },
+      {
+        "href": "https://vuejs.org/ecosystem/newsletters.html",
+        "text": "Newsletters"
+      },
+      {
+        "href": "https://vuejs.org/about/faq.html",
+        "text": "FAQ"
+      },
+      {
+        "href": "https://vuejs.org/about/team.html",
+        "text": "Team"
+      },
+      {
+        "href": "https://vuejs.org/about/releases.html",
+        "text": "Releases"
+      },
+      {
+        "href": "https://vuejs.org/about/community-guide.html",
+        "text": "Community Guide"
+      },
+      {
+        "href": "https://vuejs.org/about/coc.html",
+        "text": "Code of Conduct"
+      },
+      {
+        "href": "https://vuejs.org/about/privacy.html",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=OrxmtDw4pVI",
+        "text": "The Documentary"
+      },
+      {
+        "href": "https://vuejs.org/sponsor/",
+        "text": "Sponsor"
+      },
+      {
+        "href": "https://vuejs.org/partners/",
+        "text": "Partners"
+      },
+      {
+        "href": "https://cn.vuejs.org/",
+        "text": "简体中文"
+      },
+      {
+        "href": "https://ja.vuejs.org/",
+        "text": "日本語"
+      },
+      {
+        "href": "https://ua.vuejs.org/",
+        "text": "Українська"
+      },
+      {
+        "href": "https://fr.vuejs.org/",
+        "text": "Français"
+      },
+      {
+        "href": "https://de.vuejs.org/",
+        "text": "Deutsch"
+      },
+      {
+        "href": "https://ko.vuejs.org/",
+        "text": "한국어"
+      },
+      {
+        "href": "https://pt.vuejs.org/",
+        "text": "Português"
+      },
+      {
+        "href": "https://bn.vuejs.org/",
+        "text": "বাংলা"
+      },
+      {
+        "href": "https://it.vuejs.org/",
+        "text": "Italiano"
+      },
+      {
+        "href": "https://fa.vuejs.org/",
+        "text": "فارسی"
+      },
+      {
+        "href": "https://ru.vuejs.org/",
+        "text": "Русский"
+      }
+    ],
+    "imageSrcs": [
+      "https://automation.vuejs.org/images/vuemastery.png",
+      "https://automation.vuejs.org/images/vehikl.png",
+      "https://automation.vuejs.org/images/vue_js_amsterdam.png",
+      "https://automation.vuejs.org/images/storyblok.png",
+      "https://automation.vuejs.org/images/chrome_frameworks_fund.png",
+      "https://automation.vuejs.org/images/javascript_certification.png?v2",
+      "https://automation.vuejs.org/images/coderabbit_.png",
+      "https://automation.vuejs.org/images/imagekit_io.svg",
+      "https://automation.vuejs.org/images/greptile.png",
+      "https://automation.vuejs.org/images/serpapi.png"
+    ],
+    "fontFamilySample": "\"Inter var experimental\", \"Inter var\", Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+    "bodyTextSample": "Skip to contentVue.jsSearchCtrlKMain NavigationDocs Quick StartGuideTutorialExamplesAPIGlossaryError ReferenceVue 2 DocsMigration from Vue 2PlaygroundEcosystem ResourcesThemesUI ComponentsPlugins CollectionCertificationJobsT-Shirt ShopOfficial LibrariesVue RouterPiniaTooling GuideVideo CoursesVue MasteryVue SchoolHelpDiscord ChatGitHub DiscussionsDEV CommunityNewsBlogTwitterEventsNewslettersAbout FAQTeamReleasesCommunity GuideCode of ConductPrivacy PolicyThe DocumentarySupport SponsorPartners简体中文 日本語 Українська Français Deutsch 한국어 Português বাংলা Italiano فارسی Русский Čeština 繁體中文 Polski Help Us Translate!githubtwitterdiscordAppearancegithubtwitterdiscordAre you an LLM? View /llms.txt for optimized Markdown documentation, or /llms-full.txt for full documentation bundle The ProgressiveJavaScript Framework An approachable, performant and versatile framework for building web user interfaces. Play icon Why Vue Get Started Install Get Security Updates for Vue 2 Special Sponsor slot is now vacant - Inquire now Versatile A rich, incrementally adoptable ecosystem that scales between a library and a full-featured framework. User-friendly Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation. Efficient Truly reactive, compiler-optimized rendering system that rarely requires manual optimization. Platinum SponsorsBecome a SponsorGold SponsorsBecome a SponsorDocsQuick StartGuideTutorialExamplesAPIGlossaryError ReferenceVue 2 DocsMigration from Vue 2AboutFAQTeamReleasesCommunity GuideCode of ConductPrivacy PolicyThe DocumentarySupportSponsorPartnersResourcesThemesUI ComponentsPlugins CollectionCertificationJobsT-Shirt ShopOfficial LibrariesVue RouterPiniaTooling GuideVideo CoursesVue MasteryVue SchoolHelpDiscord ChatGitHub DiscussionsDEV CommunityNewsBlogTwitterEventsNewslettersReleased under the MIT License.Copyright © 2014-2026 Evan YouVue.js - The Progressive JavaScript Framework has loaded window.__VP_HASH_MAP__=JSON.parse(\"{\\\"a"
+  }
+}

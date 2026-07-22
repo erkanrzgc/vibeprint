@@ -1,0 +1,91 @@
+{
+  "url": "https://jaimec.co",
+  "label": "ai-built",
+  "builder": "framer",
+  "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak.",
+  "capturedAt": "2026-07-22T12:31:46.792Z",
+  "snapshot": {
+    "hostname": "jaimec.co",
+    "title": "Jaime Carrasco - Product Designer",
+    "generatorMeta": "Framer fdc01c0",
+    "faviconHref": "https://framerusercontent.com/images/sTLDKtOSfLzsJAHLV18XCHgUPbU.jpg",
+    "scriptSrcs": [
+      "https://scripts.clarity.ms/0.8.67/clarity.js",
+      "https://www.clarity.ms/tag/wbrmzph3ck",
+      "https://www.googletagmanager.com/gtag/js?id=G-VKNG4FG2EZ",
+      "https://events.framer.com/script?v=2",
+      "https://framerusercontent.com/sites/2Sf30GShItRIJPkMEB3lbu/script_main.DCAoKUL3.mjs"
+    ],
+    "htmlDatasetKeys": [
+      "redirectTimezone"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [
+      "framer"
+    ],
+    "badgeLinks": [
+      {
+        "href": "https://jaimec.co/",
+        "text": "Home"
+      },
+      {
+        "href": "https://jaimec.co/about",
+        "text": "About"
+      },
+      {
+        "href": "https://x.com/jaimcarrasco",
+        "text": "@jaimcarrasco"
+      },
+      {
+        "href": "https://www.linkedin.com/in/jaimecarr",
+        "text": "Linkedin"
+      },
+      {
+        "href": "https://www.cityfurniture.com/",
+        "text": "City Furniture"
+      },
+      {
+        "href": "https://ecommercestandards.co/",
+        "text": "The Ecommerce Standards Company."
+      },
+      {
+        "href": "https://jaimec.co/about",
+        "text": "About"
+      },
+      {
+        "href": "https://jaimec.co/",
+        "text": "Explore teams"
+      },
+      {
+        "href": "https://x.com/jaimcarrasco",
+        "text": "@jaimcarrasco"
+      }
+    ],
+    "imageSrcs": [
+      "https://framerusercontent.com/images/d0skJBiV7APnjWmLzWqFta21lR0.png?width=500&height=500",
+      "https://framerusercontent.com/images/jsEisvDJbFLH3uLqh1AJl8FU.png?width=106&height=96",
+      "https://framerusercontent.com/images/pR0XZx1kRG6kdr7BMTUAmgVfc.png?width=55&height=57",
+      "https://framerusercontent.com/images/ixmqoxaDkYLLzwAH3HoKk6yxE8.jpg?width=1654&height=2048",
+      "https://framerusercontent.com/images/fZUyIiNxk40OPKAZmuzvs0MA6Nk.jpg?width=911&height=512",
+      "https://framerusercontent.com/images/jUgMTYxFDJ8yZaXAlNftvqDo6AE.svg?width=40&height=40",
+      "https://framerusercontent.com/images/koLz9DLxg1JvkPE9OHTimXsYOw.svg?width=40&height=40",
+      "https://framerusercontent.com/images/1lsYdqvu29IxkB7fmsNEtJxBU.svg?width=800&height=800",
+      "https://framerusercontent.com/images/pr2mjUYVJ22ceydAtOX9RxsPvi0.png?width=1024&height=1024",
+      "https://framerusercontent.com/images/3YI5ZMJHWykL7CJilFWl7N7Y.svg?width=2500&height=2500",
+      "https://framerusercontent.com/images/qMoDEFWGxOHXTcSCYu8n85CbMF8.png?width=1024&height=1024",
+      "https://framerusercontent.com/images/50Q9PeIzaVPlt445dmUC3GfZia0.png?width=348&height=348",
+      "https://framerusercontent.com/images/te6WQfGd27rINQxP1eG4uTtKNY.png?width=313&height=512",
+      "https://framerusercontent.com/images/te6WQfGd27rINQxP1eG4uTtKNY.png?width=313&height=512",
+      "https://framerusercontent.com/images/b6HiBtMB5f81VPeQ5WHRw00qbw.png?width=313&height=512",
+      "https://framerusercontent.com/images/V5NwTkHclhiiffuKp0pofkI4Y1c.png?width=512&height=512",
+      "https://framerusercontent.com/images/cHlCZrz3VoPC0K38UpsDHNlXXgo.png?width=373&height=512",
+      "https://framerusercontent.com/images/cHlCZrz3VoPC0K38UpsDHNlXXgo.png?width=373&height=512",
+      "https://framerusercontent.com/images/omq7TugAA2uSJ2ADpwRQTiv6DA.png?width=512&height=140",
+      "https://framerusercontent.com/images/r4tBkQ0hnxvKr8mdjs3yFK9HjGo.jpg?width=246&height=246",
+      "https://framerusercontent.com/images/NMFtsYfwDLkeYANPnNkwcRCHD8.png?width=103&height=582"
+    ],
+    "fontFamilySample": "sans-serif",
+    "bodyTextSample": ":root body { background: var(--token-ca30687c-cdea-4735-bf08-0af5c04372e0, rgb(250, 250, 250)); }HomeAboutContactReach me at:[email]@jaimcarrascoLinkedinhtml body { background: var(--token-ca30687c-cdea-4735-bf08-0af5c04372e0, rgb(250, 250, 250)); }Jaime CarrascoI'm a product designer with over seven years of experience, focusing on ecommerce design.Currently designing atCity Furnitureand building agenticcommerce tools atThe Ecommerce Standards Company.Email meAboutRight rail1 critical issueImage gallery2 issuesNavigationNo issues foundReimagining ecommerce standards with AIFounder, design, agentic commerceJaime's PortfolioMapping the agentic commerce stackThe way products are discovered and purchased is shifting from storefronts to AI conversations.IntroDiscoveryProduct dataSite interfaceBehind this AI shift is a stack of protocols & infrastructure that makes the entire flow work. Here's the full picture.Layer 1: DiscoveryMapping the agentic commerce stackArticle, AIMy toolkitAbout meDesigner, creative and builderMaterialsFabricLeatherMicrofiberLinenColorBlueBeigeOlivePrice$0 - $500$500 - $1000Cool blue sectional$995+4 moreSustainable materialsFabricBlue$500 - $1000Increasing listing page conversionEcom, product designCreating a site for the City Furniture creative teamWebReimagining ecommerce standards with AIFounder, design, agentic commerceCreative DepartmentJaime CarrascoProduct DesignerAI fluentEcommerce expertUS basedAbout meDesigner, creative and builderCITY HOME Creative Studio – A collective of visionary teams redefining the future of online home shopping.Explore teamsCreating a site for the City Furniture creative teamWeb© 2026. Made by @jaimcarrasco(()=>{function u(){function n(t,e,i){let r=document.createElement(\"a\");r.href=t,r.target=i,r.rel=e,document.body.appendChild(r),r.click(),r.remove()}function o(t){if(this.dataset.hydrated){this.removeEventListener(\"click\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");"
+  }
+}

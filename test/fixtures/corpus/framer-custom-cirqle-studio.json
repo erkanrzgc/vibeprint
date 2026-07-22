@@ -1,0 +1,237 @@
+{
+  "url": "https://cirqle.studio",
+  "label": "ai-built",
+  "builder": "framer",
+  "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak.",
+  "capturedAt": "2026-07-22T12:31:55.883Z",
+  "snapshot": {
+    "hostname": "cirqle.studio",
+    "title": "Cirqle Studio | Website, Landing Page & Mobile App Design for Startups",
+    "generatorMeta": "Framer a7e392f",
+    "faviconHref": "https://framerusercontent.com/images/lNSMr8mBYW5GmcQ1j6X5QjPzk8I.png",
+    "scriptSrcs": [
+      "https://events.framer.com/script?v=2",
+      "https://framerusercontent.com/sites/2kabc07T1TUP8qVy7XZl1A/script_main.C77NwteD.mjs"
+    ],
+    "htmlDatasetKeys": [
+      "redirectTimezone"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [
+      "framer"
+    ],
+    "badgeLinks": [
+      {
+        "href": "https://cirqle.studio/works",
+        "text": "Our Work"
+      },
+      {
+        "href": "https://cirqle.studio/#services",
+        "text": "Services"
+      },
+      {
+        "href": "https://cirqle.studio/#why-us",
+        "text": "Why Us"
+      },
+      {
+        "href": "https://cirqle.studio/#faqs",
+        "text": "FAQ’s"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Start a Project"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Book a 15 min callBook a 15 min callBook a 15 min call"
+      },
+      {
+        "href": "https://cirqle.studio/works#selected-works",
+        "text": "Latest Work"
+      },
+      {
+        "href": "https://www.framer.com/@sandy/",
+        "text": "Official Framer Expert"
+      },
+      {
+        "href": "https://botwise.framer.website/",
+        "text": "Botwise"
+      },
+      {
+        "href": "https://lookfor.ai/",
+        "text": "Lookfor.ai"
+      },
+      {
+        "href": "https://ametrix.framer.website/",
+        "text": "Ametrix"
+      },
+      {
+        "href": "https://cognefy.framer.website/",
+        "text": "Cognefy"
+      },
+      {
+        "href": "https://notlex.framer.website/",
+        "text": "Notlex"
+      },
+      {
+        "href": "https://botwise.framer.website/",
+        "text": "Botwise"
+      },
+      {
+        "href": "https://lookfor.ai/",
+        "text": "Lookfor.ai"
+      },
+      {
+        "href": "https://ametrix.framer.website/",
+        "text": "Ametrix"
+      },
+      {
+        "href": "https://cognefy.framer.website/",
+        "text": "Cognefy"
+      },
+      {
+        "href": "https://notlex.framer.website/",
+        "text": "Notlex"
+      },
+      {
+        "href": "https://botwise.framer.website/",
+        "text": "Botwise"
+      },
+      {
+        "href": "https://lookfor.ai/",
+        "text": "Lookfor.ai"
+      },
+      {
+        "href": "https://ametrix.framer.website/",
+        "text": "Ametrix"
+      },
+      {
+        "href": "https://cognefy.framer.website/",
+        "text": "Cognefy"
+      },
+      {
+        "href": "https://notlex.framer.website/",
+        "text": "Notlex"
+      },
+      {
+        "href": "https://botwise.framer.website/",
+        "text": "Botwise"
+      },
+      {
+        "href": "https://lookfor.ai/",
+        "text": "Lookfor.ai"
+      },
+      {
+        "href": "https://ametrix.framer.website/",
+        "text": "Ametrix"
+      },
+      {
+        "href": "https://cognefy.framer.website/",
+        "text": "Cognefy"
+      },
+      {
+        "href": "https://notlex.framer.website/",
+        "text": "Notlex"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Book a 15 min callBook a 15 min callBook a 15 min call"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Book a 15 min callBook a 15 min callBook a 15 min call"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Book a 15 min callBook a 15 min callBook a 15 min call"
+      },
+      {
+        "href": "https://cirqle.studio/works#selected-works",
+        "text": "View all worksView all worksView all works"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Book a 15 min callBook a 15 min callBook a 15 min call"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Book a 15 min callBook a 15 min callBook a 15 min call"
+      },
+      {
+        "href": "https://cirqle.studio/works",
+        "text": "Our Work"
+      },
+      {
+        "href": "https://cirqle.studio/#services",
+        "text": "Services"
+      },
+      {
+        "href": "https://cirqle.studio/#why-us",
+        "text": "Why Us"
+      },
+      {
+        "href": "https://cirqle.studio/#faqs",
+        "text": "FAQ’s"
+      },
+      {
+        "href": "https://cirqle.studio/booking",
+        "text": "Start a Project"
+      }
+    ],
+    "imageSrcs": [
+      "https://framerusercontent.com/images/w7MCje8lIekCA4r15qTBrEJnN68.png?width=106&height=8",
+      "https://framerusercontent.com/images/w7MCje8lIekCA4r15qTBrEJnN68.png?width=106&height=8",
+      "https://framerusercontent.com/images/w7MCje8lIekCA4r15qTBrEJnN68.png?width=106&height=8",
+      "https://framerusercontent.com/images/w7MCje8lIekCA4r15qTBrEJnN68.png?width=106&height=8",
+      "https://framerusercontent.com/images/bGsezfo6hQJqkWFGdCbIWdojuQ.png?width=2880&height=1372",
+      "https://framerusercontent.com/images/w7i52wg1EmTfWOlALhyCqml55yk.png?width=1290&height=1474",
+      "https://framerusercontent.com/images/BXQdCEjdY3NeWCu4v9T2paydNk.png?width=1290&height=1194",
+      "https://framerusercontent.com/images/0jRU4oGsBX7BaTaVIN2yGvy7img.png?width=68&height=1592",
+      "https://framerusercontent.com/images/9vo00UJRvqJ25rlnk8QRwEVGk.png?width=64&height=1592",
+      "https://framerusercontent.com/images/akZZCO0xZUKHSGjyIhdO3flNWbU.png?width=854&height=515",
+      "https://framerusercontent.com/images/akZZCO0xZUKHSGjyIhdO3flNWbU.png?width=854&height=515",
+      "https://framerusercontent.com/images/EPOX6ReIDmN3GZQM7JCmddKfaw.png?width=1008&height=786",
+      "https://framerusercontent.com/images/aVJM9FSw2pK6CovYrYjZmGLS60.png?width=1008&height=786",
+      "https://framerusercontent.com/images/O5it9SSHDrpnmLgsvYvxm0KrdU.png?width=1008&height=786",
+      "https://framerusercontent.com/images/fvNNxTeblqcNgHYG6yaJmKivI.png?width=1008&height=786",
+      "https://framerusercontent.com/images/h0Dey5w6JTPYZIaX6iUNYQ96LtY.png?width=1008&height=786",
+      "https://framerusercontent.com/images/MXA1iqOgPkVTmh2si1eFxh0sE.png?width=1110&height=790",
+      "https://framerusercontent.com/images/zHWuZywxxqrjoYVkSVqyHuUU.png?width=1008&height=786",
+      "https://framerusercontent.com/images/B2AxqcDEIXibyNkSWanIH1h3cM.png?width=1008&height=786",
+      "https://framerusercontent.com/images/sjbZEA6EPAEZefttu8FmySlvQ.png?width=1008&height=786",
+      "https://framerusercontent.com/images/OIVQIuziSi4AO9Jpz0NFU237eA.png?width=1008&height=786",
+      "https://framerusercontent.com/images/m53RmJCVCS4KRXv8i6H99EZ4nQ.png?width=1008&height=786",
+      "https://framerusercontent.com/images/ndUwIdZ6HRGdF3N2ubdZGWCgVIM.png?width=1008&height=786",
+      "https://framerusercontent.com/images/JOE8q0uvwvUwfrFc0L9IdaOsM.png?width=1008&height=786",
+      "https://framerusercontent.com/images/SWLSY2rR4ejgzyQgQiNFH5v5Y.png?width=1008&height=786",
+      "https://framerusercontent.com/images/YkWxQZ68IkCzS9Vtf49VyeusE.png?width=1008&height=786",
+      "https://framerusercontent.com/images/0g1pDyqqDp8pRSTYFjKzscfFdEY.png?width=1008&height=786",
+      "https://framerusercontent.com/images/kGgjT2XJrlkKbPfKqTxG5xBOQ.png?width=1008&height=786",
+      "https://framerusercontent.com/images/YDvUFySi9dWEScsmzSuaUC2ZaM.png?width=516&height=104",
+      "https://framerusercontent.com/images/GcOvLfplUOv263OrPQnV4T1Rb0.png?width=173&height=20",
+      "https://framerusercontent.com/images/5GKwIAtRoiLIUyIBVpiqLs5BuU.png?width=1842&height=20",
+      "https://framerusercontent.com/images/BkdRbGRRUyfhpJ9SCSPel9w1w.png?width=1070&height=746",
+      "https://framerusercontent.com/images/BOnAMdNCTkiaq8ryLvjccP7vzg.png?width=118&height=82",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/9q2O6xIteZXWtlpd7EBC9UHpI.png?width=1070&height=746",
+      "https://framerusercontent.com/images/BOnAMdNCTkiaq8ryLvjccP7vzg.png?width=118&height=82",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/5afn2dHVCikoBzZDMpyRSmvlC5k.png?width=1070&height=746",
+      "https://framerusercontent.com/images/BOnAMdNCTkiaq8ryLvjccP7vzg.png?width=118&height=82",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/dBpv4wlsNY3hl0RKtpO6TVNGTtQ.png?width=1070&height=746",
+      "https://framerusercontent.com/images/BOnAMdNCTkiaq8ryLvjccP7vzg.png?width=118&height=82",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36",
+      "https://framerusercontent.com/images/6WXZU37DKPrSwvIBt3td0UU0w.png?width=1070&height=746",
+      "https://framerusercontent.com/images/BOnAMdNCTkiaq8ryLvjccP7vzg.png?width=118&height=82",
+      "https://framerusercontent.com/images/fB5rIEp5sDjuF3xFXrIXITH9oy8.png?width=36&height=36"
+    ],
+    "fontFamilySample": "sans-serif",
+    "bodyTextSample": ":root body { background: var(--token-d685da81-e4f9-445a-b0f3-0c64806a527b, rgb(241, 243, 253)); }Our WorkServicesWhy UsFAQ’sStart a Projecthtml body { background: rgb(255, 255, 255); }Rated 5 stars on Contra .rolling-text-inner-3ddf345f-8ff0-4b84-be7a-f0dbf452b93e { --font-size: 14px; --text: rgba(8, 8, 8, 0.8); --line-height-abs: 19.599999999999998px; box-sizing: border-box; margin: 0; padding: 0; vertical-align: top; display: flex; overflow: hidden; width: max-content; font-family: \"Switzer\", \"Switzer Placeholder\", sans-serif; font-size: 14px; text-transform: none; user-select: none; text-shadow: 0 var(--line-height-abs) 0 var(--text); } .rolling-text-inner-3ddf345f-8ff0-4b84-be7a-f0dbf452b93e span { display: block; -webkit-backface-visibility: hidden; backface-visibility: hidden; white-space: pre; flex-shrink: 0; font-family: inherit; font-weight: inherit; font-style: inherit; font-size: inherit; letter-spacing: inherit; line-height: 1.4em; color: var(--text); } Design for Startupsthat are Ready to GrowWe design high-converting websites, landing pages, dashboards,and mobile apps for startups that care about clarity.Book a 15 min callBook a 15 min callBook a 15 min callLatest Work We have worked with startups worldwidelookfor Selected worksOfficial Framer ExpertRecent projectsand explorationsA mix of client work and product-focused explorations craftedwith clarity and precision.BotwiseLookfor.aiAmetrixCognefyNotlexBotwiseLookfor.aiAmetrixCognefyNotlexBotwiseLookfor.aiAmetrixCognefyNotlexBotwiseLookfor.aiAmetrixCognefyNotlexWHY CIRQLEDesigning websites that actually performWe design with clarity, speed, and structure,so your product actually works.Clarity over complexityWe simplify ideas into interfaces users instantly understand.Built for speedFast iterations without compromising design quality.Flexible iterationsWe iterate quickly based on feedback to reach the best possible outcome.End-to-end executionFrom concept to polished, production-ready design.Built to pe"
+  }
+}

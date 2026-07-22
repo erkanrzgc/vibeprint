@@ -1,0 +1,121 @@
+{
+  "url": "https://opaline.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:26.585Z",
+  "snapshot": {
+    "hostname": "opalinedental.org",
+    "title": "Opaline Suite - Complete Growth & Operations Platform for Dental Practices",
+    "generatorMeta": null,
+    "faviconHref": "data:,",
+    "scriptSrcs": [
+      "/assets/index-BYvuQcQl.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://opalinedental.org/#solutions",
+        "text": "Solutions"
+      },
+      {
+        "href": "https://opalinedental.org/#why",
+        "text": "Why Opaline"
+      },
+      {
+        "href": "https://opalinedental.org/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://opalinedental.org/#security",
+        "text": "Security"
+      },
+      {
+        "href": "https://opalinedental.org/auth",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://opalinedental.org/auth",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://opalinedental.org/pricing",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://opalinedental.org/auth",
+        "text": "Sign In"
+      },
+      {
+        "href": "https://opalinedental.org/#",
+        "text": "See how→"
+      },
+      {
+        "href": "https://opalinedental.org/#",
+        "text": "See how→"
+      },
+      {
+        "href": "https://opalinedental.org/#",
+        "text": "See how→"
+      },
+      {
+        "href": "https://opalinedental.org/#",
+        "text": "Start demo"
+      },
+      {
+        "href": "https://opalinedental.org/#",
+        "text": "Request access"
+      },
+      {
+        "href": "https://opalinedental.org/#",
+        "text": "Talk to sales"
+      },
+      {
+        "href": "https://opalinedental.org/auth",
+        "text": "Request a private demo"
+      },
+      {
+        "href": "https://opalinedental.org/dashboard",
+        "text": "View sample dashboard"
+      },
+      {
+        "href": "https://opalinedental.org/resources/docs",
+        "text": "View Docs"
+      },
+      {
+        "href": "https://opalinedental.org/resources/stories",
+        "text": "Read Stories"
+      },
+      {
+        "href": "https://opalinedental.org/resources/support",
+        "text": "Contact Support"
+      },
+      {
+        "href": "https://opalinedental.org/legal/privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "https://opalinedental.org/security/baa",
+        "text": "BAA"
+      },
+      {
+        "href": "https://opalinedental.org/legal/copyright",
+        "text": "Copyright"
+      },
+      {
+        "href": "https://opalinedental.org/resources/security",
+        "text": "Security"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if('system'===e||(!e&&false)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}else{c.add('dark')}if(e==='light'||e==='dark'||!e)d.style.colorScheme=e||'dark'}catch(e){}}() :root { color-scheme: dark; } .font-serif { font-family: ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif; } .font-sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\"; } OpalineSolutionsWhy OpalinePricingSecurityResources Sign inGet Started Clinical‑grade growth OSThe only dental platform that turns patient conversations into revenue opportunities automatically.Scheduling, imaging, AI diagnostics, revenue detection, and analytics—powered by AI that never misses a treatment opportunity.🎧AI Revenue Detection\"Just mentioned crowns but didn't book? Our AI caught that and created a $3,200 follow-up opportunity.\"Get StartedSign InAI Inbox · \"Hi Sarah, we can see you Thursday at 2 pm.\"typing…AI Findings• Caries — confidence 0.87• Bone loss — confidence 0.73• Calculus — confidence 0.65Production$42,380+8.4%Case Acceptance68%+4.2%No‑Show RiskLow−22%AI Inbox\"Hi Sarah, we can see you Thursday at 2 pm.\"typing…AI Findings• Caries — confidence 0.87• Bone loss — confidence 0.73• Calculus — confidence 0.65Production$42,380+8.4%Case Acceptance68%+4.2%No‑Show RiskLow−22%Trusted by operators from 1 to 100+ locationsSmileCarePremier DentalBright TeethFamilyFirstElite DentalCarePlusCareAI diagnostics overlays and treatment validation where it belongs: in your workflow.See how→GrowthPredictive no‑show & acceptance, with attribution to booked revenue.See how→ComplianceHIPAA monitor, consent lifecycle, and exportable audit trails.See how→R"
+  }
+}

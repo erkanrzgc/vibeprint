@@ -1,0 +1,174 @@
+{
+  "url": "https://flux-pdf-studio.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:15.322Z",
+  "snapshot": {
+    "hostname": "flux-pdf-studio.lovable.app",
+    "title": "FluxPDF - Fast. Free. Lovely. PDF Converter",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-CP5oQEKq.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://flux-pdf-studio.lovable.app/",
+        "text": "FluxPDFFast. Free. Lovely."
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/pptx-to-pdf",
+        "text": "DemoPPTX to PDFTurn PowerPoint decks into share-ready PDFs"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/image-to-pdf",
+        "text": "Image to PDFTurn JPG, PNG, and other images into PDFs"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/html-to-pdf",
+        "text": "DemoHTML to PDFRender web pages and HTML exports as PDFs"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/ebook-to-pdf",
+        "text": "DemoeBook to PDFConvert EPUB, MOBI, and AZW3 books to PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/pdf-to-word",
+        "text": "DemoPDF to WordTransform PDFs into editable DOCX files"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/pdf-to-excel",
+        "text": "DemoPDF to ExcelExtract tables into live XLSX spreadsheets"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/merge-pdf",
+        "text": "Merge PDFCombine multiple PDFs into a single file"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/split-pdf",
+        "text": "Split PDFExtract pages or split PDF into multiple files"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/compress-pdf",
+        "text": "Compress PDFReduce PDF file size without losing quality"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/rotate-pdf",
+        "text": "Rotate PDFRotate pages in your PDF documents"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/protect-pdf",
+        "text": "DemoProtect PDFAdd password protection to your PDFs"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/unlock-pdf",
+        "text": "DemoUnlock PDFRemove password protection from PDFs"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/extract-text",
+        "text": "Extract TextExtract text content from PDF files"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/ocr-extract-text",
+        "text": "OCR - Extract Text"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/docx-to-pdf",
+        "text": "DOCX to PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/pptx-to-pdf",
+        "text": "PPTX to PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/xlsx-to-pdf",
+        "text": "XLSX to PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/image-to-pdf",
+        "text": "Image to PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/html-to-pdf",
+        "text": "HTML to PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/ebook-to-pdf",
+        "text": "eBook to PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/pdf-to-word",
+        "text": "PDF to Word"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/pdf-to-excel",
+        "text": "PDF to Excel"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/merge-pdf",
+        "text": "Merge PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/split-pdf",
+        "text": "Split PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/compress-pdf",
+        "text": "Compress PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/rotate-pdf",
+        "text": "Rotate PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/protect-pdf",
+        "text": "Protect PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/unlock-pdf",
+        "text": "Unlock PDF"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/extract-text",
+        "text": "Extract Text"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/summarize-translate",
+        "text": "AI Summarizer & Translator"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/tools/resume-builder",
+        "text": "Resume Builder"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/about",
+        "text": "About"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/terms",
+        "text": "Terms"
+      },
+      {
+        "href": "https://flux-pdf-studio.lovable.app/contact",
+        "text": "Contact"
+      },
+      {
+        "href": "https://lovable.dev/projects/52b0a108-8855-423b-9b9c-583eec69a102?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "Inter, system-ui, sans-serif",
+    "bodyTextSample": "FluxPDFFast. Free. Lovely.100% Free ForeverPDF Tools ThatJust WorkConvert, merge, compress, and edit PDFs with ease. No sign-up required. Lightning fast. Beautifully simple.Upload Your FileBrowse ToolsSecure & PrivateNo File LimitsAd-Free StartBatch ProcessingUpload and process multiple files at onceDrag & drop files hereor click to browseSupports up to 25 files • Max 500 MB totalAll PDF Tools You NeedProfessional-grade PDF tools that are completely free to useOCR - Extract TextConvert scanned PDFs & images to editable textDemoDOCX to PDFConvert Word documents to PDF format instantlyDemoPPTX to PDFTurn PowerPoint decks into share-ready PDFsDemoXLSX to PDFPublish spreadsheets as perfectly formatted PDFsImage to PDFTurn JPG, PNG, and other images into PDFsDemoHTML to PDFRender web pages and HTML exports as PDFsDemoeBook to PDFConvert EPUB, MOBI, and AZW3 books to PDFDemoPDF to WordTransform PDFs into editable DOCX filesDemoPDF to ExcelExtract tables into live XLSX spreadsheetsMerge PDFCombine multiple PDFs into a single fileSplit PDFExtract pages or split PDF into multiple filesCompress PDFReduce PDF file size without losing qualityRotate PDFRotate pages in your PDF documentsDemoProtect PDFAdd password protection to your PDFsDemoUnlock PDFRemove password protection from PDFsExtract TextExtract text content from PDF filesDemoAI Summarizer & TranslatorSummarize documents and translate insights instantlyResume BuilderDesign a polished resume with editable sectionsFluxPDFFast. Free. Lovely.Professional PDF tools that anyone can use. Convert, merge, compress, and more — all for free.ToolsOCR - Extract TextDOCX to PDFPPTX to PDFXLSX to PDFImage to PDFHTML to PDFeBook to PDFPDF to WordPDF to ExcelMerge PDFSplit PDFCompress PDFRotate PDFProtect PDFUnlock PDFExtract TextAI Summarizer & TranslatorResume BuilderCompanyAboutPrivacyTermsContact© 2025 FluxPDF Private Limited. All rights reserved. Edit with // Don't show the lovable-badge if the page is in an iframe or if it's being"
+  }
+}

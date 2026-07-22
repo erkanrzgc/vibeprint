@@ -1,0 +1,25 @@
+{
+  "url": "https://featureiq.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:11.701Z",
+  "snapshot": {
+    "hostname": "featureiq.lovable.app",
+    "title": "blank-canvas-creation-35",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-DqZQo9Px.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [],
+    "imageSrcs": [],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "FeatureIQSign InStart Free TrialNever Miss a Platform Update AgainTrack feature releases and updates across all your favorite platforms in one place. Get AI-powered insights and real-time notifications.Start Free Trial Supported PlatformsStay updated with your favorite platforms in one centralized dashboardShopifyBigCommerceMagentoWordPressKlaviyoGitHubGitLabTwitterSlackLinkedInZapierSupabaseVercelFacebookFeaturesReal-time UpdatesGet instant notifications when your favorite platforms release new features.Smart SearchQuickly find the updates that matter to your business across all platforms.AI SummariesAI-powered changelog summaries help you understand updates at a glance.AnalyticsTrack platform evolution and stay ahead of industry trends.Simple, Transparent PricingFree$0/month3 platform integrationsBasic notifications7-day historyCommunity supportStart Free TrialPro$19/monthUnlimited platformsPriority notificationsUnlimited historyAI summariesPremium supportStart Free Trial© 2024 FeatureIQ. All rights reserved."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "url": "https://www.rust-lang.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Uzun git geçmişi.",
+  "capturedAt": "2026-07-22T12:32:24.006Z",
+  "snapshot": {
+    "hostname": "rust-lang.org",
+    "title": "Rust Programming Language",
+    "generatorMeta": null,
+    "faviconHref": "/static/images/favicon-16x16.png",
+    "scriptSrcs": [
+      "/static/scripts/highlight.pack.js",
+      "/static/scripts/init.js",
+      "/static/scripts/languages.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://rust-lang.org/tools/install",
+        "text": "Install"
+      },
+      {
+        "href": "https://rust-lang.org/learn",
+        "text": "Learn"
+      },
+      {
+        "href": "https://play.rust-lang.org/",
+        "text": "Playground"
+      },
+      {
+        "href": "https://rust-lang.org/tools",
+        "text": "Tools"
+      },
+      {
+        "href": "https://rust-lang.org/governance",
+        "text": "Governance"
+      },
+      {
+        "href": "https://rust-lang.org/funding",
+        "text": "Funding"
+      },
+      {
+        "href": "https://rust-lang.org/community",
+        "text": "Community"
+      },
+      {
+        "href": "https://blog.rust-lang.org/",
+        "text": "Blog"
+      },
+      {
+        "href": "https://rust-lang.org/learn/get-started",
+        "text": "Get Started"
+      },
+      {
+        "href": "https://blog.rust-lang.org/releases/latest",
+        "text": "Version 1.97.1"
+      },
+      {
+        "href": "https://blog.rust-lang.org/2018/03/12/roadmap.html",
+        "text": "the 2018\nroadmap"
+      },
+      {
+        "href": "https://rust-lang.org/what/cli",
+        "text": "Building Tools"
+      },
+      {
+        "href": "https://rust-lang.org/what/wasm",
+        "text": "Writing Web Apps"
+      },
+      {
+        "href": "https://rust-lang.org/what/networking",
+        "text": "Working On Servers"
+      },
+      {
+        "href": "https://rust-lang.org/what/embedded",
+        "text": "Starting With Embedded"
+      },
+      {
+        "href": "https://rust-lang.org/learn",
+        "text": "Read the book"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA",
+        "text": "Watch the Videos"
+      },
+      {
+        "href": "https://rustc-dev-guide.rust-lang.org/getting-started.html",
+        "text": "Read Contribution Guide"
+      },
+      {
+        "href": "https://thanks.rust-lang.org/",
+        "text": "See individual contributors"
+      },
+      {
+        "href": "https://foundation.rust-lang.org/members",
+        "text": "See Foundation members"
+      },
+      {
+        "href": "https://rust-lang.org/learn",
+        "text": "Documentation"
+      },
+      {
+        "href": "http://forge.rust-lang.org/",
+        "text": "Rust Forge (Contributor Documentation)"
+      },
+      {
+        "href": "https://users.rust-lang.org/",
+        "text": "Ask a Question on the Users Forum"
+      },
+      {
+        "href": "https://rust-lang.org/policies/code-of-conduct",
+        "text": "Code of Conduct"
+      },
+      {
+        "href": "https://rust-lang.org/policies/licenses",
+        "text": "Licenses"
+      },
+      {
+        "href": "https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/",
+        "text": "Logo Policy and Media Guide"
+      },
+      {
+        "href": "https://rust-lang.org/policies/security",
+        "text": "Security Disclosures"
+      },
+      {
+        "href": "https://foundation.rust-lang.org/policies/privacy-policy/",
+        "text": "Privacy Notice"
+      },
+      {
+        "href": "https://rust-lang.org/policies",
+        "text": "All Policies"
+      },
+      {
+        "href": "https://github.com/rust-lang/www.rust-lang.org/issues/new/choose",
+        "text": "File an issue!"
+      }
+    ],
+    "imageSrcs": [
+      "/static/images/rust-logo-blk.svg",
+      "/static/images/cli.svg",
+      "/static/images/webassembly.svg",
+      "/static/images/networking.svg",
+      "/static/images/embedded.svg",
+      "/static/images/mastodon.svg",
+      "/static/images/bluesky.svg",
+      "/static/images/youtube.svg",
+      "/static/images/github.svg"
+    ],
+    "fontFamilySample": "\"Fira Sans\", Helvetica, Arial, sans-serif",
+    "bodyTextSample": "Install Learn Playground Tools Governance Funding Community Blog Language English (en-US) Español (es) Français (fr) Italiano (it) 日本語 (ja) Português (pt-BR) Русский (ru) Türkçe (tr) 简体中文 (zh-CN) 正體中文 (zh-TW) Rust A language empowering everyone to build reliable and efficient software. Get Started Version 1.97.1 Why Rust? Performance Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages. Reliability Rust’s rich type system and ownership model guarantee memory-safety and thread-safety — enabling you to eliminate many classes of bugs at compile-time. Productivity Rust has great documentation, a friendly compiler with useful error messages, and top-notch tooling — an integrated package manager and build tool, smart multi-editor support with auto-completion and type inspections, an auto-formatter, and more. Build it in Rust In 2018, the Rust community decided to improve the programming experience for a few distinct domains (see the 2018 roadmap). For these, you can find many high-quality crates and some awesome guides on how to get started. Command Line Whip up a CLI tool quickly with Rust’s robust ecosystem. Rust helps you maintain your app with confidence and distribute it with ease. Building Tools WebAssembly Use Rust to supercharge your JavaScript, one module at a time. Publish to npm, bundle with webpack, and you’re off to the races. Writing Web Apps Networking Predictable performance. Tiny resource footprint. Rock-solid reliability. Rust is great for network services. Working On Servers Embedded Targeting low-resource devices? Need low-level control without giving up high-level conveniences? Rust has you covered. Starting With Embedded Rust in production Hundreds of companies around the world are using Rust in production today for fast, low-resource, cross-platform solutions. From startups to large corporations, from embedded "
+  }
+}

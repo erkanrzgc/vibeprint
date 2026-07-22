@@ -1,0 +1,84 @@
+{
+  "url": "https://ancientindianscripts.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:01.669Z",
+  "snapshot": {
+    "hostname": "ancientindianscripts.lovable.app",
+    "title": "Akṣara Heritage | Ancient Script Explorer & Transliterator",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-CEWchCJE.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://ancientindianscripts.lovable.app/",
+        "text": "Akṣara Heritage"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/",
+        "text": "Home"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/transliterate",
+        "text": "Scribe"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/explore",
+        "text": "Explore"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/history",
+        "text": "Lineage"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/settings",
+        "text": "Settings"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/transliterate",
+        "text": "Begin Scribing"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/explore",
+        "text": "Explore Scripts"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/scripts/ashokan-brahmi",
+        "text": "Read History"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/scripts/ashokan-brahmi/characters",
+        "text": "Characters"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/scripts/kharoshthi",
+        "text": "Read History"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/scripts/kharoshthi/characters",
+        "text": "Characters"
+      },
+      {
+        "href": "https://ancientindianscripts.lovable.app/explore",
+        "text": "Discover All Sacred Scripts"
+      },
+      {
+        "href": "https://lovable.dev/projects/3b39b910-e63f-4469-b8a7-1f8500e4e2f6?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [
+      "/assets/scholar-writing-DdEm0JE_.png"
+    ],
+    "fontFamilySample": "\"Cormorant Garamond\", \"Source Sans 3\", system-ui, sans-serif",
+    "bodyTextSample": "Akṣara HeritageHomeScribeExploreLineageSettingsAkṣara HeritageJourney through millennia of human expression. Explore, learn, and transcribe into the sacred scripts that shaped civilizations.Begin ScribingExplore ScriptsFoundation ScriptsThe ancient roots from which countless writing systems blossomedAshokan Brahmi𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀻3rd century BCEThe earliest form of Brahmi script, used in the rock edicts of Emperor Ashoka across the Indian subcontinent.Pan-Indian Subcontinent56 charactersSample characters:𑀅 𑀆 𑀇 𑀈 𑀉 𑀊 𑀋 𑀌Read HistoryCharactersKharoshthi𐨑𐨪𐨆𐨯𐨿𐨛𐨁4th century BCEAn ancient script used in the Gandhara region, written right-to-left, contemporary with Brahmi but with distinct origins.Ancient Gandhara44 charactersSample characters:𐨀 𐨁 𐨂 𐨃 𐨅 𐨆 𐨐 𐨑Read HistoryCharactersDiscover All Sacred ScriptsTibetan, Siddham, Grantha, Śāradā, Pahlavi, and more treasures awaitSanskrit Translation & Phrase LibraryTranslate any language into Sanskrit or Prakrit, render in ancient scripts, and explore classical phrasesTranslatePhrase LibraryTarget LanguageSanskrit (संस्कृतम्)Prakrit (प्राकृत)Render in Script (optional)Devanagari onlyAshokan BrahmiKharoshthiSiddhamŚāradāGranthaTibetanKaithiOld KannadaThaiKhmerJavaneseBurmeseChamEnter text in any language0/2000Translate to SanskritPreserving the Written WordAkṣara Heritage is a living digital archive dedicated to the preservation and accessibility of humanity's written legacy. From the monumental Ashokan edicts carved in Brahmi to the sacred mantras of Siddham calligraphy, each script tells the story of a civilization.Our AI-powered transliteration engine converts modern text into historically accurate representations, following Unicode standards and scholarly conventions. Whether you're a researcher, student, or simply curious about the origins of writing, this is your gateway to the ancient world.Recommended fonts: Noto Sans Brahmi, Noto Sans Sharada, Noto Sans Siddham, Noto Serif TibetanBuilt with reverenc"
+  }
+}

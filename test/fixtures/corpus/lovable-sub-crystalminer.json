@@ -1,0 +1,30 @@
+{
+  "url": "https://crystalminer.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:08.138Z",
+  "snapshot": {
+    "hostname": "crystalminer.lovable.app",
+    "title": "Crystal Miner - Drifts Clicker Game ©",
+    "generatorMeta": null,
+    "faviconHref": "https://storage.googleapis.com/gpt-engineer-file-uploads/9zJEXdIgv5OZ6GBjsEv8ucBKwft2/uploads/1763885776204-Screenshot 2025-11-23 091455.png",
+    "scriptSrcs": [
+      "/assets/index-Bly1shGX.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://lovable.dev/projects/e3a41eb5-4b0e-4bb6-8586-76519f0e196a?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "Crystal MinerSign in to continue your adventureUsernamePasswordSign InDon't have an account? Sign upYour progress will be saved to your account Edit with // Don't show the lovable-badge if the page is in an iframe or if it's being rendered by puppeteer (screenshot service) if (window.self !== window.top || navigator.userAgent.includes('puppeteer')) { var badge = document.getElementById('lovable-badge'); if (badge) { badge.style.display = 'none'; } } // Add click event listener to close button with animation var closeButton = document.getElementById('lovable-badge-close'); if (closeButton) { closeButton.addEventListener('click', function(event) { event.preventDefault(); event.stopPropagation(); var badge = document.getElementById('lovable-badge'); if (badge) { badge.classList.add('closing'); setTimeout(function() { if (badge) { badge.style.display = 'none'; } }, 240); } }); }"
+  }
+}

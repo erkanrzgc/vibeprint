@@ -1,0 +1,188 @@
+{
+  "url": "https://atta.app",
+  "label": "ai-built",
+  "builder": "framer",
+  "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak.",
+  "capturedAt": "2026-07-22T12:32:02.193Z",
+  "snapshot": {
+    "hostname": "atta.app",
+    "title": "Atta - Everyone’s a data person now",
+    "generatorMeta": "Framer 1a93ff7",
+    "faviconHref": "https://framerusercontent.com/images/A1G34asZWWqzYNZKhjjsSYd2G0A.png",
+    "scriptSrcs": [
+      "https://cdn.athenahq.ai/api/tracking/079bcfae-aa6a-43e8-b787-972d0debdf3d",
+      "https://www.googletagmanager.com/gtag/js?id=G-KJVGF22V34",
+      "https://events.framer.com/script?v=2",
+      "https://framerusercontent.com/sites/34Mf0f0dgjL9rvLiFmFwI4/script_main.BsPTtNya.mjs",
+      "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"
+    ],
+    "htmlDatasetKeys": [
+      "redirectTimezone"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [
+      "framer"
+    ],
+    "badgeLinks": [
+      {
+        "href": "https://atta.app/product",
+        "text": "Product"
+      },
+      {
+        "href": "https://atta.app/solutions",
+        "text": "Solutions"
+      },
+      {
+        "href": "https://atta.app/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://atta.app/reserve",
+        "text": "Reserve your spot"
+      },
+      {
+        "href": "https://atta.app/auth/login",
+        "text": "Log in"
+      },
+      {
+        "href": "https://atta.app/reserve",
+        "text": "Reserve your spot"
+      },
+      {
+        "href": "https://calendly.com/d/cws5-n5w-b3c/atta-private-beta-15-min",
+        "text": "Book a demo"
+      },
+      {
+        "href": "https://atta.app/reserve",
+        "text": "Reserve your spot"
+      },
+      {
+        "href": "https://calendly.com/d/cws5-n5w-b3c/atta-private-beta-15-min",
+        "text": "Book a demo"
+      },
+      {
+        "href": "https://atta.app/solutions#solutions",
+        "text": "See More"
+      },
+      {
+        "href": "https://atta.app/solutions/productops-pm",
+        "text": "See More"
+      },
+      {
+        "href": "https://atta.app/solutions/revops#solutions",
+        "text": "See More"
+      },
+      {
+        "href": "https://atta.app/solutions/cloudfinops",
+        "text": "See More"
+      },
+      {
+        "href": "https://atta.app/solutions/strategic-finance-fp-a",
+        "text": "See More"
+      },
+      {
+        "href": "https://atta.app/solutions/llmops-agentops",
+        "text": "See More"
+      },
+      {
+        "href": "https://atta.app/",
+        "text": "See More"
+      },
+      {
+        "href": "https://atta.app/product",
+        "text": "Product"
+      },
+      {
+        "href": "https://atta.app/solutions",
+        "text": "Solutions"
+      },
+      {
+        "href": "https://atta.app/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://atta.app/docs",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://status.atta.app/",
+        "text": "Status"
+      },
+      {
+        "href": "https://calendly.com/d/cws5-n5w-b3c/atta-private-beta-15-min",
+        "text": "Book a demo"
+      },
+      {
+        "href": "https://atta.app/terms",
+        "text": "Terms of Service"
+      },
+      {
+        "href": "https://atta.app/privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "https://x.com/attaapp",
+        "text": "Twitter"
+      },
+      {
+        "href": "https://www.linkedin.com/company/attaapp",
+        "text": "LinkedIn"
+      }
+    ],
+    "imageSrcs": [
+      "https://framerusercontent.com/images/Pu8KKBqpKIhdLXacok6a0vs6qjw.svg?width=300&height=300",
+      "https://framerusercontent.com/images/RSUhxwJrgqP4j4pnqx2BVYLSEk.svg?width=300&height=300",
+      "https://framerusercontent.com/images/3vsvYdmBRakio2lc6b7rirv19s.svg?width=300&height=300",
+      "https://framerusercontent.com/images/tkI87GkBfMxexPQUR2Dj5ycA8l8.svg?width=300&height=301",
+      "https://framerusercontent.com/images/LAU2TxPhYcw3TB4i1lkB5ZRxx9g.svg?width=300&height=301",
+      "https://framerusercontent.com/images/RwNJhNzz1SLL0hrTeqXhhMCPWA.svg?width=300&height=301",
+      "https://framerusercontent.com/images/LIhuIPmezeQxqpaYZj8owLe2Ss.svg?width=300&height=301",
+      "https://framerusercontent.com/images/DHGCVCCyQ02VMiTCCZrix3S91hk.svg?width=300&height=301",
+      "https://framerusercontent.com/images/EDaYraLAxr5JxRLr8QkbVmJtI.svg?width=300&height=301",
+      "https://framerusercontent.com/images/GlJb75t1VIREDNgeCOXWd8j48.svg?width=300&height=301",
+      "https://framerusercontent.com/images/FbPvsNuvipzaLagkfYsPx2jAHiY.svg?width=300&height=301",
+      "https://framerusercontent.com/images/S3Sr97dJ5cA87Vf6r8GIgYhg.svg?width=300&height=301",
+      "https://framerusercontent.com/images/0d01GaRCjFmp6iQpAF9oo0p9XxI.svg?width=300&height=301",
+      "https://framerusercontent.com/images/YYLai0avw0ygkGckw8mxLnncfXQ.svg?width=300&height=301",
+      "https://framerusercontent.com/images/G7MwxnsD0Brw4Xp3614Qc1ODY.svg?width=300&height=301",
+      "https://framerusercontent.com/images/KGb7FzBXi4Yx6jwKwyboQ0LR0DA.svg?width=300&height=301",
+      "https://framerusercontent.com/images/JDUGeSMln3g3KRCPsV7tfALpfc.svg?width=300&height=301",
+      "https://framerusercontent.com/images/KvJdTthxI6D9jhLK8qijAC9bbjw.svg?width=300&height=301",
+      "https://framerusercontent.com/images/XmYtdO7LRoS1xFE5MmtNGm7Qk.svg?width=300&height=301",
+      "https://framerusercontent.com/images/rYM9sYeRNV8NbnudcOBqjlltRs.svg?width=300&height=301",
+      "https://framerusercontent.com/images/WMmkZUjbHUGQHop3pijayC94SOQ.svg?width=300&height=301",
+      "https://framerusercontent.com/images/bV34tpshYy66MQQLNcWzChOUG18.svg?width=300&height=301",
+      "https://framerusercontent.com/images/QwzLO9pSvSiBE4kWYBiEO5FYhs.svg?width=300&height=301",
+      "https://framerusercontent.com/images/qm8gYVVr6ViMH9HPPvwRHXtRrPk.svg?width=300&height=301",
+      "https://framerusercontent.com/images/sas5i45kKZDRfpor56uOr4qjXM.svg?width=300&height=301",
+      "https://framerusercontent.com/images/dbekXjVAGHq3vsNIZDjxU4Rc.svg?width=300&height=301",
+      "https://framerusercontent.com/images/m1dODFvJ7GXE6phywk7VBfBbo.svg?width=300&height=301",
+      "https://framerusercontent.com/images/1QM2F96lMTXttlt4aI2PTKsVo.svg?width=300&height=301",
+      "https://framerusercontent.com/images/3MnTV3dYipmmcBXkG62yXcPPxRk.svg?width=300&height=301",
+      "https://framerusercontent.com/images/894ej6nsG7kANFIMCoaJls6Ymy0.svg?width=300&height=301",
+      "https://framerusercontent.com/images/Pu8KKBqpKIhdLXacok6a0vs6qjw.svg?width=300&height=300",
+      "https://framerusercontent.com/images/RSUhxwJrgqP4j4pnqx2BVYLSEk.svg?width=300&height=300",
+      "https://framerusercontent.com/images/3vsvYdmBRakio2lc6b7rirv19s.svg?width=300&height=300",
+      "https://framerusercontent.com/images/tkI87GkBfMxexPQUR2Dj5ycA8l8.svg?width=300&height=301",
+      "https://framerusercontent.com/images/LAU2TxPhYcw3TB4i1lkB5ZRxx9g.svg?width=300&height=301",
+      "https://framerusercontent.com/images/RwNJhNzz1SLL0hrTeqXhhMCPWA.svg?width=300&height=301",
+      "https://framerusercontent.com/images/LIhuIPmezeQxqpaYZj8owLe2Ss.svg?width=300&height=301",
+      "https://framerusercontent.com/images/DHGCVCCyQ02VMiTCCZrix3S91hk.svg?width=300&height=301",
+      "https://framerusercontent.com/images/EDaYraLAxr5JxRLr8QkbVmJtI.svg?width=300&height=301",
+      "https://framerusercontent.com/images/GlJb75t1VIREDNgeCOXWd8j48.svg?width=300&height=301",
+      "https://framerusercontent.com/images/FbPvsNuvipzaLagkfYsPx2jAHiY.svg?width=300&height=301",
+      "https://framerusercontent.com/images/S3Sr97dJ5cA87Vf6r8GIgYhg.svg?width=300&height=301",
+      "https://framerusercontent.com/images/0d01GaRCjFmp6iQpAF9oo0p9XxI.svg?width=300&height=301",
+      "https://framerusercontent.com/images/YYLai0avw0ygkGckw8mxLnncfXQ.svg?width=300&height=301",
+      "https://framerusercontent.com/images/G7MwxnsD0Brw4Xp3614Qc1ODY.svg?width=300&height=301",
+      "https://framerusercontent.com/images/KGb7FzBXi4Yx6jwKwyboQ0LR0DA.svg?width=300&height=301",
+      "https://framerusercontent.com/images/JDUGeSMln3g3KRCPsV7tfALpfc.svg?width=300&height=301",
+      "https://framerusercontent.com/images/KvJdTthxI6D9jhLK8qijAC9bbjw.svg?width=300&height=301",
+      "https://framerusercontent.com/images/XmYtdO7LRoS1xFE5MmtNGm7Qk.svg?width=300&height=301",
+      "https://framerusercontent.com/images/rYM9sYeRNV8NbnudcOBqjlltRs.svg?width=300&height=301"
+    ],
+    "fontFamilySample": "sans-serif",
+    "bodyTextSample": ":root body { background: var(--token-dba757ec-fd9e-479a-a395-68f84ab71d38, rgb(0, 0, 0)); }ProductSolutionsAbout usReserve your spotLog inhtml body { background: var(--token-dba757ec-fd9e-479a-a395-68f84ab71d38, rgb(0, 0, 0)); }Analysis. Not just chat.Everyone's a data person now. But analysis takes more than a chatbot. Atta combines AI and an infinite canvas so anyone can make smart decisions in minutes.Reserve your spotBook a demoFeaturesThe AI workspace for real analysisInvestigate churn. Model pricing. Forecast revenue. Atta empowers ops teams to handle complex analysis themselves with AI-built apps. No technical skills needed.There’s an app for that.Pinpoint a KPI drop, model next quarter’s revenue, surface new growth levers, and more with apps built by AI.Infinite scenarios. Infinite canvas.Goodbye spreadsheet tabs. Seamlessly compare scenarios side-by-side in the canvas.Think globally, act locally.Whether you have a question about everything in your workspace or just a single chart, you’re in control.Effortless beauty, on brandAnythingDarkLightGorgeous charts, not AI slop. Built for QBRs, so your insights stand out and convince stakeholders. No design skills needed.Use CasesThe questions that matter aren’t on a dashboardWhy is churn suddenly through the roof?Zero‑in on what’s behind KPI swings.What if we bump prices 8% next month?Test a new pricing model and see ARR and margin impact live.Where can I find another 5% margin?Surface hidden insights for growth or savings.Bring your dataYour data already has the answers. Let Atta help you surface them.Reserve your spotBook a demoBizOpsSee MoreAnalysisUse CasesRoot causeRevenue drop investigatorWhat-if scenarios & forecastingPricing & packaging simulatorOpportunity discoveryUpsell opportunity explorerProduct / ProductOpsSee MoreAnalysisUse CasesRoot causeCohort retention analyzer What-if scenarios & forecastingFeature ROI calculatorOpportunity discoveryNPS insight explorerRevOpsSee MoreAnalysisUse CasesRoot causeP"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "url": "https://www.mozilla.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Uzun git geçmişi.",
+  "capturedAt": "2026-07-22T12:33:04.781Z",
+  "snapshot": {
+    "hostname": "www.mozilla.org",
+    "title": "Internet for people, not profit — Mozilla Global",
+    "generatorMeta": null,
+    "faviconHref": "https://www.mozilla.org/media/img/favicons/mozilla/favicon-196x196.e143075360ea.png",
+    "scriptSrcs": [
+      "https://transcend-cdn.com/cm/d556c3a1-e57c-4bdf-a490-390a1aebf6dd/airgap.js",
+      "https://www.mozilla.org/media/js/site.8f1217edbde0.js",
+      "https://www.mozilla.org/media/js/gtm-snippet.b5b7c885f8fa.js",
+      "https://www.mozilla.org/media/js/sentry.729c728748fa.js",
+      "https://www.mozilla.org/media/js/lib.c6b4f4c6aed8.js",
+      "https://www.mozilla.org/media/js/fxa.8c097c9145ff.js",
+      "https://www.mozilla.org/media/js/data.a85f0425619e.js",
+      "https://www.mozilla.org/media/js/m24-ui.a40c4b15e29f.js",
+      "https://www.mozilla.org/media/js/consent-banner.497ea1aa3e76.js"
+    ],
+    "htmlDatasetKeys": [
+      "countryCode",
+      "needsConsent",
+      "latestFirefox",
+      "esrVersions",
+      "gtmContainerId",
+      "stubAttributionRate",
+      "sentryDsn"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://www.mozilla.org/zh-TW/privacy/websites/cookie-settings/",
+        "text": "Cookie settings"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/products/",
+        "text": "Products"
+      },
+      {
+        "href": "https://www.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "Firefox browsers"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/products/vpn/",
+        "text": "Mozilla VPN"
+      },
+      {
+        "href": "https://monitor.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "Mozilla Monitor"
+      },
+      {
+        "href": "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "Firefox Relay"
+      },
+      {
+        "href": "https://developer.mozilla.org/plus?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "MDN Plus"
+      },
+      {
+        "href": "https://www.thunderbird.net/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "Thunderbird"
+      },
+      {
+        "href": "https://soloist.ai/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "Solo"
+      },
+      {
+        "href": "https://0din.ai/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "0DIN"
+      },
+      {
+        "href": "https://tabstack.ai/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+        "text": "Tabstack"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/products/",
+        "text": "All products"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/about/",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/about/",
+        "text": "About Mozilla"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/about/manifesto/",
+        "text": "The Mozilla Manifesto"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/contribute/",
+        "text": "Get Involved"
+      },
+      {
+        "href": "https://blog.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+        "text": "Blog"
+      },
+      {
+        "href": "https://www.mozillafoundation.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+        "text": "Mozilla Foundation"
+      },
+      {
+        "href": "https://www.mozilla.ai/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+        "text": "Mozilla.ai"
+      },
+      {
+        "href": "https://mozilla.vc/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+        "text": "Mozilla Ventures"
+      },
+      {
+        "href": "https://www.mozilla.org/zh-TW/advertising/",
+        "text": "Mozilla Advertising"
+      },
+      {
+        "href": "https://builders.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+        "text": "Mozilla Builders"
+      },
+      {
+        "href": "https://newproducts.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+        "text": "Mozilla New Products"
+      },
+      {
+        "href": "https://www.mozilla.org/ach/",
+        "text": "Acholi"
+      },
+      {
+        "href": "https://www.mozilla.org/ar/",
+        "text": "عربي"
+      },
+      {
+        "href": "https://www.mozilla.org/ast/",
+        "text": "Asturianu"
+      },
+      {
+        "href": "https://www.mozilla.org/be/",
+        "text": "Беларуская"
+      },
+      {
+        "href": "https://www.mozilla.org/bg/",
+        "text": "Български"
+      },
+      {
+        "href": "https://www.mozilla.org/br/",
+        "text": "Brezhoneg"
+      },
+      {
+        "href": "https://www.mozilla.org/bs/",
+        "text": "Bosanski"
+      },
+      {
+        "href": "https://www.mozilla.org/ca/",
+        "text": "Català"
+      },
+      {
+        "href": "https://www.mozilla.org/cak/",
+        "text": "Maya Kaqchikel"
+      },
+      {
+        "href": "https://www.mozilla.org/cs/",
+        "text": "Čeština"
+      },
+      {
+        "href": "https://www.mozilla.org/cy/",
+        "text": "Cymraeg"
+      },
+      {
+        "href": "https://www.mozilla.org/da/",
+        "text": "Dansk"
+      },
+      {
+        "href": "https://www.mozilla.org/de/",
+        "text": "Deutsch"
+      },
+      {
+        "href": "https://www.mozilla.org/dsb/",
+        "text": "Dolnoserbšćina"
+      },
+      {
+        "href": "https://www.mozilla.org/el/",
+        "text": "Ελληνικά"
+      },
+      {
+        "href": "https://www.mozilla.org/en-CA/",
+        "text": "English (Canadian)"
+      },
+      {
+        "href": "https://www.mozilla.org/en-GB/",
+        "text": "English (British)"
+      },
+      {
+        "href": "https://www.mozilla.org/en-US/",
+        "text": "English (US)"
+      },
+      {
+        "href": "https://www.mozilla.org/eo/",
+        "text": "Esperanto"
+      },
+      {
+        "href": "https://www.mozilla.org/es-AR/",
+        "text": "Español (de Argentina)"
+      },
+      {
+        "href": "https://www.mozilla.org/es-CL/",
+        "text": "Español (de Chile)"
+      },
+      {
+        "href": "https://www.mozilla.org/es-ES/",
+        "text": "Español (de España)"
+      },
+      {
+        "href": "https://www.mozilla.org/es-MX/",
+        "text": "Español (de México)"
+      },
+      {
+        "href": "https://www.mozilla.org/eu/",
+        "text": "Euskara"
+      },
+      {
+        "href": "https://www.mozilla.org/fi/",
+        "text": "suomi"
+      },
+      {
+        "href": "https://www.mozilla.org/fr/",
+        "text": "Français"
+      },
+      {
+        "href": "https://www.mozilla.org/fy-NL/",
+        "text": "Frysk"
+      }
+    ],
+    "imageSrcs": [
+      "https://www.mozilla.org/media/img/logos/m24/lockup-black.f2ddba3f0724.svg",
+      "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+      "https://www.mozilla.org/media/protocol/img/logos/mozilla/vpn/logo.c648f487bfb8.svg",
+      "https://www.mozilla.org/media/protocol/img/logos/firefox/monitor/logo.d97e5516f9e6.svg",
+      "https://www.mozilla.org/media/protocol/img/logos/firefox/relay/logo.d42a8b52e44c.svg",
+      "https://www.mozilla.org/media/img/logos/mdn/mdn-plus-logo.c615b46ca4ce.svg",
+      "https://www.mozilla.org/media/img/logos/thunderbird/logo-thunderbird.121e9c0fed45.svg",
+      "https://www.mozilla.org/media/img/logos/solo/logo-solo.643cbd69b0d8.svg",
+      "https://www.mozilla.org/media/img/logos/0din/logo-0din.50589c5926d2.svg",
+      "https://www.mozilla.org/media/img/logos/tabstack/logo-tabstack.4551b75d8e6b.svg",
+      "https://www.mozilla.org/media/img/logos/mozilla/ads/Mozilla_Ads_Logo.6ed26d0eac2b.svg",
+      "https://www.mozilla.org/media/img/logos/m24/wordmark-white.2d673bb5b33a.svg"
+    ],
+    "fontFamilySample": "\"Mozilla Text\", \"Helvetica Neue\", Arial, X-LocaleSpecific, sans-serif",
+    "bodyTextSample": "Help us improve your Mozilla experience In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy. Accept All Additional Cookies Reject All Additional Cookies Cookie settings Menu Products Close Products menu Firefox browsers Mozilla VPN Mozilla Monitor Firefox Relay MDN Plus Thunderbird Solo 0DIN Tabstack All products About us Close About us menu Our Mission About Mozilla The Mozilla Manifesto Get Involved Blog Our Work Mozilla Foundation Mozilla.ai Mozilla Ventures Mozilla Advertising Mozilla Builders Mozilla New Products Choose your language or locale to browse Mozilla.org It is available in the following languages: Acholi عربي Asturianu Беларуская Български Brezhoneg Bosanski Català Maya Kaqchikel Čeština Cymraeg Dansk Deutsch Dolnoserbšćina Ελληνικά English (Canadian) English (British) English (US) Esperanto Español (de Argentina) Español (de Chile) Español (de España) Español (de México) Euskara suomi Français Frysk Gàidhlig Galego Avañe'ẽ עברית हिन्दी (भारत) Hrvatski Hornjoserbsce magyar Interlingua Bahasa Indonesia íslenska Italiano 日本語 ქართული Taqbaylit Қазақ ខ្មែរ 한국어 ພາສາລາວ Македонски മലയാളം Melayu မြန်မာဘာသာ Norsk bokmål Nederlands Norsk nynorsk ਪੰਜਾਬੀ (ਭਾਰਤ) Polski Português (do Brasil) Português (Europeu) rumantsch Română Русский Sicilianu Scots සිංහල slovenčina سرائیکی Slovenščina Shqip Српски Svenska Тоҷикӣ ไทย Tagalog Türkçe Triqui Українська Tiếng Việt 中文 (简体) 正體中文 (繁體) Add trust to your ad buy. Learn more about Mozilla Ads Company Leadership Press Center Careers Merch Store Contact Support Product Help File a Bug Localize Mozilla Security Developers Developer Edition Enterprise Tools MDN Firefox Release Notes Follow @Mozilla Bluesky (@mozilla.org) Instagram (@mozilla) LinkedIn (@mozilla) TikTok (@mozilla) Spotify (@mozilla) Follow @Firefox Bluesky (@firefox.com) Instagram (@firefox) "
+  }
+}

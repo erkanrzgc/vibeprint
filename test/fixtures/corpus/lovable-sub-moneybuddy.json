@@ -1,0 +1,32 @@
+{
+  "url": "https://moneybuddy.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:22.561Z",
+  "snapshot": {
+    "hostname": "moneybuddy.lovable.app",
+    "title": "Money Buddy",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-21tKZgkw.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://lovable.dev/projects/d92f604e-80f1-4c6a-9841-627c20ceec9d?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [
+      "https://i.ibb.co/8rzfwNk/Financial-Dashboard.png"
+    ],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "MoneyBuddySign in with GoogleSmart Finance Management Made SimpleTake control of your financial future with MoneyBuddy. Track investments, manage budgets, and achieve your goals - all in one place.Sign in with GoogleEverything You Need to SucceedPowerful features to help you track, manage, and grow your wealthBudget ManagementTrack your expenses and income with detailed analytics. Set budgets, categorize expenses, and monitor your spending habits.Investment PortfolioMonitor your investments, analyze performance, and get insights into your portfolio allocation and returns.Financial GoalsSet and track your financial goals. Get personalized recommendations and stay motivated on your journey.Ready to Take Control of Your Finances?Join thousands of users who are already managing their finances smarter with MoneyBuddy.Sign in with Google Edit with // Don't show the lovable-badge if the page is in an iframe or if it's being rendered by puppeteer (screenshot service) if (window.self !== window.top || navigator.userAgent.includes('puppeteer')) { var badge = document.getElementById('lovable-badge'); if (badge) { badge.style.display = 'none'; } } // Add click event listener to close button with animation var closeButton = document.getElementById('lovable-badge-close'); if (closeButton) { closeButton.addEventListener('click', function(event) { event.preventDefault(); event.stopPropagation(); var badge = document.getElementById('lovable-badge'); if (badge) { badge.classList.add('closing'); setTimeout(function() { if (badge) { badge.style.display = 'none'; } }, 240); } }); }"
+  }
+}

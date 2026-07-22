@@ -1,0 +1,222 @@
+{
+  "url": "https://sqlite.org",
+  "label": "hand-built",
+  "builder": null,
+  "note": "Onlarca yıllık elle yazılmış site.",
+  "capturedAt": "2026-07-22T12:32:27.629Z",
+  "snapshot": {
+    "hostname": "sqlite.org",
+    "title": "SQLite Home Page",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://sqlite.org/index.html",
+        "text": "Home"
+      },
+      {
+        "href": "https://sqlite.org/about.html",
+        "text": "About"
+      },
+      {
+        "href": "https://sqlite.org/docs.html",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://sqlite.org/download.html",
+        "text": "Download"
+      },
+      {
+        "href": "https://sqlite.org/copyright.html",
+        "text": "License"
+      },
+      {
+        "href": "https://sqlite.org/support.html",
+        "text": "Support"
+      },
+      {
+        "href": "https://sqlite.org/prosupport.html",
+        "text": "Purchase"
+      },
+      {
+        "href": "https://sqlite.org/about.html",
+        "text": "About"
+      },
+      {
+        "href": "https://sqlite.org/docs.html",
+        "text": "Documentation"
+      },
+      {
+        "href": "https://sqlite.org/download.html",
+        "text": "Download"
+      },
+      {
+        "href": "https://sqlite.org/support.html",
+        "text": "Support"
+      },
+      {
+        "href": "https://sqlite.org/prosupport.html",
+        "text": "Purchase"
+      },
+      {
+        "href": "https://sqlite.org/features.html",
+        "text": "Features"
+      },
+      {
+        "href": "https://sqlite.org/whentouse.html",
+        "text": "When to use SQLite"
+      },
+      {
+        "href": "https://sqlite.org/quickstart.html",
+        "text": "Getting Started"
+      },
+      {
+        "href": "https://sqlite.org/fiddle",
+        "text": "Try it live!"
+      },
+      {
+        "href": "https://sqlite.org/lang.html",
+        "text": "SQL Syntax"
+      },
+      {
+        "href": "https://sqlite.org/pragma.html#toc",
+        "text": "Pragmas"
+      },
+      {
+        "href": "https://sqlite.org/lang_corefunc.html",
+        "text": "SQL functions"
+      },
+      {
+        "href": "https://sqlite.org/lang_datefunc.html",
+        "text": "Date & time functions"
+      },
+      {
+        "href": "https://sqlite.org/lang_aggfunc.html#aggfunclist",
+        "text": "Aggregate functions"
+      },
+      {
+        "href": "https://sqlite.org/windowfunctions.html#biwinfunc",
+        "text": "Window functions"
+      },
+      {
+        "href": "https://sqlite.org/lang_mathfunc.html",
+        "text": "Math functions"
+      },
+      {
+        "href": "https://sqlite.org/json1.html",
+        "text": "JSON functions"
+      },
+      {
+        "href": "https://sqlite.org/c3ref/intro.html",
+        "text": "C/C++ Interface Spec"
+      },
+      {
+        "href": "https://sqlite.org/cintro.html",
+        "text": "Introduction"
+      },
+      {
+        "href": "https://sqlite.org/c3ref/funclist.html",
+        "text": "List of C-language APIs"
+      },
+      {
+        "href": "https://sqlite.org/tclsqlite.html",
+        "text": "The TCL Interface Spec"
+      },
+      {
+        "href": "https://sqlite.org/quirks.html",
+        "text": "Quirks and Gotchas"
+      },
+      {
+        "href": "https://sqlite.org/faq.html",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "href": "https://www.sqlite.org/src/timeline",
+        "text": "Commit History"
+      },
+      {
+        "href": "https://sqlite.org/chronology.html",
+        "text": "Prior Releases"
+      },
+      {
+        "href": "https://www.sqlite.org/src/wiki?name=Bug+Reports",
+        "text": "Bugs"
+      },
+      {
+        "href": "https://sqlite.org/news.html",
+        "text": "News"
+      },
+      {
+        "href": "https://sqlite.org/footprint.html",
+        "text": "small"
+      },
+      {
+        "href": "https://sqlite.org/fasterthanfs.html",
+        "text": "fast"
+      },
+      {
+        "href": "https://sqlite.org/selfcontained.html",
+        "text": "self-contained"
+      },
+      {
+        "href": "https://sqlite.org/hirely.html",
+        "text": "high-reliability"
+      },
+      {
+        "href": "https://sqlite.org/fullsql.html",
+        "text": "full-featured"
+      },
+      {
+        "href": "https://sqlite.org/mostdeployed.html",
+        "text": "most used"
+      },
+      {
+        "href": "https://sqlite.org/about.html",
+        "text": "More Information..."
+      },
+      {
+        "href": "https://sqlite.org/src",
+        "text": "source code"
+      },
+      {
+        "href": "https://sqlite.org/copyright.html",
+        "text": "public-domain"
+      },
+      {
+        "href": "https://sqlite.org/releaselog/3_53_3.html",
+        "text": "Version 3.53.3"
+      },
+      {
+        "href": "https://sqlite.org/download.html",
+        "text": "Download"
+      },
+      {
+        "href": "https://sqlite.org/chronology.html",
+        "text": "Prior Releases"
+      },
+      {
+        "href": "https://sqlite.org/features.html",
+        "text": "Features"
+      },
+      {
+        "href": "https://sqlite.org/whentouse.html",
+        "text": "When to use SQLite"
+      }
+    ],
+    "imageSrcs": [
+      "images/sqlite370_banner.svg",
+      "images/foreignlogos/visualdb-txt.png",
+      "images/foreignlogos/bentley.gif",
+      "images/foreignlogos/bloomberg.png",
+      "images/foreignlogos/expensify.png",
+      "images/foreignlogos/nds.png"
+    ],
+    "fontFamilySample": "Verdana, sans-serif",
+    "bodyTextSample": "Small. Fast. Reliable.Choose any three. Home Menu About Documentation Download License Support Purchase Search About Documentation Download Support Purchase Search Documentation Search Changelog function toggle_div(nm) { var w = document.getElementById(nm); if( w.style.display==\"block\" ){ w.style.display = \"none\"; }else{ w.style.display = \"block\"; } } function toggle_search() { var w = document.getElementById(\"searchmenu\"); if( w.style.display==\"block\" ){ w.style.display = \"none\"; } else { w.style.display = \"block\"; setTimeout(function(){ document.getElementById(\"searchbox\").focus() }, 30); } } function div_off(nm){document.getElementById(nm).style.display=\"none\";} window.onbeforeunload = function(e){div_off(\"submenu\");} /* Disable the Search feature if we are not operating from CGI, since */ /* Search is accomplished using CGI and will not work without it. */ if( !location.origin || !location.origin.match || !location.origin.match(/http/) ){ document.getElementById(\"search_menubutton\").style.display = \"none\"; } /* Used by the Hide/Show button beside syntax diagrams, to toggle the */ function hideorshow(btn,obj){ var x = document.getElementById(obj); var b = document.getElementById(btn); if( x.style.display!='none' ){ x.style.display = 'none'; b.innerHTML='show'; }else{ x.style.display = ''; b.innerHTML='hide'; } return false; } var antiRobot = 0; function antiRobotGo(){ if( antiRobot!=3 ) return; antiRobot = 7; var j = document.getElementById(\"mtimelink\"); if(j && j.hasAttribute(\"data-href\")) j.href=j.getAttribute(\"data-href\"); } function antiRobotDefense(){ document.body.onmousedown=function(){ antiRobot |= 2; antiRobotGo(); document.body.onmousedown=null; } document.body.onmousemove=function(){ antiRobot |= 2; antiRobotGo(); document.body.onmousemove=null; } setTimeout(function(){ antiRobot |= 1; antiRobotGo(); }, 100) antiRobotGo(); } antiRobotDefense(); Common Links Features When to use SQLite Getting Started Try it live! SQL Syntax Pragmas SQL functions Date &"
+  }
+}

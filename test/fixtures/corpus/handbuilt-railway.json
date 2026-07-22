@@ -1,0 +1,281 @@
+{
+  "url": "https://railway.com",
+  "label": "hand-built",
+  "builder": null,
+  "note": "HARD: modern SaaS, koyu tema gradient.",
+  "capturedAt": "2026-07-22T12:32:52.332Z",
+  "snapshot": {
+    "hostname": "railway.com",
+    "title": "Railway | The all-in-one intelligent cloud provider",
+    "generatorMeta": null,
+    "faviconHref": "/favicon-16x16.png",
+    "scriptSrcs": [
+      "https://cdn.usefathom.com/script.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-17509959674",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17509959674/?random=1784723569908&cv=11&fst=1784723569908&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be67k1h1v9228268922za200zd9228268922xec&gcd=13t3t3t2t5l1&dma_cps=a&dma=1&tag_exp=115938465~115938469~118131809~118897920~118897930~119527019~119773331~119896803&u_w=1280&u_h=720&url=https%3A%2F%2Frailway.com%2F&rcb=3&frm=0&tiba=Railway%20%7C%20The%20all-in-one%20intelligent%20cloud%20provider&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1888582179.1784723570&uaa=x86&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://luminaire.railway.com/static/surveys.js?v=1.298.0",
+      "https://luminaire.railway.com/static/posthog-recorder.js?v=1.298.0",
+      "https://luminaire.railway.com/array/phc_jmpOAF1fCA4XG8D6zO8AuihY1JHmOkvzqtg5cZoxeJb/config.js",
+      "https://cmp.osano.com/qVHEV4lSSU/738deb1e-f024-459e-ae0a-2e6a0d461ea8/osano.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://railway.com/legal/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://railway.com/",
+        "text": "Railway"
+      },
+      {
+        "href": "https://railway.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://railway.com/#enterprise-calendar-embed",
+        "text": "Book a demo"
+      },
+      {
+        "href": "https://railway.com/agents",
+        "text": "intelligent"
+      },
+      {
+        "href": "https://railway.com/new",
+        "text": "Deploy →"
+      },
+      {
+        "href": "https://railway.com/agents",
+        "text": "Agents"
+      },
+      {
+        "href": "https://railway.com/features#build-and-deploy",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://railway.com/features#network-and-connect",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://railway.com/features#scale-and-grow",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://railway.com/features#monitor-and-observe",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://railway.com/features#improve-and-automate",
+        "text": "Learn more →"
+      },
+      {
+        "href": "https://railway.com/customers",
+        "text": "Read customer stories →"
+      },
+      {
+        "href": "https://railway.com/",
+        "text": "Join 2M+ developers building with Railway →"
+      },
+      {
+        "href": "https://railway.com/new",
+        "text": "All Aboard"
+      },
+      {
+        "href": "https://railway.com/features",
+        "text": "Features"
+      },
+      {
+        "href": "https://railway.com/mobile",
+        "text": "Mobile app"
+      },
+      {
+        "href": "https://railway.com/pricing",
+        "text": "Pricing"
+      },
+      {
+        "href": "https://railway.com/agents",
+        "text": "Agents"
+      },
+      {
+        "href": "https://railway.com/changelog",
+        "text": "Changelog"
+      },
+      {
+        "href": "https://railway.com/deploy",
+        "text": "Templates"
+      },
+      {
+        "href": "https://railway.com/open-source-kickback",
+        "text": "Template kickback"
+      },
+      {
+        "href": "https://railway.com/heroku",
+        "text": "Heroku"
+      },
+      {
+        "href": "https://docs.railway.com/maturity/compare-to-render",
+        "text": "Render"
+      },
+      {
+        "href": "https://docs.railway.com/maturity/compare-to-fly",
+        "text": "Fly.io"
+      },
+      {
+        "href": "https://docs.railway.com/maturity/compare-to-vercel",
+        "text": "Vercel"
+      },
+      {
+        "href": "https://twitter.com/Railway",
+        "text": "Twitter"
+      },
+      {
+        "href": "https://github.com/railwayapp",
+        "text": "GitHub"
+      },
+      {
+        "href": "https://railway.com/customers",
+        "text": "Customers"
+      },
+      {
+        "href": "https://railway.com/enterprise",
+        "text": "Enterprise"
+      },
+      {
+        "href": "https://docs.railway.com/",
+        "text": "Docs"
+      },
+      {
+        "href": "https://station.railway.com/",
+        "text": "Central Station"
+      },
+      {
+        "href": "https://blog.railway.com/",
+        "text": "Blog"
+      },
+      {
+        "href": "https://railway.com/partners",
+        "text": "Partnerships"
+      },
+      {
+        "href": "https://railway.com/affiliate-program",
+        "text": "Affiliate program"
+      },
+      {
+        "href": "https://railway.com/about",
+        "text": "About"
+      },
+      {
+        "href": "https://docs.railway.com/maturity/philosophy",
+        "text": "Philosophy"
+      },
+      {
+        "href": "https://railway.com/careers",
+        "text": "Careers"
+      },
+      {
+        "href": "https://shop.railway.com/",
+        "text": "Shop"
+      },
+      {
+        "href": "https://trust.railway.com/",
+        "text": "Trust"
+      },
+      {
+        "href": "https://railway.com/design",
+        "text": "Logo"
+      },
+      {
+        "href": "https://status.railway.com/",
+        "text": "Status"
+      },
+      {
+        "href": "https://railway.com/legal/dpa",
+        "text": "DPA"
+      },
+      {
+        "href": "https://railway.com/legal/acceptable-use",
+        "text": "Acceptable Use"
+      },
+      {
+        "href": "https://railway.com/legal/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://railway.com/legal/terms",
+        "text": "Terms of Service"
+      },
+      {
+        "href": "https://railway.com/legal/enterprise-agreement",
+        "text": "Enterprise Agreement"
+      },
+      {
+        "href": "https://railway.com/bug-bounty",
+        "text": "Bug Bounty Program"
+      },
+      {
+        "href": "https://status.railway.com/",
+        "text": "All systems operational↗"
+      }
+    ],
+    "imageSrcs": [
+      "/secret-landing/hero/bg-train-day-960.webp",
+      "/secret-landing/hero/bg-train-dusk-960.webp",
+      "/enterprise/logos/logo--tripadvisor-ent.svg",
+      "/enterprise/logos/logo--cognizant-ent.svg",
+      "/enterprise/logos/logo--mercadolibre-ent.svg",
+      "/enterprise/logos/logo--g2x-ent.svg",
+      "/enterprise/logos/logo--reducto-ent.svg",
+      "/enterprise/logos/logo--automattic-ent.svg",
+      "/enterprise/logos/logo--hud-ent.svg",
+      "/enterprise/logos/logo--bilt-ent.svg",
+      "/enterprise/logos/logo--mgmresorts-ent.svg",
+      "/enterprise/logos/logo--chatbase-ent.svg",
+      "/enterprise/logos/logo--switzerland-ent.svg",
+      "/enterprise/logos/logo--numeral-ent.svg",
+      "/secret-landing/train/train-02-dark.svg",
+      "/landing-2/logos/comp/logo-docker.svg",
+      "/landing-2/logos/comp/logo-helm.svg",
+      "/landing-2/logos/comp/logo-heroku.svg",
+      "/landing-2/logos/comp/logo-digitalocean.svg",
+      "/landing-2/logos/comp/logo-cloudrun.svg",
+      "/secret-landing/build-and-deploy/maskgroup-forest.webp",
+      "/secret-landing/build-and-deploy/forest-texture.webp",
+      "/secret-landing/build-and-deploy/forest-texture.webp",
+      "/secret-landing/build-and-deploy/forest-texture.webp",
+      "/secret-landing/train/train-03-dark.svg",
+      "/landing-2/logos/comp/logo-envoy.svg",
+      "/landing-2/logos/comp/logo-cilium.svg",
+      "/landing-2/logos/comp/logo-nginx.svg",
+      "/landing-2/logos/comp/logo-istio.svg",
+      "/landing-2/logos/comp/logo-haproxy.svg",
+      "/secret-landing/train/train-04-dark.svg",
+      "/landing-2/logos/comp/logo-kubernetes.svg",
+      "/landing-2/logos/comp/logo-amazon-ecs.svg",
+      "/landing-2/logos/comp/logo-nomad.svg",
+      "/landing-2/logos/comp/logo-betterstack.svg",
+      "/secret-landing/train/train-05-dark.svg",
+      "/landing-2/logos/comp/logo-datadog.svg",
+      "/landing-2/logos/comp/logo-sentry.svg",
+      "/landing-2/logos/comp/logo-opentelemetry.svg",
+      "/secret-landing/build-and-deploy/maskgroup-forest.webp",
+      "/secret-landing/build-and-deploy/forest-texture.webp",
+      "/secret-landing/build-and-deploy/forest-texture.webp",
+      "/secret-landing/build-and-deploy/forest-texture.webp",
+      "/secret-landing/train/train-06-dark.svg",
+      "/landing-2/logos/comp/logo-terraform.svg",
+      "/landing-2/logos/comp/logo-spacelift.svg",
+      "/secret-landing/trust/logo-bilt.svg",
+      "/secret-landing/trust/testimonial-avatar-bilt.webp",
+      "/secret-landing/trust/logo-g2x.svg",
+      "/secret-landing/trust/testimonial-avatar-g2x.webp"
+    ],
+    "fontFamilySample": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "bodyTextSample": "Opens in a new window Opens an external website Opens an external website in a new window Close this dialog This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and marketing. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy Manage Preferences Accept All Reject Non-Essential Close Cookie Preferences !function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if('system'===e||(!e&&false)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}else{c.add('dark')}if(e==='light'||e==='dark'||!e)d.style.colorScheme=e||'dark'}catch(e){}}()RailwayProductDevelopersEnterpriseCompanyPricingSign inBook a demoShip software peacefullyWith the all-in-one intelligent cloud providerDeploy →AgentsDeploy your app to production effortlesslyNew ProjectDashboardNew ProjectDeployNetworkScaleMonitorEvolveSyncCreateActivityNov 12 00:00:00Nov 12 00:00:10Nov 12 00:00:20Nov 12 00:00:30Nov 12 00:00:40Nov 12 00:00:50Nov 12 00:01:00Nov 12 00:01:10Nov 12 00:01:20Nov 12 00:01:30Nov 12 00:01:40Nov 12 00:01:50Nov 12 00:02:00Nov 12 00:02:10Nov 12 00:02:20Nov 12 00:02:30Nov 12 00:02:40Nov 12 00:02:50Nov 12 00:03:00Nov 12 00:03:10Nov 12 00:03:20Nov 12 00:03:30Nov 12 00:03:40Nov 12 00:03:50Nov 12 00:04:00Nov 12 00:04:10Nov 12 00:04:20Nov 12 00:04:30Nov 12 00:04:40Nov 12 00:04:50Nov 12 00:05:00Nov 12 00:05:10Nov 12 00:05:20Nov 12 00:05:30Nov 12 00:05:40Nov 12 00:05:50Nov 12 00:06:00Nov 12 00:06:10Nov 12 00:06:20Nov 12 00:06:30Nov 12 00:06:40Nov 12 00:06:50Nov 12 00:07:00Nov 12 00:07:10Nov 12 00:07:20Nov 12 00:07:30Nov 12 00:07:40Nov 12 00:07:50Nov 12 00:08:00Nov 12 00:08:10Nov 12 00:08:20Nov 12 00:08:30Nov 12 00"
+  }
+}

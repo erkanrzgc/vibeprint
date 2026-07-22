@@ -1,0 +1,35 @@
+{
+  "url": "https://scrollaction.lovable.app",
+  "label": "ai-built",
+  "builder": "lovable",
+  "note": "Self-labeling: *.lovable.app subdomain.",
+  "capturedAt": "2026-07-22T12:31:37.584Z",
+  "snapshot": {
+    "hostname": "scrollaction.lovable.app",
+    "title": "Focus2Action - Turn Scrolling into Impact",
+    "generatorMeta": null,
+    "faviconHref": null,
+    "scriptSrcs": [
+      "/assets/index-KuarpG-c.js",
+      "/~flock.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://lovable.dev/projects/623da4e8-6aa6-432d-9960-d87b762fd125?utm_source=lovable-badge",
+        "text": "Edit with"
+      }
+    ],
+    "imageSrcs": [
+      "/assets/scrolling-concept-DdkBpGwW.jpg"
+    ],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "Turn Scrolling intoImpactPaste what you scrolled through, get AI-powered insights, and turn passive consumption into intentional growth and real-world impact.Get StartedSee How It WorksLearn FasterStay FocusedTake ActionThree Paths to Transform Your TimeAfter your scrolling session, analyze what you consumed and choose how to turn it into meaningful actionLearnGet AI-powered 60-second summaries with verified sources. Understand deeper, scroll smarter.Get SummaryFocusStart a gamified timer and lock distractions. Build streaks, earn points, and grow your focus tree.Start TimerSchool LifeUse AI summaries for homework, research projects, and studying. Perfect for history, geography, science and more.Start LearningLearn Path DemoGet AI-powered summaries with verified sourcesAI SummaryClimate Action60 secondsRecent studies show that individual actions collectively make a significant impact on climate change. Small changes like reducing single-use plastics, choosing sustainable transport, and supporting renewable energy contribute to measurable reductions in carbon emissions. The key is consistency and community engagement.✓ Verified SourceNature Climate Change JournalPeer-reviewed research journalTry It NowWant to take this further? See related actions in the Act pathFocus Path DemoTry the gamified focus timer25:00StartResetComplete this session to earn 25 points and grow your focus treeFor StudentsYour Homework HelperUse AI-powered summaries to research any school topic with verified sourcesHistoryResearch the Khmer EmpireGet AI-powered summaries about ancient civilizations, wars, and historical events. Perfect for essays and presentations.Try: 'Khmer Empire architecture and Angkor Wat'GeographyExplore Countries & CulturesLearn about different regions, climates, and populations. Great for geography homework and projects.Try: 'Southeast Asia geography and climate'ScienceUnderstand Complex TopicsBreak down scientific concepts into easy-to-understand summaries with verified"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://been.design",
+  "label": "ai-built",
+  "builder": "framer",
+  "note": "framer.com/gallery listesinden; custom domain. Capture sonrası generator meta ile doğrulanacak.",
+  "capturedAt": "2026-07-22T12:31:49.569Z",
+  "snapshot": {
+    "hostname": "been.design",
+    "title": "been.design | Brand, product, and website design for tech companies",
+    "generatorMeta": "Framer 78ccf22",
+    "faviconHref": "https://framerusercontent.com/images/K7skOwjrzy8ABHeVuSFNjE4Y3o.png",
+    "scriptSrcs": [
+      "https://connect.facebook.net/signals/config/1089244183257643?v=2.9.359&r=stable&domain=been.design&hme=db7c4844507b728f524bbfb5449eda841f7f67300bf2850aee64b78febf25c48&ex_m=107%2C208%2C158%2C22%2C73%2C74%2C149%2C69%2C68%2C11%2C167%2C93%2C16%2C141%2C130%2C39%2C76%2C81%2C137%2C163%2C169%2C26%2C27%2C28%2C30%2C48%2C150%2C78%2C115%2C18%2C20%2C44%2C40%2C42%2C41%2C86%2C95%2C99%2C113%2C148%2C151%2C46%2C114%2C24%2C21%2C122%2C70%2C36%2C153%2C152%2C154%2C145%2C143%2C25%2C35%2C59%2C112%2C165%2C71%2C17%2C156%2C117%2C84%2C67%2C19%2C88%2C89%2C119%2C87%2C139%2C138%2C142%2C164%2C34%2C49%2C116%2C47%2C8%2C4%2C5%2C7%2C6%2C3%2C94%2C104%2C170%2C175%2C222%2C75%2C235%2C234%2C233%2C23%2C33%2C55%2C106%2C61%2C10%2C64%2C100%2C101%2C102%2C108%2C133%2C31%2C29%2C135%2C136%2C132%2C131%2C159%2C77%2C162%2C160%2C161%2C50%2C60%2C126%2C15%2C166%2C45%2C281%2C282%2C280%2C295%2C311%2C215%2C204%2C62%2C205%2C203%2C314%2C305%2C52%2C216%2C110%2C134%2C83%2C124%2C54%2C123%2C129%2C128%2C58%2C65%2C63%2C155%2C79%2C80%2C118%2C37%2C32%2C53%2C56%2C103%2C168%2C1%2C127%2C14%2C125%2C12%2C2%2C57%2C96%2C66%2C121%2C92%2C91%2C171%2C172%2C97%2C98%2C9%2C105%2C51%2C146%2C90%2C82%2C72%2C120%2C109%2C43%2C147%2C0%2C85%2C140%2C144%2C157%2C38%2C111%2C13%2C173",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://events.framer.com/script?v=2",
+      "https://framerusercontent.com/sites/1vtkxK90hCaAAV7OSAJ85V/script_main.Dv0jDEM2.mjs"
+    ],
+    "htmlDatasetKeys": [
+      "redirectTimezone"
+    ],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [
+      "framer"
+    ],
+    "badgeLinks": [
+      {
+        "href": "https://cal.com/rashid.iqbal/discovery-call",
+        "text": "Book a free strategy call"
+      },
+      {
+        "href": "https://cal.com/rashid.iqbal/intro-call",
+        "text": "Book an intro call"
+      },
+      {
+        "href": "https://been.design/work/",
+        "text": "Work"
+      }
+    ],
+    "imageSrcs": [
+      "https://framerusercontent.com/images/Tzw0DsJ2Hi914Ch78zRuqpW0s.png?width=636&height=614",
+      "https://framerusercontent.com/images/QnpIhl38SjhYe6WAbA4Tx6uZXVI.png?width=1672&height=941",
+      "https://framerusercontent.com/images/oE5DoXKg5VRIGY4A72gF5LKtY.png?width=162&height=40",
+      "https://framerusercontent.com/images/yRFqpetAqsXSFH8DrrTSal74.png?width=124&height=25",
+      "https://framerusercontent.com/images/symcULO7PlzIE2YqYMdguUDLM8U.png?width=354&height=32",
+      "https://framerusercontent.com/images/9ZPbJ9X5sdzIzLvyW2aACt3BoU.png?width=90&height=55",
+      "https://framerusercontent.com/images/hflMMQT44VEZCTnnDYK0lz9QN4.png?width=1342&height=252",
+      "https://framerusercontent.com/images/Tzw0DsJ2Hi914Ch78zRuqpW0s.png?width=636&height=614"
+    ],
+    "fontFamilySample": "sans-serif",
+    "bodyTextSample": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M9CDG83V\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> html body { background: rgb(255, 255, 255); }For SaaS, AI & fintech companiesGo upmarket with a website & brand that wins enterprise contractsFinally look as established as the results you deliver, stand out from competitors, and win the bigger contracts you’ve been missing.Book a free strategy callBook an intro callWorkWin enterprise contractsBuild trust at every touchpointOutpace the competitionAI-native by designTRUSTED BY LEADING GTM TEAMSStrategy, design, and AI-native experiences that drive real growth.(()=>{function u(){function n(t,e,i){let r=document.createElement(\"a\");r.href=t,r.target=i,r.rel=e,document.body.appendChild(r),r.click(),r.remove()}function o(t){if(this.dataset.hydrated){this.removeEventListener(\"click\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;if(/Mac|iPod|iPhone|iPad/u.test(navigator.userAgent)?t.metaKey:t.ctrlKey)return n(e,\"\",\"_blank\");let r=this.getAttribute(\"rel\")??\"\",c=this.getAttribute(\"target\")??\"\";n(e,r,c)}function a(t){if(this.dataset.hydrated){this.removeEventListener(\"auxclick\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");e&&n(e,\"\",\"_blank\")}function s(t){if(this.dataset.hydrated){this.removeEventListener(\"keydown\",s);return}if(t.key!==\"Enter\")return;t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;let i=this.getAttribute(\"rel\")??\"\",r=this.getAttribute(\"target\")??\"\";n(e,i,r)}document.querySelectorAll(\"[data-nested-link]\").forEach(t=>{t instanceof HTMLElement&&(t.addEventListener(\"click\",o),t.addEventListener(\"auxclick\",a),t.addEventListener(\"keydown\",s))})}return u})()() !function(){var w=\"framer_variant\";function u(a,r){let e=r.indexOf(\"#\"),t=e===-1?r:r.substring(0,e),o=e===-1?\"\":r.substring(e),n=t.indexOf(\"?\"),h=n===-1?t:t.substring(0,n),d=n===-1?\"\":t.substring(n),s=new"
+  }
+}
