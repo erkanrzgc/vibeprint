@@ -77,7 +77,7 @@ export function Popup() {
 
   return (
     <main className="popup">
-      <h1 className="popup__title">Vibecode Detector</h1>
+      <h1 className="popup__title">Vibeprint</h1>
       {state.phase === 'loading' && <p className="popup__status">Scanning this page…</p>}
       {state.phase === 'unscannable' && (
         <p className="popup__status">Can't scan this page (browser/internal pages aren't accessible).</p>

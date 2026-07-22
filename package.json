@@ -1,5 +1,5 @@
 {
-  "name": "vibecode-detector-extension",
+  "name": "vibeprint",
   "description": "Chrome extension that scans the current page on demand for signals it was built with an AI coding tool or no-code AI app builder.",
   "private": true,
   "version": "0.1.0",

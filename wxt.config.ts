@@ -7,7 +7,7 @@ const DEV_KEY =
 export default defineConfig({
   modules: ['@wxt-dev/module-react'],
   manifest: (env) => ({
-    name: 'Vibecode Detector',
+    name: 'Vibeprint',
     description:
       'Scans the current page on demand for signals that it was built with an AI coding tool or no-code AI app builder.',
     permissions: ['activeTab', 'scripting'],

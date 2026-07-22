@@ -1,4 +1,4 @@
-# Vibecode Detector
+# Vibeprint
 
 A Chrome extension (Manifest V3) that scans the page you're on, on demand, for evidence it was
 built with an AI coding tool or no-code AI app builder — Lovable, Bolt.new, v0, Replit, Framer —
