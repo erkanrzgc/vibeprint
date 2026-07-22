@@ -30,4 +30,19 @@ describe('detectHostingSignals', () => {
 
     expect(detectHostingSignals(snapshot)).toEqual([]);
   });
+
+  // Found by tools/eval/coverage.ts: this rule never fired on the real corpus despite it
+  // holding 20+ *.lovable.app sites, because builder-owned hosting domains were missing from
+  // the list entirely - only generic PaaS hosts were covered.
+  it.each([
+    'my-app.lovable.app',
+    'studio.framer.website',
+    'portfolio.framer.app',
+    'tool.base44.app',
+  ])('flags builder-owned hosting subdomain %s', (hostname) => {
+    const results = detectHostingSignals(makeSnapshot({ hostname }));
+
+    expect(results.map((r) => r.id)).toContain('platform-hosting-subdomain');
+    expect(results.find((r) => r.id === 'platform-hosting-subdomain')?.tier).toBe('weak');
+  });
 });

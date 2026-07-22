@@ -19,6 +19,7 @@
     "test:e2e": "npm run build:e2e && playwright test",
     "capture": "node tools/capture/capture.mjs",
     "eval": "vite-node tools/eval/evaluate.ts",
+    "eval:coverage": "vite-node tools/eval/coverage.ts",
     "postinstall": "wxt prepare"
   },
   "dependencies": {

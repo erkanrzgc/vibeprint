@@ -2,7 +2,21 @@ import type { PageSnapshot, RuleResult } from '../types';
 
 const WEAK_WEIGHT = 10;
 
-const PLATFORM_HOSTING_SUFFIXES = ['.vercel.app', '.netlify.app', '.pages.dev', '.replit.app'];
+const PLATFORM_HOSTING_SUFFIXES = [
+  // Generic PaaS: weak on their own, plenty of hand-built hobby projects live here.
+  '.vercel.app',
+  '.netlify.app',
+  '.pages.dev',
+  '.replit.app',
+  // Builder-owned hosting. These were missing until tools/eval/coverage.ts showed this rule
+  // never fired on a corpus containing 20+ *.lovable.app sites. Still weak-tier: the strong
+  // builder fingerprints carry the verdict, this only corroborates.
+  '.lovable.app',
+  '.framer.website',
+  '.framer.app',
+  '.base44.app',
+  '.created.app',
+];
 
 const DEFAULT_ONLY_FONTS = ['inter', 'geist'];
 

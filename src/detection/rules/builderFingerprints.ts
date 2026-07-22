@@ -2,6 +2,12 @@ import type { PageSnapshot, RuleResult } from '../types';
 
 const STRONG_WEIGHT = 65;
 
+/**
+ * Lovable's original GPT-Engineer-era loader. Kept for older deploys, but note it no longer
+ * appears on ANY of the 22 real Lovable sites in the corpus (see tools/eval/coverage.ts) -
+ * current Lovable output ships LOVABLE_RUNTIME_PATH instead. A live example of fingerprint
+ * rot; retained only because it is harmless and may still match legacy sites.
+ */
 const LOVABLE_SCRIPT_HOST = 'cdn.gpteng.co';
 
 /**

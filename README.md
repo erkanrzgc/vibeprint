@@ -75,7 +75,20 @@ open shadow root, and on **zero** of them does a detection signal exist solely i
 DOM. Piercing shadow roots would add traversal cost and complexity for no measurable gain
 today. Re-run the probe if builders start shipping shadow-encapsulated components.
 
+**Rule validation coverage** (`npm run eval:coverage`) reports which rules have actually
+fired on real data. A rule that never fires is an untested assumption, not a validated one —
+surfacing that is the point. It has already paid off twice: it caught that
+`platform-hosting-subdomain` never fired despite a corpus full of `*.lovable.app` sites (the
+builder-owned domains were simply missing from the list), and that Lovable's original
+`cdn.gpteng.co` loader no longer appears on **any** of the 22 real Lovable sites — live
+fingerprint rot, caught by measurement rather than by a user reporting a miss.
+
 **Known limits, stated honestly:**
+- The corpus covers **two builders** (Lovable, Framer). The v0 and Bolt badge rules have never
+  been exercised against a real captured site — they are plausible, not validated. Base44 /
+  Create.xyz / Same.new have no rules at all, because no verifiable example sites could be
+  found to build them from; guessing fingerprints without real data is exactly the mistake this
+  project already paid for once.
 - Fingerprints are what a site owner strips first. A polished AI-built site on a custom domain
   with the badge removed and no platform runtime can be genuinely undetectable — `Not enough
   signal` is an expected, correct answer, not a failure.
