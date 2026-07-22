@@ -68,6 +68,13 @@ npm run capture   # re-capture live snapshots listed in tools/capture/urls.json
 npm run eval      # print per-site verdicts + precision/recall
 ```
 
+**Shadow DOM: measured, not assumed.** The collector queries the light DOM only. That looks
+like a blind spot, so it was measured rather than guessed at
+(`node tools/capture/probe-shadow.mjs`): across the 57-site corpus, only 8 sites expose any
+open shadow root, and on **zero** of them does a detection signal exist solely inside shadow
+DOM. Piercing shadow roots would add traversal cost and complexity for no measurable gain
+today. Re-run the probe if builders start shipping shadow-encapsulated components.
+
 **Known limits, stated honestly:**
 - Fingerprints are what a site owner strips first. A polished AI-built site on a custom domain
   with the badge removed and no platform runtime can be genuinely undetectable — `Not enough
