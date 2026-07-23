@@ -61,6 +61,21 @@ describe('collectPageSnapshot', () => {
     expect(snapshot.componentDatasetKeys.sort()).toEqual(['slot', 'state']);
   });
 
+  it.each(['mailto:jane.doe@example.com', 'tel:+441865000000'])(
+    'does not collect %s links',
+    (href) => {
+      // A builder badge always points at a website, so these can never be one. Collecting
+      // them would only rake third-party contact details into the snapshot for no gain.
+      setDom(`<a href="${href}">Contact</a><a href="https://replit.com">Made in Replit</a>`);
+
+      const snapshot = collectPageSnapshot(document, { hostname: 'example.com' });
+
+      expect(snapshot.badgeLinks).toEqual([
+        { href: 'https://replit.com/', text: 'Made in Replit' },
+      ]);
+    },
+  );
+
   it('collects badge-like short anchor links with href and text', () => {
     setDom('<a href="https://replit.com">Made in Replit</a>');
 
@@ -95,6 +110,22 @@ describe('collectPageSnapshot', () => {
     const snapshot = collectPageSnapshot(document, { hostname: 'example.com' });
 
     expect(snapshot.bodyTextSample).toContain('Hello world, this is the visible page text.');
+  });
+
+  it('redacts email addresses from the body text sample', () => {
+    // The text sample is only ever used for buzzword counting, so addresses carry no
+    // detection value - but snapshots get committed to the corpus and the extension reads
+    // whatever page the user is on. Scraping personal contact details into a repo (or even
+    // just into a message) is not something this tool should ever do.
+    setDom('<p>Contact jane.doe@example.com or hello@example.co.uk to revolutionize things.</p>');
+
+    const snapshot = collectPageSnapshot(document, { hostname: 'example.com' });
+
+    expect(snapshot.bodyTextSample).not.toContain('jane.doe@example.com');
+    expect(snapshot.bodyTextSample).not.toContain('hello@example.co.uk');
+    expect(snapshot.bodyTextSample).toContain('[email]');
+    // Surrounding copy must survive, otherwise the buzzword heuristic loses signal.
+    expect(snapshot.bodyTextSample).toContain('revolutionize');
   });
 
   it('skips a malformed href instead of throwing and aborting the whole snapshot', () => {
