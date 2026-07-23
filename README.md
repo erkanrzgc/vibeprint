@@ -106,6 +106,26 @@ fingerprint rot, caught by measurement rather than by a user reporting a miss.
 - Builder internals change. Fingerprints will rot silently; re-run `npm run capture && npm run
   eval` periodically to catch it.
 
+## Publishing
+
+Everything the Chrome Web Store dashboard asks for lives in [`store/`](store/):
+
+- [`store/LISTING.md`](store/LISTING.md) — paste-ready name, descriptions, single-purpose
+  statement, permission justifications, and the data-disclosure answers
+- [`store/PRIVACY.md`](store/PRIVACY.md) — privacy policy (link it as the policy URL)
+
+```bash
+npm run store:shots   # 1280x800 screenshots -> .output/store-shots/
+npm run store:zip     # upload package       -> .output/vibeprint-<version>-chrome.zip
+```
+
+Screenshots are composited from the **real popup** rendered by the actual extension, not
+mockups. Pages are served under realistic hostnames via request interception, so no third
+party's real site is displayed as an example of AI-built work.
+
+`test/unit/manifest.test.ts` guards the production manifest: it fails if the e2e signing key,
+host permissions, a background worker, or content scripts ever leak into a store build.
+
 ## Development
 
 ```bash

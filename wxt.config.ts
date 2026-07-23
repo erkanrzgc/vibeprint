@@ -11,16 +11,20 @@ export default defineConfig({
     description:
       'Scans the current page on demand for signals that it was built with an AI coding tool or no-code AI app builder.',
     permissions: ['activeTab', 'scripting'],
-    // Pins a stable extension ID (dnlbkgiimhnnechipakfobidildedmoe) across unpacked
-    // rebuilds. This is a locally-generated dev keypair, not a Chrome Web Store signing
-    // key — it only exists so the Playwright e2e test can address the extension by a known
-    // ID instead of scraping it out of chrome://extensions.
-    key: DEV_KEY,
-    // Playwright can't trigger a genuine user-gesture click on the browser action, so
-    // activeTab's temporary per-tab grant never activates in the e2e test - tabs.query()
-    // would see the fixture tab but with its `url` stripped out. This host_permission is
-    // ONLY added for `wxt build --mode e2e` (see package.json's test:e2e script); the real
-    // `build`/`zip` scripts run in "production" mode and never include it.
-    ...(env.mode === 'e2e' ? { host_permissions: ['http://localhost/*'] } : {}),
+    // Everything below is e2e-only and must never reach a store build.
+    //
+    // `key` pins a stable extension ID (dnlbkgiimhnnechipakfobidildedmoe) so the Playwright
+    // test can address the popup by a known URL instead of scraping chrome://extensions. It
+    // is a locally-generated dev keypair, not a signing key — and the Chrome Web Store
+    // assigns its own ID, so shipping `key` in a store package invites an ID conflict.
+    //
+    // `host_permissions` exists because Playwright cannot fire a genuine user-gesture click
+    // on the browser action, so activeTab's per-tab grant never activates and tabs.query()
+    // returns the fixture tab with its `url` stripped. `<all_urls>` rather than localhost so
+    // the store-screenshot tool can also render pages under realistic hostnames.
+    // test/unit/manifest.test.ts asserts none of this reaches a production build.
+    ...(env.mode === 'e2e'
+      ? { key: DEV_KEY, host_permissions: ['<all_urls>'] }
+      : {}),
   }),
 });
