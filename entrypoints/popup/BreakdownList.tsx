@@ -1,7 +1,12 @@
 import type { RuleResult, RuleTier } from '../../src/detection/types';
 
-const TIER_ORDER: Record<RuleTier, number> = { strong: 0, medium: 1, weak: 2 };
-const TIER_LABEL: Record<RuleTier, string> = { strong: 'Strong', medium: 'Medium', weak: 'Weak' };
+const TIER_ORDER: RuleTier[] = ['strong', 'medium', 'weak'];
+
+const TIER_COPY: Record<RuleTier, { label: string; note: string }> = {
+  strong: { label: 'Conclusive', note: 'Identifies a specific builder' },
+  medium: { label: 'Suggestive', note: 'Common in generated code' },
+  weak: { label: 'Circumstantial', note: 'Also seen on hand-built sites' },
+};
 
 interface BreakdownListProps {
   results: RuleResult[];
@@ -9,20 +14,40 @@ interface BreakdownListProps {
 
 export function BreakdownList({ results }: BreakdownListProps) {
   if (results.length === 0) {
-    return <p className="breakdown breakdown--empty">No signals matched on this page.</p>;
+    return (
+      <p className="breakdown-empty">
+        Nothing matched. That is a real answer, not a failure — a site can be AI-built and leave
+        no trace.
+      </p>
+    );
   }
 
-  const sorted = [...results].sort((a, b) => TIER_ORDER[a.tier] - TIER_ORDER[b.tier]);
+  const groups = TIER_ORDER.map((tier) => ({
+    tier,
+    items: results.filter((result) => result.tier === tier),
+  })).filter((group) => group.items.length > 0);
 
   return (
-    <ul className="breakdown">
-      {sorted.map((result) => (
-        <li key={result.id} className={`breakdown__item breakdown__item--${result.tier}`}>
-          <span className="breakdown__tier">{TIER_LABEL[result.tier]}</span>
-          <span className="breakdown__label">{result.label}</span>
-          <span className="breakdown__evidence">{result.evidence}</span>
-        </li>
+    <div className="breakdown">
+      {groups.map(({ tier, items }) => (
+        <section key={tier} className={`tier tier--${tier}`}>
+          <header className="tier__head">
+            <span className="tier__label">{TIER_COPY[tier].label}</span>
+            <span className="tier__count">{items.length}</span>
+            <span className="tier__note">{TIER_COPY[tier].note}</span>
+          </header>
+          <ul className="tier__items">
+            {items.map((result) => (
+              <li key={result.id} className="signal">
+                <p className="signal__label">{result.label}</p>
+                <p className="signal__evidence" title={result.evidence}>
+                  {result.evidence}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
       ))}
-    </ul>
+    </div>
   );
 }

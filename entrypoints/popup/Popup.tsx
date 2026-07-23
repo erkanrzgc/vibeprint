@@ -77,16 +77,36 @@ export function Popup() {
 
   return (
     <main className="popup">
-      <h1 className="popup__title">Vibeprint</h1>
-      {state.phase === 'loading' && <p className="popup__status">Scanning this page…</p>}
-      {state.phase === 'unscannable' && (
-        <p className="popup__status">Can't scan this page (browser/internal pages aren't accessible).</p>
+      <header className="popup__head">
+        <h1 className="popup__title">Vibeprint</h1>
+        {state.phase === 'result' && <p className="popup__host">{state.hostname}</p>}
+      </header>
+
+      {state.phase === 'loading' && (
+        <>
+          <div className="scanning" aria-hidden="true" />
+          <p className="popup__status">Reading page signals…</p>
+        </>
       )}
-      {state.phase === 'error' && <p className="popup__status popup__status--error">{state.message}</p>}
+
+      {state.phase === 'unscannable' && (
+        <p className="popup__status">
+          Can't scan this page. Browser and extension pages are off-limits.
+        </p>
+      )}
+
+      {state.phase === 'error' && (
+        <p className="popup__status popup__status--error">{state.message}</p>
+      )}
+
       {state.phase === 'result' && (
         <>
           <ResultView verdict={state.verdict} />
           <BreakdownList results={state.verdict.results} />
+          <p className="popup__foot">
+            Heuristic estimate from page fingerprints — not proof. Runs locally; nothing leaves
+            your browser.
+          </p>
         </>
       )}
     </main>

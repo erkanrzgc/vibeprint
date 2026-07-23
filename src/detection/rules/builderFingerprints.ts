@@ -22,14 +22,15 @@ const LOVABLE_RUNTIME_PATH = '/~flock.js';
 const REPLIT_BANNER_PATH = '/public/js/replit-dev-banner.js';
 
 /** Exact hostnames (or their subdomains) a genuine "Made with X" badge would point at. */
-const BUILDER_BADGE_HOSTS = [
-  'lovable.dev',
-  'bolt.new',
-  'v0.dev',
-  'v0.app',
-  'replit.com',
-  'framer.com',
-];
+const BADGE_HOST_NAMES: Readonly<Record<string, string>> = {
+  'lovable.dev': 'Lovable',
+  'bolt.new': 'Bolt',
+  'v0.dev': 'v0',
+  'v0.app': 'v0',
+  'replit.com': 'Replit',
+  'framer.com': 'Framer',
+};
+const BUILDER_BADGE_HOSTS = Object.keys(BADGE_HOST_NAMES);
 
 /**
  * A badge is a provenance claim, so the link TEXT has to actually claim provenance. Without
@@ -45,43 +46,54 @@ const BUILDER_GENERATOR_PATTERN = /\b(framer|webflow|lovable|wix|squarespace)\b/
 export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] {
   const results: RuleResult[] = [];
   const base = `https://${snapshot.hostname}/`;
-  const strong = (id: string, label: string, evidence: string): RuleResult => ({
+  const strong = (
+    id: string,
+    label: string,
+    evidence: string,
+    builder?: string,
+  ): RuleResult => ({
     id,
     tier: 'strong',
     label,
     weight: STRONG_WEIGHT,
     evidence,
+    builder,
   });
 
   const lovableScript = snapshot.scriptSrcs.find(
     (src) => hostnameOf(src, base) === LOVABLE_SCRIPT_HOST,
   );
   if (lovableScript) {
-    results.push(strong('lovable-script', 'Lovable loader script', lovableScript));
+    results.push(strong('lovable-script', 'Lovable loader script', lovableScript, 'Lovable'));
   }
 
   const lovableRuntime = snapshot.scriptSrcs.find(
     (src) => pathnameOf(src, base) === LOVABLE_RUNTIME_PATH,
   );
   if (lovableRuntime) {
-    results.push(strong('lovable-runtime-script', 'Lovable hosted runtime script', lovableRuntime));
+    results.push(strong('lovable-runtime-script', 'Lovable hosted runtime script', lovableRuntime, 'Lovable'));
   }
 
   const replitBanner = snapshot.scriptSrcs.find(
     (src) => pathnameOf(src, base) === REPLIT_BANNER_PATH,
   );
   if (replitBanner) {
-    results.push(strong('replit-banner-script', 'Replit dev banner script', replitBanner));
+    results.push(strong('replit-banner-script', 'Replit dev banner script', replitBanner, 'Replit'));
   }
 
   const lovableUpload = snapshot.imageSrcs.find((src) => src.includes('/lovable-uploads/'));
   if (lovableUpload) {
-    results.push(strong('lovable-uploads-path', 'Lovable asset upload path', lovableUpload));
+    results.push(strong('lovable-uploads-path', 'Lovable asset upload path', lovableUpload, 'Lovable'));
   }
 
   if (snapshot.generatorMeta && BUILDER_GENERATOR_PATTERN.test(snapshot.generatorMeta)) {
     results.push(
-      strong('generator-meta', 'Builder named in generator meta tag', snapshot.generatorMeta),
+      strong(
+        'generator-meta',
+        'Builder named in generator meta tag',
+        snapshot.generatorMeta,
+        titleCase(snapshot.generatorMeta.match(BUILDER_GENERATOR_PATTERN)?.[1]),
+      ),
     );
   }
 
@@ -91,14 +103,20 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
         'builder-markup',
         'Builder-generated markup attributes',
         snapshot.builderMarkupHints.map((hint) => `${hint} markup`).join(', '),
+        titleCase(snapshot.builderMarkupHints[0]),
       ),
     );
   }
 
+  const badgeHost = { name: undefined as string | undefined };
   const badgeLink = snapshot.badgeLinks.find((link) => {
     if (!BADGE_TEXT_PATTERN.test(link.text)) return false;
     const host = hostnameOf(link.href, base);
-    return host != null && BUILDER_BADGE_HOSTS.some((domain) => isSameOrSubdomain(host, domain));
+    if (host == null) return false;
+    const matched = BUILDER_BADGE_HOSTS.find((domain) => isSameOrSubdomain(host, domain));
+    if (!matched) return false;
+    badgeHost.name = BADGE_HOST_NAMES[matched];
+    return true;
   });
   if (badgeLink) {
     results.push(
@@ -106,6 +124,7 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
         'builder-badge-link',
         'Explicit "Made with" builder badge link',
         `"${badgeLink.text}" -> ${badgeLink.href}`,
+        badgeHost.name,
       ),
     );
   }
@@ -131,4 +150,9 @@ function pathnameOf(url: string, base: string): string | null {
 
 function isSameOrSubdomain(hostname: string, domain: string): boolean {
   return hostname === domain || hostname.endsWith(`.${domain}`);
+}
+
+/** 'framer' -> 'Framer'. Used to turn a matched marker into a display name. */
+function titleCase(value: string | undefined): string | undefined {
+  return value ? value.charAt(0).toUpperCase() + value.slice(1).toLowerCase() : undefined;
 }

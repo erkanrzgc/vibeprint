@@ -6,7 +6,7 @@ export type PopupState =
   | { phase: 'loading' }
   | { phase: 'unscannable' }
   | { phase: 'error'; message: string }
-  | { phase: 'result'; verdict: Verdict };
+  | { phase: 'result'; verdict: Verdict; hostname: string };
 
 export type PopupEvent =
   | { type: 'SCAN_STARTED' }
@@ -40,6 +40,10 @@ export function reducePopupState(current: PopupState | undefined, event: PopupEv
     case 'TIMED_OUT':
       return { phase: 'error', message: TIMEOUT_MESSAGE };
     case 'SNAPSHOT_RECEIVED':
-      return { phase: 'result', verdict: scoreResults(runAllRules(event.snapshot)) };
+      return {
+        phase: 'result',
+        verdict: scoreResults(runAllRules(event.snapshot)),
+        hostname: event.snapshot.hostname,
+      };
   }
 }

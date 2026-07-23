@@ -1,3 +1,4 @@
+import { identifyBuilder } from '../../src/detection/identifyBuilder';
 import type { Verdict, VerdictBucket } from '../../src/detection/types';
 
 const BUCKET_COPY: Record<VerdictBucket, { label: string; caption: string }> = {
@@ -7,7 +8,7 @@ const BUCKET_COPY: Record<VerdictBucket, { label: string; caption: string }> = {
   },
   'possibly-ai-assisted': {
     label: 'Possibly AI-assisted',
-    caption: 'Some corroborating signals found, but nothing definitive.',
+    caption: 'Some corroborating signals, but nothing conclusive.',
   },
   'likely-hand-crafted': {
     label: 'Likely hand-crafted',
@@ -15,10 +16,11 @@ const BUCKET_COPY: Record<VerdictBucket, { label: string; caption: string }> = {
   },
   'not-enough-signal': {
     label: 'Not enough signal',
-    caption:
-      'No fingerprints found — common for sites on a custom domain with any builder badge removed.',
+    caption: 'No fingerprints found. Common once a site moves to its own domain.',
   },
 };
+
+const CONFIDENCE_STEPS = 20;
 
 interface ResultViewProps {
   verdict: Verdict;
@@ -26,14 +28,43 @@ interface ResultViewProps {
 
 export function ResultView({ verdict }: ResultViewProps) {
   const copy = BUCKET_COPY[verdict.bucket];
+  const builder = identifyBuilder(verdict.results);
+  const litSteps = Math.round((verdict.score / 100) * CONFIDENCE_STEPS);
 
   return (
-    <div className={`result result--${verdict.bucket}`}>
-      <div className="result__label">{copy.label}</div>
-      <div className="result__meter" role="meter" aria-valuenow={verdict.score} aria-valuemin={0} aria-valuemax={100}>
-        <div className="result__meter-fill" style={{ width: `${verdict.score}%` }} />
+    <section className={`result result--${verdict.bucket}`} aria-label="Scan result">
+      <p className="result__verdict">{copy.label}</p>
+
+      {builder && (
+        <p className="result__builder">
+          <span className="result__builder-mark" aria-hidden="true" />
+          Fingerprint matches <strong>{builder}</strong>
+        </p>
+      )}
+
+      <div
+        className="result__gauge"
+        role="meter"
+        aria-valuenow={verdict.score}
+        aria-valuemin={0}
+        aria-valuemax={100}
+        aria-label="Signal strength"
+      >
+        {Array.from({ length: CONFIDENCE_STEPS }, (_, i) => (
+          <span
+            key={i}
+            className={`result__tick${i < litSteps ? ' result__tick--lit' : ''}`}
+            style={{ transitionDelay: `${i * 18}ms` }}
+          />
+        ))}
       </div>
+
+      <p className="result__scale">
+        <span className="result__score">{verdict.score}</span>
+        <span className="result__scale-unit">/100 signal</span>
+      </p>
+
       <p className="result__caption">{copy.caption}</p>
-    </div>
+    </section>
   );
 }

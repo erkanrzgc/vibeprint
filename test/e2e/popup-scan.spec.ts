@@ -56,4 +56,9 @@ test('scanning a page with Lovable fingerprints renders a "Likely AI-built" verd
 
   await expect(popup.getByText('Likely AI-built')).toBeVisible({ timeout: 10_000 });
   await expect(popup.getByText('Lovable loader script')).toBeVisible();
+  // The popup should name the builder, not just show rule labels.
+  await expect(popup.getByText('Fingerprint matches')).toBeVisible();
+  await expect(popup.locator('.result__builder strong')).toHaveText('Lovable');
+  // Evidence is grouped by how much it actually proves.
+  await expect(popup.getByText('Conclusive')).toBeVisible();
 });

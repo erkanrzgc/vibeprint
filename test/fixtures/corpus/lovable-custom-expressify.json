@@ -1,8 +1,8 @@
 {
   "url": "https://www.expressify.ai",
   "label": "ai-built",
-  "builder": "lovable",
-  "note": "Listed on madewithlovable.com showcase; custom domain.",
+  "builder": "replit",
+  "note": "Evidence-corrected: listed on madewithlovable.com, but the page itself serves replit-dev-banner.js and no Lovable runtime. The page beats the directory listing.",
   "capturedAt": "2026-07-22T12:30:02.166Z",
   "snapshot": {
     "hostname": "www.expressify.ai",

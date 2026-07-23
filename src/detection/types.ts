@@ -45,6 +45,12 @@ export interface RuleResult {
   label: string;
   weight: number;
   evidence: string;
+  /**
+   * Display name of the builder this signal points at, when the signal identifies one
+   * (e.g. 'Lovable', 'Framer'). Generic signals like font or hosting choices leave this
+   * unset — naming a specific company needs specific evidence.
+   */
+  builder?: string;
 }
 
 export type VerdictBucket =

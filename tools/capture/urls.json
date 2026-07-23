@@ -75,9 +75,9 @@
     "slug": "lovable-custom-expressify",
     "url": "https://www.expressify.ai",
     "label": "ai-built",
-    "builder": "lovable",
+    "builder": "replit",
     "difficulty": "hard",
-    "note": "Listed on madewithlovable.com showcase; custom domain."
+    "note": "Evidence-corrected: listed on madewithlovable.com, but the page itself serves replit-dev-banner.js and no Lovable runtime. The page beats the directory listing."
   },
   {
     "slug": "framer-own-site",
