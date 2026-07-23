@@ -1,0 +1,25 @@
+{
+  "url": "https://lessonpick.bolt.host",
+  "label": "ai-built",
+  "builder": "bolt",
+  "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh).",
+  "capturedAt": "2026-07-23T12:01:53.857Z",
+  "snapshot": {
+    "hostname": "lessonpick.bolt.host",
+    "title": "Lesson SaaS User Auth & Linking MVP",
+    "generatorMeta": null,
+    "faviconHref": "/vite.svg",
+    "scriptSrcs": [
+      "/assets/index-BESif3VT.js",
+      "https://bolt.new/badge.js?s=5f5007ab-dc5f-4e45-9ed0-14dd27679f5f"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [],
+    "imageSrcs": [],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "레슨 예약 시스템계정에 로그인하세요로그인이메일*비밀번호*로그인또는회원가입계정 찾기|비밀번호 찾기 @font-face {font-family: Inter-NjBkMDQwOTZj; font-weight: 600; src: url(data:font/woff2;base64,d09GMgABAAAAAB/gAA0AAAAAS/wAAB+KAAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGlgbuVocjFoGYACBBgrDCLR9ATYCJAOECAuCBgAEIAWCdAcgGwRDs6Kky74VUZQqymnJ/yFBGyNE+x2UThQLJ0EUFxcnsiIS+RY/6jA8sJ6e26vp92f3gxWXNpT9Q8N3OwIUji/HcBDakeVyhMY+yeV5vuW7O7ObWsrxifvgMRJNF7Y07eIwPk+jnJJmbQew4FJKKTA4BQqQ01xSRBcoRwhPJhiCbXYgFtgg6uZrr7Fy0wYsjNoMwMLEZoKBkWiDOhsUdWWs1E3sudLpOxZtrMpYhTz/39iz3/fOzHuIlkIohMoiFLKIte6JkgiFrpLlm5z9n8ukdcmxJlJ3QwmsAD+MUU31fSH8sKyoAP4PdeadYwfupOAwd9xsfgCuZS3+pBjl1yJNgCvwBBQoTC0IbK6ADy4iSUL+4LmlzfTAB5aiVdP6ylRtf/l4BGaIyh2GA6dKRekQQuXK06fqcMcj//4eBB6ACYAAkzIIpacjJAckic8kZTjkUEkZUIpOIZbqHLtYtnIlu2zdyUXZuLfNIemB2jWRZI6nlimPuYHWMx2/BH8ECRIkSBApdvljreK0gDAHHCpd/8+oYEwAnjBaJAvJU4c0aEQ6dSE9epGwMDJuAlmwgCxZRggDg2AQgQL6NQvhjxwddMNydk9ZQu5FZXoRudfGN1eQiweyraB8SqhXzysrMMVlx4OKAK35yiuVTFpRGAMRPAS6n3Kt9xbXlMU3a9rph4UssBEb7O+vKQvW7DvGsDFXQZjUqdesRat2NoOGuI0KmrGOBPMTrzkf2OUD32CN/i8AMRo+igYTJGGG0hZJvAmqNbGGKGxQF4xZRFujdVin0kF2iMAW7PTYDHInJeJEwdBME2mYqXw1Rz8zZCVXQWcIHtony0y8JEnLJty8HObgZp/g0oWGsm+bm0c4YvKMiGATv/BgFwUSS08RZXsNFh11zhmUNccofNvCnM1fMx9tormHcvxAfXfvpD3M5DqTppavnU7drTXYh5XBCOLEVSAsgS8zeH7p2DUwfuqdHtuSbBycaYdyVg9ePkWKzKsgvvKzJmFtF+9YAO+vbhKbHn0GDbFz8vCSBQSFjZs0Y84ixY4IUsfGgBHpmADjdAz0NLSv1SoCRKmIauDGFOCb1gMYAlNgBDAh3phRSOVjjCXDrh5PFy2jRFH0oE+8WNALel6dAhBpxIC3T4ALV8Tj3UB/uCkYnP0SiLOMSIOmgFcLez8+tuo0vdNe71v8bi14GZZZn5c4ZdEdy14g/LUNo/+XGEQCojA/DClVWXbEinB4KhpaOnoGRiZm0URx4iVIlMQijVWefKXKVahUs94UWlVk3XBBDjTVu8xcxi7CgcCIDq+UocluiwBigYgzxgyrzPJRiesHnlfDn+dFPiWS+GCIXAUFbg1QLjAMC8SxYHTaKKWCUZqYakwc5eYWiBCL8H5MTCWVYFmSRx0j4TIIRiKQqEjUGSRBoiXRkxhIjCQmEnMGyZFEZ5ACiZhKiq31RCkkmUjMUizXY3avLB9QAIVQDKWOyhDVbBU7+AQwGPs35m9UKpFKlx2qY3o9t1ptEcDkUuQRkP0hK8JVuzx+6PJ3gaylufJC8lpAsd5JpzzLQFyTLJgmnhnBDFJ2OLGkctPzunnXMlVoGTi177ZzsecgK8vfnzXriFoW4/f5ILRsDo9HBMTT9D3wsYSJsIwMzqq/jI0Lzwtqj45+cKlq86FatuhCh1n3x0TwCcS2ajSf1S1+DeTy6sflbQD8LeSBdIguxVdzG+o4RnXzUaSzh7pHWnc6AWB"
+  }
+}

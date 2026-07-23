@@ -1,0 +1,25 @@
+{
+  "url": "https://network-osi-model-endtoend.bolt.host",
+  "label": "ai-built",
+  "builder": "bolt",
+  "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh).",
+  "capturedAt": "2026-07-23T12:02:05.788Z",
+  "snapshot": {
+    "hostname": "network-osi-model-endtoend.bolt.host",
+    "title": "Network Routing Simulator",
+    "generatorMeta": null,
+    "faviconHref": "/vite.svg",
+    "scriptSrcs": [
+      "/assets/index-CCbNMm_B.js",
+      "https://bolt.new/badge.js?s=f879f8ce-1e2b-43f6-93fc-4c5350143b80"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [],
+    "imageSrcs": [],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "ネットワーク・ルーティング・シミュレーター Space: 一時停止/再開 Ctrl+ホイール: ズーム ドラッグ: 移動送信元PC APC BPC C宛先IP192.168.2.10 (PC B)192.168.3.10 (PC C)192.168.1.10 (PC A)8.8.8.8 (外の世界 - エラー)シミュレーション開始 ルーターにマウスを重ねて経路表を確認100%eth0192.168.1.10PC AL3 Routereth0192.168.1.1eth110.0.1.1eth210.0.2.1Router AL3 Routereth0192.168.2.1eth110.0.1.2Router BL3 Routereth0192.168.3.1eth110.0.2.2Router Ceth0192.168.2.10PC Beth0192.168.3.10PC Cログ・ステータスシミュレーション待機中..."
+  }
+}

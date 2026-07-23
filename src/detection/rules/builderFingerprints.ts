@@ -21,6 +21,14 @@ const LOVABLE_RUNTIME_PATH = '/~flock.js';
 /** Replit injects this banner script into apps served through its infrastructure. */
 const REPLIT_BANNER_PATH = '/public/js/replit-dev-banner.js';
 
+/**
+ * Bolt's badge loader, served from bolt.new itself. Found on 8/8 real *.bolt.host sites
+ * captured for the corpus. Because it is a script rather than rendered markup, it survives
+ * a badge that has been hidden with CSS.
+ */
+const BOLT_BADGE_HOST = 'bolt.new';
+const BOLT_BADGE_PATH = '/badge.js';
+
 /** Exact hostnames (or their subdomains) a genuine "Made with X" badge would point at. */
 const BADGE_HOST_NAMES: Readonly<Record<string, string>> = {
   'lovable.dev': 'Lovable',
@@ -79,6 +87,14 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
   );
   if (replitBanner) {
     results.push(strong('replit-banner-script', 'Replit dev banner script', replitBanner, 'Replit'));
+  }
+
+  const boltBadge = snapshot.scriptSrcs.find((src) => {
+    const url = parseUrl(src, base);
+    return url?.hostname === BOLT_BADGE_HOST && url.pathname === BOLT_BADGE_PATH;
+  });
+  if (boltBadge) {
+    results.push(strong('bolt-badge-script', 'Bolt badge script', boltBadge, 'Bolt'));
   }
 
   const lovableUpload = snapshot.imageSrcs.find((src) => src.includes('/lovable-uploads/'));

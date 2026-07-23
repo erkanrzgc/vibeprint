@@ -1,0 +1,74 @@
+{
+  "url": "https://sondelicias.bolt.host",
+  "label": "ai-built",
+  "builder": "bolt",
+  "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh).",
+  "capturedAt": "2026-07-23T12:01:58.031Z",
+  "snapshot": {
+    "hostname": "sondelicias.bolt.host",
+    "title": "Son Delicias - Más que un antojo",
+    "generatorMeta": null,
+    "faviconHref": "/isotipo.png",
+    "scriptSrcs": [
+      "/assets/index-zOAgpaBH.js",
+      "https://bolt.new/badge.js?s=8ddff2a1-0e7a-46dd-b760-a38d70a2cd2c"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://www.google.com/maps/dir/?api=1&destination=19.399987557410544,-99.15354910319047",
+        "text": "Cómo llegar"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=%2B525517572817&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEyNSJ9.eyJleHAiOjE3NzM0NDE0NzIsInBob25lIjoiKzUyNTUxNzU3MjgxNyIsImNvbnRleHQiOiJBZmRVWUhxOEw1ZkZEa1dvTUxRTlRrQ1U1WDhocng4UEVUcTBRZ3dPU1RGTGRoeHVPTjJ1ejJhdFJCbDE3cDdzcVZqUU9iQ0pvNFZhOERXYzNMTnpYNUdwUTlxb1ZMM0pMZGRvZGdIQVNjc1FGT1ItVVFUY2NJUmNKU05uXzlMdzJEa0Y3NmNpR2FTdXZPR0c2QkhXaWpqOVlRIiwic291cmNlIjoiRkJfUGFnZSIsImFwcCI6ImZhY2Vib29rIiwiZW50cnlfcG9pbnQiOiJwYWdlX2N0YSJ9.QAN4hLCADM5-KNyr-vMR_DKjRaKz89grkDpbDYkzikIusRfLwVDaIluZ0IIn8rUHFvVpkjx7Dxn_YpjNRkq5cw",
+        "text": "WhatsApp"
+      },
+      {
+        "href": "https://www.instagram.com/sondelicias.mx/",
+        "text": "Instagram"
+      },
+      {
+        "href": "https://www.ubereats.com/mx/store/son-delicias-narvarte/PblrZO5rWZmT-jJC3PAYkQ",
+        "text": "Delivery"
+      }
+    ],
+    "imageSrcs": [
+      "/logo-blanco.png",
+      "/el-maizal-2.png",
+      "/FRENCH-FOSTER-CORREGIDO.png",
+      "/mediterraneo.png",
+      "/Humaya.png",
+      "/Rigatoni.png",
+      "/Ensalada_cielo.png",
+      "/egg-sando-2.png",
+      "/urban-sando.png",
+      "/combinacion-del-rancho.png",
+      "/omelette-sinaloense.png",
+      "/wrap-del-norte.png",
+      "/chilaquiles.png",
+      "/desayuno-americano.png",
+      "/trifle.png",
+      "/fluffies-2.png",
+      "/lotus.png",
+      "/french-toast.png",
+      "/avo-toast.png",
+      "/salmon-toast.png",
+      "/rol-de-ajo.png",
+      "/sando-pollo.png",
+      "/sando-margarita.png",
+      "/ENSALADA-MI-AMOR-CORREGIDA.png",
+      "/green-life.png",
+      "/ensalada-sd.png",
+      "/baguette-arrachera.png",
+      "/favorito.png",
+      "/AGUACHILE-CORREGIDO.png",
+      "/Ubicacion.png",
+      "/logo-blanco.png"
+    ],
+    "fontFamilySample": "\"Be Vietnam Pro\", sans-serif",
+    "bodyTextSample": "MENÚMenúBebidasUbicaciónContactoLO NUEVODESAYUNOS AL ESTILO NORTEDESAYUNOSLO DULCE DE TUS MAÑANASTOASTSANDOSENSALADASPLATILLOSBEBIDASLO NUEVOCOMBINACIÓN EL MAIZAL$195.00Torta de huevo rellena de tocino, calabacita, cebolla, elote, y trocitos de tamal doradito, acompañada de ensalada de la casa y frijolitos puercos.FRENCH FOSTER$185.00Versión deluxe del french toast con plátano flameado y caramelizado, crema inglesa de vainilla y nuez garapiñadaTOAST MEDITERRÁNEO$220.00Pan campesino con huevito tierno revuelto con quesito de cabra, espinacas y hierbabuena, germinado de alfalfa, terminado con miel de abeja, acompañado con ensalada de la casa.COMBINACIÓN HUMAYA$175.00Chorizo ranchero revuelto con huevito, acompañadas de chilaquiles suizos y frijolitos puercos.RIGATONI TRUFADO$280.00Pasta rigatoni en salsa blanca de vino blanco, parmesano y trufa con pechuga de pollo a la plancha, espárragos y queso parmesano.ENSALADA CIELO$260.00Mezcla de hojas verdes, fresa fresca, frambuesa, queso de cabra, almendras fileteadas y vinagreta balsámica.EGG SANDWICH PREMIUM$225.00Pan campesino con mayo chipotle, salteado de champiñones, arúgula, tomates deshidratados, aguacate y huevito revuelto, acompañado de ensalada de la casa y chips caseras.URBAN SANDWICH$225.00Pan campesino con arrachera, mayo chipotle, mezcla de 3 quesos, queso americano, arúgula, nuez tostada y cebollita envinada, acompañado de ensalada de la casa y chips caseras.Volver arribaDESAYUNOS AL ESTILO NORTELO MÁS VENDIDOCombinación del Rancho$195.00Chilorio a la mexicana acompañado de porción de chilaquiles verdes, huevo revuelto ó estrellado y frijolitos puercos.Omelette Sinaloense$185.00Relleno de colache gratinado, bañado en salsa verde con tablitas de arrachera encima, acompañado de frijolitos puercos.WRAP DEL NORTE$210.00Wrap de harina relleno de frijoles puercos, huevito con machaca, pico de gallo, espinacas y guacamole, acompañado de ensalada de la casa.COMBINACIÓN SINALOA$195.00Fajitas de arrachera acompañadas "
+  }
+}

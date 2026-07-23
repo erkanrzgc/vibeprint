@@ -1,0 +1,25 @@
+{
+  "url": "https://mukti.bolt.host",
+  "label": "ai-built",
+  "builder": "bolt",
+  "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh).",
+  "capturedAt": "2026-07-23T12:02:02.199Z",
+  "snapshot": {
+    "hostname": "mukti.bolt.host",
+    "title": "MUKTI - Comprehensive Healthcare",
+    "generatorMeta": null,
+    "faviconHref": "/vite.svg",
+    "scriptSrcs": [
+      "/assets/index-Bogdpstf.js",
+      "https://bolt.new/badge.js?s=ed69d5ac-44e2-43d4-9af3-dbf0e732c641"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [],
+    "imageSrcs": [],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "Welcome back,Abir Mohammed2Mukti AI AssistantAsk about symptoms, medicines & moreOnlineFever?Find doctorEmergencyQuick ActionsHealth TrackersLog blood sugar, pressure & vitalsFind Nearest ERLocate emergency care near youBlood Donor MatchingFind donors near youHome Sample CollectionBook lab pickupBMI Calculator HistoryWeightkgkglbsHeightcmcmftGenderMaleFemaleCalculate BMIHealth OverviewBlood Pressure128/82 mmHgLast Checkup2 weeks agoMedications5 activeToday's Health TipStay hydrated! Drinking 8-10 glasses of water daily helps maintain optimal blood pressure and supports overall cardiovascular health.HomeAmbulanceMedicineAppointmentsProfile"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://beginner-chess-mobil-ny3rs.bolt.host",
+  "label": "ai-built",
+  "builder": "bolt",
+  "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh).",
+  "capturedAt": "2026-07-23T12:02:16.375Z",
+  "snapshot": {
+    "hostname": "beginner-chess-mobil-ny3rs.bolt.host",
+    "title": "Chess for Kids",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.ico",
+    "scriptSrcs": [
+      "https://bolt.new/badge.js?s=e9490456-b7c9-49db-b45f-d8664f239bf3",
+      "/_expo/static/js/web/entry-7b4086ac910fe4e6f6729ef432ed3296.js"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://beginner-chess-mobil-ny3rs.bolt.host/",
+        "text": "Tanulj"
+      },
+      {
+        "href": "https://beginner-chess-mobil-ny3rs.bolt.host/practice",
+        "text": "Gyakorolj"
+      },
+      {
+        "href": "https://beginner-chess-mobil-ny3rs.bolt.host/quiz",
+        "text": "Kvíz"
+      },
+      {
+        "href": "https://beginner-chess-mobil-ny3rs.bolt.host/find",
+        "text": "Ismerd fel"
+      },
+      {
+        "href": "https://beginner-chess-mobil-ny3rs.bolt.host/who",
+        "text": "Ki lép?"
+      },
+      {
+        "href": "https://beginner-chess-mobil-ny3rs.bolt.host/progress",
+        "text": "Haladás"
+      }
+    ],
+    "imageSrcs": [],
+    "fontFamilySample": "\"Times New Roman\"",
+    "bodyTextSample": "You need to enable JavaScript to run this app. SakkfigurákVálassz egy figurát!★★★GyalogG★★★BástyaB★★★HuszárH★★★FutárF★★★VezérV★★★KirályKTanuljGyakoroljKvízIsmerd felKi lép?Haladás"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://trippy-duplicated-6mxq.bolt.host",
+  "label": "ai-built",
+  "builder": "bolt",
+  "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh).",
+  "capturedAt": "2026-07-23T12:02:10.713Z",
+  "snapshot": {
+    "hostname": "trippy-duplicated-6mxq.bolt.host",
+    "title": "Tripy - Your travel planner buddy",
+    "generatorMeta": null,
+    "faviconHref": "/vite.svg",
+    "scriptSrcs": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5MQM7MEJ2C",
+      "/assets/index-CNFv3LUC.js",
+      "https://bolt.new/badge.js?s=c7561f2f-8eaa-4181-8540-08571fc8b4de"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [],
+    "imageSrcs": [],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "Tripy🇺🇸English🇺🇸English🇪🇸Español🇧🇷PortuguêsPlan Your Perfect TripThe ultimate travel planning companionYour travel planner buddySmart Itinerary BuilderCreate day-by-day plans with drag & drop simplicitySmart Packing ListsCreate organized checklists for everything you need to packTrack Your ProgressCheck off activities and items as you complete themBeautiful & IntuitiveDesigned for travelers who love great experiencesShare Your AdventuresShare trip itineraries with friends, family, or clients with secure read-only linksAI Travel InspirationGet personalized travel ideas and detailed itineraries powered by AIMultilanguage SupportAvailable in English, Spanish, and Portuguese for global travelers100% FREEStart planning unlimited trips today. No credit card required, no hidden fees.Welcome BackSign in to continue planning your adventuresEmailPasswordSign InOr continue withContinue with GoogleDon't have an account? Join free @font-face {font-family: Inter-NjBkMDQwOTZj; font-weight: 600; src: url(data:font/woff2;base64,d09GMgABAAAAAB/gAA0AAAAAS/wAAB+KAAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGlgbuVocjFoGYACBBgrDCLR9ATYCJAOECAuCBgAEIAWCdAcgGwRDs6Kky74VUZQqymnJ/yFBGyNE+x2UThQLJ0EUFxcnsiIS+RY/6jA8sJ6e26vp92f3gxWXNpT9Q8N3OwIUji/HcBDakeVyhMY+yeV5vuW7O7ObWsrxifvgMRJNF7Y07eIwPk+jnJJmbQew4FJKKTA4BQqQ01xSRBcoRwhPJhiCbXYgFtgg6uZrr7Fy0wYsjNoMwMLEZoKBkWiDOhsUdWWs1E3sudLpOxZtrMpYhTz/39iz3/fOzHuIlkIohMoiFLKIte6JkgiFrpLlm5z9n8ukdcmxJlJ3QwmsAD+MUU31fSH8sKyoAP4PdeadYwfupOAwd9xsfgCuZS3+pBjl1yJNgCvwBBQoTC0IbK6ADy4iSUL+4LmlzfTAB5aiVdP6ylRtf/l4BGaIyh2GA6dKRekQQuXK06fqcMcj//4eBB6ACYAAkzIIpacjJAckic8kZTjkUEkZUIpOIZbqHLtYtnIlu2zdyUXZuLfNIemB2jWRZI6nlimPuYHWMx2/BH8ECRIkSBApdvljreK0gDAHHCpd/8+oYEwAnjBaJAvJU4c0aEQ6dSE9epGwMDJuAlmwgCxZRggDg2AQgQL6NQvhjxwddMNydk9ZQu5FZXoRudfGN1eQiweyraB8SqhXzysrMMVlx4OKAK35yiuVTFpRGAMRPAS6n3Kt9xbXlMU3a9rph4UssBEb7O+vKQvW7DvGsDFXQZjUqdesRat2NoOGuI0KmrGOBPMTrzkf2OUD32CN/i8AMRo+igYTJGGG0hZJvAmqNbGGKGxQF4xZRFujdVin0kF2iMAW7PTYDHInJeJEwdBME2mYqXw1Rz8zZCVXQWcIHtony0y8JEnLJty8H"
+  }
+}

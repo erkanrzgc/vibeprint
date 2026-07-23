@@ -16,6 +16,7 @@ const PLATFORM_HOSTING_SUFFIXES = [
   '.framer.app',
   '.base44.app',
   '.created.app',
+  '.bolt.host',
 ];
 
 const DEFAULT_ONLY_FONTS = ['inter', 'geist'];

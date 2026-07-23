@@ -65,6 +65,27 @@ describe('detectBuilderFingerprints', () => {
     });
   });
 
+  describe('Bolt badge script', () => {
+    // Found by capturing 8 real *.bolt.host sites: every one loads bolt.new/badge.js.
+    // It is served from bolt.new itself, so unlike a rendered badge it survives even when
+    // the visible badge is styled away.
+    it('detects the Bolt badge script as a strong signal naming Bolt', () => {
+      const snapshot = makeSnapshot({
+        hostname: 'lessonpick.bolt.host',
+        scriptSrcs: ['/assets/index-abc.js', 'https://bolt.new/badge.js?s=5f5007ab'],
+      });
+
+      const result = detectBuilderFingerprints(snapshot).find((r) => r.id === 'bolt-badge-script');
+      expect(result).toMatchObject({ tier: 'strong', builder: 'Bolt' });
+    });
+
+    it('does not fire on an unrelated script merely named badge.js', () => {
+      const snapshot = makeSnapshot({ scriptSrcs: ['https://example.com/badge.js'] });
+
+      expect(firedIds(snapshot)).not.toContain('bolt-badge-script');
+    });
+  });
+
   describe('generator meta tag', () => {
     // framer.com serves <meta name="generator" content="Framer 92482b8"> - an explicit
     // self-declaration that was being collected but never read by any rule.

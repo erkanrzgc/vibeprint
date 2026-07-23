@@ -1,0 +1,65 @@
+{
+  "url": "https://rehoboth.bolt.host",
+  "label": "ai-built",
+  "builder": "bolt",
+  "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh).",
+  "capturedAt": "2026-07-23T12:01:49.883Z",
+  "snapshot": {
+    "hostname": "rehoboth.bolt.host",
+    "title": "Rehoboth Barber Shop & Coiffeur - Premium Barbershop Zürich",
+    "generatorMeta": null,
+    "faviconHref": "/favicon.png?v=2",
+    "scriptSrcs": [
+      "/assets/index-zaF0wzua.js",
+      "https://bolt.new/badge.js?s=95cf21f9-da97-4cf2-8b02-d234fdecd5e5"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://rehoboth.bolt.host/#booking",
+        "text": "Termin buchen"
+      },
+      {
+        "href": "https://wa.me/41766828689",
+        "text": "Termin via WhatsApp buchen"
+      },
+      {
+        "href": "https://maps.google.com/?q=Badenerstrasse+251+8003+Z%C3%BCrich",
+        "text": "Route anzeigen →"
+      },
+      {
+        "href": "https://www.instagram.com/rehobothcoiffeur8003/",
+        "text": "@rehobothcoiffeur8003"
+      },
+      {
+        "href": "https://www.facebook.com/habtom.tekye/",
+        "text": "Habtom Tekye"
+      },
+      {
+        "href": "https://www.google.com/maps/place/Rehoboth+Barber+Shop+%26+Coiffeur/@47.3756741,8.5158913,17z/data=!4m8!3m7!1s0x47900a225491709f:0xf4df80863e2cb811!8m2!3d47.3756741!4d8.5158913!9m1!1b1!16s%2Fg%2F11dzvhd5hz?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D",
+        "text": "Google-Bewertungen"
+      },
+      {
+        "href": "https://wa.me/41766828689",
+        "text": "WhatsApp"
+      },
+      {
+        "href": "https://ihre.website/",
+        "text": "Built by"
+      }
+    ],
+    "imageSrcs": [
+      "/img_6976.webp",
+      "/img_6978.webp",
+      "/img_6977.webp",
+      "/habtom2.webp",
+      "/habennew.webp",
+      "/ihre.website.webp"
+    ],
+    "fontFamilySample": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "bodyTextSample": "REHOBOTHBARBER SHOP & COIFFEURStartseiteDienstleistungenGalerieÜber unsTerminKontakt+41 44 544 24 65ENDEትግENDEትግREHOBOTHBARBER SHOPPRÄZISION. STIL. RESPEKT.Saubere Schnitte. Klare Linien. Dein Style. Von cleanem Business-Cut bis Fresh Fade, Curly Top oder Taper.Termin buchenBadenerstrasse 2518003 ZürichGeöffnetMo-Fr: 9:00-20:00 | Sa: 8:30-18:00Dienstleistungen & PreiseQualität, die man sieht – Schnitte, die haltenHerrenhaarschnittCHF 30Sauberer Schnitt, modern oder klassisch – genau wie du willstJungenhaarschnittCHF 25Fresh Cuts für Teens & junge Styles (Fade, Curly, Sidecut)KinderhaarschnittCHF 20Geduldig, ruhig und kindgerechtZusätzliche DienstleistungenBartrasur - CHF 15Haare färben - CHF 30Haare waschen - CHF 5Augenbrauen zupfen - CHF 10GalerieWo Kunstfertigkeit auf Präzision trifftBarbershop InteriorLounge AreaModern Barber StationÜber unsMehr als ein BarbershopUnsere GeschichteRehoboth Barber Shop & Coiffeur liegt im Herzen von Zürich am trendigen Lochergut. Wir sind ein Treffpunkt für Menschen aus verschiedenen Kulturen, Generationen und Styles. Hier kommen Locals, internationale Gäste, Kids, Teens & Erwachsene – alle auf denselben Stuhl, mit demselben Respekt.Unsere PhilosophieWir nehmen uns Zeit. Wir hören zu. Wir schneiden nicht einfach – wir formen deinen Look. Ob klassisch, modern oder urban: Du gehst fresh raus. Punkt.PräzisionJede Linie zähltGemeinschaftStammkunden statt LaufkundschaftTradition & FortschrittAlte Techniken, neue StylesUnser TeamHabtomMeisterbarbier – präzise, erfahren, detailverliebtHabenCoiffeur und Barber mit FähigkeitszeugnisTermin buchen oder einfach vorbeikommenSichere dir deinen Termin oder komm spontan vorbeiTermin via WhatsApp buchenTermin via Telefon buchenWalk-Ins WillkommenKein Termin? Kein Problem! Komm einfach während unserer Öffnungszeiten vorbei. Wir versuchen immer, Walk-in Kunden unterzubringen.Besuche unsFinde uns im Herzen von ZürichAdresseBadenerstrasse 2518003 Zürich, SchweizRoute anzeigen →Telefon+41 44 544 24 65Öf"
+  }
+}

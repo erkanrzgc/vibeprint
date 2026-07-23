@@ -454,5 +454,69 @@
     "builder": null,
     "difficulty": "easy",
     "note": "Uzun git geçmişi."
+  },
+  {
+    "slug": "bolt-sub-rehoboth",
+    "url": "https://rehoboth.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "bolt-sub-lessonpick",
+    "url": "https://lessonpick.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "bolt-sub-sondelicias",
+    "url": "https://sondelicias.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "bolt-sub-mukti",
+    "url": "https://mukti.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "bolt-sub-network-osi-model-endtoe",
+    "url": "https://network-osi-model-endtoend.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "bolt-sub-trippy-duplicated-6mxq",
+    "url": "https://trippy-duplicated-6mxq.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "bolt-sub-beginner-chess-mobil-ny3",
+    "url": "https://beginner-chess-mobil-ny3rs.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "bolt-sub-viswam9-high-convert-xp4",
+    "url": "https://viswam9-high-convert-xp4v.bolt.host",
+    "label": "ai-built",
+    "builder": "bolt",
+    "difficulty": "easy",
+    "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
   }
 ]
