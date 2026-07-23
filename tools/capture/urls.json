@@ -518,5 +518,13 @@
     "builder": "bolt",
     "difficulty": "easy",
     "note": "Self-labeling: *.bolt.host is Bolt.new own hosting. Found via certificate transparency (crt.sh)."
+  },
+  {
+    "slug": "base44-custom-giftmybook",
+    "url": "https://giftmybook.com",
+    "label": "ai-built",
+    "builder": "base44",
+    "difficulty": "hard",
+    "note": "Base44 own case study (base44.com/blog/base44-case-study-gift-my-book). Custom domain, but serves assets from base44.app."
   }
 ]

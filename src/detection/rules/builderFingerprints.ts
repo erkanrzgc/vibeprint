@@ -29,6 +29,19 @@ const REPLIT_BANNER_PATH = '/public/js/replit-dev-banner.js';
 const BOLT_BADGE_HOST = 'bolt.new';
 const BOLT_BADGE_PATH = '/badge.js';
 
+/**
+ * Base44 apps keep pulling assets from Base44 infrastructure after moving to a custom domain.
+ * Verified on giftmybook.com, the app in Base44's own published case study: it serves images
+ * both from base44.app and from a `base44-prod` storage bucket. The bucket name is specific
+ * enough not to collide with an unrelated project's storage.
+ *
+ * Caveat: only one real Base44 site has been captured so far, so this is less validated than
+ * the Lovable/Framer/Bolt rules. Both markers are exact-match, so the false-positive risk is
+ * low even if coverage is thin.
+ */
+const BASE44_ASSET_HOST = 'base44.app';
+const BASE44_STORAGE_BUCKET = '/base44-prod/';
+
 /** Exact hostnames (or their subdomains) a genuine "Made with X" badge would point at. */
 const BADGE_HOST_NAMES: Readonly<Record<string, string>> = {
   'lovable.dev': 'Lovable',
@@ -95,6 +108,15 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
   });
   if (boltBadge) {
     results.push(strong('bolt-badge-script', 'Bolt badge script', boltBadge, 'Bolt'));
+  }
+
+  const base44Asset = snapshot.imageSrcs.find((src) => {
+    if (src.includes(BASE44_STORAGE_BUCKET)) return true;
+    const host = hostnameOf(src, base);
+    return host != null && isSameOrSubdomain(host, BASE44_ASSET_HOST);
+  });
+  if (base44Asset) {
+    results.push(strong('base44-assets', 'Base44 asset path', base44Asset, 'Base44'));
   }
 
   const lovableUpload = snapshot.imageSrcs.find((src) => src.includes('/lovable-uploads/'));

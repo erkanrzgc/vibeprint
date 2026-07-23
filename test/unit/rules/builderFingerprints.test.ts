@@ -86,6 +86,38 @@ describe('detectBuilderFingerprints', () => {
     });
   });
 
+  describe('Base44 asset paths', () => {
+    // Base44 apps keep serving assets from Base44 infrastructure after moving to a custom
+    // domain - the same durability that makes Lovable's /lovable-uploads/ useful. Verified on
+    // giftmybook.com, the app from Base44's own published case study.
+    it('detects assets served from base44.app', () => {
+      const snapshot = makeSnapshot({
+        hostname: 'giftmybook.com',
+        imageSrcs: ['https://base44.app/api/apps/689/files/abc.webp'],
+      });
+
+      const result = detectBuilderFingerprints(snapshot).find((r) => r.id === 'base44-assets');
+      expect(result).toMatchObject({ tier: 'strong', builder: 'Base44' });
+    });
+
+    it('detects the base44-prod storage bucket path', () => {
+      const snapshot = makeSnapshot({
+        hostname: 'giftmybook.com',
+        imageSrcs: ['https://xyz.supabase.co/storage/v1/object/public/base44-prod/public/a.png'],
+      });
+
+      expect(firedIds(snapshot)).toContain('base44-assets');
+    });
+
+    it('does not fire on an unrelated supabase storage bucket', () => {
+      const snapshot = makeSnapshot({
+        imageSrcs: ['https://xyz.supabase.co/storage/v1/object/public/my-assets/a.png'],
+      });
+
+      expect(firedIds(snapshot)).not.toContain('base44-assets');
+    });
+  });
+
   describe('generator meta tag', () => {
     // framer.com serves <meta name="generator" content="Framer 92482b8"> - an explicit
     // self-declaration that was being collected but never read by any rule.

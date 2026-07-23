@@ -46,10 +46,12 @@ construction (`src/detection/score.ts`).
 Measured against snapshots captured from **real live sites** (`test/fixtures/corpus`):
 
 ```
-Corpus: 57 sites (29 ai-built, 28 hand-built)
-TP=28  FP=0  FN=1  TN=28
-Precision=1.000   Recall=0.966   F1=0.982
+Corpus: 66 sites (38 ai-built, 28 hand-built)
+TP=37  FP=0  FN=1  TN=28
+Precision=1.000   Recall=0.974   F1=0.987
 ```
+
+Builders represented: Lovable (21), Bolt (8), Framer (7), Base44 (1), Replit (1).
 
 The hand-built half deliberately includes the highest-risk false positives — `vercel.com`,
 `ui.shadcn.com`, `resend.com`, `supabase.com`, `clerk.com`, `railway.com` — sites with Geist
@@ -84,11 +86,18 @@ builder-owned domains were simply missing from the list), and that Lovable's ori
 fingerprint rot, caught by measurement rather than by a user reporting a miss.
 
 **Known limits, stated honestly:**
-- The corpus covers **two builders** (Lovable, Framer). The v0 and Bolt badge rules have never
-  been exercised against a real captured site — they are plausible, not validated. Base44 /
-  Create.xyz / Same.new have no rules at all, because no verifiable example sites could be
-  found to build them from; guessing fingerprints without real data is exactly the mistake this
-  project already paid for once.
+- **v0 is effectively undetectable, by design.** Lovable, Bolt, Framer and Base44 all host
+  what they generate, so they leave a runtime script, markup attribute or asset path behind.
+  v0 hands you code that you deploy yourself — there is no v0 infrastructure left in the
+  output to fingerprint. A v0 badge rule exists for sites that voluntarily keep one, but a v0
+  site without a badge will read as `Not enough signal`, and that is the honest answer rather
+  than a gap to paper over.
+- **Base44 rests on a single captured site** (`giftmybook.com`, from Base44's own case study),
+  so it is far less validated than the others. Both its markers are exact-match, so the
+  false-positive risk stays low even with thin coverage.
+- Create.xyz and Same.new have no rules: no verifiable example sites could be found to build
+  them from, and guessing fingerprints without real data is the exact mistake this project
+  already paid for once.
 - Fingerprints are what a site owner strips first. A polished AI-built site on a custom domain
   with the badge removed and no platform runtime can be genuinely undetectable — `Not enough
   signal` is an expected, correct answer, not a failure.

@@ -1,0 +1,182 @@
+{
+  "url": "https://giftmybook.com",
+  "label": "ai-built",
+  "builder": "base44",
+  "note": "Base44 own case study (base44.com/blog/base44-case-study-gift-my-book). Custom domain, but serves assets from base44.app.",
+  "capturedAt": "2026-07-23T13:44:30.636Z",
+  "snapshot": {
+    "hostname": "giftmybook.com",
+    "title": "AI Book Generator | Create Personalized Comedy Books | Gift My Book",
+    "generatorMeta": null,
+    "faviconHref": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/15e655bb2_0132977bd_ChatGPTImageAug14202512_50_39PM2.png",
+    "scriptSrcs": [
+      "https://scripts.clarity.ms/0.8.67/clarity.js",
+      "https://widget.intercom.io/widget/o22tut14",
+      "https://www.clarity.ms/tag/vmdqftgq3a",
+      "https://connect.facebook.net/signals/config/767131102390654?v=2.9.360&r=stable&domain=giftmybook.com&hme=eec000113e1e9f56e9fc6cdeb39d59ad805f76a48c77cf3d5c028dcf3b38ee7c&ex_m=108%2C209%2C159%2C22%2C73%2C74%2C150%2C69%2C68%2C11%2C168%2C93%2C16%2C142%2C131%2C39%2C76%2C81%2C138%2C164%2C170%2C26%2C27%2C28%2C30%2C48%2C151%2C78%2C116%2C18%2C20%2C44%2C40%2C42%2C41%2C86%2C95%2C99%2C114%2C149%2C152%2C46%2C115%2C24%2C21%2C123%2C70%2C36%2C154%2C153%2C155%2C146%2C144%2C25%2C35%2C59%2C113%2C166%2C71%2C17%2C157%2C118%2C84%2C67%2C19%2C88%2C89%2C120%2C87%2C140%2C139%2C143%2C100%2C165%2C34%2C49%2C117%2C47%2C8%2C4%2C5%2C7%2C6%2C3%2C94%2C105%2C171%2C176%2C223%2C75%2C236%2C235%2C234%2C23%2C33%2C55%2C107%2C61%2C10%2C64%2C101%2C102%2C103%2C109%2C134%2C31%2C29%2C136%2C137%2C133%2C132%2C160%2C77%2C163%2C161%2C162%2C50%2C60%2C127%2C15%2C167%2C45%2C281%2C282%2C280%2C295%2C311%2C216%2C205%2C62%2C206%2C204%2C314%2C305%2C52%2C217%2C111%2C135%2C83%2C125%2C54%2C124%2C130%2C129%2C58%2C65%2C63%2C156%2C79%2C80%2C119%2C37%2C32%2C53%2C56%2C104%2C169%2C1%2C128%2C14%2C126%2C12%2C2%2C57%2C96%2C66%2C122%2C92%2C91%2C172%2C173%2C97%2C98%2C9%2C106%2C51%2C147%2C90%2C82%2C72%2C121%2C110%2C43%2C148%2C0%2C85%2C141%2C145%2C158%2C38%2C112%2C13%2C174",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "/assets/index-B7gPaQDZ.js",
+      "https://js.stripe.com/v3",
+      "https://www.googletagmanager.com/gtag/js?id=G-99WJBF7P9P"
+    ],
+    "htmlDatasetKeys": [],
+    "bodyDatasetKeys": [],
+    "componentDatasetKeys": [
+      "state",
+      "orientation"
+    ],
+    "builderMarkupHints": [],
+    "badgeLinks": [
+      {
+        "href": "https://giftmybook.com/Home",
+        "text": "Gift My Book"
+      },
+      {
+        "href": "https://giftmybook.com/Home",
+        "text": "Gift My Book"
+      },
+      {
+        "href": "https://giftmybook.com/personalized-books",
+        "text": "Personalized Books"
+      },
+      {
+        "href": "https://giftmybook.com/my-orders-login",
+        "text": "My Orders"
+      },
+      {
+        "href": "https://giftmybook.com/GiftOccasion",
+        "text": "Create Your Book"
+      },
+      {
+        "href": "https://giftmybook.com/GiftOccasion",
+        "text": "Create Your Book"
+      },
+      {
+        "href": "https://giftmybook.com/GiftOccasion?step=couple",
+        "text": "Create Your Couple Book"
+      },
+      {
+        "href": "https://giftmybook.com/corporate-gifting",
+        "text": "Learn About Corporate Gifting"
+      },
+      {
+        "href": "https://giftmybook.com/GiftOccasion",
+        "text": "Create Your Book"
+      },
+      {
+        "href": "https://giftmybook.com/Home",
+        "text": "Gift My Book"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCvJpQygQj9NIU9KHEemrJZQ",
+        "text": "YouTube"
+      },
+      {
+        "href": "https://tiktok.com/@giftmybook",
+        "text": "TikTok"
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61579638652884",
+        "text": "Facebook"
+      },
+      {
+        "href": "https://giftmybook.com/GiftOccasion",
+        "text": "Create Your Book"
+      },
+      {
+        "href": "https://giftmybook.com/how-it-works",
+        "text": "How It Works"
+      },
+      {
+        "href": "https://giftmybook.com/ai-book-generator",
+        "text": "AI Book Generator"
+      },
+      {
+        "href": "https://giftmybook.com/personalized-books",
+        "text": "Personalized Books"
+      },
+      {
+        "href": "https://giftmybook.com/holiday-gifts",
+        "text": "Holiday Gifts"
+      },
+      {
+        "href": "https://giftmybook.com/corporate-gifting",
+        "text": "For Teams & Businesses"
+      },
+      {
+        "href": "https://giftmybook.com/Guides",
+        "text": "Gift Guides"
+      },
+      {
+        "href": "https://giftmybook.com/personalized-birthday-gift",
+        "text": "Birthday Books"
+      },
+      {
+        "href": "https://giftmybook.com/personalized-anniversary-gift",
+        "text": "Anniversary Books"
+      },
+      {
+        "href": "https://giftmybook.com/roast-a-friend",
+        "text": "Roast Books"
+      },
+      {
+        "href": "https://giftmybook.com/valentines-day-gifts",
+        "text": "Valentine's Day Gifts"
+      },
+      {
+        "href": "https://giftmybook.com/personalized-mothers-day-gift",
+        "text": "Love to mom gifts"
+      },
+      {
+        "href": "https://giftmybook.com/holiday-gifts",
+        "text": "Holiday Gifts"
+      },
+      {
+        "href": "https://giftmybook.com/terms-of-service",
+        "text": "Terms of Service"
+      },
+      {
+        "href": "https://giftmybook.com/privacy-policy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://giftmybook.com/AdminLogin",
+        "text": "Admin Login"
+      },
+      {
+        "href": "https://www.instagram.com/giftmybook",
+        "text": "Instagram"
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61579638652884",
+        "text": "Facebook"
+      }
+    ],
+    "imageSrcs": [
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/15e655bb2_0132977bd_ChatGPTImageAug14202512_50_39PM2.png",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/4f391e7d6_replicate-prediction-svzjvdx98nrmt0cvt2nbj26zyr.jpg",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/4da647a7f_dpjcfyettsrmw0cvprpb8czfrcSmall.png",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/a5bce5b33_mothersday1.png",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/bd279dc94_mothersday2.png",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/4f391e7d6_replicate-prediction-svzjvdx98nrmt0cvt2nbj26zyr.jpg",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/4da647a7f_dpjcfyettsrmw0cvprpb8czfrcSmall.png",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/a5bce5b33_mothersday1.png",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/bd279dc94_mothersday2.png",
+      "/static/images/f7235cf4a_cd0f0315e_20250815_1328_PersonHoldingBook_remix_01k2pm7g2der88328n3ygkdks2.webp",
+      "/static/images/d9433b6bf_d645553f5_20250815_1441_ElderlySurferAdventure_remix_01k2prdvtvf9f9076w7p3gerb3.webp",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/7d8f368d8_replicate-prediction-p5q3bqpat9rmy0cvt4ptmh9mm0.jpg",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/4f391e7d6_replicate-prediction-svzjvdx98nrmt0cvt2nbj26zyr.jpg",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/4da647a7f_dpjcfyettsrmw0cvprpb8czfrcSmall.png",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/ea96d9ea3_replicate-prediction-yxm1re88dsrmr0cvt209yexxrc.jpg",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/1ecde2ad4_replicate-prediction-ck57jbdnbnrmt0cvt268h9dh9m.jpg",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/1dee72d92_replicate-prediction-pwcys87ef9rmr0cvt25v6s91b0.jpg",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/44769794d_replicate-prediction-dkxv2mtwxnrmy0cvt20rb3hqsw.jpg",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=80&q=80&auto=format&fit=crop&crop=faces",
+      "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=80&q=80&auto=format&fit=crop&crop=faces",
+      "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&q=80&auto=format&fit=crop&crop=faces",
+      "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/15e655bb2_0132977bd_ChatGPTImageAug14202512_50_39PM2.png"
+    ],
+    "fontFamilySample": "Inter, sans-serif",
+    "bodyTextSample": "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Gift My Book\",\"url\":\"https://giftmybook.com\",\"logo\":\"https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68611ccc92873ca4f3b8cb70/15e655bb2_0132977bd_ChatGPTImageAug14202512_50_39PM2.png\",\"sameAs\":[\"https://www.instagram.com/giftmybook/\",\"https://www.facebook.com/61579638652884/\",\"https://www.youtube.com/channel/UCvJpQygQj9NIU9KHEemrJZQ\"]} :root { --primary: #016241; --primary-hover: #004d33; --cream: #FCFAF7; /* Fonts: Lora for headings, Inter for everything else */ --serif: 'Lora', serif; --sans: 'Inter', sans-serif; --serif-display: 'Lora', serif; --serif-body: 'Lora', serif; } .font-serif { font-family: var(--serif); } .font-sans { font-family: var(--sans); } .font-serif-display { font-family: var(--serif-display); } .font-serif-body { font-family: var(--serif-body); } /* H1: Lora (serif) for premium/literary hero feel */ h1 { font-family: var(--serif); font-weight: 700; } /* H2–H6: Inter (sans) for clean, modern section headings */ h2, h3, h4, h5, h6 { font-family: var(--sans); } h2, h3 { font-weight: 700; } h4, h5, h6 { font-weight: 600; } /* Default body/UI font: Inter */ body, input, textarea, select, button, label { font-family: var(--sans); } /* Inputs: accessible placeholders and legible defaults */ input, textarea, select { font-size: 0.95rem; /* keep close to existing proportions */ line-height: 1.45; } input::placeholder, textarea::placeholder { color: #6b7280; /* slate-500 for better contrast */ opacity: 1; /* ensure visibility */ } /* Improve touch responsiveness on mobile */ .touch-manipulation { touch-action: manipulation; -webkit-tap-highlight-color: transparent; user-select: none; } /* Ensure buttons are always clickable */ button { cursor: pointer; -webkit-tap-highlight-color: transparent; } button:disabled { cursor: not-allowed; } .bg-primary { background-color: var(--primary); } .bg-cream { background-color: var(--cream); } .text-primary { color: v"
+  }
+}
