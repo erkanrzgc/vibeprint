@@ -13,6 +13,13 @@ const BUILDER_MARKUP_SELECTORS: Readonly<Record<string, string>> = {
 };
 const MAX_BADGE_LINKS = 50;
 const MAX_IMAGE_SRCS = 50;
+/**
+ * Generous — no real page in the 66-site corpus comes near it — but bounded, so a
+ * pathological page can't balloon the snapshot that travels over runtime.sendMessage.
+ * Document order is kept, and builder runtimes load early, so a fingerprint past this
+ * cutoff is not a realistic loss.
+ */
+const MAX_SCRIPT_SRCS = 200;
 const BADGE_LINK_TEXT_MAX_LENGTH = 60;
 const BODY_TEXT_SAMPLE_MAX_LENGTH = 2000;
 
@@ -40,7 +47,7 @@ export function collectPageSnapshot(
     title: doc.title,
     generatorMeta: doc.querySelector('meta[name="generator"]')?.getAttribute('content') ?? null,
     faviconHref: doc.querySelector('link[rel~="icon"]')?.getAttribute('href') ?? null,
-    scriptSrcs: collectAttributeValues(doc, 'script[src]', 'src'),
+    scriptSrcs: collectAttributeValues(doc, 'script[src]', 'src').slice(0, MAX_SCRIPT_SRCS),
     htmlDatasetKeys: Object.keys(doc.documentElement.dataset),
     bodyDatasetKeys: doc.body ? Object.keys(doc.body.dataset) : [],
     componentDatasetKeys: COMPONENT_DATASET_CANDIDATES.filter(

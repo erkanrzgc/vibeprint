@@ -2,14 +2,14 @@ import { describe, expect, it } from 'vitest';
 import { scoreResults } from '../../src/detection/score';
 import type { RuleResult } from '../../src/detection/types';
 
-function weak(id: string, weight = 10): RuleResult {
-  return { id, tier: 'weak', label: id, weight, evidence: id };
+function weak(id: string): RuleResult {
+  return { id, tier: 'weak', label: id, evidence: id };
 }
-function medium(id: string, weight = 25): RuleResult {
-  return { id, tier: 'medium', label: id, weight, evidence: id };
+function medium(id: string): RuleResult {
+  return { id, tier: 'medium', label: id, evidence: id };
 }
-function strong(id: string, weight = 65): RuleResult {
-  return { id, tier: 'strong', label: id, weight, evidence: id };
+function strong(id: string): RuleResult {
+  return { id, tier: 'strong', label: id, evidence: id };
 }
 
 describe('scoreResults', () => {

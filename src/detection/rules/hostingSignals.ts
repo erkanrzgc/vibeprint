@@ -1,6 +1,9 @@
 import type { PageSnapshot, RuleResult } from '../types';
 
-const WEAK_WEIGHT = 10;
+/** Every rule id this module can emit — aggregated into ALL_RULE_IDS in rules/index.ts. */
+export const HOSTING_SIGNAL_RULE_IDS = ['platform-hosting-subdomain', 'default-only-font'] as const;
+
+type HostingSignalRuleId = (typeof HOSTING_SIGNAL_RULE_IDS)[number];
 
 const PLATFORM_HOSTING_SUFFIXES = [
   // Generic PaaS: weak on their own, plenty of hand-built hobby projects live here.
@@ -35,10 +38,9 @@ export function detectHostingSignals(snapshot: PageSnapshot): RuleResult[] {
   );
   if (matchedSuffix) {
     results.push({
-      id: 'platform-hosting-subdomain',
+      id: 'platform-hosting-subdomain' satisfies HostingSignalRuleId,
       tier: 'weak',
       label: 'Hosted on a builder platform subdomain, no custom domain',
-      weight: WEAK_WEIGHT,
       evidence: snapshot.hostname,
     });
   }
@@ -46,10 +48,9 @@ export function detectHostingSignals(snapshot: PageSnapshot): RuleResult[] {
   const font = snapshot.fontFamilySample?.split(',')[0]?.trim().toLowerCase();
   if (font && DEFAULT_ONLY_FONTS.includes(font)) {
     results.push({
-      id: 'default-only-font',
+      id: 'default-only-font' satisfies HostingSignalRuleId,
       tier: 'weak',
       label: 'Uses only a builder-default font, no custom typography',
-      weight: WEAK_WEIGHT,
       evidence: snapshot.fontFamilySample!,
     });
   }

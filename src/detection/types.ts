@@ -43,7 +43,6 @@ export interface RuleResult {
   id: string;
   tier: RuleTier;
   label: string;
-  weight: number;
   evidence: string;
   /**
    * Display name of the builder this signal points at, when the signal identifies one

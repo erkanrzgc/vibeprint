@@ -7,41 +7,16 @@
  * builders or have long public git histories. Neither is infallible - treat these numbers as
  * directional, not certified.
  */
-import { readdir, readFile } from 'node:fs/promises';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { runAllRules } from '../../src/detection/rules';
 import { scoreResults } from '../../src/detection/score';
-import type { PageSnapshot, VerdictBucket } from '../../src/detection/types';
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const CORPUS_DIR = path.resolve(__dirname, '../../test/fixtures/corpus');
-
-type Label = 'ai-built' | 'hand-built';
-
-interface CorpusRecord {
-  url: string;
-  label: Label;
-  builder: string | null;
-  difficulty?: string;
-  note?: string | null;
-  snapshot: PageSnapshot;
-}
-
-async function loadCorpus(): Promise<CorpusRecord[]> {
-  const files = (await readdir(CORPUS_DIR)).filter((f) => f.endsWith('.json'));
-  const records = await Promise.all(
-    files.map(async (file) => JSON.parse(await readFile(path.join(CORPUS_DIR, file), 'utf-8'))),
-  );
-  return records as CorpusRecord[];
-}
+import { loadCorpus } from '../../test/helpers/loadCorpus';
 
 function pad(value: string, width: number): string {
   return value.length > width ? `${value.slice(0, width - 1)}…` : value.padEnd(width);
 }
 
 async function main(): Promise<void> {
-  const corpus = await loadCorpus();
+  const corpus = loadCorpus();
 
   let tp = 0;
   let fp = 0;

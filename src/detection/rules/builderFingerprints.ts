@@ -1,6 +1,24 @@
 import type { PageSnapshot, RuleResult } from '../types';
 
-const STRONG_WEIGHT = 65;
+/**
+ * Every rule id this module can emit. The `strong()` helper only accepts ids from this list,
+ * so an id used below but missing here is a compile error — tools/eval/coverage.ts reads the
+ * aggregated registry (rules/index.ts) instead of keeping its own copy, which is how its old
+ * hand-maintained list silently went stale.
+ */
+export const BUILDER_FINGERPRINT_RULE_IDS = [
+  'lovable-script',
+  'lovable-runtime-script',
+  'replit-banner-script',
+  'bolt-badge-script',
+  'base44-assets',
+  'lovable-uploads-path',
+  'generator-meta',
+  'builder-markup',
+  'builder-badge-link',
+] as const;
+
+type BuilderFingerprintRuleId = (typeof BUILDER_FINGERPRINT_RULE_IDS)[number];
 
 /**
  * Lovable's original GPT-Engineer-era loader. Kept for older deploys, but note it no longer
@@ -68,7 +86,7 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
   const results: RuleResult[] = [];
   const base = `https://${snapshot.hostname}/`;
   const strong = (
-    id: string,
+    id: BuilderFingerprintRuleId,
     label: string,
     evidence: string,
     builder?: string,
@@ -76,7 +94,6 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
     id,
     tier: 'strong',
     label,
-    weight: STRONG_WEIGHT,
     evidence,
     builder,
   });

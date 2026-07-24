@@ -104,6 +104,18 @@ describe('collectPageSnapshot', () => {
     expect(snapshot.imageSrcs).toEqual(['/real-image.png']);
   });
 
+  it('caps script srcs so a pathological page cannot balloon the snapshot message', () => {
+    setDom(
+      Array.from({ length: 250 }, (_, i) => `<script src="/chunk-${i}.js"></script>`).join(''),
+    );
+
+    const snapshot = collectPageSnapshot(document, { hostname: 'example.com' });
+
+    expect(snapshot.scriptSrcs).toHaveLength(200);
+    // Document order is preserved, so early-loading builder runtimes survive the cap.
+    expect(snapshot.scriptSrcs[0]).toBe('/chunk-0.js');
+  });
+
   it('collects a truncated body text sample', () => {
     setDom('<p>Hello world, this is the visible page text.</p>');
 

@@ -40,7 +40,13 @@ const test = base.extend<{ context: BrowserContext; fixtureUrl: string }>({
 
     await use(`http://localhost:${port}/`);
 
-    await new Promise<void>((resolve) => server.close(() => resolve()));
+    await new Promise<void>((resolve) => {
+      server.close(() => resolve());
+      // The browser can still hold an idle keep-alive socket at teardown (fixtureUrl and
+      // context are independent fixtures, so this may run before the browser closes), and
+      // server.close() alone waits on it until the test times out.
+      server.closeAllConnections();
+    });
   },
 });
 

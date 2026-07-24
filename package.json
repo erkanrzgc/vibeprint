@@ -22,7 +22,7 @@
     "eval:coverage": "vite-node tools/eval/coverage.ts",
     "postinstall": "wxt prepare",
     "store:shots": "npm run build:e2e && node tools/store/screenshots.mjs",
-    "store:zip": "wxt zip"
+    "store:zip": "npm run zip"
   },
   "dependencies": {
     "react": "^19.2.4",

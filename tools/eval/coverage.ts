@@ -8,40 +8,10 @@
  *
  * Run with: npm run eval:coverage
  */
-import { readdirSync, readFileSync } from 'node:fs';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-import { runAllRules } from '../../src/detection/rules';
-import type { PageSnapshot } from '../../src/detection/types';
+import { ALL_RULE_IDS, runAllRules } from '../../src/detection/rules';
+import { loadCorpus } from '../../test/helpers/loadCorpus';
 
-const CORPUS_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../test/fixtures/corpus');
-
-interface CorpusRecord {
-  label: 'ai-built' | 'hand-built';
-  builder: string | null;
-  snapshot: PageSnapshot;
-}
-
-/** Every rule id the detector can emit. Keep in sync with src/detection/rules/*. */
-const ALL_RULE_IDS = [
-  'lovable-script',
-  'lovable-runtime-script',
-  'lovable-uploads-path',
-  'replit-banner-script',
-  'generator-meta',
-  'builder-markup',
-  'builder-badge-link',
-  'shadcn-radix-dataset',
-  'default-boilerplate',
-  'platform-hosting-subdomain',
-  'default-only-font',
-  'buzzword-density',
-  'stock-avatar-images',
-] as const;
-
-const corpus: CorpusRecord[] = readdirSync(CORPUS_DIR)
-  .filter((f) => f.endsWith('.json'))
-  .map((f) => JSON.parse(readFileSync(path.join(CORPUS_DIR, f), 'utf-8')) as CorpusRecord);
+const corpus = loadCorpus();
 
 const fireCount = new Map<string, number>();
 for (const record of corpus) {

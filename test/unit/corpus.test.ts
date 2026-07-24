@@ -1,26 +1,9 @@
-import { readdirSync, readFileSync } from 'node:fs';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
 import { runAllRules } from '../../src/detection/rules';
 import { scoreResults } from '../../src/detection/score';
-import type { PageSnapshot } from '../../src/detection/types';
+import { loadCorpus } from '../helpers/loadCorpus';
 
-const CORPUS_DIR = path.resolve(
-  path.dirname(fileURLToPath(import.meta.url)),
-  '../fixtures/corpus',
-);
-
-interface CorpusRecord {
-  url: string;
-  label: 'ai-built' | 'hand-built';
-  builder: string | null;
-  snapshot: PageSnapshot;
-}
-
-const corpus: CorpusRecord[] = readdirSync(CORPUS_DIR)
-  .filter((f) => f.endsWith('.json'))
-  .map((f) => JSON.parse(readFileSync(path.join(CORPUS_DIR, f), 'utf-8')) as CorpusRecord);
+const corpus = loadCorpus();
 
 const predictions = corpus.map((record) => ({
   ...record,

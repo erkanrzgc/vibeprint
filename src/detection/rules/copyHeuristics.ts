@@ -1,6 +1,10 @@
 import type { PageSnapshot, RuleResult } from '../types';
 
-const WEAK_WEIGHT = 10;
+/** Every rule id this module can emit — aggregated into ALL_RULE_IDS in rules/index.ts. */
+export const COPY_HEURISTIC_RULE_IDS = ['buzzword-density', 'stock-avatar-images'] as const;
+
+type CopyHeuristicRuleId = (typeof COPY_HEURISTIC_RULE_IDS)[number];
+
 const MIN_BUZZWORD_HITS = 2;
 
 const BUZZWORD_PHRASES = [
@@ -35,10 +39,9 @@ export function detectCopyHeuristics(snapshot: PageSnapshot): RuleResult[] {
   const matchedPhrases = BUZZWORD_PHRASES.filter((phrase) => text.includes(phrase));
   if (matchedPhrases.length >= MIN_BUZZWORD_HITS) {
     results.push({
-      id: 'buzzword-density',
+      id: 'buzzword-density' satisfies CopyHeuristicRuleId,
       tier: 'weak',
       label: 'Dense generic marketing buzzwords',
-      weight: WEAK_WEIGHT,
       evidence: matchedPhrases.join(', '),
     });
   }
@@ -48,10 +51,9 @@ export function detectCopyHeuristics(snapshot: PageSnapshot): RuleResult[] {
   );
   if (stockAvatar) {
     results.push({
-      id: 'stock-avatar-images',
+      id: 'stock-avatar-images' satisfies CopyHeuristicRuleId,
       tier: 'weak',
       label: 'Testimonial images from a stock/placeholder avatar service',
-      weight: WEAK_WEIGHT,
       evidence: stockAvatar,
     });
   }

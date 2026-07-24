@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { isPageSnapshotMessage } from '../../src/messaging';
 import { isScannableUrl } from '../../src/scannable';
 import { selectScanTargetTab } from '../../src/scanTarget';
@@ -8,36 +8,34 @@ import { BreakdownList } from './BreakdownList';
 
 const SCAN_TIMEOUT_MS = 4000;
 
+type SnapshotListener = (message: unknown, sender: Browser.runtime.MessageSender) => void;
+
 export function Popup() {
   const [state, setState] = useState(() => reducePopupState(undefined, { type: 'SCAN_STARTED' }));
+  const timeoutRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
+  const listenerRef = useRef<SnapshotListener | undefined>(undefined);
 
   useEffect(() => {
     let cancelled = false;
-    let timeoutId: ReturnType<typeof setTimeout> | undefined;
     let activeTabId: number | undefined;
 
     // reducePopupState ignores every event once the state has already settled
     // (unscannable/error/result), so out-of-order async resolutions (e.g. a slow
     // executeScript rejection arriving after the scan already timed out) can't overwrite a
-    // more accurate terminal state. Once settled, also stop the timeout/listener from doing
-    // any further pointless work.
+    // more accurate terminal state. The updater stays pure — StrictMode double-invokes
+    // updaters, so tearing down the timeout/listener happens in the settle effect below,
+    // never in here.
     function dispatch(event: PopupEvent): void {
       if (cancelled) return;
-      setState((prev) => {
-        const next = reducePopupState(prev, event);
-        if (next !== prev && next.phase !== 'loading') {
-          clearTimeout(timeoutId);
-          browser.runtime.onMessage.removeListener(onMessage);
-        }
-        return next;
-      });
+      setState((prev) => reducePopupState(prev, event));
     }
 
-    const onMessage = (message: unknown, sender: Browser.runtime.MessageSender): void => {
+    const onMessage: SnapshotListener = (message, sender) => {
       if (!isPageSnapshotMessage(message)) return;
       if (sender.tab?.id === undefined || sender.tab.id !== activeTabId) return;
       dispatch({ type: 'SNAPSHOT_RECEIVED', snapshot: message.snapshot });
     };
+    listenerRef.current = onMessage;
 
     async function startScan(): Promise<void> {
       let tabs: Browser.tabs.Tab[];
@@ -57,7 +55,7 @@ export function Popup() {
       activeTabId = tab.id;
 
       browser.runtime.onMessage.addListener(onMessage);
-      timeoutId = setTimeout(() => dispatch({ type: 'TIMED_OUT' }), SCAN_TIMEOUT_MS);
+      timeoutRef.current = setTimeout(() => dispatch({ type: 'TIMED_OUT' }), SCAN_TIMEOUT_MS);
 
       try {
         await browser.scripting.executeScript({ target: { tabId: tab.id }, files: ['/collect.js'] });
@@ -70,10 +68,19 @@ export function Popup() {
 
     return () => {
       cancelled = true;
-      clearTimeout(timeoutId);
+      clearTimeout(timeoutRef.current);
       browser.runtime.onMessage.removeListener(onMessage);
     };
   }, []);
+
+  // Once the scan settles, stop the timeout and listener from doing further pointless work.
+  // Correctness never depends on this cleanup — the reducer already ignores late events —
+  // which is what lets it live here as an effect instead of inside the setState updater.
+  useEffect(() => {
+    if (state.phase === 'loading') return;
+    clearTimeout(timeoutRef.current);
+    if (listenerRef.current) browser.runtime.onMessage.removeListener(listenerRef.current);
+  }, [state.phase]);
 
   return (
     <main className="popup">

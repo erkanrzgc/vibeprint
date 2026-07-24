@@ -1,6 +1,9 @@
 import type { PageSnapshot, RuleResult } from '../types';
 
-const MEDIUM_WEIGHT = 25;
+/** Every rule id this module can emit — aggregated into ALL_RULE_IDS in rules/index.ts. */
+export const CODE_PATTERN_RULE_IDS = ['shadcn-radix-dataset', 'default-boilerplate'] as const;
+
+type CodePatternRuleId = (typeof CODE_PATTERN_RULE_IDS)[number];
 
 const RADIX_PRIMITIVE_KEYS = ['state', 'orientation', 'side', 'align', 'disabled'];
 
@@ -22,10 +25,9 @@ export function detectCodePatterns(snapshot: PageSnapshot): RuleResult[] {
   );
   if (hasShadcnSlot && radixPrimitiveKey) {
     results.push({
-      id: 'shadcn-radix-dataset',
+      id: 'shadcn-radix-dataset' satisfies CodePatternRuleId,
       tier: 'medium',
       label: 'shadcn/ui + Radix UI component markers',
-      weight: MEDIUM_WEIGHT,
       evidence: `data-slot with data-${radixPrimitiveKey}`,
     });
   }
@@ -36,10 +38,9 @@ export function detectCodePatterns(snapshot: PageSnapshot): RuleResult[] {
   if (faviconIsDefault || titleIsDefault) {
     const evidence = faviconIsDefault ? snapshot.faviconHref! : snapshot.title;
     results.push({
-      id: 'default-boilerplate',
+      id: 'default-boilerplate' satisfies CodePatternRuleId,
       tier: 'medium',
       label: 'Un-customized scaffold favicon or title',
-      weight: MEDIUM_WEIGHT,
       evidence,
     });
   }

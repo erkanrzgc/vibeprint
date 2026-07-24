@@ -3,7 +3,7 @@ import { identifyBuilder } from '../../src/detection/identifyBuilder';
 import type { RuleResult } from '../../src/detection/types';
 
 function rule(id: string, builder?: string, tier: RuleResult['tier'] = 'strong'): RuleResult {
-  return { id, tier, label: id, weight: 65, evidence: id, builder };
+  return { id, tier, label: id, evidence: id, builder };
 }
 
 describe('identifyBuilder', () => {
