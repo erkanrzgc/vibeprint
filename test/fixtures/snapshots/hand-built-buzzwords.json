@@ -3,9 +3,7 @@
   "title": "GrowthStack — Revolutionize Your Workflow",
   "generatorMeta": null,
   "faviconHref": "/favicon.ico",
-  "scriptSrcs": [
-    "/static/js/main.a1b2c3.js"
-  ],
+  "scriptSrcs": ["/static/js/main.a1b2c3.js"],
   "htmlDatasetKeys": [],
   "bodyDatasetKeys": [],
   "componentDatasetKeys": [],

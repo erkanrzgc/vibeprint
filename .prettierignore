@@ -1,0 +1,8 @@
+# Build output and generated files
+.output/
+.wxt/
+test-results/
+package-lock.json
+
+# Captured from live sites by tools/capture — generated data, not authored code
+test/fixtures/corpus/

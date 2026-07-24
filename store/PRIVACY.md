@@ -41,10 +41,10 @@ links are never read at all.
 
 ## Permissions and why
 
-| Permission | Why it is needed |
-|---|---|
+| Permission  | Why it is needed                                                                                                                          |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | `activeTab` | Grants temporary access to the page you are on, and **only** at the moment you click the icon. The access expires when you navigate away. |
-| `scripting` | Lets the extension run its reader script on that page to collect the signals above. |
+| `scripting` | Lets the extension run its reader script on that page to collect the signals above.                                                       |
 
 The extension deliberately requests **no host permissions**, so it has no standing access to
 any website. It cannot run on a page you have not explicitly asked it to scan.

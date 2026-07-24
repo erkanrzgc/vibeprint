@@ -3,9 +3,7 @@
   "title": "Recipe Finder",
   "generatorMeta": null,
   "faviconHref": "/favicon.png",
-  "scriptSrcs": [
-    "/static/bundle.js"
-  ],
+  "scriptSrcs": ["/static/bundle.js"],
   "htmlDatasetKeys": [],
   "bodyDatasetKeys": [],
   "componentDatasetKeys": [],
@@ -16,9 +14,7 @@
       "text": "Made in Replit"
     }
   ],
-  "imageSrcs": [
-    "/static/hero.png"
-  ],
+  "imageSrcs": ["/static/hero.png"],
   "fontFamilySample": "system-ui, sans-serif",
   "bodyTextSample": "Find recipes based on ingredients you already have at home."
 }

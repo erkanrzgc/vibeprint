@@ -30,11 +30,11 @@ Injection is isolated-world only; the page's own JS context is never touched.
 
 ### Signal tiers
 
-| Tier | Examples | Weight |
-|---|---|---|
-| **Strong** | Lovable's `/~flock.js` runtime & `cdn.gpteng.co` loader, `/lovable-uploads/` asset paths, Replit's banner script, `generator` meta naming a builder, Framer/Webflow markup attributes, genuine "Made with X" badge links | 65 |
-| **Medium** | shadcn `data-slot` + Radix primitives together, un-customized scaffold title/favicon | 25 |
-| **Weak** | builder-subdomain hosting, builder-default-only fonts, buzzword density, stock avatar services | 10 |
+| Tier       | Examples                                                                                                                                                                                                                 | Weight |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| **Strong** | Lovable's `/~flock.js` runtime & `cdn.gpteng.co` loader, `/lovable-uploads/` asset paths, Replit's banner script, `generator` meta naming a builder, Framer/Webflow markup attributes, genuine "Made with X" badge links | 65     |
+| **Medium** | shadcn `data-slot` + Radix primitives together, un-customized scaffold title/favicon                                                                                                                                     | 25     |
+| **Weak**   | builder-subdomain hosting, builder-default-only fonts, buzzword density, stock avatar services                                                                                                                           | 10     |
 
 A `Likely AI-built` verdict requires **both** a high score **and** at least one strong-tier
 signal. Weak and medium signals alone can never reach it — a hand-built SaaS page with a purple
@@ -86,6 +86,7 @@ builder-owned domains were simply missing from the list), and that Lovable's ori
 fingerprint rot, caught by measurement rather than by a user reporting a miss.
 
 **Known limits, stated honestly:**
+
 - **v0 is effectively undetectable, by design.** Lovable, Bolt, Framer and Base44 all host
   what they generate, so they leave a runtime script, markup attribute or asset path behind.
   v0 hands you code that you deploy yourself — there is no v0 infrastructure left in the
@@ -100,11 +101,11 @@ fingerprint rot, caught by measurement rather than by a user reporting a miss.
   already paid for once.
 - Fingerprints are what a site owner strips first. A polished AI-built site on a custom domain
   with the badge removed and no platform runtime can be genuinely undetectable — `Not enough
-  signal` is an expected, correct answer, not a failure.
+signal` is an expected, correct answer, not a failure.
 - `hand-built` ground-truth labels are inferred (site predates the builders, long public git
   history), so eval numbers are directional, not certified.
 - Builder internals change. Fingerprints will rot silently; re-run `npm run capture && npm run
-  eval` periodically to catch it.
+eval` periodically to catch it.
 
 ## Publishing
 

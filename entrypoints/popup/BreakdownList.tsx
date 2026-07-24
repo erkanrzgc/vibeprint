@@ -16,8 +16,8 @@ export function BreakdownList({ results }: BreakdownListProps) {
   if (results.length === 0) {
     return (
       <p className="breakdown-empty">
-        Nothing matched. That is a real answer, not a failure — a site can be AI-built and leave
-        no trace.
+        Nothing matched. That is a real answer, not a failure — a site can be AI-built and leave no
+        trace.
       </p>
     );
   }

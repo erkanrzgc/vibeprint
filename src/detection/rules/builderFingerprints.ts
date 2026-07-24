@@ -109,14 +109,18 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
     (src) => pathnameOf(src, base) === LOVABLE_RUNTIME_PATH,
   );
   if (lovableRuntime) {
-    results.push(strong('lovable-runtime-script', 'Lovable hosted runtime script', lovableRuntime, 'Lovable'));
+    results.push(
+      strong('lovable-runtime-script', 'Lovable hosted runtime script', lovableRuntime, 'Lovable'),
+    );
   }
 
   const replitBanner = snapshot.scriptSrcs.find(
     (src) => pathnameOf(src, base) === REPLIT_BANNER_PATH,
   );
   if (replitBanner) {
-    results.push(strong('replit-banner-script', 'Replit dev banner script', replitBanner, 'Replit'));
+    results.push(
+      strong('replit-banner-script', 'Replit dev banner script', replitBanner, 'Replit'),
+    );
   }
 
   const boltBadge = snapshot.scriptSrcs.find((src) => {
@@ -138,7 +142,9 @@ export function detectBuilderFingerprints(snapshot: PageSnapshot): RuleResult[] 
 
   const lovableUpload = snapshot.imageSrcs.find((src) => src.includes('/lovable-uploads/'));
   if (lovableUpload) {
-    results.push(strong('lovable-uploads-path', 'Lovable asset upload path', lovableUpload, 'Lovable'));
+    results.push(
+      strong('lovable-uploads-path', 'Lovable asset upload path', lovableUpload, 'Lovable'),
+    );
   }
 
   if (snapshot.generatorMeta && BUILDER_GENERATOR_PATTERN.test(snapshot.generatorMeta)) {

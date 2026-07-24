@@ -104,7 +104,9 @@ async function main() {
   await context.close();
   await browser.close();
 
-  console.log(`\ncaptured ${succeeded.length}/${targets.length} -> ${path.relative(REPO_ROOT, OUT_DIR)}`);
+  console.log(
+    `\ncaptured ${succeeded.length}/${targets.length} -> ${path.relative(REPO_ROOT, OUT_DIR)}`,
+  );
   if (failed.length > 0) {
     console.log(`failed: ${failed.map((f) => f.slug).join(', ')}`);
   }

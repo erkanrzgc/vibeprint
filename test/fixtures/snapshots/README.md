@@ -9,6 +9,6 @@ hand**, not captured. They exist to unit-test individual rules against a control
 useful for edge cases like malformed URLs or a single isolated signal.
 
 Their limitation is the reason the real corpus exists: a hand-written fixture only proves a
-rule matches the markup its author *imagined*. The original Framer fixture, for example,
+rule matches the markup its author _imagined_. The original Framer fixture, for example,
 placed `data-framer-*` keys on `<html>`/`<body>` — real Framer sites leave those bare and put
 the attributes on descendants, so the rule passed its tests while never firing on a real page.

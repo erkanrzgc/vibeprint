@@ -16,7 +16,10 @@ describe('identifyBuilder', () => {
   });
 
   it('names the builder when strong rules agree', () => {
-    const results = [rule('lovable-runtime-script', 'Lovable'), rule('builder-badge-link', 'Lovable')];
+    const results = [
+      rule('lovable-runtime-script', 'Lovable'),
+      rule('builder-badge-link', 'Lovable'),
+    ];
 
     expect(identifyBuilder(results)).toBe('Lovable');
   });

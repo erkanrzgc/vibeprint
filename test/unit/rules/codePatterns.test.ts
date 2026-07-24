@@ -23,7 +23,7 @@ describe('detectCodePatterns', () => {
     );
   });
 
-  it('does not fire on a single generic Radix-adjacent key without shadcn\'s data-slot', () => {
+  it("does not fire on a single generic Radix-adjacent key without shadcn's data-slot", () => {
     const snapshot = makeSnapshot({ componentDatasetKeys: ['state'] });
 
     expect(detectCodePatterns(snapshot)).toEqual([]);

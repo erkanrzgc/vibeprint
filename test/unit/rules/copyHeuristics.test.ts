@@ -9,7 +9,9 @@ describe('detectCopyHeuristics', () => {
   it('flags dense marketing buzzwords and stock avatar images', () => {
     const results = detectCopyHeuristics(handBuiltBuzzwords as PageSnapshot);
 
-    expect(results).toContainEqual(expect.objectContaining({ id: 'buzzword-density', tier: 'weak' }));
+    expect(results).toContainEqual(
+      expect.objectContaining({ id: 'buzzword-density', tier: 'weak' }),
+    );
     expect(results).toContainEqual(
       expect.objectContaining({ id: 'stock-avatar-images', tier: 'weak' }),
     );

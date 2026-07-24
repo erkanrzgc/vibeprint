@@ -53,10 +53,7 @@ export interface RuleResult {
 }
 
 export type VerdictBucket =
-  | 'likely-ai-built'
-  | 'possibly-ai-assisted'
-  | 'likely-hand-crafted'
-  | 'not-enough-signal';
+  'likely-ai-built' | 'possibly-ai-assisted' | 'likely-hand-crafted' | 'not-enough-signal';
 
 export interface Verdict {
   bucket: VerdictBucket;

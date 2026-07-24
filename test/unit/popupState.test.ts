@@ -51,10 +51,7 @@ describe('reducePopupState', () => {
   });
 
   it('ignores a late event after a result has already been rendered', () => {
-    const result = reducePopupState(
-      { phase: 'loading' },
-      { type: 'SNAPSHOT_RECEIVED', snapshot },
-    );
+    const result = reducePopupState({ phase: 'loading' }, { type: 'SNAPSHOT_RECEIVED', snapshot });
 
     expect(reducePopupState(result, { type: 'TIMED_OUT' })).toBe(result);
   });

@@ -24,7 +24,9 @@ async function main(): Promise<void> {
   let tn = 0;
   const rows: string[] = [];
 
-  const sorted = [...corpus].sort((a, b) => a.label.localeCompare(b.label) || a.url.localeCompare(b.url));
+  const sorted = [...corpus].sort(
+    (a, b) => a.label.localeCompare(b.label) || a.url.localeCompare(b.url),
+  );
 
   for (const record of sorted) {
     const verdict = scoreResults(runAllRules(record.snapshot));
@@ -36,7 +38,7 @@ async function main(): Promise<void> {
     else if (actualAi && !predictedAi) fn++;
     else tn++;
 
-    const outcome = actualAi === predictedAi ? '   ' : (actualAi ? 'MISS' : 'FALSE+');
+    const outcome = actualAi === predictedAi ? '   ' : actualAi ? 'MISS' : 'FALSE+';
     const firedIds = verdict.results.map((r) => r.id).join(',') || '-';
     rows.push(
       `${pad(outcome, 7)}${pad(record.label, 11)}${pad(record.difficulty ?? '-', 6)}` +
@@ -45,8 +47,7 @@ async function main(): Promise<void> {
     );
   }
 
-  const header =
-    `${pad('', 7)}${pad('label', 11)}${pad('diff', 6)}${pad('host', 32)}${pad('verdict', 22)}${'score'.padStart(5)}  rules fired`;
+  const header = `${pad('', 7)}${pad('label', 11)}${pad('diff', 6)}${pad('host', 32)}${pad('verdict', 22)}${'score'.padStart(5)}  rules fired`;
   console.log(header);
   console.log('-'.repeat(header.length + 20));
   rows.forEach((r) => console.log(r));

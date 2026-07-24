@@ -23,8 +23,6 @@ export default defineConfig({
     // returns the fixture tab with its `url` stripped. `<all_urls>` rather than localhost so
     // the store-screenshot tool can also render pages under realistic hostnames.
     // test/unit/manifest.test.ts asserts none of this reaches a production build.
-    ...(env.mode === 'e2e'
-      ? { key: DEV_KEY, host_permissions: ['<all_urls>'] }
-      : {}),
+    ...(env.mode === 'e2e' ? { key: DEV_KEY, host_permissions: ['<all_urls>'] } : {}),
   }),
 });

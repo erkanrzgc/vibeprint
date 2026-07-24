@@ -11,7 +11,7 @@
  */
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir } from 'node:fs/promises';
 import { chromium } from 'playwright';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -96,10 +96,7 @@ async function main() {
 
   const context = await chromium.launchPersistentContext('', {
     channel: 'chromium',
-    args: [
-      `--disable-extensions-except=${EXTENSION_PATH}`,
-      `--load-extension=${EXTENSION_PATH}`,
-    ],
+    args: [`--disable-extensions-except=${EXTENSION_PATH}`, `--load-extension=${EXTENSION_PATH}`],
   });
 
   for (const scene of SCENES) {

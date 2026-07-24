@@ -3,19 +3,13 @@
   "title": "Oakridge Joinery — Bespoke Cabinetry, Est. 1987",
   "generatorMeta": null,
   "faviconHref": "/favicon.ico",
-  "scriptSrcs": [
-    "/js/main.min.js",
-    "/js/gallery.min.js"
-  ],
+  "scriptSrcs": ["/js/main.min.js", "/js/gallery.min.js"],
   "htmlDatasetKeys": [],
   "bodyDatasetKeys": [],
   "componentDatasetKeys": [],
   "builderMarkupHints": [],
   "badgeLinks": [],
-  "imageSrcs": [
-    "/img/workshop-photo-1998.jpg",
-    "/img/team-dave-and-sons.jpg"
-  ],
+  "imageSrcs": ["/img/workshop-photo-1998.jpg", "/img/team-dave-and-sons.jpg"],
   "fontFamilySample": "Garamond, serif",
   "bodyTextSample": "Three generations of joiners serving the valley since 1987. Ring the workshop on 01865 000 000 for a quote."
 }

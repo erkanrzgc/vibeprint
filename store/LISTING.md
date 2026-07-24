@@ -85,6 +85,7 @@ matching signals.
 ## Permission justifications
 
 **activeTab**
+
 ```
 Required to read the DOM of the page the user is currently viewing so it can be checked
 against known AI-builder fingerprints. Access is granted only at the moment the user clicks
@@ -94,6 +95,7 @@ has no standing access to any site.
 ```
 
 **scripting**
+
 ```
 Required to inject the collector script into the active tab via chrome.scripting.executeScript
 when the user clicks the icon. The script reads page metadata (title, meta tags, script and
@@ -107,6 +109,7 @@ automatically.
 Tick **nothing**. The extension collects no user data in any category.
 
 Certifications:
+
 - ☑ I do not sell or transfer user data to third parties, outside of approved use cases
 - ☑ I do not use or transfer user data for purposes unrelated to my item's single purpose
 - ☑ I do not use or transfer user data to determine creditworthiness or for lending purposes

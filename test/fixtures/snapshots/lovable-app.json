@@ -3,16 +3,10 @@
   "title": "PetCare Tracker",
   "generatorMeta": null,
   "faviconHref": "/favicon.ico",
-  "scriptSrcs": [
-    "https://cdn.gpteng.co/gptengineer.js",
-    "/assets/index-a1b2c3.js"
-  ],
+  "scriptSrcs": ["https://cdn.gpteng.co/gptengineer.js", "/assets/index-a1b2c3.js"],
   "htmlDatasetKeys": [],
   "bodyDatasetKeys": [],
-  "componentDatasetKeys": [
-    "slot",
-    "state"
-  ],
+  "componentDatasetKeys": ["slot", "state"],
   "builderMarkupHints": [],
   "badgeLinks": [
     {

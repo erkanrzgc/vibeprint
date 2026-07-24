@@ -10,9 +10,13 @@ const predictions = corpus.map((record) => ({
   bucket: scoreResults(runAllRules(record.snapshot)).bucket,
 }));
 
-const tp = predictions.filter((p) => p.label === 'ai-built' && p.bucket === 'likely-ai-built').length;
+const tp = predictions.filter(
+  (p) => p.label === 'ai-built' && p.bucket === 'likely-ai-built',
+).length;
 const fp = predictions.filter((p) => p.label === 'hand-built' && p.bucket === 'likely-ai-built');
-const fn = predictions.filter((p) => p.label === 'ai-built' && p.bucket !== 'likely-ai-built').length;
+const fn = predictions.filter(
+  (p) => p.label === 'ai-built' && p.bucket !== 'likely-ai-built',
+).length;
 
 /**
  * Regression guard over snapshots captured from REAL sites (see tools/capture). Unlike the

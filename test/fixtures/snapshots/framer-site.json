@@ -3,21 +3,11 @@
   "title": "Studio Nine — Interior Design",
   "generatorMeta": "Framer",
   "faviconHref": "https://framerusercontent.com/images/favicon.png",
-  "scriptSrcs": [
-    "https://events.framer.com/script",
-    "/chunks/framer-runtime.js"
-  ],
-  "htmlDatasetKeys": [
-    "framerHydrateV2",
-    "framerAppearId"
-  ],
-  "bodyDatasetKeys": [
-    "framerRootWidth"
-  ],
+  "scriptSrcs": ["https://events.framer.com/script", "/chunks/framer-runtime.js"],
+  "htmlDatasetKeys": ["framerHydrateV2", "framerAppearId"],
+  "bodyDatasetKeys": ["framerRootWidth"],
   "componentDatasetKeys": [],
-  "builderMarkupHints": [
-    "framer"
-  ],
+  "builderMarkupHints": ["framer"],
   "badgeLinks": [
     {
       "href": "https://www.framer.com",

@@ -14,14 +14,10 @@ const FIXTURE_PAGE_PATH = path.resolve(__dirname, '../fixtures/pages/lovable-exa
 const EXTENSION_ID = 'dnlbkgiimhnnechipakfobidildedmoe';
 
 const test = base.extend<{ context: BrowserContext; fixtureUrl: string }>({
-  // eslint-disable-next-line no-empty-pattern
   context: async ({}, use) => {
     const context = await chromium.launchPersistentContext('', {
       channel: 'chromium',
-      args: [
-        `--disable-extensions-except=${EXTENSION_PATH}`,
-        `--load-extension=${EXTENSION_PATH}`,
-      ],
+      args: [`--disable-extensions-except=${EXTENSION_PATH}`, `--load-extension=${EXTENSION_PATH}`],
     });
     await use(context);
     await context.close();

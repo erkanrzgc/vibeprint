@@ -18,7 +18,9 @@ describe('detectHostingSignals', () => {
   it('flags a Geist-only font sample as a weak signal', () => {
     const results = detectHostingSignals(v0VercelApp as PageSnapshot);
 
-    expect(results).toContainEqual(expect.objectContaining({ id: 'default-only-font', tier: 'weak' }));
+    expect(results).toContainEqual(
+      expect.objectContaining({ id: 'default-only-font', tier: 'weak' }),
+    );
   });
 
   it('returns no results for a custom domain with a custom font', () => {

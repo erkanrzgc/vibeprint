@@ -12,6 +12,9 @@
     "zip": "wxt zip",
     "zip:firefox": "wxt zip -b firefox",
     "compile": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
@@ -24,18 +27,29 @@
     "store:shots": "npm run build:e2e && node tools/store/screenshots.mjs",
     "store:zip": "npm run zip"
   },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true
+  },
   "dependencies": {
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.61.1",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitest/coverage-v8": "^4.1.10",
     "@wxt-dev/module-react": "^1.1.5",
+    "eslint": "^10.7.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^17.7.0",
     "jsdom": "^29.1.1",
+    "prettier": "^3.9.6",
     "typescript": "^5.9.3",
+    "typescript-eslint": "^8.65.0",
     "vitest": "^4.1.10",
     "wxt": "^0.20.27"
   }

@@ -14,9 +14,11 @@ npm run eval             # print precision/recall + per-site verdicts
 ```
 
 `test/unit/corpus.test.ts` asserts thresholds over this corpus (zero false accusations,
->=80% recall). Those are the tests that actually tell you the detector works.
+
+> =80% recall). Those are the tests that actually tell you the detector works.
 
 ### Ground-truth labels
+
 - `ai-built` — hosted on a builder-owned subdomain (self-labeling: you cannot be on
   `*.lovable.app` without Lovable having built it), or listed in a builder's own public
   showcase, or self-declared via a `generator` meta tag.
@@ -42,7 +44,7 @@ Building the corpus immediately exposed bugs that 62 green unit tests had hidden
 2. **`generator` meta was collected but never read** — despite being the single most explicit
    signal available (`<meta name="generator" content="Framer 92482b8">`).
 3. **False accusation on `ui.shadcn.com`** — its "Open in v0" button was read as a builder
-   badge. Linking *to* a builder is the opposite of being built *by* one; badge matching now
+   badge. Linking _to_ a builder is the opposite of being built _by_ one; badge matching now
    requires provenance-claiming link text.
 4. **`/~flock.js` discovered** — Lovable's hosted runtime, served from the site's own origin,
    so it survives custom-domain deploys that strip every other fingerprint. Present on 8/11

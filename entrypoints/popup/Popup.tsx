@@ -58,7 +58,10 @@ export function Popup() {
       timeoutRef.current = setTimeout(() => dispatch({ type: 'TIMED_OUT' }), SCAN_TIMEOUT_MS);
 
       try {
-        await browser.scripting.executeScript({ target: { tabId: tab.id }, files: ['/collect.js'] });
+        await browser.scripting.executeScript({
+          target: { tabId: tab.id },
+          files: ['/collect.js'],
+        });
       } catch {
         dispatch({ type: 'EXECUTE_SCRIPT_FAILED' });
       }
@@ -111,8 +114,8 @@ export function Popup() {
           <ResultView verdict={state.verdict} />
           <BreakdownList results={state.verdict.results} />
           <p className="popup__foot">
-            Heuristic estimate from page fingerprints — not proof. Runs locally; nothing leaves
-            your browser.
+            Heuristic estimate from page fingerprints — not proof. Runs locally; nothing leaves your
+            browser.
           </p>
         </>
       )}

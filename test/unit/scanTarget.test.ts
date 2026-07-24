@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { selectScanTargetTab } from '../../src/scanTarget';
 
 describe('selectScanTargetTab', () => {
-  it('picks the active tab when it is not the extension\'s own popup', () => {
+  it("picks the active tab when it is not the extension's own popup", () => {
     const tabs = [
       { id: 1, url: 'https://example.com', active: false },
       { id: 2, url: 'https://other.com', active: true },
@@ -11,7 +11,7 @@ describe('selectScanTargetTab', () => {
     expect(selectScanTargetTab(tabs, 'chrome-extension://abc/popup.html')).toEqual(tabs[1]);
   });
 
-  it('excludes the extension\'s own popup url even if it is marked active', () => {
+  it("excludes the extension's own popup url even if it is marked active", () => {
     // This is the case that matters when a popup is opened as a real tab (as Playwright's
     // e2e test must do, since it can't simulate a true floating action-popup) — the popup
     // tab itself would otherwise be mistaken for "the page to scan".

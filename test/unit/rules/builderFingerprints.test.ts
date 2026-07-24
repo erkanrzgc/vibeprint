@@ -143,7 +143,9 @@ describe('detectBuilderFingerprints', () => {
     it('does not treat an "Open in v0" action button as a builder badge', () => {
       const snapshot = makeSnapshot({
         hostname: 'ui.shadcn.com',
-        badgeLinks: [{ href: 'https://v0.dev/chat/api/open?url=https://ui.shadcn.com', text: 'Open in' }],
+        badgeLinks: [
+          { href: 'https://v0.dev/chat/api/open?url=https://ui.shadcn.com', text: 'Open in' },
+        ],
       });
 
       expect(firedIds(snapshot)).not.toContain('builder-badge-link');
